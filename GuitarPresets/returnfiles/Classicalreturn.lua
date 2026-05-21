@@ -1,0 +1,17 @@
+return {
+    "Bella Ciao",
+    "Canon In D",
+    "Canon in D",
+    "Chanson du feu follet - Manuel de Falla",
+    "Fly Me to the Moon for Solo Guitar",
+    "Hall of the Mountain King",
+    "Kiss the Rain - Yiruma Kiss the Rain",
+    "Love Story",
+    "Love theme (Nuovo Cinema Paradiso)",
+    "Mozart - Rondo Alla Turca",
+    "My way - Frank Sinatra",
+    "River Flows In You - Yiruma (Guitar)",
+    "Romance D'Amour",
+    "The Entertainer for solo guitar",
+    "The Sound Of Silence - Simon & Garfunkel",
+}
