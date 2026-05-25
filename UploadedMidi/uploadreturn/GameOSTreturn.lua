@@ -5,4 +5,5 @@ return {
 	"Descend [PianoSolo]",
 	"MeGaLoVania Piano",
 	"Oppa Toby Style - Homestuck S Collide OST 2 For Piano RWE",
+	"Rex Duodecim Angelus Homestuck 1776449720878",
 }
