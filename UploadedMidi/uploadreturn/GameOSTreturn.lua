@@ -7,4 +7,5 @@ return {
 	"Oppa Toby Style - Homestuck S Collide OST 2 For Piano RWE",
 	"Penumbra Phantasm LWP",
 	"Rex Duodecim Angelus Homestuck 1776449720878",
+	"Saviour Of The Waking World Piano",
 }
