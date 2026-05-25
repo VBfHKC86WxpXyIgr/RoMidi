@@ -3,4 +3,5 @@ return {
 	"Cascade2",
 	"Casey Edwards - Devil Trigger",
 	"Descend [PianoSolo]",
+	"MeGaLoVania Piano",
 }
