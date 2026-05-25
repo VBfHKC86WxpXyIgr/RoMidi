@@ -3,5 +3,6 @@ return {
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
+	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
 }
