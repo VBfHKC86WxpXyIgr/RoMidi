@@ -5,4 +5,5 @@ return {
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
+	"System Of A Down - Toxicity [MIDIfind.Com]",
 }
