@@ -72,6 +72,7 @@ return {
 	"FreakOnALeash",
 	"Gentley",
 	"GoodGod",
+	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Guns N' Roses - Sweet Child O' Mine [MIDIfind.com]",
 	"HereToStay",
 	"I Won't See You Tonight - Avenged Sevenfold",
