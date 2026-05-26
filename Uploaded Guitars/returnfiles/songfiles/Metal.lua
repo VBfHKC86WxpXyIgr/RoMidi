@@ -5,5 +5,6 @@ return {
 	"Avenged Sevenfold - Hail To The King Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - Nightmare Solo Per By David Escobar [MIDIfind.Com]",
 	"Avenged Sevenfold - Save Me (2) [MIDIfind.Com]",
+	"Avenged Sevenfold - Seize The Day Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
 }
