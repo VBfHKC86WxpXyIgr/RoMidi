@@ -66,6 +66,7 @@ return {
 	"RickRoll",
 	"Risk It All  Bruno Mars 1776838404638",
 	"River Flows In You",
+	"Self Aware - Temper City (Piano)",
 	"Sinking Town   沈める街 - Yoeko Kurahashi",
 	"Sunsezt yt @moongate 1234",
 	"Tai sinh",
