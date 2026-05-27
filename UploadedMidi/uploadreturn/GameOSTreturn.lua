@@ -3,6 +3,7 @@ return {
 	"Cascade2",
 	"Casey Edwards - Devil Trigger",
 	"Descend [PianoSolo]",
+	"Geometry Dash Stereo Madness Original By Forever Bound",
 	"MeGaLoVania Piano",
 	"Oppa Toby Style - Homestuck S Collide OST 2 For Piano RWE",
 	"Penumbra Phantasm LWP",
