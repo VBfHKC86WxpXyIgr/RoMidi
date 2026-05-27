@@ -78,6 +78,7 @@ return {
 	"Thằng điên normal",
 	"The Living Tombstone - It'S Been So Long (FNaF 2 Song)",
 	"The Stranglers - Golden Brown 2",
+	"Tom Odell - Another Love",
 	"Tony Ann - ICARUS",
 	"Tony Ann - Reminisce 2",
 	"Too Little Too Late  laufey 1776838113996",
