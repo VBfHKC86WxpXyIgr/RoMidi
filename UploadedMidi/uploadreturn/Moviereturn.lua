@@ -2,4 +2,5 @@
 return {
 	"Bohemian Rhapsody - Queen (Piano Solo)",
 	"Charlie Clouser - Saw Final Theme WWW.MIDISFREE.COM",
+	"Cornfield Chase",
 }
