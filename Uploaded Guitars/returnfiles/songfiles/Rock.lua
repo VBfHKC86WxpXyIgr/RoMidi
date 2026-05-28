@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"21 Guns - Green Day (Piano-Vocal-Guitar)",
 	"ACDC - Thunderstruck [MIDIfind.Com]",
 	"Bismarck - Sabaton Piano Arrangement",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
