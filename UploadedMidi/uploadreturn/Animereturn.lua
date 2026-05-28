@@ -8,6 +8,7 @@ return {
 	"bad apple 4.6 million",
 	"Beastars - JUNO is in love -adult-",
 	"Cat Loving HSR",
+	"Chasing Kou - Oboreru Knife (Drowning Love)",
 	"DEAD OR LIE",
 	"Doraemon - No Uta",
 	"Eldoraudio-Hajime no Ippo  Knockout ED 1  Yuuzora no Kamihikouki  - Piano Tutorial MP3 160K ",
