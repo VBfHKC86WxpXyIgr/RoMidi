@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"21 Guns - Green Day (Green Day) 21 Guns",
 	"505",
 	"AllTheSmallThings",
 	"American Football - Never Meant (Remastered 2024) [OFFICIAL AUDIO] drums mixed",
