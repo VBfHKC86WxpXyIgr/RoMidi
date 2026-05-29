@@ -2,6 +2,7 @@
 return {
 	"ABBA - The Winner Takes it All",
 	"Adele - Skyfall",
+	"Afgan-Bukan Cinta Biasa",
 	"Angel-Nidji",
 	"Arabesque-in-E-Nr-1",
 	"Baby - Justin Bieber",
