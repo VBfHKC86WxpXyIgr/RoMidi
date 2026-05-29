@@ -2,6 +2,7 @@
 return {
 	"ABBA - The Winner Takes it All",
 	"Adele - Skyfall",
+	"Angel-Nidji",
 	"Arabesque-in-E-Nr-1",
 	"Baby - Justin Bieber",
 	"Beethoven - Moonlight Sonata (1st Movement) ",
