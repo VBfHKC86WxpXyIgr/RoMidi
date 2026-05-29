@@ -7,5 +7,6 @@ return {
 	"RUSH C ULTRA IMPOSSIBLE",
 	"System Of A Down - Aerials (18) [MIDIfind.Com]",
 	"The Nuker 4",
+	"The Nuker 4 Audio Remake (Original Composition From TN1.5)",
 	"The Nuker 4 Part 1",
 }
