@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"(Play!) The Neighbourhood-Sweater Weather",
+	"[Black MIDI] The Classic Black Medley",
 	"505 best part",
 	"81416 Take-Me-Back-Home",
 	"After The Love Has Gone  David Foster Earth Wind  Fire 1775672109595",
