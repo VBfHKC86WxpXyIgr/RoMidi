@@ -19,6 +19,7 @@ return {
 	"GOZALO - Ariis",
 	"Handel,Halvorsen Passacaglia",
 	"in the pool  C",
+	"Je Te Laisserai Des Mots (1)",
 	"JOPLIN.The entertainer",
 	"liebestraum",
 	"Merry-Go-Round of Life  Animenz",
