@@ -5,5 +5,6 @@ return {
 	"Little Do U Know",
 	"Pixies - Where Is My Mind [MIDIfind.Com]",
 	"System Of A Down - Aerials (18) [MIDIfind.Com]",
+	"The Nuker 4",
 	"The Nuker 4 Part 1",
 }
