@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"[Black MIDI] The Classic Black Medley",
 	"Cascade2",
 	"Casey Edwards - Devil Trigger",
 	"Descend [PianoSolo]",
