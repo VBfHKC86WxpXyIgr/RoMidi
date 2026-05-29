@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	" NieR Automata -- Emil (Despair) ",
+	"[Black MIDI] The Classic Black Medley",
 	"200 AniSong Medley HalcyonMusic",
 	"AIZO HalcyonMusic",
 	"Akuma no Ko (a child of evil) - Attack on Titan The Final Season Part 2 Ending",
