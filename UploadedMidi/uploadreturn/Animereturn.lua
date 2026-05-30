@@ -10,6 +10,7 @@ return {
 	"Beastars - JUNO is in love -adult-",
 	"Cat Loving HSR",
 	"Chasing Kou - Oboreru Knife (Drowning Love)",
+	"Cry Baby - Tokyo Revengers OP Mhxa",
 	"Dan Dan Kokoro Hikareteku (From Dragon Ball GT) Ver 2",
 	"DEAD OR LIE",
 	"Death Note OP1 - THE WORLD Mhxa",
