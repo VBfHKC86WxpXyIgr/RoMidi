@@ -26,6 +26,7 @@ return {
 	"Eldoraudio-Juan Arenosa - Ofelia  Official Music Video  - Juan Arenosa  128k  humanized",
 	"Fukashigi no Carte",
 	"FULL Inferno - Enen No Shouboutai Fire Force OP Mhxa",
+	"FullMetal Alchemist - Again Brotherhood OP1 Mhxa",
 	"Giornos Theme",
 	"GOZALO - Ariis",
 	"HalcyonMusic 10k subs medley",
