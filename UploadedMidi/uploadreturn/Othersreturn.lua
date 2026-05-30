@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"Aerials",
+	"DJ Okawari - Flower Dance Mhxa",
 	"Eldoraudio-Flower Dance - DJ Okawari Very Hard Ver. Piano Arranging By. Lune Music Sheets MP3 320K",
 	"Little Do U Know",
 	"Naruto Shippuden - Naruto Shpippuuden Opening 9 SWR",
