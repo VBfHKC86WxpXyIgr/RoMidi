@@ -11,4 +11,5 @@ return {
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
 	"Metallica - One",
+	"Metallica - Ride The Lightning",
 }
