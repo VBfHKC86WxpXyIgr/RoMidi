@@ -7,6 +7,7 @@ return {
 	"Pixies - Where Is My Mind [MIDIfind.Com]",
 	"RUSH C ULTRA IMPOSSIBLE",
 	"System Of A Down - Aerials (18) [MIDIfind.Com]",
+	"Tada Koe Hitotsu - (LittlebitExtreme) Mhxa",
 	"The Nuker 4",
 	"The Nuker 4 (1)",
 	"The Nuker 4 Audio Remake (Original Composition From TN1.5)",
