@@ -9,6 +9,7 @@ return {
 	"Avenged Sevenfold - Seize The Day Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - So Far Away [MIDIfind.Com]",
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
+	"For-Whom-The-Bell-Tolls",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
 	"Metallica - One",
 	"Metallica - Ride The Lightning",
