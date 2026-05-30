@@ -2,6 +2,7 @@
 return {
 	"Aerials",
 	"Arima Kousei -Twinkle Twinkle Little Star Mhxa",
+	"Chopin - Minute Waltz Op.64 No.1 Mhxa",
 	"Chopin - Waltz Op 64 Improvisation Mhxa",
 	"DJ Okawari - Flower Dance Mhxa",
 	"Eldoraudio-Flower Dance - DJ Okawari Very Hard Ver. Piano Arranging By. Lune Music Sheets MP3 320K",
