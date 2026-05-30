@@ -13,6 +13,7 @@ return {
 	"Mia And Sebastian'S Theme Mhxa",
 	"Naruto Shippuden - Naruto Shpippuuden Opening 9 SWR",
 	"Pixies - Where Is My Mind [MIDIfind.Com]",
+	"Ravel Scarbo Mhxa",
 	"RUSH C ULTRA IMPOSSIBLE",
 	"System Of A Down - Aerials (18) [MIDIfind.Com]",
 	"Tada Koe Hitotsu - (LittlebitExtreme) Mhxa",
