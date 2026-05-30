@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"🇩🇪ERIKA Piano Mhxa",
 	"Aerials",
 	"Anoufie - Noir Mhxa",
 	"Arima Kousei -Twinkle Twinkle Little Star Mhxa",
