@@ -20,6 +20,7 @@ return {
 	"Indila - Love Story Mhxa",
 	"Liszt - Spanish Fantasy S.253 Mhxa",
 	"Little Do U Know",
+	"Lord Kael - Sweetly Mhxa",
 	"Mendelssohn - Etude Op.104No.1 In B - Minor Mhxa",
 	"Mia And Sebastian'S Theme Mhxa",
 	"Miki Matsubara - STAY WITH ME Mhxa",
