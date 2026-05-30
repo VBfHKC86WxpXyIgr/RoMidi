@@ -63,6 +63,7 @@ return {
 	"Rokudenashi - One Voice Mhxa",
 	"Scott Joplin'S The Entertainer MIDI FULL",
 	"Self Embodiment of Perfection (Mahito Theme)",
+	"SHIGATSU WA KIMI NO US ENDING -ORANGE MHXA",
 	"Shinzou wo Sasageyo HalcyonMusic",
 	"shock-attack-on-titan-ed6",
 	"Sincerely - Violet Evergarden OP Mhxa",
