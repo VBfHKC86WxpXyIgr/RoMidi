@@ -14,6 +14,7 @@ return {
 	"Chainsaw Man - In The Pool Reze Arc OST Mhxa",
 	"Chainsaw Man - IRIS OUT Reze Arc Mhxa",
 	"Chainsaw Man - JANE DOE Reze Arc Mhxa",
+	"Chaos-Construct",
 	"Chasing Kou - Oboreru Knife (Drowning Love)",
 	"Cry Baby - Tokyo Revengers OP Mhxa",
 	"Dan Dan Kokoro Hikareteku (From Dragon Ball GT) Ver 2",
