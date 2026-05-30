@@ -3,6 +3,7 @@ return {
 	"(˶ ｰ̀ ⤙ｰ́ ˶) It'SNot Like I Like You Or Anything Mhxa",
 	"(Anybody Can Find Love Except You) Need Drums Mhxa",
 	"🇩🇪ERIKA Piano Mhxa",
+	"Advance Wars 2 Black Hole Rising - Colins Theme WWW.MIDISFREE.COM",
 	"Aerials",
 	"Anoufie - Noir Mhxa",
 	"Arima Kousei -Twinkle Twinkle Little Star Mhxa",
