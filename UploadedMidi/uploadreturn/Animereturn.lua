@@ -43,6 +43,7 @@ return {
 	"Orange 7!! - Your Lie In April",
 	"pf solo",
 	"popipo - Hatsune miku - midi by tutogamer2a - WIP",
+	"Rokudenashi - One Voice Mhxa",
 	"Scott Joplin'S The Entertainer MIDI FULL",
 	"Self Embodiment of Perfection (Mahito Theme)",
 	"Shinzou wo Sasageyo HalcyonMusic",
