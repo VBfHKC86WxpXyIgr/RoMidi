@@ -9,6 +9,7 @@ return {
 	"bad apple 4.6 million",
 	"Beastars - JUNO is in love -adult-",
 	"Cat Loving HSR",
+	"Chainsaw Man - In The Pool Reze Arc OST Mhxa",
 	"Chasing Kou - Oboreru Knife (Drowning Love)",
 	"Cry Baby - Tokyo Revengers OP Mhxa",
 	"Dan Dan Kokoro Hikareteku (From Dragon Ball GT) Ver 2",
