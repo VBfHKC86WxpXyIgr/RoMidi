@@ -28,6 +28,7 @@ return {
 	"Mendelssohn - Etude Op.104No.1 In B - Minor Mhxa",
 	"Mia And Sebastian'S Theme Mhxa",
 	"Miki Matsubara - STAY WITH ME Mhxa",
+	"Mitski - My Love Mine All Mine",
 	"Naruto Shippuden - Naruto Shpippuuden Opening 9 SWR",
 	"Osbourne Ozzy - No More Tears (3) [MIDIfind.Com]",
 	"Pixies - Where Is My Mind [MIDIfind.Com]",
