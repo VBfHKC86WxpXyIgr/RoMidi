@@ -51,6 +51,7 @@ return {
 	"NieR - Kaine Salvation",
 	"No Game No Life - THIS GAME Mhxa Peak",
 	"Orange 7!! - Your Lie In April",
+	"Path Of The Wind - Totoro OST Mhxa",
 	"pf solo",
 	"popipo - Hatsune miku - midi by tutogamer2a - WIP",
 	"Rokudenashi - One Voice Mhxa",
