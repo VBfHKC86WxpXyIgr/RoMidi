@@ -10,6 +10,7 @@ return {
 	"Beastars - JUNO is in love -adult-",
 	"Cat Loving HSR",
 	"Chainsaw Man - In The Pool Reze Arc OST Mhxa",
+	"Chainsaw Man - IRIS OUT Reze Arc Mhxa",
 	"Chainsaw Man - JANE DOE Reze Arc Mhxa",
 	"Chasing Kou - Oboreru Knife (Drowning Love)",
 	"Cry Baby - Tokyo Revengers OP Mhxa",
