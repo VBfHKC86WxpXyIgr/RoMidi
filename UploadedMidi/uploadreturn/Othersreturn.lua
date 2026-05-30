@@ -18,6 +18,7 @@ return {
 	"F.Liszt - Reminiscences De Don Juan S.418 Mhxa",
 	"Hwang Jin Yi - Flower Day Mhxa",
 	"Indila - Love Story Mhxa",
+	"It'S Not Like I Like You Or Anything (Easy) Mhxa",
 	"Kenshi Yonezu - Lemon Mhxa",
 	"Liszt - Spanish Fantasy S.253 Mhxa",
 	"Little Do U Know",
