@@ -2,6 +2,7 @@
 return {
 	"ABBA - The Winner Takes it All",
 	"Adele - Skyfall",
+	"Advance Wars 2 Black Hole Rising - Colins Theme WWW.MIDISFREE.COM",
 	"Afgan-Bukan Cinta Biasa",
 	"Angel-Nidji",
 	"Arabesque-in-E-Nr-1",
