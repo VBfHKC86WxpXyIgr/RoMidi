@@ -37,6 +37,7 @@ return {
 	"If I Am With You - Jujutsu Kaisen - Yoshimasa Terui (Incomplete I Got Lazy)",
 	"IRIS OUT HalcyonMusic",
 	"itterasshai-attack-on-titan-ss4-ed-ai-higuchi",
+	"JBA - Giorno'S Theme Mhxa",
 	"Jojo's Bizarre Adventure Part 2   Battle Tendency OP - Bloody Stream",
 	"Josuke's theme Diamond Is Unbreakable in piano(COMPLETE)",
 	"Judas",
