@@ -27,6 +27,7 @@ return {
 	"Pixies - Where Is My Mind [MIDIfind.Com]",
 	"Ravel Scarbo Mhxa",
 	"RUSH C ULTRA IMPOSSIBLE",
+	"Shiganai Kokosei - Moonlight Mhxa",
 	"System Of A Down - Aerials (18) [MIDIfind.Com]",
 	"Tada Koe Hitotsu - (LittlebitExtreme) Mhxa",
 	"Tada Koe Hitotsu (EXTREME)Mhxa",
