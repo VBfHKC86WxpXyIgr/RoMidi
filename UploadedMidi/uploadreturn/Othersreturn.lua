@@ -3,6 +3,7 @@ return {
 	"Aerials",
 	"Anoufie - Noir Mhxa",
 	"Arima Kousei -Twinkle Twinkle Little Star Mhxa",
+	"Beabadoobee - The Perfect Pair Mhxa",
 	"Chopin - Minute Waltz Op.64 No.1 Mhxa",
 	"Chopin - Waltz No.8 Op.64 No.3 Mhxa",
 	"Chopin - Waltz Op 64 Improvisation Mhxa",
