@@ -9,6 +9,7 @@ return {
 	"Beabadoobee - The Perfect Pair Mhxa",
 	"Beethoven - Sonata 29Op.106 Hammerklavier Mhxa",
 	"BlaBartk - Piano Concerto No.2 Mhxa",
+	"Champagne Coast Mhxa",
 	"Chopin - Minute Waltz Op.64 No.1 Mhxa",
 	"Chopin - Waltz No.8 Op.64 No.3 Mhxa",
 	"Chopin - Waltz Op 64 Improvisation Mhxa",
