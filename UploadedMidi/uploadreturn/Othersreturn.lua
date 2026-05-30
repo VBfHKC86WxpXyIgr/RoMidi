@@ -17,6 +17,7 @@ return {
 	"Little Do U Know",
 	"Mendelssohn - Etude Op.104No.1 In B - Minor Mhxa",
 	"Mia And Sebastian'S Theme Mhxa",
+	"Miki Matsubara - STAY WITH ME Mhxa",
 	"Naruto Shippuden - Naruto Shpippuuden Opening 9 SWR",
 	"Pixies - Where Is My Mind [MIDIfind.Com]",
 	"Ravel Scarbo Mhxa",
