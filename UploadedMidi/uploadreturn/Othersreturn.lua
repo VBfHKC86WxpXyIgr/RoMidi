@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"(Anybody Can Find Love Except You) Need Drums Mhxa",
 	"🇩🇪ERIKA Piano Mhxa",
 	"Aerials",
 	"Anoufie - Noir Mhxa",
