@@ -54,6 +54,7 @@ return {
 	"Self Embodiment of Perfection (Mahito Theme)",
 	"Shinzou wo Sasageyo HalcyonMusic",
 	"shock-attack-on-titan-ed6",
+	"Sincerely - Violet Evergarden OP Mhxa",
 	"Sono Chi No Sadame - Jojo's Bizarre Adventure",
 	"Summer Pockets",
 	"Sword Art Online Medley HalcyonMusic",
