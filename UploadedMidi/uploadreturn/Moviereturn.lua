@@ -5,8 +5,8 @@ return {
 	"Bohemian Rhapsody - Queen",
 	"Bohemian Rhapsody - Queen (Piano Solo)",
 	"Charlie Clouser - Saw Final Theme WWW.MIDISFREE.COM",
-	"Cornfield Chase",
 	"Còn gì đẹp hơn impossible",
+	"Cornfield Chase",
 	"Dạo Bước HongKong 1999",
 	"Gravity Falls",
 	"hans-zimmer-cornfield-chase-interstellar-soundtrack-21091-nonstop2k.com",
@@ -21,6 +21,7 @@ return {
 	"Squid Game slow",
 	"succession-piano-version-7",
 	"Super Mario World Ending Theme As Played By Tom Brier OB9",
+	"The Entertainer - Scott Joplin",
 	"The Simpsons Main Theme  Danny Elfman MLX",
 	"Two Birds - Regina Spektor",
 }
