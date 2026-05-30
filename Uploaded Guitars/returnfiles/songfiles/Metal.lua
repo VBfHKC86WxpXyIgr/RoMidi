@@ -10,4 +10,5 @@ return {
 	"Avenged Sevenfold - So Far Away [MIDIfind.Com]",
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
+	"Metallica - One",
 }
