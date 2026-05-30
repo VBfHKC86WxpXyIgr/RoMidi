@@ -5,4 +5,5 @@ return {
 	"Cornfield Chase",
 	"Je Te Laisserai Des Mots - Patrick Watson",
 	"Multo - Cup Of Joe RNE",
+	"Super Mario World Ending Theme As Played By Tom Brier OB9",
 }
