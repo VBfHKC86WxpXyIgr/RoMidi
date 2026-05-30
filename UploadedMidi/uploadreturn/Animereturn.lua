@@ -12,6 +12,7 @@ return {
 	"Chasing Kou - Oboreru Knife (Drowning Love)",
 	"Dan Dan Kokoro Hikareteku (From Dragon Ball GT) Ver 2",
 	"DEAD OR LIE",
+	"Death Note OP1 - THE WORLD Mhxa",
 	"Doraemon - No Uta",
 	"Eldoraudio-Hajime no Ippo  Knockout ED 1  Yuuzora no Kamihikouki  - Piano Tutorial MP3 160K ",
 	"Eldoraudio-Juan Arenosa - Ofelia  Official Music Video  - Juan Arenosa  128k  humanized",
