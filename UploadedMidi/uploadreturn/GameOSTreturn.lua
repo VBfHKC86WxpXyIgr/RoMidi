@@ -13,4 +13,5 @@ return {
 	"Saviour Of The Waking World Piano",
 	"The Nuker 4 Audio Remake (Original Composition From TN1.5)",
 	"The Nuker 4 Part 1",
+	"Touhou - BAD APPLE NORMAL Mhxa",
 }
