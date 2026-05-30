@@ -28,6 +28,7 @@ return {
 	"Mia And Sebastian'S Theme Mhxa",
 	"Miki Matsubara - STAY WITH ME Mhxa",
 	"Naruto Shippuden - Naruto Shpippuuden Opening 9 SWR",
+	"Osbourne Ozzy - No More Tears (3) [MIDIfind.Com]",
 	"Pixies - Where Is My Mind [MIDIfind.Com]",
 	"Ravel Scarbo Mhxa",
 	"RUSH C ULTRA IMPOSSIBLE",
