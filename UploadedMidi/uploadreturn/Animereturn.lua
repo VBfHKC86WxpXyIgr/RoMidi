@@ -78,6 +78,7 @@ return {
 	"Vickeblanka - Black Catcher Black Clover Opening 10 WT1",
 	"Yoshimasa Terui - IF I AM WITH YOU",
 	"You Say Run - My Hero Academia OST",
+	"YOUR NAME - SPARKLE Mhxa",
 	"Your Reality",
 	"센과 치히로의 행방불명 OST Always With Me By (Pianicast) Mhxa",
 }
