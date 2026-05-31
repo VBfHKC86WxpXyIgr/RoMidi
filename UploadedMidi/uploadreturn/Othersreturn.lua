@@ -145,6 +145,7 @@ return {
 	"Outside – Calvin Harris & Ellie Goulding - Piano Cover",
 	"Pi the Song",
 	"Pixies - Where Is My Mind [MIDIfind.Com]",
+	"Rammstein - Sonne.Mid",
 	"Random noises harder than rush e",
 	"Ravel Scarbo Mhxa",
 	"Red Sun in the Sky (天上太阳红彤彤)",
