@@ -44,6 +44,7 @@ return {
 	"Rush E but its as difficult as humanly possible",
 	"ssstik.io 1777299650774",
 	"Summer",
+	"Tarot Feast 1780242551896",
 	"Tonight",
 	"Vierra-Rasa-Ini-Anonymous-20200323154206-Nonstop2k.Com",
 	"Wedding-Day-at-Troldhaugen",
