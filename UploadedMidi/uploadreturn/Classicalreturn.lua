@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"ABBA - The Winner Takes it All",
+	"About You By The 1780242398856",
 	"Adele - Skyfall",
 	"Advance Wars 2 Black Hole Rising - Colins Theme WWW.MIDISFREE.COM",
 	"Afgan-Bukan Cinta Biasa",
