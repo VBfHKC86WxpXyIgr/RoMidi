@@ -9,4 +9,5 @@ return {
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Ed Sheeran Thinking Out Loud",
 	"Radiohead - No Surprises",
+	"Tarot Feast 1780242551896",
 }
