@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"Andra And The BackBone - Sempurna Lyre.Mid",
+	"Binks Rum Binks Sake 1780241727588",
 	"Bleach - Ranbu No Melody (OP 13)",
 	"Can'T Help Falling In Love - Elvis Presley",
 	"Chris Isaakwicked Game",
