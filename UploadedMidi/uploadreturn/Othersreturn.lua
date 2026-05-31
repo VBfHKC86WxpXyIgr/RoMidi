@@ -191,6 +191,7 @@ return {
 	"Rush E Original + Midi Download",
 	"Rush E original sheet i spend my money on",
 	"Rush e playable",
+	"Rush E Real 2",
 	"RUSH E SMBs version pre-remaster",
 	"Rush Eb Optimized not impossible but still very hard",
 	"Rush Epic Games Fortnite",
