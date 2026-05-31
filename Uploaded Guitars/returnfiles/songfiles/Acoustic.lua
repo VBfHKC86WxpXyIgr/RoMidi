@@ -8,6 +8,7 @@ return {
 	"Chris Isaakwicked Game",
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Ed Sheeran Thinking Out Loud",
+	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"Radiohead - No Surprises",
 	"Tarot Feast 1780242551896",
 }
