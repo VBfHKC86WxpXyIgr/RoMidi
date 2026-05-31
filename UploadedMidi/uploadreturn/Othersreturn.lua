@@ -164,6 +164,7 @@ return {
 	"Rush Bad Apple not impossible",
 	"RUSH BARBASHASSR",
 	"RUSH C ULTRA IMPOSSIBLE",
+	"Rush C ZOTMIDI",
 	"Rush C# 3",
 	"Rush D Optimized Still Possible",
 	"RUSH DIGITAL CIRCUS (Remake)",
