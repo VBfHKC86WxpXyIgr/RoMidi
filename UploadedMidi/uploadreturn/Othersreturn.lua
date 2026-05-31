@@ -117,6 +117,7 @@ return {
 	"Mac Miller - Congratulations",
 	"Melly Mike  Young Black  Rich Official Music Video(1)",
 	"Mendelssohn - Etude Op.104No.1 In B - Minor Mhxa",
+	"Metallica - Master Of Puppets (Pro).Mid",
 	"Metallica-Enter-Sandman midi",
 	"Mia And Sebastian'S Theme Mhxa",
 	"Michael Jackson - Billie Jean",
