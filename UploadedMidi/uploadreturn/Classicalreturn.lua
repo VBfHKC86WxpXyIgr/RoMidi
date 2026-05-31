@@ -40,6 +40,7 @@ return {
 	"moonlight-sonata-i",
 	"MỘT ĐỜI (14 Casper & Bon Nghiêm)",
 	"operas",
+	"Pedih Last Child 1780246257149",
 	"Pirates of the Caribbean - He's a Pirate (1)",
 	"Rasa-Ini-Vierra",
 	"Risk it all",
