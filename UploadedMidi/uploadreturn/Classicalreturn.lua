@@ -17,6 +17,7 @@ return {
 	"Dạo Bước HongKong 1999",
 	"Drowning Love Tuxedo.Fx",
 	"Flamewall",
+	"Frank Sinatra - My Way",
 	"Fur Elise",
 	"Fur Elise (1)",
 	"Gloria Gaynor Arr.  Elaine Kelkel - I Will Survive",
