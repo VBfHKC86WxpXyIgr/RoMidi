@@ -234,6 +234,7 @@ return {
 	"Rush Z not impossible but still hard",
 	"Rush 悪ノ召使 (重制版)",
 	"RUSH+ELISE",
+	"Sad Камин -EMIN Feat. JONY By OOR Piano YT",
 	"Sheena Ringo - A double suicide mhxa",
 	"Sheena Ringo -Crime & Punishment mhxa",
 	"Shiganai Kokosei - Moonlight Mhxa",
