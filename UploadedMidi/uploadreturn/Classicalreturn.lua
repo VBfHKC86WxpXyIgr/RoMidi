@@ -20,6 +20,7 @@ return {
 	"Frank Sinatra - My Way",
 	"Fur Elise",
 	"Fur Elise (1)",
+	"GAYNOR.I Will Survive K",
 	"Gloria Gaynor Arr.  Elaine Kelkel - I Will Survive",
 	"GOZALO - Ariis",
 	"Handel,Halvorsen Passacaglia",
