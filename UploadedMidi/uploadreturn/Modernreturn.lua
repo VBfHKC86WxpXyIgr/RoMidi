@@ -55,6 +55,7 @@ return {
 	"Rapp Snitch Knishes - MF DOOM",
 	"Rush E – lyre only",
 	"Someone Like You (Easy Piano)",
+	"Star Shopping Midi.Mid",
 	"Strawberry Guy - Mrs Magic (Strings Version)",
 	"Tek It - Cafune",
 	"The+New+Periodic+Table+Song",
