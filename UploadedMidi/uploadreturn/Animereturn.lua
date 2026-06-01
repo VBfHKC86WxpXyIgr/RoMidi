@@ -68,6 +68,7 @@ return {
 	"Self Embodiment of Perfection (Mahito Theme)",
 	"SHIGATSU WA KIMI NO US ENDING -ORANGE MHXA",
 	"Shinzou wo Sasageyo HalcyonMusic",
+	"Shinzou-Wo-Sasageyo",
 	"shock-attack-on-titan-ed6",
 	"Sincerely - Violet Evergarden OP Mhxa",
 	"Sono Chi No Sadame - Jojo's Bizarre Adventure",
