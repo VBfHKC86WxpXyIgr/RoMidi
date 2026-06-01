@@ -2,6 +2,7 @@
 return {
 	"Avenged Sevenfold - Afterlife Solo Live [MIDIfind.Com]",
 	"Avenged Sevenfold - Buried Alive [MIDIfind.Com]",
+	"Avenged Sevenfold - Clairvoyant Disease [MIDIfind.Com]",
 	"Avenged Sevenfold - Dancing Dead Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - Hail To The King Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - Nightmare Solo Per By David Escobar [MIDIfind.Com]",
