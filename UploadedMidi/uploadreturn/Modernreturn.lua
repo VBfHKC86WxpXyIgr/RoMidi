@@ -20,6 +20,7 @@ return {
 	"Credits Song For My Death (Code: 900)",
 	"Dandelions - Ruth B. 2",
 	"Dandelions.com",
+	"Dark Red",
 	"Daylight - David Kushner",
 	"Die with a smile - Piano Solo LKZ",
 	"Dimension Creo",
