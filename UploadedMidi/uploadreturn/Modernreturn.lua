@@ -22,6 +22,7 @@ return {
 	"Daylight - David Kushner",
 	"Die with a smile - Piano Solo LKZ",
 	"Dimension Creo",
+	"Dracula - Tame Impala",
 	"Elektronomia - Sky High",
 	"Elton John - I'm Still Standing (Expert)",
 	"Engravings-Ethan-Bortnick",
