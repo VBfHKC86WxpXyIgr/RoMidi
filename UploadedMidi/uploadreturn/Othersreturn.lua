@@ -146,6 +146,7 @@ return {
 	"Outside",
 	"Outside – Calvin Harris & Ellie Goulding - Piano Cover",
 	"Pi the Song",
+	"Picture Perfect Piano Cover",
 	"Pixies - Where Is My Mind [MIDIfind.Com]",
 	"Rammstein - Sonne.Mid",
 	"Random noises harder than rush e",
