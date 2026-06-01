@@ -241,6 +241,7 @@ return {
 	"Sheena Ringo -Crime & Punishment mhxa",
 	"Shiganai Kokosei - Moonlight Mhxa",
 	"Shucks V3 On Piano",
+	"SHUCKS! DEMO Piano Cover V2",
 	"sinkingtown",
 	"Smoke on the Water",
 	"Smoke on the Water (Drum)",
