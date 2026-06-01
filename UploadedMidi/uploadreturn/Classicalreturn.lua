@@ -47,6 +47,7 @@ return {
 	"Risk it all",
 	"Rush E but its as difficult as humanly possible",
 	"Seluruh Nafas Ini Last Child 1780246231273",
+	"Sonate-No-14-Moonlight-3rd-Movement",
 	"ssstik.io 1777299650774",
 	"Summer",
 	"Tarot Feast 1780242551896",
