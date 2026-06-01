@@ -28,6 +28,7 @@ return {
 	"Elton John - I'm Still Standing (Expert)",
 	"Engravings-Ethan-Bortnick",
 	"GIMS - NINAO Official Lyrics Vido",
+	"God Is - Kanye West WIP",
 	"Golden Brown Arragement By natsu",
 	"Guns N Roses - Sweet Child O' Mine (1)",
 	"Her - JVKE",
