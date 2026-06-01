@@ -12,6 +12,7 @@ return {
 	"Baby Hotline",
 	"babydoll - dominic fike",
 	"Back To Friends - Sombr",
+	"Blue Jeans",
 	"Buttercup - Jack Stauber",
 	"Childish Gambino - Redbone",
 	"Coldplay - Sparks",
