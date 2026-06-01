@@ -59,6 +59,7 @@ return {
 	"Took Her To the O - King Vonn",
 	"Took Her To The O- King Von",
 	"Vicetone - Nevada ZNG",
+	"WEEZER.Buddy Holly K",
 	"World's smallest violin",
 	"بروحي فتاة.",
 }
