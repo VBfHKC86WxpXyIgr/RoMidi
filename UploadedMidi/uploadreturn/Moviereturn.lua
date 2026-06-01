@@ -18,6 +18,7 @@ return {
 	"Mia--Sebastians-Theme",
 	"Multo - Cup Of Joe RNE",
 	"My heartPIANO",
+	"Oppenheimer-Can-You-Hear-The-Music-Music-By-Ludwig-Goransson-Arrangement-By-Akmigone",
 	"Pirates of the Caribbean - He's a Pirate (3)",
 	"Squid Game musique",
 	"Squid Game slow",
