@@ -258,6 +258,7 @@ return {
 	"tegrtstrgy",
 	"tháng 4là lời nói dối của em",
 	"Thang dien impossible lol",
+	"The Corpse Is Mocking Me Piano Cover",
 	"the entertainer",
 	"The Entertainer - Scott Joplin",
 	"The Nuker 4",
