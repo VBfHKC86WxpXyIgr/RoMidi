@@ -37,6 +37,7 @@ return {
 	"iris-goo-goo-dolls",
 	"Je-Te-Laisserai-Des-Mots-Patrick-Watson",
 	"John Rod Dondoyano - Wave To Earth - Seasons [Yougensaki Remake]",
+	"Joji - SLOW DANCING IN THE DARK",
 	"Laufey - From The Start",
 	"Love Story X Golden Brown",
 	"Love Story X Golden Brown (1)",
