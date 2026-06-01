@@ -98,6 +98,7 @@ return {
 	"It'S Not Like I Like You Or Anything (Easy) Mhxa",
 	"Jane! - The Long Faces - Topic (128k)",
 	"JANGAN TUNGGU LAMA LAMA (Reggea Version) CICI FARAMIDA DEMO",
+	"Jeffy'S Infinite Irida - SHUCKS! V3 (Piano Tutorial)",
 	"JVKE golden hour piano mhxa",
 	"JVKE her mhxa",
 	"Kaijuu Ni Naritai",
