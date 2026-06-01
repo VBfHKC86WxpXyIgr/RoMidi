@@ -70,6 +70,7 @@ return {
 	"Mili - Through Patches of Violet",
 	"Minecraft OST Aria Math (Advanced)",
 	"my light (我的光) - yung kai",
+	"My Light (我的光) - Yung Kai",
 	"NieR - Song of the Ancients Devola",
 	"Oppa Toby Style - Homestuck S Collide OST 2 For Piano RWE",
 	"Oppa Toby Style Homestuck S Collide OST For Piano 1776388611729",
