@@ -6,6 +6,7 @@ return {
 	"Bleach - Ranbu No Melody (OP 13)",
 	"Can'T Help Falling In Love - Elvis Presley",
 	"Chris Isaakwicked Game",
+	"Clair-De-Lune-Debussy",
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Ed Sheeran Thinking Out Loud",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
