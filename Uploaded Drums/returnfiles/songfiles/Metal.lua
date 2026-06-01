@@ -14,6 +14,7 @@ return {
 	"Avenged Sevenfold - Buried Alive [MIDIfind.com]",
 	"Avenged Sevenfold - Carry On [MIDIfind.com]",
 	"Avenged Sevenfold - Chapter Four [MIDIfind.com]",
+	"Avenged Sevenfold - Clairvoyant Disease [MIDIfind.Com]",
 	"Avenged Sevenfold - Dancing Dead [MIDIfind.com]",
 	"Avenged Sevenfold - Dear God.mid",
 	"Avenged Sevenfold - Hail to the King [MIDIfind.com]",
