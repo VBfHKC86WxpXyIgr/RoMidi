@@ -240,6 +240,7 @@ return {
 	"Sheena Ringo - A double suicide mhxa",
 	"Sheena Ringo -Crime & Punishment mhxa",
 	"Shiganai Kokosei - Moonlight Mhxa",
+	"Shucks V3 On Piano",
 	"sinkingtown",
 	"Smoke on the Water",
 	"Smoke on the Water (Drum)",
