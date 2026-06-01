@@ -38,6 +38,7 @@ return {
 	"Je-Te-Laisserai-Des-Mots-Patrick-Watson",
 	"John Rod Dondoyano - Wave To Earth - Seasons [Yougensaki Remake]",
 	"Joji - SLOW DANCING IN THE DARK",
+	"Joji Glimpse Of Us Piano Cover Midi 2.Mid",
 	"Laufey - From The Start",
 	"Love Story X Golden Brown",
 	"Love Story X Golden Brown (1)",
