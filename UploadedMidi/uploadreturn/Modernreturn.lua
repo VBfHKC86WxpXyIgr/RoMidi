@@ -30,6 +30,7 @@ return {
 	"I THOUGHT YOU WANTED TO DANCE",
 	"In the end drum",
 	"iris-goo-goo-dolls",
+	"Je-Te-Laisserai-Des-Mots-Patrick-Watson",
 	"Laufey - From The Start",
 	"lover girl - laufey",
 	"Mike Posner - I Took A Pill In Ibiza (SeeB Remix)",
