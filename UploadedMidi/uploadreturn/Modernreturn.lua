@@ -35,6 +35,7 @@ return {
 	"Je-Te-Laisserai-Des-Mots-Patrick-Watson",
 	"John Rod Dondoyano - Wave To Earth - Seasons [Yougensaki Remake]",
 	"Laufey - From The Start",
+	"Love Story X Golden Brown",
 	"lover girl - laufey",
 	"Mike Posner - I Took A Pill In Ibiza (SeeB Remix)",
 	"Mitski - My Love Mine All Mine",
