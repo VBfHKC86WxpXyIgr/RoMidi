@@ -48,6 +48,7 @@ return {
 	"coffin nails   rapp snitch knishes",
 	"Composition - Blue Sky (1)",
 	"Confession of a rotten girl* mhxa",
+	"Cordyceps Piano Cover V1",
 	"Counting Stars by OneRepublic - Drums",
 	"CupofJoe & Multo mhxa",
 	"Dark dragon fire F-777 impossible",
