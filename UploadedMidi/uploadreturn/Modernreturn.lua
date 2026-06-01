@@ -10,6 +10,7 @@ return {
 	"blue - yung kai",
 	"Camellia - Flamewall",
 	"Chaos-Construct",
+	"Clair-De-Lune-Debussy",
 	"coffin nails   rapp snitch knishes",
 	"Congratulations - Mac Miller (Final Project)",
 	"Counting Stars by OneRepublic - Drums",
