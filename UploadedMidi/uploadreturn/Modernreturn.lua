@@ -62,6 +62,7 @@ return {
 	"Someone Like You (Easy Piano)",
 	"Star Shopping Midi.Mid",
 	"Strawberry Guy - Mrs Magic (Strings Version)",
+	"Tally Hall- Hidden In The Sand",
 	"Tek It - Cafune",
 	"The+New+Periodic+Table+Song",
 	"TheFatRat+-+Windfall",
