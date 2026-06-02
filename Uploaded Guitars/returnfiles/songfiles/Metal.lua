@@ -14,4 +14,5 @@ return {
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
 	"Metallica - One",
 	"Metallica - Ride The Lightning",
+	"Pantera - Cemetery Gates (7) [MIDIfind.Com]",
 }
