@@ -72,6 +72,7 @@ return {
 	"shock-attack-on-titan-ed6",
 	"Sincerely - Violet Evergarden OP Mhxa",
 	"Sono Chi No Sadame - Jojo's Bizarre Adventure",
+	"Spirited Away - Inochi No Namae - The Name Of Life.Mid",
 	"Summer Pockets",
 	"Sword Art Online Medley HalcyonMusic",
 	"Tau Cash",
