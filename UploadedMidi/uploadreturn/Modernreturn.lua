@@ -27,6 +27,7 @@ return {
 	"Dracula - Tame Impala",
 	"Elektronomia - Sky High",
 	"Elton John - I'm Still Standing (Expert)",
+	"End Of Beginning - Djo",
 	"Engravings-Ethan-Bortnick",
 	"GIMS - NINAO Official Lyrics Vido",
 	"God Is - Kanye West WIP",
