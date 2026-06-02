@@ -13,6 +13,7 @@ return {
 	"blue - yung kai",
 	"Camellia - Flamewall",
 	"Chaos-Construct",
+	"Charlie Puth - We Don'T Talk Anymore (Feat. Selena Gomez)",
 	"Clair-De-Lune-Debussy",
 	"coffin nails   rapp snitch knishes",
 	"Congratulations - Mac Miller (Final Project)",
