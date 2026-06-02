@@ -42,6 +42,7 @@ return {
 	"In the end drum",
 	"iris-goo-goo-dolls",
 	"Je-Te-Laisserai-Des-Mots-Patrick-Watson",
+	"John Legend - All Of Me - Pianoitall.Mid",
 	"John Rod Dondoyano - Wave To Earth - Seasons [Yougensaki Remake]",
 	"Joji - Die For You",
 	"Joji - SLOW DANCING IN THE DARK",
