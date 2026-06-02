@@ -43,6 +43,7 @@ return {
 	"Je-Te-Laisserai-Des-Mots-Patrick-Watson",
 	"John Rod Dondoyano - Wave To Earth - Seasons [Yougensaki Remake]",
 	"Joji - SLOW DANCING IN THE DARK",
+	"Joji Die For You Piano Midi.Mid",
 	"Joji Glimpse Of Us Piano Cover Midi 2.Mid",
 	"Just Give Me One More Day Alej",
 	"Kathang Isip Tut",
