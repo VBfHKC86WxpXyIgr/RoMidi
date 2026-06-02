@@ -68,6 +68,7 @@ return {
 	"Took Her To The O- King Von",
 	"Vicetone - Nevada ZNG",
 	"WEEZER.Buddy Holly K",
+	"Where'D All The Time Go - Dr. Dog",
 	"World's smallest violin",
 	"بروحي فتاة.",
 }
