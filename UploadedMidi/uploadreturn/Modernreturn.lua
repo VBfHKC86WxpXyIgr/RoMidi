@@ -45,6 +45,7 @@ return {
 	"Joji - SLOW DANCING IN THE DARK",
 	"Joji Glimpse Of Us Piano Cover Midi 2.Mid",
 	"Just Give Me One More Day Alej",
+	"Kathang Isip Tut",
 	"Laufey - From The Start",
 	"Love Story X Golden Brown",
 	"Love Story X Golden Brown (1)",
