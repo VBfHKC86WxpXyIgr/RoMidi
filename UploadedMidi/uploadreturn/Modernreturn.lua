@@ -67,6 +67,7 @@ return {
 	"Someone Like You (Easy Piano)",
 	"Star Shopping Midi.Mid",
 	"Strawberry Guy - Mrs Magic (Strings Version)",
+	"Talking To The Moon (Bruno Mars).Mid",
 	"Tally Hall- Hidden In The Sand",
 	"Tek It - Cafune",
 	"The+New+Periodic+Table+Song",
