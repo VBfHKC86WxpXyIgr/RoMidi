@@ -33,6 +33,7 @@ return {
 	"GIMS - NINAO Official Lyrics Vido",
 	"God Is - Kanye West WIP",
 	"Golden Brown Arragement By natsu",
+	"Grenade By Bruno Mars",
 	"Guns N Roses - Sweet Child O' Mine (1)",
 	"Habang Buhay",
 	"Her - JVKE",
