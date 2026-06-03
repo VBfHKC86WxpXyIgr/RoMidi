@@ -2,6 +2,7 @@
 return {
 	"Buddy Holly - Weezer (Extremely Accurate) 🔥🎸G",
 	"Cant Stop - Red Hot Chili Peppers",
+	"Children",
 	"Guns N Roses - Sweet Child O Mine",
 	"Hava Nagila A Z Idelsohn",
 	"Megalovania On Guitar",
