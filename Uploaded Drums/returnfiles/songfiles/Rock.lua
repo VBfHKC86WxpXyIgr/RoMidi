@@ -23,6 +23,7 @@ return {
 	"Linkin Park - No More Sorrow",
 	"Linkin Park - Numb",
 	"Nirvana - Come As You Are",
+	"Nirvana - Smells Like Teen Spirit",
 	"Rollin",
 	"Smells Like Teen Spirit - Drums",
 	"The Avengers Theme Song (CHECK MY NEW VERSION)",
