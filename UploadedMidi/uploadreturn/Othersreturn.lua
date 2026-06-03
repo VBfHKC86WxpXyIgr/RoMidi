@@ -245,6 +245,7 @@ return {
 	"Shucks V3 On Piano",
 	"SHUCKS! DEMO Piano Cover V2",
 	"sinkingtown",
+	"SMB - Rush F (Impossible)",
 	"Smoke on the Water",
 	"Smoke on the Water (Drum)",
 	"Somewhere only we know mhxa",
