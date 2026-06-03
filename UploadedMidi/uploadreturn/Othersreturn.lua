@@ -211,6 +211,7 @@ return {
 	"RUSH HAPPY BIRTHDAY",
 	"RUSH HOME ALONE (Remake)",
 	"Rush Jingle Bells",
+	"RUSH K",
 	"RUSH K (1)",
 	"RUSH LGBT",
 	"Rush lin gan guli guli impossible",
