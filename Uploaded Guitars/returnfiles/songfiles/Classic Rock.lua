@@ -6,6 +6,7 @@ return {
 	"Guns N Roses - Sweet Child O Mine",
 	"Hava Nagila A Z Idelsohn",
 	"Megalovania On Guitar",
+	"Playing God - Polyphia Playing God Tab",
 	"Through The Fire And Flames - DragonForce (Complete, Virtuoso Version)",
 	"Tuyo (Narcos Theme) - Rodrigo Amarante",
 	"Wake Me Up When September Ends - Green Day (Guitar Tab Play-Along)",
