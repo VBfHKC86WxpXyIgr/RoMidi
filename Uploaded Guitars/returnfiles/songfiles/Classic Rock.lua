@@ -8,6 +8,7 @@ return {
 	"Guns N Roses - Sweet Child O Mine",
 	"Hava Nagila A Z Idelsohn",
 	"Megalovania On Guitar",
+	"PAUSE",
 	"Playing God - Polyphia Playing God Tab",
 	"Through The Fire And Flames - DragonForce (Complete, Virtuoso Version)",
 	"Tuyo (Narcos Theme) - Rodrigo Amarante",
