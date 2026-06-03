@@ -196,6 +196,7 @@ return {
 	"Rush E Original + Midi Download",
 	"Rush E original sheet i spend my money on",
 	"Rush e playable",
+	"Rush E Real (2)",
 	"Rush E Real 2",
 	"RUSH E SMBs version pre-remaster",
 	"RUSH E ZOTMIDIs Ver WIP",
