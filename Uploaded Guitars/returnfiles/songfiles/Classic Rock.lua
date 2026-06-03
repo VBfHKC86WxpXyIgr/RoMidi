@@ -10,6 +10,7 @@ return {
 	"Megalovania On Guitar",
 	"PAUSE",
 	"Playing God - Polyphia Playing God Tab",
+	"Shiki No Uta (1)",
 	"Through The Fire And Flames - DragonForce (Complete, Virtuoso Version)",
 	"Tuyo (Narcos Theme) - Rodrigo Amarante",
 	"Wake Me Up When September Ends - Green Day (Guitar Tab Play-Along)",
