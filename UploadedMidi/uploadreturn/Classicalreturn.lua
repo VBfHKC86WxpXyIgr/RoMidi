@@ -45,6 +45,7 @@ return {
 	"Otsukare Summer",
 	"Pedih Last Child 1780246257149",
 	"Pirates of the Caribbean - He's a Pirate (1)",
+	"Raca Negra - Cheia De Manias.Mid",
 	"Rasa-Ini-Vierra",
 	"Risk it all",
 	"Running Up That Hill.Mid",
