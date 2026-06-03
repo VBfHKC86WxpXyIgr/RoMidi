@@ -2,4 +2,5 @@
 return {
 	"Everlong By The Foo Fighters Piia",
 	"LED ZEPPELIN.Stairway To Heaven KA",
+	"Them Bones - Alice In Chains",
 }
