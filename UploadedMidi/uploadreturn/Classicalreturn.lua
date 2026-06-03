@@ -47,6 +47,7 @@ return {
 	"Pirates of the Caribbean - He's a Pirate (1)",
 	"Rasa-Ini-Vierra",
 	"Risk it all",
+	"Running Up That Hill.Mid",
 	"Rush E but its as difficult as humanly possible",
 	"Seluruh Nafas Ini Last Child 1780246231273",
 	"Sonate No 14, “Moonlight” 3rd Movement",
