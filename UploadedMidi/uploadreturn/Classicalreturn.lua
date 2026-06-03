@@ -42,6 +42,7 @@ return {
 	"Moonlight-Sonata-Nightmare-Lionel-Yu-Moonlightsonatanightmaremid",
 	"MỘT ĐỜI (14 Casper & Bon Nghiêm)",
 	"operas",
+	"Otsukare Summer",
 	"Pedih Last Child 1780246257149",
 	"Pirates of the Caribbean - He's a Pirate (1)",
 	"Rasa-Ini-Vierra",
