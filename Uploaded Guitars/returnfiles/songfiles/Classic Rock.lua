@@ -6,4 +6,5 @@ return {
 	"Megalovania On Guitar",
 	"Through The Fire And Flames - DragonForce (Complete, Virtuoso Version)",
 	"Wake Me Up When September Ends - Green Day (Guitar Tab Play-Along)",
+	"แสงสุดท้าย (Saeng Sud Tye) - Bodyslam [Fingerstyle]",
 }
