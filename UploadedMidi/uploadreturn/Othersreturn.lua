@@ -164,6 +164,7 @@ return {
 	"Rush Astronomia not impossible but hard",
 	"RUSH B - ReBlacked",
 	"Rush B (Impossible)",
+	"Rush B But Without Anything Else!!!",
 	"Rush B playable",
 	"Rush B playable i guess",
 	"Rush Bad Apple impossible",
