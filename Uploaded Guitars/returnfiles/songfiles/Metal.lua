@@ -17,4 +17,5 @@ return {
 	"Metallica - Ride The Lightning",
 	"Pantera - Cemetery Gates (7) [MIDIfind.Com]",
 	"Pantera - This Love [MIDIfind.Com]",
+	"Through The Fire And Flames - DragonForce",
 }
