@@ -4,6 +4,7 @@ return {
 	"ACDC - Thunderstruck [MIDIfind.Com]",
 	"Bismarck - Sabaton Piano Arrangement",
 	"Come As You Are (Unplugged) - Nirvana Bass",
+	"Come As You Are (Unplugged) - Nirvana Guitar",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Michael Jackson - Beat It",
