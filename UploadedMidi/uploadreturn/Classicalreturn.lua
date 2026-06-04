@@ -21,6 +21,7 @@ return {
 	"Drowning Love Tuxedo.Fx",
 	"Flamewall",
 	"Frank Sinatra - My Way",
+	"Full - Comptine D'Un Autre Ete; L'Apres Midi",
 	"Fur Elise",
 	"Fur Elise (1)",
 	"Fur Elise Nightmare",
