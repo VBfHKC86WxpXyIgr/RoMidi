@@ -53,6 +53,7 @@ return {
 	"Rasa-Ini-Vierra",
 	"Risk it all",
 	"Running Up That Hill.Mid",
+	"Rush D",
 	"Rush E but its as difficult as humanly possible",
 	"Seluruh Nafas Ini Last Child 1780246231273",
 	"Sonate No 14, “Moonlight” 3rd Movement",
