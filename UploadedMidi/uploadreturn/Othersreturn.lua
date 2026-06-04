@@ -174,6 +174,7 @@ return {
 	"Rush C ZOTMIDI",
 	"Rush C# 3",
 	"Rush D (1)",
+	"Rush D (Impossible)",
 	"Rush D Optimized Still Possible",
 	"RUSH DIGITAL CIRCUS (Remake)",
 	"rush e",
