@@ -9,6 +9,7 @@ return {
 	"Hava Nagila A Z Idelsohn",
 	"Megalovania On Guitar",
 	"My Hero - Foo Fighters",
+	"My Hero - Foo Fighters (1)",
 	"PAUSE",
 	"Playing God - Polyphia Playing God Tab",
 	"Shiki No Uta (1)",
