@@ -27,6 +27,7 @@ return {
 	"GAYNOR.I Will Survive K",
 	"Gloria Gaynor Arr.  Elaine Kelkel - I Will Survive",
 	"GOZALO - Ariis",
+	"Handel, Halvorsen - Passacaglia.Mid",
 	"Handel,Halvorsen Passacaglia",
 	"in the pool  C",
 	"Indonesia Raya.MID",
