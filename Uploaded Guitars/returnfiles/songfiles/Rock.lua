@@ -3,6 +3,7 @@ return {
 	"21 Guns - Green Day (Piano-Vocal-Guitar)",
 	"ACDC - Thunderstruck [MIDIfind.Com]",
 	"Bismarck - Sabaton Piano Arrangement",
+	"Chop Suey - System Of A Down",
 	"Come As You Are (Unplugged) - Nirvana Bass",
 	"Come As You Are (Unplugged) - Nirvana Guitar",
 	"Come As You Are Nirvana Bass",
