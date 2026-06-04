@@ -226,6 +226,7 @@ return {
 	"RUSH MOSKAU",
 	"Rush Mountain King Optimized not impossible but hard",
 	"Rush Moutain King Lala version",
+	"RUSH N (1)",
 	"Rush of Life - Tony Ann",
 	"Rush Piggies not impossible but hard.mjd",
 	"Rush polish cow",
