@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"[Black MIDI] RUSH E",
 	"ABBA - The Winner Takes it All",
 	"About You By The 1780242398856",
 	"Adele - Skyfall",
