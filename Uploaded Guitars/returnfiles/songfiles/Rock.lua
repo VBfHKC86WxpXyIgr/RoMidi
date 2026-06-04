@@ -7,6 +7,7 @@ return {
 	"Come As You Are (Unplugged) - Nirvana Guitar",
 	"Come As You Are Nirvana Bass",
 	"Come As You Are Nirvana Guitar",
+	"Free Bird - Lynyrd Skynyrd",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Michael Jackson - Beat It",
