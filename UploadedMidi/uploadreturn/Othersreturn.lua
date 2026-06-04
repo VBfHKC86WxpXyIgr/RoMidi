@@ -214,6 +214,7 @@ return {
 	"Rush H But Without Anything Else!",
 	"RUSH HAPPY BIRTHDAY",
 	"RUSH HOME ALONE (Remake)",
+	"Rush I But Without Anything Else! (1)",
 	"Rush Jingle Bells",
 	"RUSH K",
 	"RUSH K (1)",
