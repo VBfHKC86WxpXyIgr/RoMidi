@@ -17,6 +17,7 @@ return {
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
+	"Romantic Homicide",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
 	"System Of A Down - Toxicity [MIDIfind.Com]",
 }
