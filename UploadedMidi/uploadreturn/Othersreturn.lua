@@ -157,6 +157,7 @@ return {
 	"Red Sun in the Sky (天上太阳红彤彤)",
 	"Ricochet Love Amethyst Part Piano arr 1776788643947",
 	"Rush #1",
+	"RUSH © + MIDI DOWNLOAD",
 	"Rush Ab Optimized not impossible still very hard",
 	"RUSH ABCD",
 	"Rush Among Us 2",
