@@ -2,4 +2,5 @@
 return {
 	"Heart-Shaped Box",
 	"One Last Breath",
+	"THE EAGLES.Hotel California K",
 }
