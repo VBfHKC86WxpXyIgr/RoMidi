@@ -246,6 +246,7 @@ return {
 	"Rush Victory",
 	"Rush Vietnam remastered better and possible",
 	"Rush Vietnam sounds bad btw midi by oganesson(Loadstringsgi)",
+	"Rush W But Without Anything Else!",
 	"RUSH YOUTUBE - Kopie",
 	"Rush Z (Impossible) V2",
 	"Rush Z not impossible but still hard",
