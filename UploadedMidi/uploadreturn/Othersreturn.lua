@@ -204,6 +204,7 @@ return {
 	"Rush E Real (2)",
 	"Rush E Real 2",
 	"RUSH E SMBs version pre-remaster",
+	"RUSH E WITHOUT ANYTHING ELSE",
 	"RUSH E ZOTMIDIs Ver WIP",
 	"Rush Eb Optimized not impossible but still very hard",
 	"Rush Epic Games Fortnite",
