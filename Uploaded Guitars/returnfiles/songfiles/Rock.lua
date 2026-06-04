@@ -23,5 +23,6 @@ return {
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
 	"System Of A Down - Toxicity [MIDIfind.Com]",
 	"TF2 Kazotsky Kick",
+	"What I'Ve Done - Linkin Park",
 	"Yara Yara Ya Phonk - Sua Amiga Eu Vou Pegar - MC Lan, MC WM SLOWED",
 }
