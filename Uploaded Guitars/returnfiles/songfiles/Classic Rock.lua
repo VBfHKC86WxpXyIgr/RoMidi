@@ -8,6 +8,7 @@ return {
 	"Guns N Roses - Sweet Child O Mine",
 	"Hava Nagila A Z Idelsohn",
 	"Megalovania On Guitar",
+	"My Hero - Foo Fighters",
 	"PAUSE",
 	"Playing God - Polyphia Playing God Tab",
 	"Shiki No Uta (1)",
