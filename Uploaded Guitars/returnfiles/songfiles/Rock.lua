@@ -20,4 +20,5 @@ return {
 	"Romantic Homicide",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
 	"System Of A Down - Toxicity [MIDIfind.Com]",
+	"TF2 Kazotsky Kick",
 }
