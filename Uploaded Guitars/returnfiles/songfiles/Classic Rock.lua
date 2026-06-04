@@ -7,6 +7,7 @@ return {
 	"GOAT - Polyphia G O A T - Copy Mscz",
 	"Guns N Roses - Sweet Child O Mine",
 	"Hava Nagila A Z Idelsohn",
+	"Last Rites Loved To Deth - Megadeth Last Rites Loved To Deth - Megadeth (Demo)",
 	"Megalovania On Guitar",
 	"My Hero - Foo Fighters",
 	"My Hero - Foo Fighters (1)",
