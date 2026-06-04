@@ -10,6 +10,7 @@ return {
 	"Come As You Are Nirvana Guitar",
 	"Free Bird - Lynyrd Skynyrd",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
+	"Lonesome Town - Ricky Nelson",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Michael Jackson - Beat It",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
