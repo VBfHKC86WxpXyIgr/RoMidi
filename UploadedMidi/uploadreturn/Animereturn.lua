@@ -7,6 +7,7 @@ return {
 	"AOT - Ashes On The Fire Main Theme Mhxa",
 	"AOT - Call Of Silence Ymir'S Theme Mhxa",
 	"audio2midi",
+	"Bad Apple",
 	"bad apple 4.6 million",
 	"Beastars - JUNO is in love -adult-",
 	"Cat Loving HSR",
