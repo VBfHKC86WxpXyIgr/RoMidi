@@ -211,6 +211,7 @@ return {
 	"Rush Epic Games Fortnite",
 	"RUSH F",
 	"Rush Gigachad (Remake)",
+	"Rush H But Without Anything Else!",
 	"RUSH HAPPY BIRTHDAY",
 	"RUSH HOME ALONE (Remake)",
 	"Rush Jingle Bells",
