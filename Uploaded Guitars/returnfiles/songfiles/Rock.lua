@@ -13,6 +13,7 @@ return {
 	"Come As You Are Nirvana Guitar",
 	"Free Bird - Lynyrd Skynyrd",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
+	"Heart Shaped Box - Nirvana",
 	"Imagine - John Lennon",
 	"Lonesome Town - Ricky Nelson",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
