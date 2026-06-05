@@ -4,6 +4,7 @@ return {
 	"ACDC - Thunderstruck [MIDIfind.Com]",
 	"American Football - Never Meant",
 	"Bismarck - Sabaton Piano Arrangement",
+	"Black Sabbath - Iron Man",
 	"Black Sabbath - Iron Man-Drum Kit",
 	"Chop Suey - System Of A Down",
 	"Come As You Are (Unplugged) - Nirvana Bass",
