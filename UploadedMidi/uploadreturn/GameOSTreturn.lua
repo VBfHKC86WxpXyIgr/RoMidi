@@ -58,6 +58,7 @@ return {
 	"Kevin MacLeod Heartbreaking Recreation (1)",
 	"KEY AFTER KEY LMS",
 	"Legend Of Zelda - Saria's Song",
+	"Legendary Belmont - Castlevania Curse Of Darkness",
 	"MEGALOVANIA - Toby Fox",
 	"MeGaLoVania Piano",
 	"Metal Crusher",
