@@ -77,6 +77,7 @@ return {
 	"Sword Art Online Medley HalcyonMusic",
 	"Tau Cash",
 	"Throughout heaven and earth, i alone am the honored one",
+	"Toilet Story 3",
 	"Tokyo Ghoul - Unravel",
 	"utsukushiki-zankoku-na-sekai-attack-on-titanshingeki-no-kyojin-ed-1-full",
 	"Vickeblanka - Black Catcher Black Clover Opening 10 WT1",
