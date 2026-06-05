@@ -11,6 +11,7 @@ return {
 	"Come As You Are (Unplugged) - Nirvana Guitar",
 	"Come As You Are Nirvana Bass",
 	"Come As You Are Nirvana Guitar",
+	"Dont Say Lazy",
 	"Free Bird - Lynyrd Skynyrd",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Heart Shaped Box - Nirvana",
