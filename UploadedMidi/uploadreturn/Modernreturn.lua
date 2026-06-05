@@ -83,6 +83,7 @@ return {
 	"Tony Ann - Anxiety",
 	"Took Her To the O - King Vonn",
 	"Took Her To The O- King Von",
+	"Uhaw(Tayong Lahat) - Dilaw",
 	"Vicetone - Nevada ZNG",
 	"WEEZER.Buddy Holly K",
 	"Where'D All The Time Go - Dr. Dog",
