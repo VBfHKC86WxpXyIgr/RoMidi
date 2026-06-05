@@ -20,6 +20,7 @@ return {
 	"Never Meant - American Football",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
+	"Nirvana - Something In The Way",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
 	"Romantic Homicide",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
