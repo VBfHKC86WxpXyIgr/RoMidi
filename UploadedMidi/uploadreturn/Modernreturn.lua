@@ -42,6 +42,7 @@ return {
 	"Guns N Roses - Sweet Child O' Mine (1)",
 	"Habang Buhay",
 	"Her - JVKE",
+	"Hey There Delilah",
 	"How The World Works - Bo Burnham",
 	"I THOUGHT YOU WANTED TO DANCE",
 	"In the end drum",
