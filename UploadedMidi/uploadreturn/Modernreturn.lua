@@ -71,6 +71,7 @@ return {
 	"No batidão impossible",
 	"Nơi này có anh impossible",
 	"Not Like Us",
+	"Palagi-Tj-Monterde-Palagi",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
 	"rapp snitch knishes",
 	"Rapp Snitch Knishes - MF DOOM",
