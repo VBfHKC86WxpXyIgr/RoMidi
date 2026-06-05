@@ -26,6 +26,7 @@ return {
 	"System Of A Down - Toxicity [MIDIfind.Com]",
 	"TF2 Kazotsky Kick",
 	"The Trooper",
+	"War Pigs - Black Sabbath",
 	"What I'Ve Done - Linkin Park",
 	"Yara Yara Ya Phonk - Sua Amiga Eu Vou Pegar - MC Lan, MC WM SLOWED",
 }
