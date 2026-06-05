@@ -33,6 +33,7 @@ return {
 	"Elton John - I'm Still Standing (Expert)",
 	"End Of Beginning - Djo",
 	"Engravings-Ethan-Bortnick",
+	"Ere - Juan Karlos",
 	"EXECRETION Midi Recreation Instrumental",
 	"GIMS - NINAO Official Lyrics Vido",
 	"God Is - Kanye West WIP",
