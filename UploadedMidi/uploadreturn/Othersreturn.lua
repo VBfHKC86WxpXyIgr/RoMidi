@@ -5,4 +5,5 @@ return {
 	"(˶ ｰ̀ ⤙ｰ́ ˶) It'SNot Like I Like You Or Anything Mhxa",
 	"(Anybody Can Find Love Except You) Need Drums Mhxa",
 	"[Black MIDI] RUSH E CURSED REMIX",
+	"Rush E 4 No Lag",
 }
