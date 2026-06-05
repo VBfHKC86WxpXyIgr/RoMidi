@@ -275,6 +275,7 @@ return {
 	"tegrtstrgy",
 	"tháng 4là lời nói dối của em",
 	"Thang dien impossible lol",
+	"The Amazing Digital Circus Theme",
 	"The Corpse Is Mocking Me Piano Cover",
 	"the entertainer",
 	"The Entertainer - Scott Joplin",
