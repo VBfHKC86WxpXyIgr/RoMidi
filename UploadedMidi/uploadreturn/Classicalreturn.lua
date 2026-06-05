@@ -63,6 +63,7 @@ return {
 	"Stranger Things - Main Theme",
 	"Summer",
 	"Tarot Feast 1780242551896",
+	"Tetris Block Arts V4",
 	"Tonight",
 	"Vierra-Rasa-Ini-Anonymous-20200323154206-Nonstop2k.Com",
 	"Virginio Aiello, On Piano - Van Gogh",
