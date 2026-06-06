@@ -9,4 +9,5 @@ return {
 	"Rush E (Impossible).Transformed",
 	"Rush E 4",
 	"Rush E 4 No Lag",
+	"Samplab Screen-20260606-1108",
 }
