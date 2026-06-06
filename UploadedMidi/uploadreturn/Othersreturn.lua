@@ -6,6 +6,7 @@ return {
 	"(Anybody Can Find Love Except You) Need Drums Mhxa",
 	"[Black MIDI] RUSH E CURSED REMIX",
 	"Feather - Nujabes",
+	"Rush E (Impossible).Transformed",
 	"Rush E 4",
 	"Rush E 4 No Lag",
 }
