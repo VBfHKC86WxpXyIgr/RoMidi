@@ -19,6 +19,7 @@ return {
 	"Lonesome Town - Ricky Nelson",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Michael Jackson - Beat It",
+	"Michael%20Jackson%20-%20Beat%20It",
 	"Never Meant - American Football",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
