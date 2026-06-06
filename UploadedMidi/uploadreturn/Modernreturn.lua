@@ -90,6 +90,7 @@ return {
 	"Tony Ann - Anxiety",
 	"Took Her To the O - King Vonn",
 	"Took Her To The O- King Von",
+	"Torete - Moonstar88",
 	"Uhaw(Tayong Lahat) - Dilaw",
 	"Vicetone - Nevada ZNG",
 	"WEEZER.Buddy Holly K",
