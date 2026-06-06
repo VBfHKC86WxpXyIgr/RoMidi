@@ -10,6 +10,7 @@ return {
 	"Last Rites Loved To Deth - Megadeth Last Rites Loved To Deth - Megadeth (Demo)",
 	"Megadeth - Holy Wars The Punishment Due",
 	"Megalovania On Guitar",
+	"Metallica+-+Master+Of+Puppets+(Guitars+Only)",
 	"My Hero - Foo Fighters",
 	"My Hero - Foo Fighters (1)",
 	"PAUSE",
