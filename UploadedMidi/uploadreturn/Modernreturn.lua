@@ -11,6 +11,7 @@ return {
 	"banh mi Khong",
 	"basic pitch transcription",
 	"Beanie",
+	"Beatles Let It Be",
 	"Beggin' – Måneskin Drum Sheet Music",
 	"blue - yung kai",
 	"Camellia - Flamewall",
