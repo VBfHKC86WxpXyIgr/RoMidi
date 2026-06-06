@@ -56,6 +56,7 @@ return {
 	"Rasa-Ini-Vierra",
 	"Risk it all",
 	"Rossini Barber Of Seville, Overture Transcribed For Piano",
+	"Rossini Gioacchino Rossini - Barber Of Sevilla Ouverture [MIDIfind.Com]",
 	"Running Up That Hill.Mid",
 	"Rush D",
 	"Rush E but its as difficult as humanly possible",
