@@ -79,6 +79,7 @@ return {
 	"Penumbra Phantasm LWP",
 	"PHOENIX LMS",
 	"Pixelland by Kevin Macleod",
+	"Promise R",
 	"Rage of the Champions!",
 	"Red Battle - Pokémon Gold Silver",
 	"Revenge- Minecraft",
