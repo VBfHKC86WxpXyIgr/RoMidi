@@ -5,6 +5,7 @@ return {
 	"(˶ ｰ̀ ⤙ｰ́ ˶) It'SNot Like I Like You Or Anything Mhxa",
 	"(Anybody Can Find Love Except You) Need Drums Mhxa",
 	"[Black MIDI] RUSH E CURSED REMIX",
+	"Doll Dancing",
 	"Feather - Nujabes",
 	"Rush E (Impossible).Transformed",
 	"Rush E 4",
