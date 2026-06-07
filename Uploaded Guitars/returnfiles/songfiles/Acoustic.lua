@@ -11,5 +11,6 @@ return {
 	"Ed Sheeran Thinking Out Loud",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"Radiohead - No Surprises",
+	"SHINING",
 	"Tarot Feast 1780242551896",
 }
