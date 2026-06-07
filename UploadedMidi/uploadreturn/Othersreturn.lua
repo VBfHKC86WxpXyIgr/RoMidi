@@ -6,6 +6,7 @@ return {
 	"(Anybody Can Find Love Except You) Need Drums Mhxa",
 	"[Black MIDI] RUSH E CURSED REMIX",
 	"Doll Dancing",
+	"Ending Shucks",
 	"Feather - Nujabes",
 	"Irida Cartoon V4",
 	"Rush E (Impossible).Transformed",
