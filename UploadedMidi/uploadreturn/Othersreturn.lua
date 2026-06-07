@@ -7,6 +7,7 @@ return {
 	"[Black MIDI] RUSH E CURSED REMIX",
 	"Doll Dancing",
 	"Feather - Nujabes",
+	"Irida Cartoon V4",
 	"Rush E (Impossible).Transformed",
 	"Rush E 4",
 	"Rush E 4 No Lag",
