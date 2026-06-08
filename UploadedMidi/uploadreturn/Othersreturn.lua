@@ -10,6 +10,7 @@ return {
 	"Ending Shucks",
 	"Feather - Nujabes",
 	"Irida Cartoon V4",
+	"Its Raining Tacos.Mid",
 	"KJ",
 	"Play Date",
 	"Rush E (Impossible).Transformed",
