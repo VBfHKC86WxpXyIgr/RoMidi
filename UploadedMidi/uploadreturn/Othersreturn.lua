@@ -10,6 +10,7 @@ return {
 	"Ending Shucks",
 	"Feather - Nujabes",
 	"Irida Cartoon V4",
+	"KJ",
 	"Play Date",
 	"Rush E (Impossible).Transformed",
 	"Rush E 3 Real",
