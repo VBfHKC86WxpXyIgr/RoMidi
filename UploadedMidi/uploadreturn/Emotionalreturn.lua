@@ -52,6 +52,7 @@ return {
 	"Katy Perry - The One That Got Away",
 	"Kevin MacLeod - Blue Feather ",
 	"KISS — I Was Made For Loving You",
+	"LạC TrôI Piano - SơN TùNg M-TP.Mid",
 	"Laufey - Promise",
 	"Laufey - Too little, too late",
 	"like him - tyler creator",
