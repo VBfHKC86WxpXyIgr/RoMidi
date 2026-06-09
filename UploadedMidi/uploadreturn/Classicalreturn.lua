@@ -35,6 +35,7 @@ return {
 	"Handel,Halvorsen Passacaglia",
 	"in the pool  C",
 	"Indonesia Raya.MID",
+	"Its Raining Tacos",
 	"Its Raining Tacos.Mid",
 	"Je Te Laisserai Des Mots (1)",
 	"JOPLIN.The entertainer",
