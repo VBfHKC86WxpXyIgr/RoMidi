@@ -26,6 +26,7 @@ return {
 	"Nirvana - Something In The Way",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
 	"Romantic Homicide",
+	"Simple Plan - Perfect [MIDIfind.Com]",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
 	"System Of A Down - Toxicity [MIDIfind.Com]",
 	"TF2 Kazotsky Kick",
