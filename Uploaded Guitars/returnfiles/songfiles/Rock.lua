@@ -31,6 +31,7 @@ return {
 	"Romantic Homicide",
 	"Simple Plan - Perfect [MIDIfind.Com]",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
+	"Strokes (The) - Last Nite [MIDIfind.Com]",
 	"Strokes (The) - The End Has No End (7) [MIDIfind.Com]",
 	"System Of A Down - Toxicity [MIDIfind.Com]",
 	"TF2 Kazotsky Kick",
