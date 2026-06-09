@@ -47,6 +47,7 @@ return {
 	"Kensuke Ushio - in the pool v2",
 	"Kensuke Ushio - in the pool v3",
 	"Kimi no Na wa    Sparkle  TheIshter  Full Sheets 1772654410756",
+	"Kimi No Na Wa - Sparkle (Piano).Mid (1)",
 	"Kiminonawa OST - Nandemonaiya Mhxa",
 	"KISS OF DEATH（Produced By HYDE）(延音)",
 	"Light'S Theme - Death Note",
