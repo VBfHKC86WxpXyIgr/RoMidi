@@ -35,6 +35,7 @@ return {
 	"Strokes (The) - The End Has No End (7) [MIDIfind.Com]",
 	"System Of A Down - Toxicity [MIDIfind.Com]",
 	"TF2 Kazotsky Kick",
+	"The Last Of Us - Main Theme (2) [MIDIfind.Com]",
 	"The Trooper",
 	"War Pigs - Black Sabbath",
 	"Weird Fishes Arpeggi - Radiohead Weird Fishes Arpeggi - Radiohead",
