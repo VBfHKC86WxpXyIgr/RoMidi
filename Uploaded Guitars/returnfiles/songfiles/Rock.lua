@@ -15,6 +15,7 @@ return {
 	"Free Bird - Lynyrd Skynyrd",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Heart Shaped Box - Nirvana",
+	"Hoobastank - The Reason (2) [MIDIfind.Com]",
 	"Imagine - John Lennon",
 	"Lonesome Town - Ricky Nelson",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
