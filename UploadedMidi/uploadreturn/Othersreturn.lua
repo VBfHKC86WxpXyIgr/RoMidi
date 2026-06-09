@@ -13,6 +13,7 @@ return {
 	"Its Raining Tacos",
 	"Its Raining Tacos.Mid",
 	"KJ",
+	"KJ V2",
 	"Play Date",
 	"Rush E (Impossible).Transformed",
 	"Rush E 3 Real",
