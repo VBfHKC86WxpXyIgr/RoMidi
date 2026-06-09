@@ -8,4 +8,5 @@ return {
 	"Jane! Ttest",
 	"LED ZEPPELIN.Stairway To Heaven KA",
 	"Them Bones - Alice In Chains",
+	"Weezer - Island In The Sun (4) [MIDIfind.Com]",
 }
