@@ -12,6 +12,7 @@ return {
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
 	"For-Whom-The-Bell-Tolls",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
+	"Metallica - Anesthesia Pulling Teeth With Wah Sound",
 	"Metallica - Blackened [MIDIfind.Com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
 	"Metallica - Enter Sandman [MIDIfind.Com]",
