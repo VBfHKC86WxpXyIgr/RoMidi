@@ -38,6 +38,7 @@ return {
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
 	"Nirvana - Something In The Way",
 	"Nirvana - You Know You'Re Right [MIDIfind.Com]",
+	"Oasis - Slide Away [MIDIfind.Com]",
 	"Paramore - Misery Business [MIDIfind.Com]",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
 	"Radiohead - Just [MIDIfind.Com]",
