@@ -13,6 +13,7 @@ return {
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
 	"Radiohead - No Surprises",
+	"S.T.A.L.K.E.R - Guitar Music From Stalker (3) [MIDIfind.Com]",
 	"SHINING",
 	"Tarot Feast 1780242551896",
 }
