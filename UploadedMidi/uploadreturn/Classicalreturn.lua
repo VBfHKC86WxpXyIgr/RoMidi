@@ -10,6 +10,7 @@ return {
 	"Arabesque-in-E-Nr-1",
 	"AUD AP2420H",
 	"Baby - Justin Bieber",
+	"Babydoll",
 	"Barber-Of-Seville-(Ouverture)",
 	"Beethoven - Moonlight Sonata (1st Movement) ",
 	"Beethoven Virus (insane)",
