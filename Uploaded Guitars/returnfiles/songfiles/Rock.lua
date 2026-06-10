@@ -33,6 +33,7 @@ return {
 	"Michael Jackson - Beat It",
 	"Michael%20Jackson%20-%20Beat%20It",
 	"Never Meant - American Football",
+	"Nirvana - Serve The Servants [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
 	"Nirvana - Something In The Way",
