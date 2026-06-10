@@ -30,6 +30,7 @@ return {
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
 	"Romantic Homicide",
 	"Simple Plan - Perfect [MIDIfind.Com]",
+	"Snow (Hey Oh!)",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
 	"Strokes (The) - Last Nite [MIDIfind.Com]",
 	"Strokes (The) - The End Has No End (7) [MIDIfind.Com]",
