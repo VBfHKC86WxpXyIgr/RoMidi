@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"Aerosmith - Dream On",
+	"Bjork - Army Of Me WWW.MIDISFREE.COM",
 	"Chase Batta - JoJo'S Bizarre Adventure Part4 Diamond Is Unbreakable OP2",
 	"Creep - Radiohead - Extremely Accurate (Full Band) G",
 	"Everlong By The Foo Fighters Piia",
