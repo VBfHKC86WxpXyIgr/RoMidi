@@ -19,6 +19,7 @@ return {
 	"Three Days Grace - Painkiller",
 	"Through The Fire And Flames - DragonForce (Complete, Virtuoso Version)",
 	"Tuyo (Narcos Theme) - Rodrigo Amarante",
+	"Van Halen - Eruption",
 	"Wake Me Up When September Ends - Green Day (Guitar Tab Play-Along)",
 	"แสงสุดท้าย (Saeng Sud Tye) - Bodyslam [Fingerstyle]",
 }
