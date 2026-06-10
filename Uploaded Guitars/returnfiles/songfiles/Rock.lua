@@ -18,6 +18,7 @@ return {
 	"Heart Shaped Box - Nirvana",
 	"Hoobastank - The Reason (2) [MIDIfind.Com]",
 	"Imagine - John Lennon",
+	"Layla - Derek And The Dominos Ft Eric Clapton",
 	"Layla (Unplugged) - Eric Clapton",
 	"Lonesome Town - Ricky Nelson",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
