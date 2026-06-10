@@ -16,6 +16,7 @@ return {
 	"Degenerate",
 	"Faith",
 	"Foo Fighters - Everlong",
+	"Fortunate Son - Creedance Clearwater Revival-Drum Kit, Drums",
 	"Girlfriend",
 	"imagine-dragons-believer-drum-score",
 	"Korn - Embrace",
