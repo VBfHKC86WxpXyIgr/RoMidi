@@ -4,6 +4,7 @@ return {
 	"ACDC - Thunderstruck [MIDIfind.Com]",
 	"American Football - Never Meant",
 	"Bismarck - Sabaton Piano Arrangement",
+	"Black Rover - Black Clover (OP 3)",
 	"Black Sabbath - Iron Man",
 	"Black Sabbath - Iron Man-Drum Kit",
 	"Chop Suey - System Of A Down",
