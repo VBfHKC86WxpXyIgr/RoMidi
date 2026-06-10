@@ -6,6 +6,7 @@ return {
 	"(Anybody Can Find Love Except You) Need Drums Mhxa",
 	"[Black MIDI] RUSH E CURSED REMIX",
 	"60375 Purnama-Merindu-",
+	"Azali - MECHANICAL GOD",
 	"Doll Dancing",
 	"Ending Shucks",
 	"Feather - Nujabes",
