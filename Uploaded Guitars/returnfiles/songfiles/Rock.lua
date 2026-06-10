@@ -23,6 +23,7 @@ return {
 	"Layla - Derek And The Dominos Ft Eric Clapton",
 	"Layla (Unplugged) - Eric Clapton",
 	"Lonesome Town - Ricky Nelson",
+	"Megalo Box 2",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Michael Jackson - Beat It",
 	"Michael%20Jackson%20-%20Beat%20It",
