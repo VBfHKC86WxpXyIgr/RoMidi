@@ -25,5 +25,6 @@ return {
 	"Pantera - Cemetery Gates (7) [MIDIfind.Com]",
 	"Pantera - Floods [MIDIfind.Com]",
 	"Pantera - This Love [MIDIfind.Com]",
+	"Pantera - Walk (3)",
 	"Through The Fire And Flames - DragonForce",
 }
