@@ -7,6 +7,7 @@ return {
 	"Black Rover - Black Clover (OP 3)",
 	"Black Sabbath - Iron Man",
 	"Black Sabbath - Iron Man-Drum Kit",
+	"Chamber Of Reflection - Mac DeMarcoLead",
 	"Chop Suey - System Of A Down",
 	"Come As You Are (Unplugged) - Nirvana Bass",
 	"Come As You Are (Unplugged) - Nirvana Guitar",
