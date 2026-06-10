@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"62977 GITARA",
 	"About You By The 1780242398856",
 	"Andra And The BackBone - Sempurna Lyre.Mid",
 	"Binks Rum Binks Sake 1780241727588",
