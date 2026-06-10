@@ -18,6 +18,7 @@ return {
 	"Dont Say Lazy",
 	"Flying Through The Sky (Ram Ranch)",
 	"Fortunate Son - Creedance Clearwater Revival",
+	"Fortunate Son - Creedance Clearwater RevivalLEAD",
 	"Free Bird - Lynyrd Skynyrd",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Heart Shaped Box - Nirvana",
