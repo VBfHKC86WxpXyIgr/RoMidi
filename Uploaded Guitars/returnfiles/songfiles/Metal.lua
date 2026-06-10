@@ -15,6 +15,7 @@ return {
 	"Metallica - Blackened [MIDIfind.Com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
 	"Metallica - Enter Sandman [MIDIfind.Com]",
+	"Metallica - Lux ÆTerna",
 	"Metallica - One",
 	"Metallica - One [MIDIfind.Com]",
 	"Metallica - Orion [MIDIfind.Com]",
