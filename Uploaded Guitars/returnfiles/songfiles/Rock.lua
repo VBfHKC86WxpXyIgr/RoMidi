@@ -13,6 +13,7 @@ return {
 	"Come As You Are Nirvana Guitar",
 	"Creed - One Last Breath [MIDIfind.Com]",
 	"Dont Say Lazy",
+	"Flying Through The Sky (Ram Ranch)",
 	"Free Bird - Lynyrd Skynyrd",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Heart Shaped Box - Nirvana",
