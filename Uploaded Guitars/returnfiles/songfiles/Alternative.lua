@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"46792 Buko-",
 	"Aerosmith - Dream On",
 	"Bjork - Army Of Me WWW.MIDISFREE.COM",
 	"Chase Batta - JoJo'S Bizarre Adventure Part4 Diamond Is Unbreakable OP2",
