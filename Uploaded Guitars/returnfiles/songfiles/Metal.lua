@@ -11,6 +11,7 @@ return {
 	"Avenged Sevenfold - So Far Away [MIDIfind.Com]",
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
 	"For-Whom-The-Bell-Tolls",
+	"Megadeth - Hanger 18",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
 	"Metallica - Anesthesia Pulling Teeth With Wah Sound",
 	"Metallica - Blackened [MIDIfind.Com]",
