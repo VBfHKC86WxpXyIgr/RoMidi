@@ -15,6 +15,7 @@ return {
 	"Its Raining Tacos.Mid",
 	"KJ",
 	"KJ V2",
+	"KOBO KANAERO - HELP!! Mhxa",
 	"Play Date",
 	"Rush E (Impossible).Transformed",
 	"Rush E 3 Real",
