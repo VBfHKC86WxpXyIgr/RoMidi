@@ -63,6 +63,7 @@ return {
 	"Kahit Maputi Na Ang Buhok Ko",
 	"Kathang Isip Tut",
 	"Laufey - From The Start",
+	"Long Time - Playboi Carti",
 	"Love Story X Golden Brown",
 	"Love Story X Golden Brown (1)",
 	"lover girl - laufey",
