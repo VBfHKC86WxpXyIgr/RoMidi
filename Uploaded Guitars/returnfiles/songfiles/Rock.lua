@@ -40,6 +40,7 @@ return {
 	"Nirvana - Something In The Way",
 	"Nirvana - You Know You'Re Right [MIDIfind.Com]",
 	"Oasis - Slide Away [MIDIfind.Com]",
+	"Oasis - Wonderwall",
 	"Paramore - Misery Business [MIDIfind.Com]",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
 	"Radiohead - Just [MIDIfind.Com]",
