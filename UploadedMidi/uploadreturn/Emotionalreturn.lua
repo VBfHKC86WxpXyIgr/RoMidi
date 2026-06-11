@@ -109,4 +109,5 @@ return {
 	"Wiz Khalifa - See You Again ft Charlie Puth Lyrics",
 	"Young-Girl-A maybe more difficult",
 	"Your Love",
+	"Кино - Спокойная ночь [Midistock.Ru] (1).Mid",
 }
