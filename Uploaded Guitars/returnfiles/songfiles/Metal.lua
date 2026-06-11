@@ -27,6 +27,7 @@ return {
 	"Pantera - Cemetery Gates (7) [MIDIfind.Com]",
 	"Pantera - Domination",
 	"Pantera - Floods [MIDIfind.Com]",
+	"Pantera - The Art Of Shredding",
 	"Pantera - This Love [MIDIfind.Com]",
 	"Pantera - Walk (3)",
 	"Through The Fire And Flames - DragonForce",
