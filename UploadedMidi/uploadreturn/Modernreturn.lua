@@ -15,6 +15,7 @@ return {
 	"Beggin' – Måneskin Drum Sheet Music",
 	"Blood Theme (From Dexter) - Daniel J Licht (Piano Solo)",
 	"blue - yung kai",
+	"Burning Blue - Mariah The Scientist (Piano Solo)",
 	"Camellia - Flamewall",
 	"Chaos-Construct",
 	"Charlie Puth - We Don'T Talk Anymore (Feat. Selena Gomez)",
