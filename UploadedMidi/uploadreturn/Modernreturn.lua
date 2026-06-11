@@ -101,6 +101,7 @@ return {
 	"Took Her To The O- King Von",
 	"Torete - Moonstar88",
 	"Uhaw(Tayong Lahat) - Dilaw",
+	"Vamp Anthem - Playboi Carti (Piano Sheets)",
 	"Vicetone - Nevada ZNG",
 	"We Not Like You (Tiktok Version)",
 	"WEEZER.Buddy Holly K",
