@@ -21,6 +21,7 @@ return {
 	"Credits Song For My Death",
 	"Cry for me impossible",
 	"D4vd Romantic Homicide piano midi",
+	"Death Bed - Powfu",
 	"Die-With-A-Smile",
 	"Do I Wanna Know Bass",
 	"Do I Wanna Know by Arctic Monkeys",
