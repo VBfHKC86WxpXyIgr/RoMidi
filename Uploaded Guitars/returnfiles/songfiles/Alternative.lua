@@ -9,6 +9,7 @@ return {
 	"In The End - Linkin Park",
 	"Jane! Ttest",
 	"LED ZEPPELIN.Stairway To Heaven KA",
+	"Soundgarden - Black Hole Sun (3) [MIDIfind.Com]",
 	"Them Bones - Alice In Chains",
 	"Weezer - Island In The Sun (4) [MIDIfind.Com]",
 }
