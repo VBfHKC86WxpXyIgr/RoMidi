@@ -104,6 +104,7 @@ return {
 	"Uhaw(Tayong Lahat) - Dilaw",
 	"Vamp Anthem - Playboi Carti (Piano Sheets)",
 	"Vicetone - Nevada ZNG",
+	"Violent Crimes - Kanye West Violent Crimes - Kanye West",
 	"We Not Like You (Tiktok Version)",
 	"WEEZER.Buddy Holly K",
 	"Where'D All The Time Go - Dr. Dog",
