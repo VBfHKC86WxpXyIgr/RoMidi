@@ -18,6 +18,7 @@ return {
 	"KOBO KANAERO - HELP!! Mhxa",
 	"Play Date",
 	"Rush E (Impossible).Transformed",
+	"Rush E (MIDI) (SYNTHESIA)",
 	"Rush E 3 Real",
 	"Rush E 4",
 	"Rush E 4 No Lag",
