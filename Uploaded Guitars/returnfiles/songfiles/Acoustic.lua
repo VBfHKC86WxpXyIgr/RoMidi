@@ -12,6 +12,7 @@ return {
 	"Ed Sheeran Thinking Out Loud",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
+	"Nirvana - Do Re Mi",
 	"Radiohead - No Surprises",
 	"S.T.A.L.K.E.R - Guitar Music From Stalker (3) [MIDIfind.Com]",
 	"SHINING",
