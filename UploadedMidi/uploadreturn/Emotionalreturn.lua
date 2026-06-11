@@ -101,6 +101,7 @@ return {
 	"Tony Ann - Reminisce 2",
 	"Too Little Too Late  laufey 1776838113996",
 	"Việt Nam I love impossible",
+	"Wait For U",
 	"Washing Machine Heart - Mitski",
 	"Wave to earth - Love",
 	"Where's My Love – SYML",
