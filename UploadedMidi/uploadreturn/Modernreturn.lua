@@ -83,6 +83,7 @@ return {
 	"Nơi này có anh impossible",
 	"NOSTYLIST Destroy Lonely Converted To Piano By DK Marshmello",
 	"Not Like Us",
+	"Off The Map - SoFaygo Off The Map SoFaygo Piano Conversion By DK Marshmello",
 	"Palagi-Tj-Monterde-Palagi",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
 	"rapp snitch knishes",
