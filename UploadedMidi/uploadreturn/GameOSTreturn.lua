@@ -117,6 +117,7 @@ return {
 	"Undertale - SAVE the World",
 	"Undertale - Toby Fox",
 	"Uwa!! So Temperate♫ (UNDERTALE)",
+	"Valve HALF LIFE 2 OST (Www.Lightaudio.Ru)",
 	"Wet Hands (Minecraft)",
 	"Your Reality",
 }
