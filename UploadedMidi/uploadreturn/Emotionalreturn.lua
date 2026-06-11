@@ -79,6 +79,7 @@ return {
 	"Pokemon BlackWhite - An Unwavering Heart",
 	"PULSE  Tony Ann aka my neighbours car alarm 1770203303452",
 	"Radiohead - No Surprises (4) WWW.MIDISFREE.COM",
+	"Raindance - Dave, Tems (Piano)",
 	"RickRoll",
 	"Risk It All  Bruno Mars 1776838404638",
 	"River Flows In You",
