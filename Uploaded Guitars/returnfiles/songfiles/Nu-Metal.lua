@@ -4,4 +4,5 @@ return {
 	"Korn - Blind",
 	"Psychosocial - Slipknot",
 	"System Of A Down - Aerials [MIDIfind.Com]",
+	"System Of A Down - Sugar [MIDIfind.Com]",
 }
