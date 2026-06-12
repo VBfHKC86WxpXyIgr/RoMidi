@@ -43,6 +43,7 @@ return {
 	"CơN MưA BăNg Giá",
 	"CơN MưA Ngang Qua",
 	"CơN MưA Ngang Qua 2",
+	"CơN MưA TìNh YêU",
 	"Đã-Lỡ-YêU-Em-NhiềU",
 	"ĐảO NghịCh",
 	"đáY BiểN",
