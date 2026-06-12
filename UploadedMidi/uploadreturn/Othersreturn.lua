@@ -37,6 +37,7 @@ return {
 	"Irida Cartoon V4",
 	"Its Raining Tacos",
 	"Its Raining Tacos.Mid",
+	"KhôNg PhảI Là DạNg VừA đâU",
 	"KhuôN MặT đáNg ThươNg",
 	"KJ",
 	"KJ V2",
