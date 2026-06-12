@@ -71,6 +71,7 @@ return {
 	"Screen-20260606-110846 06062026",
 	"Screen-20260606-130710 06062026",
 	"Sword Art Online Gun Gale",
+	"Sword Art Online II Opening 1 - IGNITE",
 	"TháNg 4 Là LờI NóI DốI CủA Em",
 	"There-S-No-One-At-All",
 	"ThươNg Em Là đIềU Anh KhôNg Ngờ",
