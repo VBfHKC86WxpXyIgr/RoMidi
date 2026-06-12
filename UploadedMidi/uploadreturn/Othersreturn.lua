@@ -100,6 +100,7 @@ return {
 	"LạC TrôI",
 	"LàM NgườI LuôN YêU Em",
 	"LàM Vợ Anh Nhé",
+	"Lemon",
 	"Lightning Moment",
 	"Lullaby",
 	"MãI MãI BêN Nhau",
