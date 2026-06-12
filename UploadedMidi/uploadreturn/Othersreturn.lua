@@ -53,6 +53,7 @@ return {
 	"Như PhúT Ban đầU",
 	"NơI NàY Có Anh",
 	"Play Date",
+	"QuêN",
 	"Rush E (Impossible).Transformed",
 	"Rush E (MIDI) (SYNTHESIA)",
 	"Rush E 3 Real",
