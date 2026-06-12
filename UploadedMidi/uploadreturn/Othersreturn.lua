@@ -45,6 +45,7 @@ return {
 	"Feather - Nujabes",
 	"GạT đI NướC MắT",
 	"Giá Như",
+	"Golden Hour X Runaway X Interstellar",
 	"HãY Trao Cho Anh",
 	"Irida Cartoon V4",
 	"Its Raining Tacos",
