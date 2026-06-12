@@ -74,6 +74,7 @@ return {
 	"Rush E 3 Real",
 	"Rush E 4",
 	"Rush E 4 No Lag",
+	"Rush E X Interstellar",
 	"RUSH N",
 	"Samplab Screen-20260606-1108",
 	"Screen-20260606-110846 06062026",
