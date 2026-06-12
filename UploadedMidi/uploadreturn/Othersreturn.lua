@@ -102,6 +102,7 @@ return {
 	"Phi ĐIểU Và Ve SầU",
 	"Play Date",
 	"QuêN",
+	"RồI Ta Sẽ NgắM PháO Hoa CùNg Nhau",
 	"Rush E (Impossible).Transformed",
 	"Rush E (MIDI) (SYNTHESIA)",
 	"Rush E 3 Real",
