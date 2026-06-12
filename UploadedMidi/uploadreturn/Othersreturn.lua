@@ -32,6 +32,7 @@ return {
 	"KOBO KANAERO - HELP!! Mhxa",
 	"NắNg ấM Xa DầN",
 	"NắNg ấM Xa DầN - As One",
+	"Như NgàY HôM Qua",
 	"Play Date",
 	"Rush E (Impossible).Transformed",
 	"Rush E (MIDI) (SYNTHESIA)",
