@@ -92,6 +92,7 @@ return {
 	"Kokoronashi",
 	"Là Tự Em đA TìNh",
 	"LạC TrôI",
+	"LàM NgườI LuôN YêU Em",
 	"LàM Vợ Anh Nhé",
 	"Lightning Moment",
 	"Lullaby",
