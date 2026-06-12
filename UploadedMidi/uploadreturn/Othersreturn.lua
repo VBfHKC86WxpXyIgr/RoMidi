@@ -81,6 +81,7 @@ return {
 	"Như NgàY HôM Qua",
 	"Như PhúT Ban đầU",
 	"NơI NàY Có Anh",
+	"NuôNg ChiềU đếN Hư HỏNg",
 	"Play Date",
 	"QuêN",
 	"Rush E (Impossible).Transformed",
