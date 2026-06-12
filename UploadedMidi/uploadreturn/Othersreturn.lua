@@ -20,6 +20,7 @@ return {
 	"BếN ThượNg HảI",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
 	"BóNg Lá RơI",
+	"BướC-Qua-MùA-Cô-ĐơN",
 	"BuôNg đôI Tay Chill",
 	"Buong Doi Tay Nhau Ra",
 	"BuôNg đôI Tay Nhau Ra 2",
