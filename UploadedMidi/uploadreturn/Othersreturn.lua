@@ -159,6 +159,7 @@ return {
 	"Screen-20260606-110846 06062026",
 	"Screen-20260606-130710 06062026",
 	"Seasons-Kim-Seasonswavetoearthseasons",
+	"Shucks Ending V2",
 	"Song For You",
 	"Sukidakara",
 	"SuýT NữA Thì",
