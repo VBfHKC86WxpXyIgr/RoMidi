@@ -121,6 +121,7 @@ return {
 	"Sugar",
 	"System Of A Down - Aerials [MIDIfind.Com]",
 	"System Of A Down - Chop Suey! [MIDIfind.Com]",
+	"System Of A Down - Sugar [MIDIfind.Com]",
 	"The Stage - Avenged Sevenfold by Rgman",
 	"ThunderStruck - ACDC",
 	"Toxicity by System of a Down -- Version 4.2",
