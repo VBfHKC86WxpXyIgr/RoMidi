@@ -55,6 +55,7 @@ return {
 	"Em HáT Cho Ai Nghe",
 	"Ending Shucks",
 	"Endless Tears",
+	"Ethan Bortnick - Cut My Fingers Off Mhxa",
 	"Feather - Nujabes",
 	"GáNh Mẹ",
 	"GạT đI NướC MắT",
