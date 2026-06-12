@@ -32,6 +32,7 @@ return {
 	"Fur Elise",
 	"Fur Elise (1)",
 	"Fur Elise Nightmare",
+	"Galaxy Collapse (With Correct BPM)",
 	"GAYNOR.I Will Survive K",
 	"Gloria Gaynor Arr.  Elaine Kelkel - I Will Survive",
 	"GOZALO - Ariis",
