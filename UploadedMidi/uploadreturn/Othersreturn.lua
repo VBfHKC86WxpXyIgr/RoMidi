@@ -83,6 +83,7 @@ return {
 	"Kokoronashi",
 	"Là Tự Em đA TìNh",
 	"LạC TrôI",
+	"LàM Vợ Anh Nhé",
 	"Lightning Moment",
 	"Lullaby",
 	"MAKING MY WAY",
