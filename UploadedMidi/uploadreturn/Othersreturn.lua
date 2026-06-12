@@ -84,6 +84,7 @@ return {
 	"Sword Art Online Gun Gale",
 	"Sword Art Online II Opening 1 - IGNITE",
 	"TháNg 4 Là LờI NóI DốI CủA Em",
+	"That Girl",
 	"There-S-No-One-At-All",
 	"ThươNg Em Là đIềU Anh KhôNg Ngờ",
 	"Ton 618",
