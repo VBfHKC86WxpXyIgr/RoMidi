@@ -53,6 +53,7 @@ return {
 	"Moonlight sonata 3rd x fantaisie impromptu",
 	"moonlight-sonata-i",
 	"Moonlight-Sonata-Nightmare-Lionel-Yu-Moonlightsonatanightmaremid",
+	"MORGENSHTERN Ft. элджей - Cadillac",
 	"MỘT ĐỜI (14 Casper & Bon Nghiêm)",
 	"operas",
 	"Otsukare Summer",
