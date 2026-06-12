@@ -86,6 +86,7 @@ return {
 	"ThươNg Em Là đIềU Anh KhôNg Ngờ",
 	"Ton 618",
 	"Tra Cho Anh",
+	"Trả Cho Em Remix",
 	"WE DONT TALK ANYMORE X ChúNg Ta KhôNg ThuộC Về Nhau",
 	"Xin LỗI Em",
 	"YêU Từ CáI NhìN đầU TiêN",
