@@ -127,6 +127,7 @@ return {
 	"Như PhúT Ban đầU",
 	"NơI NàY Có Anh",
 	"NuôNg ChiềU đếN Hư HỏNg",
+	"Ordinary Confession",
 	"Phi ĐIểU Và Ve SầU",
 	"PhíA Sau MộT Cô GáI",
 	"Play Date",
