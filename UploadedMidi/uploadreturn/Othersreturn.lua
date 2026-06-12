@@ -44,6 +44,7 @@ return {
 	"CơN MưA Ngang Qua 2",
 	"đáY BiểN",
 	"ĐIềU Anh BiếT",
+	"ĐOảN XuâN Ca",
 	"Doll Dancing",
 	"đừNg Bỏ Em 1 MìNh",
 	"ĐừNg LàM TráI Tim Anh đAu",
