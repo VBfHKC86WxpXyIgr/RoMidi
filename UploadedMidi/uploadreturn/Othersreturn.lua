@@ -98,6 +98,7 @@ return {
 	"Ton 618",
 	"Tra Cho Anh",
 	"Trả Cho Em Remix",
+	"Valentine Chờ",
 	"Vợ TuyệT VờI NhấT",
 	"WE DONT TALK ANYMORE X ChúNg Ta KhôNg ThuộC Về Nhau",
 	"Winter Sonata",
