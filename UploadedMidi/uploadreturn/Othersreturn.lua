@@ -90,6 +90,7 @@ return {
 	"It'S Okay Now",
 	"Its Raining Tacos",
 	"Its Raining Tacos.Mid",
+	"KháCh MờI",
 	"KhôNg PhảI Là DạNg VừA đâU",
 	"KhôNg PhảI Là DạNg VừA đâU Ost",
 	"KhuôN MặT đáNg ThươNg",
