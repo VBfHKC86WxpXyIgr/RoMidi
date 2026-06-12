@@ -155,6 +155,7 @@ return {
 	"Samplab Screen-20260606-1108",
 	"Screen-20260606-110846 06062026",
 	"Screen-20260606-130710 06062026",
+	"Seasons-Kim-Seasonswavetoearthseasons",
 	"Song For You",
 	"Sukidakara",
 	"SuýT NữA Thì",
