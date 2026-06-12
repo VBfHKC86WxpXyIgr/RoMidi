@@ -95,6 +95,7 @@ return {
 	"HãY Trao Cho Anh",
 	"HoàNg HôN",
 	"HọC MèO KêU",
+	"HơN Cả YêU",
 	"I Do",
 	"I Do X Demons",
 	"Irida Cartoon V4",
