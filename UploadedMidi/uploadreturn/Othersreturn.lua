@@ -82,6 +82,7 @@ return {
 	"Ton 618",
 	"Tra Cho Anh",
 	"WE DONT TALK ANYMORE X ChúNg Ta KhôNg ThuộC Về Nhau",
+	"YêU Từ CáI NhìN đầU TiêN",
 	"Zedd-Clarity-20231118170709-Nonstop2k.Com",
 	"Военные песни - Катюша (3) [MIDIfind.Com]",
 	"Народные песни - Походный марш Люфтваффе (Немецкий) [MIDIfind.Com]",
