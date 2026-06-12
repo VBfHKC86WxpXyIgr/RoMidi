@@ -60,6 +60,7 @@ return {
 	"KJ V2",
 	"KOBO KANAERO - HELP!! Mhxa",
 	"LạC TrôI",
+	"Lullaby",
 	"MAKING MY WAY",
 	"MộT NăM MớI BìNh An",
 	"NắNg ấM Xa DầN",
