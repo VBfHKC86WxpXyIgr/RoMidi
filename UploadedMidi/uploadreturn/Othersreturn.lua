@@ -138,6 +138,7 @@ return {
 	"Virtual To Live",
 	"Virtual To LIVE Easy",
 	"Vợ TuyệT VờI NhấT",
+	"We Don'T Talk Anymore",
 	"WE DONT TALK ANYMORE X ChúNg Ta KhôNg ThuộC Về Nhau",
 	"Winter Sonata",
 	"Xin LỗI Em",
