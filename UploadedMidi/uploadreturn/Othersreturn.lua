@@ -28,6 +28,7 @@ return {
 	"ChúNg Ta KhôNg ThuộC Về Nhau",
 	"Có ChắC YêU Là đâY",
 	"COME MY WAY",
+	"COME MY WAY X MAKING MY WAY",
 	"CơN MưA BăNg Giá",
 	"CơN MưA Ngang Qua",
 	"CơN MưA Ngang Qua 2",
