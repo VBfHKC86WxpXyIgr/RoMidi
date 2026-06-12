@@ -26,6 +26,7 @@ return {
 	"Em CủA NgàY HôM Qua 3",
 	"Ending Shucks",
 	"Feather - Nujabes",
+	"HãY Trao Cho Anh",
 	"Irida Cartoon V4",
 	"Its Raining Tacos",
 	"Its Raining Tacos.Mid",
