@@ -69,6 +69,7 @@ return {
 	"ĐừNg LàM TráI Tim Anh ĐAu X ĐI GiữA TrờI RựC Rỡ",
 	"ĐừNg LàM TráI Tim X ThiêN Lý",
 	"đừNg Về Trễ Nha",
+	"đườNg MộT ChiềU",
 	"ĐƯỜNG-TÔI-CHỞ-EM-VỀ",
 	"Em Cua NgàY HôM Qua",
 	"Em CủA NgàY HôM Qua 2",
