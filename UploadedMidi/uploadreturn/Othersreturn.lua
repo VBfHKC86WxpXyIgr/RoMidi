@@ -35,6 +35,7 @@ return {
 	"Em CủA NgàY HôM Qua 3",
 	"Ending Shucks",
 	"Feather - Nujabes",
+	"GạT đI NướC MắT",
 	"Giá Như",
 	"HãY Trao Cho Anh",
 	"Irida Cartoon V4",
