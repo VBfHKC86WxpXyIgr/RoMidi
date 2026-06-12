@@ -72,6 +72,7 @@ return {
 	"LạC TrôI",
 	"Lullaby",
 	"MAKING MY WAY",
+	"MấT KếT NốI",
 	"MộT NăM MớI BìNh An",
 	"MuộN RồI Mà Sao CòN",
 	"NắNg ấM Xa DầN",
