@@ -68,6 +68,7 @@ return {
 	"KJ",
 	"KJ V2",
 	"KOBO KANAERO - HELP!! Mhxa",
+	"Kokoronashi",
 	"LạC TrôI",
 	"Lullaby",
 	"MAKING MY WAY",
