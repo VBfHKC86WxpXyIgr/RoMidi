@@ -63,6 +63,7 @@ return {
 	"Doll Dancing",
 	"đóM đóM Và Em",
 	"DòNg TháC ThờI Gian",
+	"Dù Cho TậN Thế",
 	"đừNg Bỏ Em 1 MìNh",
 	"ĐừNg LàM TráI Tim Anh đAu",
 	"ĐừNg LàM TráI Tim Anh ĐAu X ĐI GiữA TrờI RựC Rỡ",
