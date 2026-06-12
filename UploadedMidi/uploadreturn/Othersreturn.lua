@@ -23,6 +23,7 @@ return {
 	"BếN ThượNg HảI",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
 	"Black-And-White-Rag-Arr-Winifred-Atwell",
+	"Bloodbath Geometry Dash",
 	"BóNg Lá RơI",
 	"Bunny-Girl-Senpai-Ed-Mai-Sakurajiama",
 	"BướC-Qua-MùA-Cô-ĐơN",
