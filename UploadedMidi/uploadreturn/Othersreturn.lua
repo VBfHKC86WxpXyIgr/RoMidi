@@ -16,6 +16,7 @@ return {
 	"Be The Sky",
 	"Beautiful In White",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
+	"BóNg Lá RơI",
 	"BuôNg đôI Tay Chill",
 	"Buong Doi Tay Nhau Ra",
 	"BuôNg đôI Tay Nhau Ra 2",
