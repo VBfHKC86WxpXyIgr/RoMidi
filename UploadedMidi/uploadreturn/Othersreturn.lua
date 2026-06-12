@@ -107,6 +107,7 @@ return {
 	"NắNg ấM Xa DầN - As One",
 	"Nevada X ĐI ĐI ĐI",
 	"Ngã Tư KhôNg đèN",
+	"NgườI Kế NhiệM",
 	"NgườI YêU Bỏ Lỡ",
 	"NguyệN CầU đếN 50 NăM",
 	"Như NgàY HôM Qua",
