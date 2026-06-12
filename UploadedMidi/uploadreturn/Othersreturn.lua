@@ -12,6 +12,7 @@ return {
 	"CơN MưA Ngang Qua 2",
 	"Doll Dancing",
 	"Em Cua NgàY HôM Qua",
+	"Em CủA NgàY HôM Qua 2",
 	"Ending Shucks",
 	"Feather - Nujabes",
 	"Irida Cartoon V4",
