@@ -76,6 +76,7 @@ return {
 	"NắNg ấM Xa DầN",
 	"NắNg ấM Xa DầN - As One",
 	"Nevada X ĐI ĐI ĐI",
+	"Ngã Tư KhôNg đèN",
 	"Như NgàY HôM Qua",
 	"Như PhúT Ban đầU",
 	"NơI NàY Có Anh",
