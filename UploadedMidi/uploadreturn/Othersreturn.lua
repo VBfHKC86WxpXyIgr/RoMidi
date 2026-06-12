@@ -32,6 +32,7 @@ return {
 	"KJ",
 	"KJ V2",
 	"KOBO KANAERO - HELP!! Mhxa",
+	"LạC TrôI",
 	"NắNg ấM Xa DầN",
 	"NắNg ấM Xa DầN - As One",
 	"Như NgàY HôM Qua",
