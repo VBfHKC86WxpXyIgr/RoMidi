@@ -23,6 +23,7 @@ return {
 	"ChúNg Ta CủA TươNg Lai",
 	"ChúNg Ta KhôNg ThuộC Về Nhau",
 	"Có ChắC YêU Là đâY",
+	"COME MY WAY",
 	"CơN MưA Ngang Qua",
 	"CơN MưA Ngang Qua 2",
 	"Doll Dancing",
