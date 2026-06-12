@@ -12,6 +12,7 @@ return {
 	"Anh Sai RồI X BìNh YêN NơI ĐâU",
 	"Azali - MECHANICAL GOD",
 	"Be The Sky",
+	"Beautiful In White",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
 	"BuôNg đôI Tay Chill",
 	"Buong Doi Tay Nhau Ra",
