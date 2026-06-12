@@ -35,6 +35,7 @@ return {
 	"Michael%20Jackson%20-%20Beat%20It",
 	"Never Meant - American Football",
 	"Nirvana - Sappy",
+	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
 	"Nirvana - Serve The Servants [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
