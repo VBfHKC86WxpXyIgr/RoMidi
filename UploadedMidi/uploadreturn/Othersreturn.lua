@@ -128,6 +128,7 @@ return {
 	"That Girl",
 	"There-S-No-One-At-All",
 	"ThiêN BồNg NguyêN SóI",
+	"ThiếU NiêN Hoa HồNg",
 	"ThươNg Em Là đIềU Anh KhôNg Ngờ",
 	"Ton 618",
 	"Tra Cho Anh",
