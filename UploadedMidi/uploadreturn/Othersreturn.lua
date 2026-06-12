@@ -15,6 +15,7 @@ return {
 	"BuôNg đôI Tay Chill",
 	"Buong Doi Tay Nhau Ra",
 	"BuôNg đôI Tay Nhau Ra 2",
+	"Cause I Love You - Noo Phuoc Thinh Piano",
 	"ChắC Ai đó Sẽ Về",
 	"ChắC Ai đó Sẽ Về 2014",
 	"ChàNg Trai NăM ấY Ost",
