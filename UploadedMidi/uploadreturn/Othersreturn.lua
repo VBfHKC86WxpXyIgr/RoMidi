@@ -87,6 +87,7 @@ return {
 	"Như PhúT Ban đầU",
 	"NơI NàY Có Anh",
 	"NuôNg ChiềU đếN Hư HỏNg",
+	"Phi ĐIểU Và Ve SầU",
 	"Play Date",
 	"QuêN",
 	"Rush E (Impossible).Transformed",
