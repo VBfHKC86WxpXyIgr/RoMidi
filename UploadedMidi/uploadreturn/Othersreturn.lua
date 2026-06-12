@@ -73,6 +73,7 @@ return {
 	"Ending Shucks",
 	"Endless Tears",
 	"Ethan Bortnick - Cut My Fingers Off Mhxa",
+	"Fake Love X Suzume X BóNg Lá RơI",
 	"Feather - Nujabes",
 	"GáNh Mẹ",
 	"GạT đI NướC MắT",
