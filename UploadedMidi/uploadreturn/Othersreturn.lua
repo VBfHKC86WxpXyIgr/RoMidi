@@ -137,6 +137,7 @@ return {
 	"Như NgàY HôM Qua",
 	"Như PhúT Ban đầU",
 	"NhữNg LờI HứA Bỏ QuêN Ost",
+	"Night-Dancer-Imase",
 	"NơI NàY Có Anh",
 	"NuôNg ChiềU đếN Hư HỏNg",
 	"Ordinary Confession",
