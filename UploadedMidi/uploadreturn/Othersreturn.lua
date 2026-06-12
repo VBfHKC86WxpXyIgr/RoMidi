@@ -36,6 +36,7 @@ return {
 	"NắNg ấM Xa DầN",
 	"NắNg ấM Xa DầN - As One",
 	"Như NgàY HôM Qua",
+	"NơI NàY Có Anh",
 	"Play Date",
 	"Rush E (Impossible).Transformed",
 	"Rush E (MIDI) (SYNTHESIA)",
