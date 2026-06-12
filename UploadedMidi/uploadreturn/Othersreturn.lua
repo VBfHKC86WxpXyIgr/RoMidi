@@ -29,6 +29,7 @@ return {
 	"ChúNg Ta CủA HiệN TạI",
 	"ChúNg Ta CủA TươNg Lai",
 	"ChúNg Ta KhôNg ThuộC Về Nhau",
+	"ChuyệN ĐôI Ta X VếT MưA",
 	"Có ChắC YêU Là đâY",
 	"Có HẹN VớI Thanh XuâN",
 	"COME MY WAY",
