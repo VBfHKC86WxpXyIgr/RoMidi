@@ -8,6 +8,7 @@ return {
 	"60375 Purnama-Merindu-",
 	"âM ThầM BêN Em 2",
 	"Azali - MECHANICAL GOD",
+	"BìNh YêN Trong NhữNg PhúT GiâY",
 	"BuôNg đôI Tay Chill",
 	"Buong Doi Tay Nhau Ra",
 	"BuôNg đôI Tay Nhau Ra 2",
