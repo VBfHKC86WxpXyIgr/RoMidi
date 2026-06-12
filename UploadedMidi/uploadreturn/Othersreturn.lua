@@ -151,6 +151,7 @@ return {
 	"Tay TráI Chỉ TrăNg",
 	"TháI BìNh Mồ HôI RơI",
 	"TháNg 4 Là LờI NóI DốI CủA Em",
+	"TháP RơI Tự Do",
 	"That Girl",
 	"There-S-No-One-At-All",
 	"ThiêN BồNg NguyêN SóI",
