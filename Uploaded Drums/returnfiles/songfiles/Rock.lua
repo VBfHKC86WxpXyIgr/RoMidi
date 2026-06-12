@@ -28,5 +28,6 @@ return {
 	"Rollin",
 	"Smells Like Teen Spirit - Drums",
 	"The Avengers Theme Song (CHECK MY NEW VERSION)",
+	"THE BEATLES.Helter Skelter",
 	"Weezer - Undone the Sweater Song [MIDIfind.com]",
 }
