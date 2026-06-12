@@ -19,6 +19,7 @@ return {
 	"Cause I Love You X GạT đI Nc MắT",
 	"ChắC Ai đó Sẽ Về",
 	"ChắC Ai đó Sẽ Về 2014",
+	"ChạM Khẽ Tim Anh",
 	"ChàNg Trai NăM ấY Ost",
 	"ChạY Ngay đI",
 	"ChúNg Ta CủA HiệN TạI",
