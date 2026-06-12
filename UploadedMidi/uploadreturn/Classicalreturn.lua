@@ -24,6 +24,7 @@ return {
 	"chopin ballade 4 (c)lubetsky",
 	"Counting stars",
 	"Dạo Bước HongKong 1999",
+	"Death Waltz.Mid",
 	"Drowning Love Tuxedo.Fx",
 	"Flamewall",
 	"Frank Sinatra - My Way",
