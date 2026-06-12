@@ -16,6 +16,7 @@ return {
 	"PAUSE",
 	"Playing God - Polyphia Playing God Tab",
 	"Shiki No Uta (1)",
+	"THE BEATLES.Helter Skelter",
 	"Three Days Grace - Painkiller",
 	"Through The Fire And Flames - DragonForce (Complete, Virtuoso Version)",
 	"Tuyo (Narcos Theme) - Rodrigo Amarante",
