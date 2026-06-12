@@ -162,6 +162,7 @@ return {
 	"Sword Art Online II Opening 1 - IGNITE",
 	"TáI Sinh",
 	"Tay TráI Chỉ TrăNg",
+	"Tentang-Kamu-Lyodra",
 	"TháI BìNh Mồ HôI RơI",
 	"TháNg 4 Là LờI NóI DốI CủA Em",
 	"ThằNg đIêN",
