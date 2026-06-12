@@ -103,6 +103,7 @@ return {
 	"Song For You",
 	"Sword Art Online Gun Gale",
 	"Sword Art Online II Opening 1 - IGNITE",
+	"TáI Sinh",
 	"Tay TráI Chỉ TrăNg",
 	"TháNg 4 Là LờI NóI DốI CủA Em",
 	"That Girl",
