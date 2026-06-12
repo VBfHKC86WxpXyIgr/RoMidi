@@ -7,6 +7,7 @@ return {
 	"[Black MIDI] RUSH E CURSED REMIX",
 	"60375 Purnama-Merindu-",
 	"âM ThầM BêN Em 2",
+	"Anh Sai RồI X BìNh YêN NơI ĐâU",
 	"Azali - MECHANICAL GOD",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
 	"BuôNg đôI Tay Chill",
