@@ -52,6 +52,7 @@ return {
 	"EM GÁI MƯA",
 	"Em HáT Cho Ai Nghe",
 	"Ending Shucks",
+	"Endless Tears",
 	"Feather - Nujabes",
 	"GáNh Mẹ",
 	"GạT đI NướC MắT",
