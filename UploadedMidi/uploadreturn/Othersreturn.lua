@@ -65,6 +65,7 @@ return {
 	"Lullaby",
 	"MAKING MY WAY",
 	"MộT NăM MớI BìNh An",
+	"MuộN RồI Mà Sao CòN",
 	"NắNg ấM Xa DầN",
 	"NắNg ấM Xa DầN - As One",
 	"Như NgàY HôM Qua",
