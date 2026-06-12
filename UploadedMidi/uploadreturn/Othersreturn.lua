@@ -20,6 +20,7 @@ return {
 	"KJ V2",
 	"KOBO KANAERO - HELP!! Mhxa",
 	"NắNg ấM Xa DầN",
+	"NắNg ấM Xa DầN - As One",
 	"Play Date",
 	"Rush E (Impossible).Transformed",
 	"Rush E (MIDI) (SYNTHESIA)",
