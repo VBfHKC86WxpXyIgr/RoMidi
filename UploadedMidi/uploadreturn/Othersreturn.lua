@@ -43,6 +43,7 @@ return {
 	"CơN MưA BăNg Giá",
 	"CơN MưA Ngang Qua",
 	"CơN MưA Ngang Qua 2",
+	"Đã-Lỡ-YêU-Em-NhiềU",
 	"ĐảO NghịCh",
 	"đáY BiểN",
 	"Để TôI ÔM Em BằNg Giai ĐIệU NàY X Có HẹN VớI Thanh XuâN",
