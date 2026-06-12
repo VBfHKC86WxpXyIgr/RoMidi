@@ -39,6 +39,7 @@ return {
 	"đáY BiểN",
 	"ĐIềU Anh BiếT",
 	"Doll Dancing",
+	"ĐừNg LàM TráI Tim Anh ĐAu X ĐI GiữA TrờI RựC Rỡ",
 	"đừNg Về Trễ Nha",
 	"Em Cua NgàY HôM Qua",
 	"Em CủA NgàY HôM Qua 2",
