@@ -29,6 +29,7 @@ return {
 	"COME MY WAY",
 	"CơN MưA Ngang Qua",
 	"CơN MưA Ngang Qua 2",
+	"ĐIềU Anh BiếT",
 	"Doll Dancing",
 	"đừNg Về Trễ Nha",
 	"Em Cua NgàY HôM Qua",
