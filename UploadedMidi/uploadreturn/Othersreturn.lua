@@ -50,6 +50,7 @@ return {
 	"NắNg ấM Xa DầN",
 	"NắNg ấM Xa DầN - As One",
 	"Như NgàY HôM Qua",
+	"Như PhúT Ban đầU",
 	"NơI NàY Có Anh",
 	"Play Date",
 	"Rush E (Impossible).Transformed",
