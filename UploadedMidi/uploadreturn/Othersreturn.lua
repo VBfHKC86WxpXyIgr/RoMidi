@@ -71,6 +71,7 @@ return {
 	"Feather - Nujabes",
 	"GáNh Mẹ",
 	"GạT đI NướC MắT",
+	"GạT đI NướC MắT 2",
 	"GHEN",
 	"Giá Như",
 	"Golden Hour X Runaway X Interstellar",
