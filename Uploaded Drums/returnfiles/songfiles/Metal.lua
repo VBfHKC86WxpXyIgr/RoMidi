@@ -119,6 +119,7 @@ return {
 	"Staind - Staind Fade [MIDIfind.com]",
 	"Styx - Heavy Metal Poisoning [MIDIfind.com]",
 	"Sugar",
+	"System Of A Down - Aerials [MIDIfind.Com]",
 	"System Of A Down - Chop Suey! [MIDIfind.Com]",
 	"The Stage - Avenged Sevenfold by Rgman",
 	"ThunderStruck - ACDC",
