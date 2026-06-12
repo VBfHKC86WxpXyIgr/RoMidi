@@ -166,6 +166,7 @@ return {
 	"ThằNg đIêN",
 	"TháP RơI Tự Do",
 	"That Girl",
+	"The-Entertainer-Jazz-Arrangement",
 	"There-S-No-One-At-All",
 	"ThiêN BồNg NguyêN SóI",
 	"ThiếU NiêN Hoa HồNg",
