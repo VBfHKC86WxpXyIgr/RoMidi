@@ -38,6 +38,7 @@ return {
 	"Its Raining Tacos",
 	"Its Raining Tacos.Mid",
 	"KhôNg PhảI Là DạNg VừA đâU",
+	"KhôNg PhảI Là DạNg VừA đâU Ost",
 	"KhuôN MặT đáNg ThươNg",
 	"KJ",
 	"KJ V2",
