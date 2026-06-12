@@ -23,6 +23,7 @@ return {
 	"BếN ThượNg HảI",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
 	"BóNg Lá RơI",
+	"Bunny-Girl-Senpai-Ed-Mai-Sakurajiama",
 	"BướC-Qua-MùA-Cô-ĐơN",
 	"BuôNg đôI Tay Chill",
 	"Buong Doi Tay Nhau Ra",
