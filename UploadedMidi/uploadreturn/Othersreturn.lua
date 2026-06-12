@@ -50,6 +50,7 @@ return {
 	"Em CủA NgàY HôM Qua 2",
 	"Em CủA NgàY HôM Qua 3",
 	"EM GÁI MƯA",
+	"Em HáT Cho Ai Nghe",
 	"Ending Shucks",
 	"Feather - Nujabes",
 	"GáNh Mẹ",
