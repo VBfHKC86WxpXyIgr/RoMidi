@@ -17,6 +17,7 @@ return {
 	"Be The Sky",
 	"Beautiful In White",
 	"Beethoven Virus",
+	"BếN ThượNg HảI",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
 	"BóNg Lá RơI",
 	"BuôNg đôI Tay Chill",
