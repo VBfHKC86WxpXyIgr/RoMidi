@@ -72,6 +72,7 @@ return {
 	"MuộN RồI Mà Sao CòN",
 	"NắNg ấM Xa DầN",
 	"NắNg ấM Xa DầN - As One",
+	"Nevada X ĐI ĐI ĐI",
 	"Như NgàY HôM Qua",
 	"Như PhúT Ban đầU",
 	"NơI NàY Có Anh",
