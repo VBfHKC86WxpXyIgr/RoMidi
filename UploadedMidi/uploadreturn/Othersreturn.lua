@@ -15,6 +15,7 @@ return {
 	"Azali - MECHANICAL GOD",
 	"Be The Sky",
 	"Beautiful In White",
+	"Beethoven Virus",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
 	"BóNg Lá RơI",
 	"BuôNg đôI Tay Chill",
