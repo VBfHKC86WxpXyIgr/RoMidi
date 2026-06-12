@@ -16,6 +16,7 @@ return {
 	"Beethoven - Moonlight Sonata (1st Movement) ",
 	"Beethoven Virus (insane)",
 	"Beethoven Virus (insane).mid (1)",
+	"Beethoven-Moonlight-Sonata",
 	"Binks Rum Binks Sake 1780241727588",
 	"Bogemian",
 	"Bruno Mars - Risk It All",
