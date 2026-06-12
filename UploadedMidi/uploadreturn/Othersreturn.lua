@@ -84,6 +84,7 @@ return {
 	"Ethan Bortnick - Cut My Fingers Off Mhxa",
 	"Fake Love X Suzume X BóNg Lá RơI",
 	"Feather - Nujabes",
+	"Forever Alone",
 	"GáNh Mẹ",
 	"GạT đI NướC MắT",
 	"GạT đI NướC MắT 2",
