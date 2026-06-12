@@ -8,6 +8,7 @@ return {
 	"60375 Purnama-Merindu-",
 	"âM ThầM BêN Em 2",
 	"Azali - MECHANICAL GOD",
+	"CơN MưA Ngang Qua",
 	"Doll Dancing",
 	"Ending Shucks",
 	"Feather - Nujabes",
