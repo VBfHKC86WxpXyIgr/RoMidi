@@ -9,6 +9,7 @@ return {
 	"âM ThầM BêN Em 2",
 	"Azali - MECHANICAL GOD",
 	"ChắC Ai đó Sẽ Về",
+	"ChắC Ai đó Sẽ Về 2014",
 	"ChàNg Trai NăM ấY Ost",
 	"CơN MưA Ngang Qua",
 	"CơN MưA Ngang Qua 2",
