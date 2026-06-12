@@ -61,6 +61,7 @@ return {
 	"ĐOảN XuâN Ca",
 	"Doll Dancing",
 	"đóM đóM Và Em",
+	"DòNg TháC ThờI Gian",
 	"đừNg Bỏ Em 1 MìNh",
 	"ĐừNg LàM TráI Tim Anh đAu",
 	"ĐừNg LàM TráI Tim Anh ĐAu X ĐI GiữA TrờI RựC Rỡ",
