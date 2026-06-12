@@ -85,6 +85,7 @@ return {
 	"Golden Hour - JVKE (Updated Ver.)",
 	"Golden Hour X Runaway X Interstellar",
 	"HãY Trao Cho Anh",
+	"HoàNg HôN",
 	"HọC MèO KêU",
 	"I Do X Demons",
 	"Irida Cartoon V4",
