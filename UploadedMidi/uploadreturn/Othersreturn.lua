@@ -9,6 +9,7 @@ return {
 	"âM ThầM BêN Em 2",
 	"Anh Sai RồI X BìNh YêN NơI ĐâU",
 	"Azali - MECHANICAL GOD",
+	"Be The Sky",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
 	"BuôNg đôI Tay Chill",
 	"Buong Doi Tay Nhau Ra",
