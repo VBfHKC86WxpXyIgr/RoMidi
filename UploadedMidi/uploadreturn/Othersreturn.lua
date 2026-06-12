@@ -9,6 +9,7 @@ return {
 	"âM ThầM BêN Em 2",
 	"Azali - MECHANICAL GOD",
 	"CơN MưA Ngang Qua",
+	"CơN MưA Ngang Qua 2",
 	"Doll Dancing",
 	"Ending Shucks",
 	"Feather - Nujabes",
