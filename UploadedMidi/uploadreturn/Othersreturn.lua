@@ -14,6 +14,7 @@ return {
 	"ANH SAI RỒI",
 	"Anh Sai RồI X BìNh YêN NơI ĐâU",
 	"Azali - MECHANICAL GOD",
+	"Back Number",
 	"Be The Sky",
 	"Beautiful In White",
 	"Beethoven Virus",
