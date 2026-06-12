@@ -40,6 +40,7 @@ return {
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
 	"Nirvana - Something In The Way",
 	"Nirvana - You Know You'Re Right [MIDIfind.Com]",
+	"Oasis - Don'T Look Back In Anger",
 	"Oasis - Slide Away [MIDIfind.Com]",
 	"Oasis - Wonderwall",
 	"Paramore - Misery Business [MIDIfind.Com]",
