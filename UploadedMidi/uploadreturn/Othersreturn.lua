@@ -89,6 +89,7 @@ return {
 	"Trả Cho Em Remix",
 	"Vợ TuyệT VờI NhấT",
 	"WE DONT TALK ANYMORE X ChúNg Ta KhôNg ThuộC Về Nhau",
+	"Winter Sonata",
 	"Xin LỗI Em",
 	"YêU Là Tha Thứ",
 	"YêU Từ CáI NhìN đầU TiêN",
