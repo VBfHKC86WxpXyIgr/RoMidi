@@ -44,6 +44,7 @@ return {
 	"ChuyệN ĐôI Ta X VếT MưA",
 	"Có ChắC YêU Là đâY",
 	"Có ChàNg Trai ViếT LêN CâY",
+	"Cô GáI M52",
 	"Có HẹN VớI Thanh XuâN",
 	"COME MY WAY",
 	"Come My Way X Intro HãY Trao Cho Anh",
