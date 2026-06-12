@@ -124,6 +124,7 @@ return {
 	"Sword Art Online II Opening 1 - IGNITE",
 	"TáI Sinh",
 	"Tay TráI Chỉ TrăNg",
+	"TháI BìNh Mồ HôI RơI",
 	"TháNg 4 Là LờI NóI DốI CủA Em",
 	"That Girl",
 	"There-S-No-One-At-All",
