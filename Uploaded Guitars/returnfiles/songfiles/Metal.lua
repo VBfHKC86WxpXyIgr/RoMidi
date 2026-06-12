@@ -31,5 +31,6 @@ return {
 	"Pantera - The Art Of Shredding",
 	"Pantera - This Love [MIDIfind.Com]",
 	"Pantera - Walk (3)",
+	"Rage Against The Machine - Killing In The Name [MIDIfind.Com]",
 	"Through The Fire And Flames - DragonForce",
 }
