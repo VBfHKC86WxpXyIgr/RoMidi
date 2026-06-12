@@ -31,6 +31,7 @@ return {
 	"ChạM Khẽ Tim Anh",
 	"ChàNg Trai NăM ấY Ost",
 	"ChạY Ngay đI",
+	"Chờ đợI Có đáNg Sợ",
 	"ChưA ChắC",
 	"ChúNg Ta CủA HiệN TạI",
 	"ChúNg Ta CủA TươNg Lai",
