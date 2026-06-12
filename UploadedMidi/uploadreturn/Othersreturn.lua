@@ -20,6 +20,7 @@ return {
 	"ChàNg Trai NăM ấY Ost",
 	"ChạY Ngay đI",
 	"ChúNg Ta CủA HiệN TạI",
+	"ChúNg Ta CủA TươNg Lai",
 	"ChúNg Ta KhôNg ThuộC Về Nhau",
 	"Có ChắC YêU Là đâY",
 	"CơN MưA Ngang Qua",
