@@ -162,6 +162,7 @@ return {
 	"Shucks Ending V2",
 	"Song For You",
 	"Sukidakara",
+	"Sunkissed Lola - Pasilyo Mhxa",
 	"SuýT NữA Thì",
 	"Sword Art Online Gun Gale",
 	"Sword Art Online II Opening 1 - IGNITE",
