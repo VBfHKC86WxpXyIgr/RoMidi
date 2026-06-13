@@ -116,6 +116,7 @@ return {
 	"KJ V2",
 	"KOBO KANAERO - HELP!! Mhxa",
 	"Kokoronashi",
+	"La La Land - A Lovely Night(Birru) MIDI",
 	"Là Tự Em đA TìNh",
 	"LạC TrôI",
 	"LàM NgườI LuôN YêU Em",
