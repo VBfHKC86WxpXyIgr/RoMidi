@@ -90,6 +90,7 @@ return {
 	"Fake Love X Suzume X BóNg Lá RơI",
 	"Feather - Nujabes",
 	"Forever Alone",
+	"Frank Sinatra - My Way But Improvising In Chopin Style - (Arr. Birru) (Live Midi) (1)",
 	"GáNh Mẹ",
 	"GạT đI NướC MắT",
 	"GạT đI NướC MắT 2",
