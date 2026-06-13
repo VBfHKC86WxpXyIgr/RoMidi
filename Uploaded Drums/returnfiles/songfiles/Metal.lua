@@ -82,6 +82,7 @@ return {
 	"Megadeth - Holy Wars",
 	"Meshuggah- Bleed.mid",
 	"Metallica - Battery (2) [MIDIfind.com]",
+	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Metallica-Enter-Sandman midi",
 	"Mushroomhead - 12 Hundred [MIDIfind.com]",
