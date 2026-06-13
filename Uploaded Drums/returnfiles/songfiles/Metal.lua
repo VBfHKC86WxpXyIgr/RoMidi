@@ -123,6 +123,7 @@ return {
 	"System Of A Down - Chop Suey! [MIDIfind.Com]",
 	"System Of A Down - Sugar [MIDIfind.Com]",
 	"The Stage - Avenged Sevenfold by Rgman",
+	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"ThunderStruck - ACDC",
 	"Toxicity by System of a Down -- Version 4.2",
 	"Unholy Confessions",
