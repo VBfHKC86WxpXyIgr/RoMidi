@@ -19,6 +19,7 @@ return {
 	"Fortunate Son - Creedance Clearwater Revival-Drum Kit, Drums",
 	"Girlfriend",
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
+	"Green Day - Letterbomb [MIDIfind.Com]",
 	"Green Day - Whatsername [MIDIfind.Com]",
 	"Hkmori - Anybody Can Find Love",
 	"Hkmori - Anybody Can Find Love (Except You.) [UNFINISHED] (Breakcore Drill 'N' Bass)",
