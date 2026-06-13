@@ -20,6 +20,7 @@ return {
 	"Girlfriend",
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
 	"Green Day - Extraordinary Girl [MIDIfind.Com]",
+	"Green Day - Jesus Of Suburbia (2) [MIDIfind.Com]",
 	"Green Day - Letterbomb [MIDIfind.Com]",
 	"Green Day - She'S A Rebel [MIDIfind.Com]",
 	"Green Day - Whatsername [MIDIfind.Com]",
