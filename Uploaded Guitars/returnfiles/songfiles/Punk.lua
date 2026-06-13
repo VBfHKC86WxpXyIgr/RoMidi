@@ -7,6 +7,7 @@ return {
 	"Green Day - Give Me Novacaine [MIDIfind.Com]",
 	"Green Day - Holiday [MIDIfind.Com]",
 	"Green Day - Jesus Of Suburbia (2) [MIDIfind.Com]",
+	"Green Day - Letterbomb [MIDIfind.Com]",
 	"Green Day - She'S A Rebel [MIDIfind.Com]",
 	"Green Dayst Jimmy",
 }
