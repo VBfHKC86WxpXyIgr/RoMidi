@@ -21,6 +21,7 @@ return {
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
 	"Green Day - Extraordinary Girl [MIDIfind.Com]",
 	"Green Day - Letterbomb [MIDIfind.Com]",
+	"Green Day - She'S A Rebel [MIDIfind.Com]",
 	"Green Day - Whatsername [MIDIfind.Com]",
 	"Hkmori - Anybody Can Find Love",
 	"Hkmori - Anybody Can Find Love (Except You.) [UNFINISHED] (Breakcore Drill 'N' Bass)",
