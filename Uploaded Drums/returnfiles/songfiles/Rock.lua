@@ -18,6 +18,7 @@ return {
 	"Foo Fighters - Everlong",
 	"Fortunate Son - Creedance Clearwater Revival-Drum Kit, Drums",
 	"Girlfriend",
+	"Hkmori - Anybody Can Find Love",
 	"imagine-dragons-believer-drum-score",
 	"Korn - Embrace",
 	"Leech",
