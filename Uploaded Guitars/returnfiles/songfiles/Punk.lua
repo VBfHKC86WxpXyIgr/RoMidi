@@ -5,4 +5,5 @@ return {
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
 	"Green Day - Holiday [MIDIfind.Com]",
 	"Green Day - Jesus Of Suburbia (2) [MIDIfind.Com]",
+	"Green Dayst Jimmy",
 }
