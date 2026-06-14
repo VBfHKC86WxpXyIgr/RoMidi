@@ -10,6 +10,7 @@ return {
 	"Avenged Sevenfold - Seize The Day Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - So Far Away [MIDIfind.Com]",
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
+	"Black Sabbath - Paranoid [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"For-Whom-The-Bell-Tolls",
 	"Judas Priest - A Touch Of Evil [MIDIfind.Com]",
