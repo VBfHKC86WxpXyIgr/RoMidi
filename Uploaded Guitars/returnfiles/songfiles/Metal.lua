@@ -70,5 +70,6 @@ return {
 	"Through The Fire And Flames - DragonForce",
 	"Type O Negative - I Don'T Wanna Be Me [MIDIfind.Com]",
 	"Type O Negative - My Girlfriend'S Girlfriend (2) [MIDIfind.Com]",
+	"Type O Negative - Out Of The Fire [MIDIfind.Com]",
 	"WASP - On Your Knees [MIDIfind.Com]",
 }
