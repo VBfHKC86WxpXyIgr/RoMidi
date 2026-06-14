@@ -33,6 +33,7 @@ return {
 	"Judas Priest - The Sentinel [MIDIfind.Com]",
 	"Judas Priest - Turbo Lover [MIDIfind.Com]",
 	"Judas Priest - Victim Of Changes [MIDIfind.Com]",
+	"Judas Priest - Victim Of Changes Intro (Solo) [MIDIfind.Com]",
 	"Megadeth - Hanger 18",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
 	"Metallica - Anesthesia Pulling Teeth With Wah Sound",
