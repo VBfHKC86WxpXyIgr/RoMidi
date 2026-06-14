@@ -89,6 +89,7 @@ return {
 	"Judas Priest - Love Bites [MIDIfind.Com]",
 	"Judas Priest - Nightcrawler [MIDIfind.Com]",
 	"Judas Priest - Revolution [MIDIfind.Com]",
+	"Judas Priest - The Sentinel [MIDIfind.Com]",
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
 	"Master of Puppets",
 	"Megadeth - Holy Wars",
