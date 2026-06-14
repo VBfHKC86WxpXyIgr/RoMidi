@@ -14,6 +14,7 @@ return {
 	"Judas Priest - A Touch Of Evil [MIDIfind.Com]",
 	"Judas Priest - Electric Eye [MIDIfind.Com]",
 	"Judas Priest - Grinder [MIDIfind.Com]",
+	"Judas Priest - Out In The Cold [MIDIfind.Com]",
 	"Judas Priest - Painkiller [MIDIfind.Com]",
 	"Judas Priest - Revolution [MIDIfind.Com]",
 	"Judas Priest - Turbo Lover [MIDIfind.Com]",
