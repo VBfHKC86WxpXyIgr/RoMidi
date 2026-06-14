@@ -164,5 +164,6 @@ return {
 	"Valkyrie - Heavy Metal Brigade [MIDIfind.com]",
 	"Vega - Heavy Metal Religija [MIDIfind.com]",
 	"WASP - I Wanna Be Somebody (2) [MIDIfind.Com]",
+	"Мастер - Берегись [MIDIfind.Com]",
 	"Мастер - Мастер [MIDIfind.Com]",
 }
