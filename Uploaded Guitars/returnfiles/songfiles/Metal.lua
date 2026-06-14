@@ -54,6 +54,7 @@ return {
 	"Metallica - The Thing That Should Not Be [MIDIfind.Com]",
 	"Osbourne Ozzy - Crazy Train [MIDIfind.Com]",
 	"Osbourne Ozzy - Hellraiser [MIDIfind.Com]",
+	"Osbourne Ozzy - I Don'T Wanna Stop [MIDIfind.Com]",
 	"Pantera - Cemetery Gates (7) [MIDIfind.Com]",
 	"Pantera - Domination",
 	"Pantera - Floods [MIDIfind.Com]",
