@@ -22,6 +22,7 @@ return {
 	"Judas Priest - Electric Eye Solo 1 [MIDIfind.Com]",
 	"Judas Priest - Electric Eye Solo 2nd Part [MIDIfind.Com]",
 	"Judas Priest - Grinder [MIDIfind.Com]",
+	"Judas Priest - Jugulator [MIDIfind.Com]",
 	"Judas Priest - Out In The Cold [MIDIfind.Com]",
 	"Judas Priest - Painkiller [MIDIfind.Com]",
 	"Judas Priest - Revolution [MIDIfind.Com]",
