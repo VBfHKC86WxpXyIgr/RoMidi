@@ -37,6 +37,7 @@ return {
 	"Megadeth - Hanger 18",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
 	"Metallica - Anesthesia Pulling Teeth With Wah Sound",
+	"Metallica - Battery [MIDIfind.Com]",
 	"Metallica - Blackened [MIDIfind.Com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
 	"Metallica - Damage Inc [MIDIfind.Com]",
