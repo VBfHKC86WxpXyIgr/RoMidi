@@ -75,4 +75,5 @@ return {
 	"Yara Yara Ya Phonk - Sua Amiga Eu Vou Pegar - MC Lan, MC WM SLOWED",
 	"Ария - Я свободен [MIDIfind.Com]",
 	"Пикник - Египтянин [MIDIfind.Com]",
+	"Пикник - Королевство кривых [MIDIfind.Com]",
 }
