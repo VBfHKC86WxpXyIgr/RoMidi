@@ -86,6 +86,7 @@ return {
 	"Judas Priest - Electric Eye [MIDIfind.Com]",
 	"Judas Priest - Grinder [MIDIfind.Com]",
 	"Judas Priest - Jugulator [MIDIfind.Com]",
+	"Judas Priest - Love Bites [MIDIfind.Com]",
 	"Judas Priest - Revolution [MIDIfind.Com]",
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
 	"Master of Puppets",
