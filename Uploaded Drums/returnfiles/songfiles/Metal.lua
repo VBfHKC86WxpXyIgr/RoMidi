@@ -126,6 +126,7 @@ return {
 	"Rage Against the Machine - Rage Against the Machine Know Your Enemy [MIDIfind.com]",
 	"Ratt - Round And Round [MIDIfind.Com]",
 	"Revenga",
+	"Scorpions - No One Like You (2) [MIDIfind.Com]",
 	"Scream",
 	"Slapshock - Direction [MIDIfind.com]",
 	"Slipknot - Before I Forget.drum midi",
