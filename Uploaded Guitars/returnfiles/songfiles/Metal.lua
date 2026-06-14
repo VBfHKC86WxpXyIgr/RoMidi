@@ -14,6 +14,7 @@ return {
 	"Judas Priest - A Touch Of Evil [MIDIfind.Com]",
 	"Judas Priest - Electric Eye [MIDIfind.Com]",
 	"Judas Priest - Grinder [MIDIfind.Com]",
+	"Judas Priest - Painkiller [MIDIfind.Com]",
 	"Megadeth - Hanger 18",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
 	"Metallica - Anesthesia Pulling Teeth With Wah Sound",
