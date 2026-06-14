@@ -56,6 +56,7 @@ return {
 	"Scorpions - No One Like You (2) [MIDIfind.Com]",
 	"Scorpions - Rock You Like A Hurricane [MIDIfind.Com]",
 	"Simple Plan - Perfect [MIDIfind.Com]",
+	"Skid Row - 18 And Life [MIDIfind.Com]",
 	"Snow (Hey Oh!)",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
 	"Strokes (The) - Last Nite [MIDIfind.Com]",
