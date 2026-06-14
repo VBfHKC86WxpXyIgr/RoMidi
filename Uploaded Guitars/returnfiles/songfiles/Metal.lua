@@ -62,6 +62,7 @@ return {
 	"Pantera - Cowboys From Hell [MIDIfind.Com]",
 	"Pantera - Domination",
 	"Pantera - Floods [MIDIfind.Com]",
+	"Pantera - Shedding Skin [MIDIfind.Com]",
 	"Pantera - The Art Of Shredding",
 	"Pantera - This Love [MIDIfind.Com]",
 	"Pantera - Walk (3)",
