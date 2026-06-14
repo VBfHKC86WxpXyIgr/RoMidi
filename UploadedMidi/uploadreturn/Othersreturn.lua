@@ -102,6 +102,7 @@ return {
 	"Giá Như",
 	"Golden Hour - JVKE (Updated Ver.)",
 	"Golden Hour X Runaway X Interstellar",
+	"HàNg NgàN HàNh VạN",
 	"HãY Trao Cho Anh",
 	"HoàNg HôN",
 	"HọC MèO KêU",
