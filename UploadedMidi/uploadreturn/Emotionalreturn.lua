@@ -65,6 +65,7 @@ return {
 	"Marcha Nupcial",
 	"MấT KếT NốI",
 	"Michael Jackson - Man In The Mirror",
+	"Michael Jackson - Will You Be There (From Free Will)",
 	"Moonlight - XXXTentacion",
 	"Morning Mood",
 	"Một vòng Việt Nam but impossible",
