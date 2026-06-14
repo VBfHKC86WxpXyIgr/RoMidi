@@ -110,6 +110,7 @@ return {
 	"Not Ready To Die",
 	"Osbourne Ozzy - Crazy Train [MIDIfind.Com]",
 	"Osbourne Ozzy - Hellraiser [MIDIfind.Com]",
+	"Osbourne Ozzy - I Don'T Wanna Stop [MIDIfind.Com]",
 	"Pantera - Becoming [MIDIfind.com]",
 	"Pantera - Cemetery Gates [MIDIfind.com]",
 	"PhantomOfTheOpera",
