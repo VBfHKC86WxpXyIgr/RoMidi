@@ -45,6 +45,7 @@ return {
 	"Blind",
 	"Bring Me The Horizon - Happy Song [MIDIfind.com]",
 	"Bring Me the Horizon - Pray For Plagues [MIDIfind.com]",
+	"Candlemass - Solitude [MIDIfind.Com]",
 	"CaughtSomewhereInTime",
 	"Clown",
 	"Contempt of Cop",
