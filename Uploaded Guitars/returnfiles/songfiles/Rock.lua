@@ -54,6 +54,7 @@ return {
 	"Ratt - Round And Round [MIDIfind.Com]",
 	"Romantic Homicide",
 	"Scorpions - No One Like You (2) [MIDIfind.Com]",
+	"Scorpions - Rock You Like A Hurricane [MIDIfind.Com]",
 	"Simple Plan - Perfect [MIDIfind.Com]",
 	"Snow (Hey Oh!)",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
