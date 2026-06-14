@@ -82,6 +82,7 @@ return {
 	"HereToStay",
 	"I Won't See You Tonight - Avenged Sevenfold",
 	"Judas Priest - Breaking The Law [MIDIfind.Com]",
+	"Judas Priest - Diamonds And Rust [MIDIfind.Com]",
 	"Judas Priest - Electric Eye [MIDIfind.Com]",
 	"Judas Priest - Grinder [MIDIfind.Com]",
 	"Judas Priest - Revolution [MIDIfind.Com]",
