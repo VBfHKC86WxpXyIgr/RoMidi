@@ -167,4 +167,5 @@ return {
 	"Мастер - 2000 лет (Иуда) [MIDIfind.Com]",
 	"Мастер - Берегись [MIDIfind.Com]",
 	"Мастер - Мастер [MIDIfind.Com]",
+	"Пикник - Королевство кривых [MIDIfind.Com]",
 }
