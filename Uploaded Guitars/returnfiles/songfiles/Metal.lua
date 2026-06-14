@@ -68,6 +68,7 @@ return {
 	"Rage Against The Machine - Killing In The Name [MIDIfind.Com]",
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"Through The Fire And Flames - DragonForce",
+	"Type O Negative - Black No 1 (2) [MIDIfind.Com]",
 	"Type O Negative - Christian Woman [MIDIfind.Com]",
 	"Type O Negative - I Don'T Wanna Be Me [MIDIfind.Com]",
 	"Type O Negative - My Girlfriend'S Girlfriend (2) [MIDIfind.Com]",
