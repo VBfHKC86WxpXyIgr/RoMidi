@@ -19,6 +19,7 @@ return {
 	"Judas Priest - Breaking The Law [MIDIfind.Com]",
 	"Judas Priest - Diamonds And Rust [MIDIfind.Com]",
 	"Judas Priest - Electric Eye [MIDIfind.Com]",
+	"Judas Priest - Electric Eye Solo 1 [MIDIfind.Com]",
 	"Judas Priest - Grinder [MIDIfind.Com]",
 	"Judas Priest - Out In The Cold [MIDIfind.Com]",
 	"Judas Priest - Painkiller [MIDIfind.Com]",
