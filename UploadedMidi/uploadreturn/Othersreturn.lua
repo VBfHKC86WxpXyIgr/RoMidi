@@ -61,6 +61,7 @@ return {
 	"Đã-Lỡ-YêU-Em-NhiềU",
 	"ĐảO NghịCh",
 	"đáY BiểN",
+	"Dễ Thay đổI",
 	"Để TôI ÔM Em BằNg Giai ĐIệU NàY X Có HẹN VớI Thanh XuâN",
 	"ĐIềU Anh BiếT",
 	"ĐIềU Em Mong đợI KhôNg PhảI Là TuyếT",
