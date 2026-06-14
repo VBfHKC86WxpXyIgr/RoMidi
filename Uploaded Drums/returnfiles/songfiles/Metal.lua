@@ -77,6 +77,7 @@ return {
 	"Guns N' Roses - Sweet Child O' Mine [MIDIfind.com]",
 	"HereToStay",
 	"I Won't See You Tonight - Avenged Sevenfold",
+	"Judas Priest - Electric Eye [MIDIfind.Com]",
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
 	"Master of Puppets",
 	"Megadeth - Holy Wars",
