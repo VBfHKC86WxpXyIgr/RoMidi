@@ -129,6 +129,7 @@ return {
 	"Scorpions - No One Like You (2) [MIDIfind.Com]",
 	"Scorpions - Rock You Like A Hurricane [MIDIfind.Com]",
 	"Scream",
+	"Skid Row - 18 And Life [MIDIfind.Com]",
 	"Slapshock - Direction [MIDIfind.com]",
 	"Slipknot - Before I Forget.drum midi",
 	"Slipknot - Dead Memories (5) [MIDIfind.com]",
