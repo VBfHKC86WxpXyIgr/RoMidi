@@ -150,6 +150,7 @@ return {
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"ThunderStruck - ACDC",
 	"Toxicity by System of a Down -- Version 4.2",
+	"Type O Negative - I Don'T Wanna Be Me [MIDIfind.Com]",
 	"Unholy Confessions",
 	"Valkyrie - Heavy Metal Brigade [MIDIfind.com]",
 	"Vega - Heavy Metal Religija [MIDIfind.com]",
