@@ -109,6 +109,7 @@ return {
 	"NIRVANA.Smells Like Teen Spirit K",
 	"Not Ready To Die",
 	"Osbourne Ozzy - Crazy Train [MIDIfind.Com]",
+	"Osbourne Ozzy - Hellraiser [MIDIfind.Com]",
 	"Pantera - Becoming [MIDIfind.com]",
 	"Pantera - Cemetery Gates [MIDIfind.com]",
 	"PhantomOfTheOpera",
