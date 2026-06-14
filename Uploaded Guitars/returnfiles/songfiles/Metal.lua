@@ -58,6 +58,7 @@ return {
 	"Osbourne Ozzy - Mr Crowley [MIDIfind.Com]",
 	"Osbourne Ozzy - No More Tears [MIDIfind.Com]",
 	"Osbourne Ozzy - Perry Mason [MIDIfind.Com]",
+	"Pantera - By Demons Be Driven [MIDIfind.Com]",
 	"Pantera - Cemetery Gates (7) [MIDIfind.Com]",
 	"Pantera - Cowboys From Hell [MIDIfind.Com]",
 	"Pantera - Domination",
