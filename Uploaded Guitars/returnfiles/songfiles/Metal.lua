@@ -29,6 +29,7 @@ return {
 	"Metallica - Enter Sandman [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire [MIDIfind.Com]",
+	"Metallica - For Whom The Bell Tolls [MIDIfind.Com]",
 	"Metallica - Fuel [MIDIfind.Com]",
 	"Metallica - Lux ÆTerna",
 	"Metallica - Of Wolf And Man (3) [MIDIfind.Com]",
