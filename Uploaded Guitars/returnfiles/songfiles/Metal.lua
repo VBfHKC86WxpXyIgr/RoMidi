@@ -16,6 +16,7 @@ return {
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
 	"For-Whom-The-Bell-Tolls",
 	"Judas Priest - A Touch Of Evil [MIDIfind.Com]",
+	"Judas Priest - Breaking The Law [MIDIfind.Com]",
 	"Judas Priest - Electric Eye [MIDIfind.Com]",
 	"Judas Priest - Grinder [MIDIfind.Com]",
 	"Judas Priest - Out In The Cold [MIDIfind.Com]",
