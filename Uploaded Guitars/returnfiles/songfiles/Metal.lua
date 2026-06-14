@@ -13,6 +13,7 @@ return {
 	"Black Sabbath - Paranoid [MIDIfind.Com]",
 	"Candlemass - Solitude [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
+	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
 	"For-Whom-The-Bell-Tolls",
 	"Judas Priest - A Touch Of Evil [MIDIfind.Com]",
 	"Judas Priest - Electric Eye [MIDIfind.Com]",
