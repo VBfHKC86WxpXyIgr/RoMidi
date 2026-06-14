@@ -17,6 +17,7 @@ return {
 	"Come As You Are Nirvana Bass",
 	"Come As You Are Nirvana Guitar",
 	"Creed - One Last Breath [MIDIfind.Com]",
+	"Daft Punk - Robot Rock [MIDIfind.Com]",
 	"Dont Say Lazy",
 	"Flying Through The Sky (Ram Ranch)",
 	"Fortunate Son - Creedance Clearwater Revival",
