@@ -127,6 +127,7 @@ return {
 	"Ratt - Round And Round [MIDIfind.Com]",
 	"Revenga",
 	"Scorpions - No One Like You (2) [MIDIfind.Com]",
+	"Scorpions - Rock You Like A Hurricane [MIDIfind.Com]",
 	"Scream",
 	"Slapshock - Direction [MIDIfind.com]",
 	"Slipknot - Before I Forget.drum midi",
