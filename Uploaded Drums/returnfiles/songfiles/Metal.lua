@@ -150,6 +150,7 @@ return {
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"ThunderStruck - ACDC",
 	"Toxicity by System of a Down -- Version 4.2",
+	"Type O Negative - Christian Woman [MIDIfind.Com]",
 	"Type O Negative - I Don'T Wanna Be Me [MIDIfind.Com]",
 	"Type O Negative - My Girlfriend'S Girlfriend (2) [MIDIfind.Com]",
 	"Type O Negative - Out Of The Fire [MIDIfind.Com]",
