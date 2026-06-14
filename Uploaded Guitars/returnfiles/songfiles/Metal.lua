@@ -73,5 +73,6 @@ return {
 	"Type O Negative - I Don'T Wanna Be Me [MIDIfind.Com]",
 	"Type O Negative - My Girlfriend'S Girlfriend (2) [MIDIfind.Com]",
 	"Type O Negative - Out Of The Fire [MIDIfind.Com]",
+	"Vai Steve - For The Love Of God [MIDIfind.Com]",
 	"WASP - On Your Knees [MIDIfind.Com]",
 }
