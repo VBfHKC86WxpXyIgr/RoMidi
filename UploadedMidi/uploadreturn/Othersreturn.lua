@@ -49,6 +49,7 @@ return {
 	"ChuyệN ĐôI Ta X VếT MưA",
 	"Có ChắC YêU Là đâY",
 	"Có ChàNg Trai ViếT LêN CâY",
+	"Có ChúT NgọT NgàO",
 	"Cô GáI M52",
 	"Có HẹN VớI Thanh XuâN",
 	"Có Thể,KhôNg",
