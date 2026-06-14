@@ -59,6 +59,7 @@ return {
 	"Osbourne Ozzy - No More Tears [MIDIfind.Com]",
 	"Osbourne Ozzy - Perry Mason [MIDIfind.Com]",
 	"Pantera - Cemetery Gates (7) [MIDIfind.Com]",
+	"Pantera - Cowboys From Hell [MIDIfind.Com]",
 	"Pantera - Domination",
 	"Pantera - Floods [MIDIfind.Com]",
 	"Pantera - The Art Of Shredding",
