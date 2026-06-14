@@ -56,6 +56,7 @@ return {
 	"Metallica - Orion [MIDIfind.Com]",
 	"Metallica - Ride The Lightning",
 	"Metallica - The Thing That Should Not Be [MIDIfind.Com]",
+	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Osbourne Ozzy - Crazy Train [MIDIfind.Com]",
 	"Osbourne Ozzy - Hellraiser [MIDIfind.Com]",
 	"Osbourne Ozzy - I Don'T Wanna Stop [MIDIfind.Com]",
