@@ -104,6 +104,7 @@ return {
 	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - For Whom The Bell Tolls [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
+	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Metallica-Enter-Sandman midi",
 	"Mushroomhead - 12 Hundred [MIDIfind.com]",
 	"Mushroomhead - Episode 29 [MIDIfind.com]",
