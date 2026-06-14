@@ -152,6 +152,7 @@ return {
 	"Toxicity by System of a Down -- Version 4.2",
 	"Type O Negative - I Don'T Wanna Be Me [MIDIfind.Com]",
 	"Type O Negative - My Girlfriend'S Girlfriend (2) [MIDIfind.Com]",
+	"Type O Negative - Out Of The Fire [MIDIfind.Com]",
 	"Unholy Confessions",
 	"Valkyrie - Heavy Metal Brigade [MIDIfind.com]",
 	"Vega - Heavy Metal Religija [MIDIfind.com]",
