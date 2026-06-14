@@ -59,6 +59,7 @@ return {
 	"The Trooper",
 	"War Pigs - Black Sabbath",
 	"WASP - I Wanna Be Somebody (2) [MIDIfind.Com]",
+	"WASP - Sleeping In The Fire [MIDIfind.Com]",
 	"Weird Fishes Arpeggi - Radiohead Weird Fishes Arpeggi - Radiohead",
 	"Welcome To The Jungle",
 	"What I'Ve Done - Linkin Park",
