@@ -50,6 +50,7 @@ return {
 	"Clown",
 	"Contempt of Cop",
 	"Crucify Thy Infant",
+	"Daft Punk - Robot Rock [MIDIfind.Com]",
 	"Danger line (W.I.P)",
 	"Deftones - 7 Words [MIDIfind.com]",
 	"Deftones - Around the Fur [MIDIfind.com]",
