@@ -69,5 +69,6 @@ return {
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"Through The Fire And Flames - DragonForce",
 	"Type O Negative - I Don'T Wanna Be Me [MIDIfind.Com]",
+	"Type O Negative - My Girlfriend'S Girlfriend (2) [MIDIfind.Com]",
 	"WASP - On Your Knees [MIDIfind.Com]",
 }
