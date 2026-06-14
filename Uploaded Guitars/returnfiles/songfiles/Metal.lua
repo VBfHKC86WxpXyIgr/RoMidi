@@ -56,6 +56,7 @@ return {
 	"Osbourne Ozzy - Hellraiser [MIDIfind.Com]",
 	"Osbourne Ozzy - I Don'T Wanna Stop [MIDIfind.Com]",
 	"Osbourne Ozzy - Mr Crowley [MIDIfind.Com]",
+	"Osbourne Ozzy - No More Tears [MIDIfind.Com]",
 	"Pantera - Cemetery Gates (7) [MIDIfind.Com]",
 	"Pantera - Domination",
 	"Pantera - Floods [MIDIfind.Com]",
