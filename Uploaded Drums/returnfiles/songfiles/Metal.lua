@@ -52,6 +52,7 @@ return {
 	"Deftones - 7 Words [MIDIfind.com]",
 	"Deftones - Around the Fur [MIDIfind.com]",
 	"Deftones - One Weak [MIDIfind.com]",
+	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Disasterpiece",
 	"DOOM - Theme E1M1",
 	"Drum - Afro Latin Ritm [MIDIfind.com]",
