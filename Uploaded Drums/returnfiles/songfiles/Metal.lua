@@ -115,6 +115,7 @@ return {
 	"Osbourne Ozzy - No More Tears [MIDIfind.Com]",
 	"Osbourne Ozzy - Perry Mason [MIDIfind.Com]",
 	"Pantera - Becoming [MIDIfind.com]",
+	"Pantera - By Demons Be Driven [MIDIfind.Com]",
 	"Pantera - Cemetery Gates [MIDIfind.com]",
 	"Pantera - Cowboys From Hell [MIDIfind.Com]",
 	"Pantera - Shedding Skin [MIDIfind.Com]",
