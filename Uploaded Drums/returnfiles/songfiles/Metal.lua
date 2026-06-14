@@ -98,6 +98,7 @@ return {
 	"Meshuggah- Bleed.mid",
 	"Metallica - Battery (2) [MIDIfind.com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
+	"Metallica - Dyers Eve [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - For Whom The Bell Tolls [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
