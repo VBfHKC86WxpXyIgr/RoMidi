@@ -75,5 +75,6 @@ return {
 	"Type O Negative - Out Of The Fire [MIDIfind.Com]",
 	"Vai Steve - For The Love Of God [MIDIfind.Com]",
 	"WASP - On Your Knees [MIDIfind.Com]",
+	"Мастер - Берегись [MIDIfind.Com]",
 	"Мастер - Мастер [MIDIfind.Com]",
 }
