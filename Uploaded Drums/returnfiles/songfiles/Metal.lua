@@ -79,6 +79,7 @@ return {
 	"I Won't See You Tonight - Avenged Sevenfold",
 	"Judas Priest - Electric Eye [MIDIfind.Com]",
 	"Judas Priest - Grinder [MIDIfind.Com]",
+	"Judas Priest - Revolution [MIDIfind.Com]",
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
 	"Master of Puppets",
 	"Megadeth - Holy Wars",
