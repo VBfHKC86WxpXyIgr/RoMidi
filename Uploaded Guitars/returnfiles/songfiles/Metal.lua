@@ -12,6 +12,7 @@ return {
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
 	"For-Whom-The-Bell-Tolls",
 	"Judas Priest - A Touch Of Evil [MIDIfind.Com]",
+	"Judas Priest - Electric Eye [MIDIfind.Com]",
 	"Megadeth - Hanger 18",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
 	"Metallica - Anesthesia Pulling Teeth With Wah Sound",
