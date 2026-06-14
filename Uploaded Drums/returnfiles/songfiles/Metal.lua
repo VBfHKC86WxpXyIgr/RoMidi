@@ -116,6 +116,7 @@ return {
 	"Osbourne Ozzy - Perry Mason [MIDIfind.Com]",
 	"Pantera - Becoming [MIDIfind.com]",
 	"Pantera - Cemetery Gates [MIDIfind.com]",
+	"Pantera - Cowboys From Hell [MIDIfind.Com]",
 	"PhantomOfTheOpera",
 	"Powerslave",
 	"Primer 55 - My Girl [MIDIfind.com]",
