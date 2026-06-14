@@ -29,6 +29,7 @@ return {
 	"Judas Priest - Painkiller [MIDIfind.Com]",
 	"Judas Priest - Revolution [MIDIfind.Com]",
 	"Judas Priest - Screaming For Vengeance [MIDIfind.Com]",
+	"Judas Priest - The Ripper [MIDIfind.Com]",
 	"Judas Priest - Turbo Lover [MIDIfind.Com]",
 	"Megadeth - Hanger 18",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
