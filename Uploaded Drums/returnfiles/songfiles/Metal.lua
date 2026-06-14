@@ -160,6 +160,7 @@ return {
 	"Type O Negative - My Girlfriend'S Girlfriend (2) [MIDIfind.Com]",
 	"Type O Negative - Out Of The Fire [MIDIfind.Com]",
 	"Unholy Confessions",
+	"Vai Steve - For The Love Of God [MIDIfind.Com]",
 	"Valkyrie - Heavy Metal Brigade [MIDIfind.com]",
 	"Vega - Heavy Metal Religija [MIDIfind.com]",
 	"WASP - I Wanna Be Somebody (2) [MIDIfind.Com]",
