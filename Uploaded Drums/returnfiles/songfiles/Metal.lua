@@ -94,6 +94,7 @@ return {
 	"Judas Priest - You'Ve Got Another Thing Comin [MIDIfind.Com]",
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
 	"Master of Puppets",
+	"Megadeth - Devils Island [MIDIfind.Com]",
 	"Megadeth - Holy Wars",
 	"Megadeth - Symphony Of Destruction [MIDIfind.Com]",
 	"Megadeth - The Conjuring [MIDIfind.Com]",
