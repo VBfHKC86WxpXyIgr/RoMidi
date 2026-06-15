@@ -67,6 +67,7 @@ return {
 	"đáY BiểN",
 	"Dễ Thay đổI",
 	"Để TôI ÔM Em BằNg Giai ĐIệU NàY X Có HẹN VớI Thanh XuâN",
+	"Did I Tell U That I Miss U",
 	"ĐIềU Anh BiếT",
 	"ĐIềU Em Mong đợI KhôNg PhảI Là TuyếT",
 	"độ KhôNg độ NàNg",
