@@ -56,6 +56,7 @@ return {
 	"Metallica - One",
 	"Metallica - One [MIDIfind.Com]",
 	"Metallica - Orion [MIDIfind.Com]",
+	"Metallica - Phantom Lord [MIDIfind.Com]",
 	"Metallica - Ride The Lightning",
 	"Metallica - The Thing That Should Not Be [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
