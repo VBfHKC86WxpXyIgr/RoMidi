@@ -34,6 +34,7 @@ return {
 	"Judas Priest - Turbo Lover [MIDIfind.Com]",
 	"Judas Priest - Victim Of Changes [MIDIfind.Com]",
 	"Judas Priest - Victim Of Changes Intro (Solo) [MIDIfind.Com]",
+	"Megadeth - Devils Island [MIDIfind.Com]",
 	"Megadeth - Hanger 18",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
 	"Megadeth - Symphony Of Destruction [MIDIfind.Com]",
