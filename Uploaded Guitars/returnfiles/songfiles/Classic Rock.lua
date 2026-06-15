@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"Beatles (The) - Eleanor Rigby [MIDIfind.Com]",
 	"Buddy Holly - Weezer (Extremely Accurate) 🔥🎸G",
 	"Cant Stop - Red Hot Chili Peppers",
 	"Children",
