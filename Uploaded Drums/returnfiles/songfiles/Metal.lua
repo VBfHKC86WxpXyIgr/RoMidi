@@ -104,6 +104,7 @@ return {
 	"Metallica - Dyers Eve [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - For Whom The Bell Tolls [MIDIfind.Com]",
+	"Metallica - Frayed Ends Of Sanity [MIDIfind.Com]",
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Metallica - No Remorse [MIDIfind.Com]",
