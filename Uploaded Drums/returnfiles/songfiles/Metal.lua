@@ -106,6 +106,7 @@ return {
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Metallica - No Remorse [MIDIfind.Com]",
+	"Metallica - Phantom Lord [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Metallica-Enter-Sandman midi",
 	"Mushroomhead - 12 Hundred [MIDIfind.com]",
