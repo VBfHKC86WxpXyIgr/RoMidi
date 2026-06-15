@@ -79,6 +79,7 @@ return {
 	"Øneheart & reidenshi snowfall piano midi",
 	"Pokemon BlackWhite - An Unwavering Heart",
 	"PULSE  Tony Ann aka my neighbours car alarm 1770203303452",
+	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
 	"Radiohead - No Surprises (4) WWW.MIDISFREE.COM",
 	"Raindance - Dave, Tems (Piano)",
 	"RickRoll",
