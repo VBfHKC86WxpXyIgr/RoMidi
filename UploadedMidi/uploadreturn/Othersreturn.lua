@@ -179,6 +179,7 @@ return {
 	"Seasons-Kim-Seasonswavetoearthseasons",
 	"Shucks Ending V2",
 	"Song For You",
+	"Studio Ghibli Piano",
 	"Sukidakara",
 	"Sunkissed Lola - Pasilyo Mhxa",
 	"SuýT NữA Thì",
