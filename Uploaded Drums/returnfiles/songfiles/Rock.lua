@@ -18,6 +18,7 @@ return {
 	"Foo Fighters - Everlong",
 	"Fortunate Son - Creedance Clearwater Revival-Drum Kit, Drums",
 	"Girlfriend",
+	"Green Day - Basket Case [MIDIfind.Com]",
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
 	"Green Day - Extraordinary Girl [MIDIfind.Com]",
 	"Green Day - Give Me Novacaine [MIDIfind.Com]",
