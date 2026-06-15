@@ -47,6 +47,7 @@ return {
 	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire [MIDIfind.Com]",
 	"Metallica - For Whom The Bell Tolls [MIDIfind.Com]",
+	"Metallica - Frayed Ends Of Sanity [MIDIfind.Com]",
 	"Metallica - Fuel [MIDIfind.Com]",
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - Leper Messiah [MIDIfind.Com]",
