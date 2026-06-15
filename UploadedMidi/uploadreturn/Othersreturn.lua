@@ -140,6 +140,7 @@ return {
 	"MAKING MY WAY",
 	"MấT KếT NốI",
 	"MặT TrờI CủA Em",
+	"May Be X Kiss The Rain X River Flows In You",
 	"MộT NăM MớI BìNh An",
 	"MừNg HụT",
 	"MuộN RồI Mà Sao CòN",
