@@ -58,6 +58,7 @@ return {
 	"Metallica - Orion [MIDIfind.Com]",
 	"Metallica - Phantom Lord [MIDIfind.Com]",
 	"Metallica - Ride The Lightning",
+	"Metallica - The Four Horseman [MIDIfind.Com]",
 	"Metallica - The Thing That Should Not Be [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Osbourne Ozzy - Crazy Train [MIDIfind.Com]",
