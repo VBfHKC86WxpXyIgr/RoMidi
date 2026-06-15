@@ -98,6 +98,7 @@ return {
 	"Meshuggah- Bleed.mid",
 	"Metallica - Battery (2) [MIDIfind.com]",
 	"Metallica - Battery [MIDIfind.Com]",
+	"Metallica - Blackened [MIDIfind.Com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
 	"Metallica - Disposable Heroes [MIDIfind.Com]",
 	"Metallica - Dyers Eve [MIDIfind.Com]",
