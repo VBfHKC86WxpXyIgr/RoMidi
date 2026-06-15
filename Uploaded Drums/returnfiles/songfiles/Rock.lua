@@ -45,6 +45,7 @@ return {
 	"Nirvana - In Bloom [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
+	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit",
 	"Rollin",
 	"Smells Like Teen Spirit - Drums",
