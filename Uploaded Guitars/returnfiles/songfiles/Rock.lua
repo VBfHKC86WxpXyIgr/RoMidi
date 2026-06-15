@@ -45,6 +45,7 @@ return {
 	"Nirvana - Sappy",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
 	"Nirvana - Serve The Servants [MIDIfind.Com]",
+	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
 	"Nirvana - Something In The Way",
