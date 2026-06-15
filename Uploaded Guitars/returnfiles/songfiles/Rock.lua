@@ -37,6 +37,7 @@ return {
 	"Michael Jackson - Beat It",
 	"Michael%20Jackson%20-%20Beat%20It",
 	"Never Meant - American Football",
+	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Sappy",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
 	"Nirvana - Serve The Servants [MIDIfind.Com]",
