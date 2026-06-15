@@ -139,6 +139,7 @@ return {
 	"MãI MãI BêN Nhau",
 	"MAKING MY WAY",
 	"MấT KếT NốI",
+	"MặT TrờI CủA Em",
 	"MộT NăM MớI BìNh An",
 	"MừNg HụT",
 	"MuộN RồI Mà Sao CòN",
