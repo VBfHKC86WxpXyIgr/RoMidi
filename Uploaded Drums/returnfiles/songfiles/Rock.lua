@@ -38,6 +38,7 @@ return {
 	"Leech",
 	"Linkin Park - No More Sorrow",
 	"Linkin Park - Numb",
+	"Nirvana - Aneurysm [MIDIfind.Com]",
 	"Nirvana - Come As You Are",
 	"Nirvana - Drain You [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
