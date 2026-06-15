@@ -63,6 +63,7 @@ return {
 	"Metallica - The Four Horseman [MIDIfind.Com]",
 	"Metallica - The Thing That Should Not Be [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
+	"Metallica - Wherever I May Roam [MIDIfind.Com]",
 	"Osbourne Ozzy - Crazy Train [MIDIfind.Com]",
 	"Osbourne Ozzy - Hellraiser [MIDIfind.Com]",
 	"Osbourne Ozzy - I Don'T Wanna Stop [MIDIfind.Com]",
