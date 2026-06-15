@@ -29,6 +29,7 @@ return {
 	"Green Day - Letterbomb [MIDIfind.Com]",
 	"Green Day - She'S A Rebel [MIDIfind.Com]",
 	"Green Day - Whatsername [MIDIfind.Com]",
+	"Green Day - When I Come Around [MIDIfind.Com]",
 	"Green Dayst Jimmy",
 	"Hkmori - Anybody Can Find Love",
 	"Hkmori - Anybody Can Find Love (Except You.) [UNFINISHED] (Breakcore Drill 'N' Bass)",
