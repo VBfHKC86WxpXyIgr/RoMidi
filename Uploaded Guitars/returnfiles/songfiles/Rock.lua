@@ -37,6 +37,7 @@ return {
 	"Michael Jackson - Beat It",
 	"Michael%20Jackson%20-%20Beat%20It",
 	"Never Meant - American Football",
+	"Nirvana - Aneurysm [MIDIfind.Com]",
 	"Nirvana - Drain You [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Sappy",
