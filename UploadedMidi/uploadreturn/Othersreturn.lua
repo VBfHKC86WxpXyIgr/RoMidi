@@ -109,6 +109,7 @@ return {
 	"Golden Hour X Runaway X Interstellar",
 	"HàNg NgàN HàNh VạN",
 	"HãY Trao Cho Anh",
+	"HDSQ - Tau (6283 Notes With Fake Notes For Note Counter Rendering) [Lyzen'S Piano Cover MIDIs]",
 	"HoàNg HôN",
 	"HọC MèO KêU",
 	"HơN Cả YêU",
