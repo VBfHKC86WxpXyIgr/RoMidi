@@ -96,6 +96,7 @@ return {
 	"Master of Puppets",
 	"Megadeth - Holy Wars",
 	"Megadeth - Symphony Of Destruction [MIDIfind.Com]",
+	"Megadeth - The Conjuring [MIDIfind.Com]",
 	"Meshuggah- Bleed.mid",
 	"Metallica - Battery (2) [MIDIfind.com]",
 	"Metallica - Battery [MIDIfind.Com]",
