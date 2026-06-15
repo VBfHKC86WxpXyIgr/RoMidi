@@ -42,6 +42,7 @@ return {
 	"Nirvana - Aneurysm [MIDIfind.Com]",
 	"Nirvana - Come As You Are",
 	"Nirvana - Drain You [MIDIfind.Com]",
+	"Nirvana - In Bloom [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit",
