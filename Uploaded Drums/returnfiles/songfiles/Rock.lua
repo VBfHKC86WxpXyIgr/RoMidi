@@ -35,6 +35,7 @@ return {
 	"Linkin Park - No More Sorrow",
 	"Linkin Park - Numb",
 	"Nirvana - Come As You Are",
+	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit",
 	"Rollin",
