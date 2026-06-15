@@ -109,6 +109,7 @@ return {
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Metallica - No Remorse [MIDIfind.Com]",
 	"Metallica - Phantom Lord [MIDIfind.Com]",
+	"Metallica - Seek And Destroy [MIDIfind.Com]",
 	"Metallica - The Four Horseman [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Metallica-Enter-Sandman midi",
