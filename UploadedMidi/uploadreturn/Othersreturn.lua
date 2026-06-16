@@ -110,6 +110,7 @@ return {
 	"Golden Hour - JVKE (Updated Ver.)",
 	"Golden Hour X Runaway X Interstellar",
 	"HàNg NgàN HàNh VạN",
+	"HAPPY BIRTHDAY",
 	"HãY Trao Cho Anh",
 	"HDSQ - Tau (6283 Notes With Fake Notes For Note Counter Rendering) [Lyzen'S Piano Cover MIDIs]",
 	"HINO DO CORINTHIANS",
