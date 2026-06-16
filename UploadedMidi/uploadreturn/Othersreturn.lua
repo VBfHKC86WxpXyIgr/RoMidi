@@ -165,6 +165,7 @@ return {
 	"PhíA Sau MộT Cô GáI",
 	"Play Date",
 	"QuêN",
+	"RecuéRdame - Walt Disney Corporation RecuéRdame (Lembre De Mim)",
 	"RồI Ta Sẽ NgắM PháO Hoa CùNg Nhau",
 	"Rush E (Impossible).Transformed",
 	"Rush E (MIDI) (SYNTHESIA)",
