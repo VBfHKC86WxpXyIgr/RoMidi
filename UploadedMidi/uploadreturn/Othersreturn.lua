@@ -110,6 +110,7 @@ return {
 	"HàNg NgàN HàNh VạN",
 	"HãY Trao Cho Anh",
 	"HDSQ - Tau (6283 Notes With Fake Notes For Note Counter Rendering) [Lyzen'S Piano Cover MIDIs]",
+	"HINO DO CORINTHIANS",
 	"HoàNg HôN",
 	"HọC MèO KêU",
 	"HơN Cả YêU",
