@@ -98,6 +98,7 @@ return {
 	"Endless Tears",
 	"Ethan Bortnick - Cut My Fingers Off Mhxa",
 	"Evil Morty Meme Theme",
+	"Evil Morty Meme Theme (1)",
 	"Fake Love X Suzume X BóNg Lá RơI",
 	"Feather - Nujabes",
 	"Flower Dance + Windy Hill + 星茶会 + 夜、萤火虫和你 + Luv Letter",
