@@ -200,6 +200,7 @@ return {
 	"ThằNg đIêN",
 	"TháP RơI Tự Do",
 	"That Girl",
+	"The Last Of Us - Gustavo Santaolalla (Piano Solo)",
 	"The-Entertainer-Jazz-Arrangement",
 	"The-Ocean-Waves-Ost-I-Can-Hear-The-Sea-Shigeru-Nagata-Studio-Ghiblis-The-Ocean-Waves",
 	"There-S-No-One-At-All",
