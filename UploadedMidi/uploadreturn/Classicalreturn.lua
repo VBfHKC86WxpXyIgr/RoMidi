@@ -30,6 +30,7 @@ return {
 	"Flamewall",
 	"Frank Sinatra - My Way",
 	"Freedom Dive",
+	"Friqtao Huye",
 	"Full - Comptine D'Un Autre Ete; L'Apres Midi",
 	"Fur Elise",
 	"Fur Elise (1)",
