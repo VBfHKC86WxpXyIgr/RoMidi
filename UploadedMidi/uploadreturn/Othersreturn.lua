@@ -133,6 +133,7 @@ return {
 	"La La Land - A Lovely Night(Birru) MIDI",
 	"Là Tự Em đA TìNh",
 	"LạC TrôI",
+	"LALALALA (락) (樂) - Stray Kids (스트레이 키즈)",
 	"LàM NgườI LuôN YêU Em",
 	"LàM Vợ Anh Nhé",
 	"Lemon",
