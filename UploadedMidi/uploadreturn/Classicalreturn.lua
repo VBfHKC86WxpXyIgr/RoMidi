@@ -86,6 +86,7 @@ return {
 	"Vierra-Rasa-Ini-Anonymous-20200323154206-Nonstop2k.Com",
 	"Virginio Aiello, On Piano - Van Gogh",
 	"Wedding-Day-at-Troldhaugen",
+	"Woke Up In Japan By Friqtao",
 	"بروحي فتاة.",
 	"กลัวว่าฉันจะไม่เสียใจ (Fear) – PURPEECH",
 }
