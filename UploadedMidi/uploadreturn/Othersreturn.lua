@@ -237,6 +237,7 @@ return {
 	"We Don'T Talk Anymore",
 	"WE DONT TALK ANYMORE X ChúNg Ta KhôNg ThuộC Về Nhau",
 	"Winter Sonata",
+	"Woke Up In Japan By Friqtao",
 	"Xin LỗI Em",
 	"YêU Là Tha Thứ",
 	"YêU MộT NgườI Có Lẽ",
