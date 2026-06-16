@@ -104,6 +104,7 @@ return {
 	"Flower Dance + Windy Hill + 星茶会 + 夜、萤火虫和你 + Luv Letter",
 	"Forever Alone",
 	"Frank Sinatra - My Way But Improvising In Chopin Style - (Arr. Birru) (Live Midi) (1)",
+	"Friqtao Huye",
 	"GáNh Mẹ",
 	"GạT đI NướC MắT",
 	"GạT đI NướC MắT 2",
