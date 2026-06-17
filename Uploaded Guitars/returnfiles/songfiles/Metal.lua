@@ -64,6 +64,7 @@ return {
 	"Metallica - Orion [MIDIfind.Com]",
 	"Metallica - Phantom Lord [MIDIfind.Com]",
 	"Metallica - Ride The Lightning",
+	"Metallica - Sad But True [MIDIfind.Com]",
 	"Metallica - Seek And Destroy [MIDIfind.Com]",
 	"Metallica - The Four Horseman [MIDIfind.Com]",
 	"Metallica - The Thing That Should Not Be [MIDIfind.Com]",
