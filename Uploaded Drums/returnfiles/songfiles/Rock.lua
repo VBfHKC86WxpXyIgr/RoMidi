@@ -50,6 +50,7 @@ return {
 	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit",
 	"Rollin",
+	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Smells Like Teen Spirit - Drums",
 	"The Avengers Theme Song (CHECK MY NEW VERSION)",
 	"THE BEATLES.Helter Skelter",
