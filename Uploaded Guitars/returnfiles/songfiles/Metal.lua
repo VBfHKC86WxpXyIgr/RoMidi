@@ -90,6 +90,7 @@ return {
 	"Pantera - Walk (3)",
 	"Rage Against The Machine - Killing In The Name (2) [MIDIfind.Com]",
 	"Rage Against The Machine - Killing In The Name [MIDIfind.Com]",
+	"Slayer - Angel Of Death (2) [MIDIfind.Com]",
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"Through The Fire And Flames - DragonForce",
 	"Type O Negative - Black No 1 (2) [MIDIfind.Com]",
