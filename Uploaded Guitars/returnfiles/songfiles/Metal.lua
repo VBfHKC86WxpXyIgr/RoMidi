@@ -42,6 +42,7 @@ return {
 	"Metallica - Anesthesia Pulling Teeth With Wah Sound",
 	"Metallica - Battery [MIDIfind.Com]",
 	"Metallica - Blackened [MIDIfind.Com]",
+	"Metallica - Blackened Reversed (Intro) [MIDIfind.Com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
 	"Metallica - Damage Inc [MIDIfind.Com]",
 	"Metallica - Disposable Heroes [MIDIfind.Com]",
