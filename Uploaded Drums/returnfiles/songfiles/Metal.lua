@@ -106,6 +106,7 @@ return {
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
 	"Metallica - Disposable Heroes [MIDIfind.Com]",
 	"Metallica - Dyers Eve [MIDIfind.Com]",
+	"Metallica - Fade To Black [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - For Whom The Bell Tolls [MIDIfind.Com]",
 	"Metallica - Frayed Ends Of Sanity [MIDIfind.Com]",
