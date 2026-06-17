@@ -99,6 +99,7 @@ return {
 	"Megadeth - Symphony Of Destruction [MIDIfind.Com]",
 	"Megadeth - The Conjuring [MIDIfind.Com]",
 	"Meshuggah- Bleed.mid",
+	"Metallica - And Justice For All [MIDIfind.Com]",
 	"Metallica - Battery (2) [MIDIfind.com]",
 	"Metallica - Battery [MIDIfind.Com]",
 	"Metallica - Blackened [MIDIfind.Com]",
