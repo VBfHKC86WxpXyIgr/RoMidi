@@ -155,6 +155,7 @@ return {
 	"Scream",
 	"Skid Row - 18 And Life [MIDIfind.Com]",
 	"Slapshock - Direction [MIDIfind.com]",
+	"Slayer - Angel Of Death (2) [MIDIfind.Com]",
 	"Slipknot - Before I Forget.drum midi",
 	"Slipknot - Dead Memories (5) [MIDIfind.com]",
 	"Slipknot - Eyeless",
