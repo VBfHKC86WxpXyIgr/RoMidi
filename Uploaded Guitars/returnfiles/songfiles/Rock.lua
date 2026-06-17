@@ -35,6 +35,7 @@ return {
 	"Megalo Box 2",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Michael Jackson - Beat It",
+	"Michael Jackson - Dirty Diana",
 	"Michael%20Jackson%20-%20Beat%20It",
 	"Never Meant - American Football",
 	"Nirvana - All Apologies [MIDIfind.Com]",
