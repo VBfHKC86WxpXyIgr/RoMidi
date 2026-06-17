@@ -16,4 +16,5 @@ return {
 	"Green Day - Whatsername [MIDIfind.Com]",
 	"Green Day - When I Come Around [MIDIfind.Com]",
 	"Green Dayst Jimmy",
+	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 }
