@@ -222,6 +222,7 @@ return {
 	"TìNh YêU MàU NắNg",
 	"TìNh YêU VĩNh ViêNhx KhôNg MấT đI",
 	"Ton 618",
+	"Took Her To The O - King Von",
 	"Tra Cho Anh",
 	"Trả Cho Em Remix",
 	"TrạM Khí TưởNg",
