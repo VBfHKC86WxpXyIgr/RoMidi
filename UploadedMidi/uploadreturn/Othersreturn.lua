@@ -154,6 +154,7 @@ return {
 	"MấT KếT NốI",
 	"MặT TrờI CủA Em",
 	"May Be X Kiss The Rain X River Flows In You",
+	"Michael Jackson - Dirty Diana",
 	"MộT NăM MớI BìNh An",
 	"MừNg HụT",
 	"MuộN RồI Mà Sao CòN",
