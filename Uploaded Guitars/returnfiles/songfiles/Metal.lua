@@ -66,6 +66,7 @@ return {
 	"Metallica - Ride The Lightning",
 	"Metallica - Sad But True [MIDIfind.Com]",
 	"Metallica - Seek And Destroy [MIDIfind.Com]",
+	"Metallica - Some Kind Of Monster [MIDIfind.Com]",
 	"Metallica - The Four Horseman [MIDIfind.Com]",
 	"Metallica - The Thing That Should Not Be [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
