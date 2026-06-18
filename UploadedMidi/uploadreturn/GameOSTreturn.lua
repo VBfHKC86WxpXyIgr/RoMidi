@@ -104,6 +104,7 @@ return {
 	"Subwoofer Lullaby (Minecraft)",
 	"Summer Smile - Silent Partner No Copyright Music-303964052",
 	"Sweden (Minecraft)",
+	"Swift Strike",
 	"tera-io-flamewall-camellia",
 	"Tetris Theme, BLACK MIDI 50K NOTES",
 	"The Entertainer - Scott Joplin ",
