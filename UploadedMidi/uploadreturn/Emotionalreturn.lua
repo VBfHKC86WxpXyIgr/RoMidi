@@ -31,6 +31,7 @@ return {
 	"Erika",
 	"Fly Away",
 	"Freaks – Surf Curse Freaks",
+	"Golden-Hour-Full-Version",
 	"happy",
 	"Happy",
 	"Hope - XXXTENTACION",
