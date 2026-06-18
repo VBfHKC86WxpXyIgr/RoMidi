@@ -54,6 +54,7 @@ return {
 	"Danger line (W.I.P)",
 	"Deftones - 7 Words [MIDIfind.com]",
 	"Deftones - Around the Fur [MIDIfind.com]",
+	"Deftones - My Own Summer Shove It [MIDIfind.Com]",
 	"Deftones - One Weak [MIDIfind.com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Disasterpiece",
