@@ -6,6 +6,7 @@ return {
 	"Alice In Chains - It Ain'T Like It [MIDIfind.Com]",
 	"Alice In Chains - Man In A Box",
 	"Alice In Chains - Sludge Factory [MIDIfind.Com]",
+	"Alice In Chains - Would(3) [MIDIfind.Com]",
 	"American Football - Never Meant",
 	"Bismarck - Sabaton Piano Arrangement",
 	"Black Rover - Black Clover (OP 3)",
