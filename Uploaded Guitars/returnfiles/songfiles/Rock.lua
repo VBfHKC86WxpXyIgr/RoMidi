@@ -3,6 +3,7 @@ return {
 	"21 Guns - Green Day (Piano-Vocal-Guitar)",
 	"ACDC - Thunderstruck [MIDIfind.Com]",
 	"Alice In Chains - Man In A Box",
+	"Alice In Chains - Sludge Factory [MIDIfind.Com]",
 	"American Football - Never Meant",
 	"Bismarck - Sabaton Piano Arrangement",
 	"Black Rover - Black Clover (OP 3)",
