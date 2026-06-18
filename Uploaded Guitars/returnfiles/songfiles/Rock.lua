@@ -2,6 +2,7 @@
 return {
 	"21 Guns - Green Day (Piano-Vocal-Guitar)",
 	"ACDC - Thunderstruck [MIDIfind.Com]",
+	"Alice In Chains - Damm That River [MIDIfind.Com]",
 	"Alice In Chains - Man In A Box",
 	"Alice In Chains - Sludge Factory [MIDIfind.Com]",
 	"American Football - Never Meant",
