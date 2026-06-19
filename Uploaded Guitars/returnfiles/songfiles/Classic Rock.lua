@@ -11,6 +11,7 @@ return {
 	"Guns N Roses - Sweet Child O Mine",
 	"Hava Nagila A Z Idelsohn",
 	"Last Rites Loved To Deth - Megadeth Last Rites Loved To Deth - Megadeth (Demo)",
+	"Let It Happen - Tame Impala",
 	"Megadeth - Holy Wars The Punishment Due",
 	"Megalovania On Guitar",
 	"Metallica+-+Master+Of+Puppets+(Guitars+Only)",
