@@ -60,6 +60,7 @@ return {
 	"Nezuko HalcyonMusic",
 	"NieR - Kaine Salvation",
 	"No Game No Life - THIS GAME Mhxa Peak",
+	"Omae Wa Mou Mhxa",
 	"Orange 7!! - Your Lie In April",
 	"Path Of The Wind - Totoro OST Mhxa",
 	"pf solo",
