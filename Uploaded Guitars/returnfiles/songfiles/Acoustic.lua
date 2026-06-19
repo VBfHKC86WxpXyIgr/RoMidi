@@ -4,6 +4,7 @@ return {
 	"62977 GITARA",
 	"About You By The 1780242398856",
 	"Andra And The BackBone - Sempurna Lyre.Mid",
+	"Arranged By @KAyuna-Guitar - 夜に駆ける",
 	"Binks Rum Binks Sake 1780241727588",
 	"Bleach - Ranbu No Melody (OP 13)",
 	"Can'T Help Falling In Love - Elvis Presley",
