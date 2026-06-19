@@ -105,6 +105,7 @@ return {
 	"Type O Negative - My Girlfriend'S Girlfriend (2) [MIDIfind.Com]",
 	"Type O Negative - Out Of The Fire [MIDIfind.Com]",
 	"Vai Steve - For The Love Of God [MIDIfind.Com]",
+	"VØJ & Narvent - Memory Reboot",
 	"WASP - On Your Knees [MIDIfind.Com]",
 	"Мастер - 2000 лет (Иуда) [MIDIfind.Com]",
 	"Мастер - Берегись [MIDIfind.Com]",
