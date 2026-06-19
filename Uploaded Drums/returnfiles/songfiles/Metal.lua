@@ -69,6 +69,7 @@ return {
 	"Duality - Slipknot",
 	"Elena Siegman - 115",
 	"Eyeless",
+	"Eyeless -Without Metronome Added",
 	"Eyeless Cadence",
 	"Faget",
 	"Faith No More - A Small Victory [MIDIfind.com]",
