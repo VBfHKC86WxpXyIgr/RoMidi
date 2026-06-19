@@ -66,6 +66,7 @@ return {
 	"pf solo",
 	"popipo - Hatsune miku - midi by tutogamer2a - WIP",
 	"Promise Neverland - Isabella'S Lullaby Mhxa",
+	"RE ZERO - STAY ALIVE Mhxa",
 	"Reinai Circulation Mhxa",
 	"Rokudenashi - One Voice Mhxa",
 	"Scott Joplin'S The Entertainer MIDI FULL",
