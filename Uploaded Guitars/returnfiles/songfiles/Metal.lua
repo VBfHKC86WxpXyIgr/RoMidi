@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"505 - Arctic Monkeys",
+	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
 	"Avenged Sevenfold - Afterlife Solo Live [MIDIfind.Com]",
 	"Avenged Sevenfold - Buried Alive [MIDIfind.Com]",
 	"Avenged Sevenfold - Clairvoyant Disease [MIDIfind.Com]",
