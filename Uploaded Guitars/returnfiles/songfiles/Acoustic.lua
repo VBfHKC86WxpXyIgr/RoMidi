@@ -12,6 +12,7 @@ return {
 	"Clair-De-Lune-Debussy",
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Composed By Yu-Peng Chen Arranged By Devon Sebastian K - Liyue Harbor Song No. 4",
+	"Dumb Ways To Die",
 	"Ed Sheeran Thinking Out Loud",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
