@@ -214,6 +214,7 @@ return {
 	"Studio Ghibli Piano",
 	"Sukidakara",
 	"Sunkissed Lola - Pasilyo Mhxa",
+	"Super Mario 64 Wing Cap Mario Koji Kondo SM64 Powerful Mario Theme",
 	"SuýT NữA Thì",
 	"Sword Art Online Gun Gale",
 	"Sword Art Online II Opening 1 - IGNITE",
