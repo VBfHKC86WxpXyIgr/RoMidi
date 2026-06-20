@@ -17,6 +17,7 @@ return {
 	"Green Day - When I Come Around [MIDIfind.Com]",
 	"Green Dayst Jimmy",
 	"Nirvana - Big Long Now",
+	"Nirvana - Big Long Now (4) [MIDIfind.Com]",
 	"Nirvana - Love Buzz (7) [MIDIfind.Com]",
 	"Nirvana - Paper Cuts (2) [MIDIfind.Com]",
 	"Nirvana - Paper Cuts [MIDIfind.Com]",
