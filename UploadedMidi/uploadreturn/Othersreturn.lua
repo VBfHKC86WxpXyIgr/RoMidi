@@ -183,6 +183,7 @@ return {
 	"NơI NàY Có Anh",
 	"NƠI NÀY CÓ ANH EASY",
 	"NuôNg ChiềU đếN Hư HỏNg",
+	"OFFICIAL Roblox Bakon Theme Song",
 	"Ordinary Confession",
 	"P Do Pecado - Ao Vivo - Grupo Menos É Mais (Piano)",
 	"Phi ĐIểU Và Ve SầU",
