@@ -21,6 +21,7 @@ return {
 	"Casey Edwards - Devil Trigger",
 	"Creo - Flow",
 	"Deadlocked (Geometry Dash)",
+	"Death By Glamour Piano",
 	"Deltarune - Field Of Hopes And Dreams - Urimegaconnor (1)",
 	"DELTARUNE - It’s TV Time!",
 	"Descend [PianoSolo]",
