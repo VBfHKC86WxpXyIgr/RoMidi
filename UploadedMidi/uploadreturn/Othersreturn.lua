@@ -154,6 +154,7 @@ return {
 	"Lemon",
 	"Lightning Moment",
 	"Love Story X Golden Brown",
+	"Lucid Dreams",
 	"Lullaby",
 	"MãI MãI BêN Nhau",
 	"MAKING MY WAY",
