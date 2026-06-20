@@ -152,6 +152,7 @@ return {
 	"LàM Vợ Anh Nhé",
 	"Lemon",
 	"Lightning Moment",
+	"Love Story X Golden Brown",
 	"Lullaby",
 	"MãI MãI BêN Nhau",
 	"MAKING MY WAY",
