@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"Breed - Nirvana (TABS And Vocals)",
 	"Green Day - American Idiot (2) [MIDIfind.Com]",
 	"Green Day - Are We The Waiting [MIDIfind.Com]",
 	"Green Day - Basket Case [MIDIfind.Com]",
