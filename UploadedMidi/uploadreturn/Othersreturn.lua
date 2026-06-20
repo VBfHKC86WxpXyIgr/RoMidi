@@ -92,6 +92,7 @@ return {
 	"đườNg MộT ChiềU",
 	"ĐƯỜNG-TÔI-CHỞ-EM-VỀ",
 	"Elevator Jam LSPLASH But Here I Come Super Hard Edition",
+	"Ella Baila Sola Eslabon Armado Y Peso Pluma",
 	"Em Cua NgàY HôM Qua",
 	"Em CủA NgàY HôM Qua 2",
 	"Em CủA NgàY HôM Qua 3",
