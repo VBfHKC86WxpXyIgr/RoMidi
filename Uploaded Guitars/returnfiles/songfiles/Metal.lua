@@ -19,6 +19,7 @@ return {
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
 	"Eruption - Van Halen",
 	"For-Whom-The-Bell-Tolls",
+	"Jason Becker - Altitudes Solo",
 	"Judas Priest - A Touch Of Evil [MIDIfind.Com]",
 	"Judas Priest - Breaking The Law [MIDIfind.Com]",
 	"Judas Priest - Diamonds And Rust [MIDIfind.Com]",
