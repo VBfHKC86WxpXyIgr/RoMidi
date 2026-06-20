@@ -101,6 +101,7 @@ return {
 	"Rage Against The Machine - Killing In The Name [MIDIfind.Com]",
 	"Slayer - Angel Of Death (2) [MIDIfind.Com]",
 	"Slayer - Raining Blood [MIDIfind.Com]",
+	"Symphony X - Sea Of Lies First Part",
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"Through The Fire And Flames - DragonForce",
 	"Trilogy Suite Op 5 - Yngwie Malmsteen",
