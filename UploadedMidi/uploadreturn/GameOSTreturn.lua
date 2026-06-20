@@ -8,6 +8,7 @@ return {
 	"After School Jamboree",
 	"Animation Warrior Theme - Nighthawk22",
 	"ASGORE - Toby Fox",
+	"ASGORE Kyle Landry EDT",
 	"Attack Of The Killer Queen - (Deltarune) - [MIDI]",
 	"Back on Track",
 	"Bad Piggies - Main Theme",
