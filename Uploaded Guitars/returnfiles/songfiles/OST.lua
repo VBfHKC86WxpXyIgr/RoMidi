@@ -4,5 +4,6 @@ return {
 	"Ella Baila Sola Eslabon Armado Y Peso Pluma",
 	"Grand Theft Auto San Andreas - Intro [MIDIfind.Com]",
 	"OFFICIAL Roblox Bakon Theme Song",
+	"Seek (Among Us) NEW",
 	"The Legend Of Zelda Great Fairy Fountain (Piano Cover)",
 }
