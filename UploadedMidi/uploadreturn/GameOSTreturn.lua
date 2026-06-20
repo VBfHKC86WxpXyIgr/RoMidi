@@ -24,6 +24,7 @@ return {
 	"Death By Glamour Piano",
 	"Deltarune - Field Of Hopes And Dreams - Urimegaconnor (1)",
 	"DELTARUNE - It’s TV Time!",
+	"Deltarune - THE WORLD REVOLVING",
 	"Descend [PianoSolo]",
 	"Dialtone - MIDI",
 	"DJVI - Base After Base (Geometry Dash)",
