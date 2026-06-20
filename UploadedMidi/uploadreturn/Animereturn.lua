@@ -43,6 +43,7 @@ return {
 	"Jojo's Bizarre Adventure Part 2   Battle Tendency OP - Bloody Stream",
 	"Josuke's theme Diamond Is Unbreakable in piano(COMPLETE)",
 	"Judas",
+	"Kaibutsu 怪物 (MONSTER) - YOASOBI (BEASTARS OP2)",
 	"Kamado Nezuko no Uta HalcyonMusic",
 	"Kensuke Ushio - IN THE POOL",
 	"Kensuke Ushio - in the pool v2",
