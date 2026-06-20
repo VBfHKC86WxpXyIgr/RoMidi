@@ -192,6 +192,7 @@ return {
 	"RecuéRdame - Walt Disney Corporation RecuéRdame (Lembre De Mim)",
 	"Remember Me Slimv Remix SơN TùNg",
 	"RồI Ta Sẽ NgắM PháO Hoa CùNg Nhau",
+	"Rosalina In The Observatory 3 - Super Mario Galaxy 2",
 	"Rush E (Impossible).Transformed",
 	"Rush E (MIDI) (SYNTHESIA)",
 	"RUSH E 2 - Sheet Music Boss",
