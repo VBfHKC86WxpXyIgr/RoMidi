@@ -17,6 +17,7 @@ return {
 	"Green Day - When I Come Around [MIDIfind.Com]",
 	"Green Dayst Jimmy",
 	"Nirvana - Love Buzz (7) [MIDIfind.Com]",
+	"Nirvana - Paper Cuts (2) [MIDIfind.Com]",
 	"Nirvana - Paper Cuts [MIDIfind.Com]",
 	"Paper Cuts - Nirvana (Piano-Vocal-Guitar)",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
