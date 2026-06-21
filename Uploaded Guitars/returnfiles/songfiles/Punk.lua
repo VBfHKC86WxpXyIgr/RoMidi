@@ -27,6 +27,7 @@ return {
 	"Nirvana - Dive (7) [MIDIfind.Com] (1)",
 	"Nirvana - Here She Comes Now (3) [MIDIfind.Com]",
 	"Nirvana - Love Buzz (7) [MIDIfind.Com]",
+	"Nirvana - Molly'S Lips (3) [MIDIfind.Com]",
 	"Nirvana - Oh Me (2) [MIDIfind.Com]",
 	"Nirvana - Paper Cuts (2) [MIDIfind.Com]",
 	"Nirvana - Paper Cuts [MIDIfind.Com]",
