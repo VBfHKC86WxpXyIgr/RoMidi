@@ -142,6 +142,7 @@ return {
 	"Metallica - The Four Horseman [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Metallica - Wherever I May Roam [MIDIfind.Com]",
+	"Metallica - Whiplash [MIDIfind.Com]",
 	"Metallica-Enter-Sandman midi",
 	"Mushroomhead - 12 Hundred [MIDIfind.com]",
 	"Mushroomhead - Episode 29 [MIDIfind.com]",
