@@ -18,6 +18,7 @@ return {
 	"Avenged Sevenfold - Seize The Day Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - So Far Away [MIDIfind.Com]",
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
+	"Bathory - Song To Hall Up High",
 	"Becker Jason - Altitudes (2) [MIDIfind.Com]",
 	"Black Sabbath - Black Sabbath [MIDIfind.Com]",
 	"Black Sabbath - Paranoid [MIDIfind.Com]",
