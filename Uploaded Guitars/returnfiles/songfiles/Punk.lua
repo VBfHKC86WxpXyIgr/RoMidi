@@ -22,6 +22,7 @@ return {
 	"Nirvana - Big Long Now (4) [MIDIfind.Com]",
 	"Nirvana - Here She Comes Now (3) [MIDIfind.Com]",
 	"Nirvana - Love Buzz (7) [MIDIfind.Com]",
+	"Nirvana - Oh Me (2) [MIDIfind.Com]",
 	"Nirvana - Paper Cuts (2) [MIDIfind.Com]",
 	"Nirvana - Paper Cuts [MIDIfind.Com]",
 	"Nirvana - Sifting (3) [MIDIfind.Com]",
