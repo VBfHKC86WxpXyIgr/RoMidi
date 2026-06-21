@@ -54,6 +54,7 @@ return {
 	"Nirvana - Smells Like Teen Spirit",
 	"Rollin",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
+	"Skillet - Monster [MIDIfind.Com]",
 	"Smells Like Teen Spirit - Drums",
 	"The Avengers Theme Song (CHECK MY NEW VERSION)",
 	"THE BEATLES.Helter Skelter",
