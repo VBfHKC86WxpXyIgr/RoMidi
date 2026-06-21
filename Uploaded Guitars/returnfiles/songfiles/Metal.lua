@@ -7,6 +7,7 @@ return {
 	"50 Metallica RIFFS",
 	"50 Pantera RIFFS",
 	"505 - Arctic Monkeys",
+	"A Miserable Life",
 	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
 	"Avenged Sevenfold - Afterlife Solo Live [MIDIfind.Com]",
 	"Avenged Sevenfold - Buried Alive [MIDIfind.Com]",
