@@ -44,6 +44,7 @@ return {
 	"Black-Hole-Sun",
 	"Blazed - Heavy Metal Balad [MIDIfind.com]",
 	"Blind",
+	"Breed - Nirvana Drums",
 	"Bring Me The Horizon - Happy Song [MIDIfind.com]",
 	"Bring Me the Horizon - Pray For Plagues [MIDIfind.com]",
 	"Candlemass - Solitude [MIDIfind.Com]",
