@@ -69,6 +69,7 @@ return {
 	"Lifelover - I Love To Hurt You (2) [MIDIfind.Com]",
 	"Lifelover - Lethargy [MIDIfind.Com]",
 	"Lifelover - Mental Central Dialog [MIDIfind.Com]",
+	"Lifelover - Myspys [MIDIfind.Com]",
 	"Lifelover - Nackskott [MIDIfind.Com]",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
 	"Lost Wisdom - Burzum",
