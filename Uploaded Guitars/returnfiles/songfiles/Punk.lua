@@ -55,6 +55,7 @@ return {
 	"Nirvana - Stay Away (6) [MIDIfind.Com]",
 	"Nirvana - Tourette'S (4) [MIDIfind.Com]",
 	"Nirvana Pennyroyal Tea1",
+	"Nirvana Smells Like Teen Spirit Nirvana",
 	"Nirvanableach Big Cheese",
 	"Nirvanableach Downer",
 	"Nirvanableach Love Buzz",
