@@ -11,6 +11,7 @@ return {
 	"3am La La Land (Birru) MIDI",
 	"46313 Zen-Zen-Zense",
 	"50 Megadeth RIFFS",
+	"50 Metallica RIFFS",
 	"50 Nirvana RIFFS",
 	"60375 Purnama-Merindu-",
 	"âM ThầM BêN Em 2",
