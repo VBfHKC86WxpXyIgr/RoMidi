@@ -70,6 +70,7 @@ return {
 	"Nirvanaverse Chorus Verse",
 	"Paper Cuts - Nirvana (Piano-Vocal-Guitar)",
 	"Rape Me - Nirvana",
+	"School - Nirvana School - Nirvana",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Swap Meet - Nirvana (Piano-Vocal-Guitar)",
 	"Territorial - Pissings",
