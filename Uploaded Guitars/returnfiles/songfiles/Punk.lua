@@ -83,6 +83,7 @@ return {
 	"School - Nirvana School - Nirvana",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Smells Like Teen Spirit",
+	"Smells Like Teen Spirit - Nirvana (Piano-Vocal-Guitar)",
 	"Swap Meet - Nirvana (Piano-Vocal-Guitar)",
 	"Territorial - Pissings",
 	"Territorial Pissings - Nirvana (1)",
