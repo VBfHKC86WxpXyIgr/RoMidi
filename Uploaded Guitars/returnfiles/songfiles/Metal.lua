@@ -31,6 +31,7 @@ return {
 	"Burzum - Jesus Tod [MIDIfind.Com]",
 	"Cacophony - Concerto (2) [MIDIfind.Com]",
 	"Cacophony - Speed Metal Symphony (2) [MIDIfind.Com]",
+	"Cancertid - Lifelover",
 	"Candlemass - Solitude [MIDIfind.Com]",
 	"Darkthrone - Transilvanian Hunger (4) [MIDIfind.Com]",
 	"Darkthrone - Under A Funeral Moon [MIDIfind.Com]",
