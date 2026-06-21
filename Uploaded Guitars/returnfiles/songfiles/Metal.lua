@@ -150,6 +150,7 @@ return {
 	"Rammstein - Du Hast [MIDIfind.Com]",
 	"Rammstein - Sonne [MIDIfind.Com]",
 	"Roses On Bathory S Blood Bath",
+	"Silencer - Sterile Nails And Thunderbowels [MIDIfind.Com]",
 	"Slayer - Angel Of Death (2) [MIDIfind.Com]",
 	"Slayer - Raining Blood [MIDIfind.Com]",
 	"Symphony X - Sea Of Lies First Part",
