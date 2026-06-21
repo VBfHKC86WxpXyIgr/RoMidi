@@ -25,6 +25,7 @@ return {
 	"Nirvana - Paper Cuts (2) [MIDIfind.Com]",
 	"Nirvana - Paper Cuts [MIDIfind.Com]",
 	"Nirvana - Sifting (3) [MIDIfind.Com]",
+	"Nirvanararities Talk To Me",
 	"Paper Cuts - Nirvana (Piano-Vocal-Guitar)",
 	"Rape Me - Nirvana",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
