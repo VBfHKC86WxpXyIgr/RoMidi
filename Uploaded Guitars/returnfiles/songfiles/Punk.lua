@@ -43,6 +43,7 @@ return {
 	"Nirvana - Sifting (3) [MIDIfind.Com]",
 	"Nirvana - Son Of A Gun (3) [MIDIfind.Com]",
 	"Nirvana - Stain (4) [MIDIfind.Com]",
+	"Nirvana - Tourette'S (4) [MIDIfind.Com]",
 	"Nirvanableach Big Cheese",
 	"Nirvanableach Downer",
 	"Nirvanableach Love Buzz",
