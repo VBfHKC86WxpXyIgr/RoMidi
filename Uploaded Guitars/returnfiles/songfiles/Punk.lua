@@ -33,6 +33,7 @@ return {
 	"Nirvanableach Big Cheese",
 	"Nirvanableach Downer",
 	"Nirvanableach Love Buzz",
+	"Nirvanableach Scoff",
 	"Nirvanaincesticide Beeswax",
 	"Nirvanaincesticide Hairspray Queen",
 	"Nirvanaincesticide Turnaround",
