@@ -33,6 +33,7 @@ return {
 	"Nirvana - Plateau (3) [MIDIfind.Com]",
 	"Nirvana - Return Of The Rat (2) [MIDIfind.Com]",
 	"Nirvana - Sifting (3) [MIDIfind.Com]",
+	"Nirvana - Son Of A Gun (3) [MIDIfind.Com]",
 	"Nirvanableach Big Cheese",
 	"Nirvanableach Downer",
 	"Nirvanableach Love Buzz",
