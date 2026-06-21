@@ -45,6 +45,7 @@ return {
 	"Avenged Sevenfold - Warmness on the Soul [MIDIfind.com]",
 	"Avenged Sevenfold - Welcome to the Family",
 	"Avenged Sevenfold~Critical Acclaim",
+	"Bathory - Total Destruction",
 	"BeQuickOrBeDead",
 	"Bitchslap",
 	"Black Sabbath - Black Sabbath [MIDIfind.Com]",
