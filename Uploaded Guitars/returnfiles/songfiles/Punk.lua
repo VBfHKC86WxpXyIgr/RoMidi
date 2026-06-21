@@ -31,6 +31,7 @@ return {
 	"Nirvana - Return Of The Rat (2) [MIDIfind.Com]",
 	"Nirvana - Sifting (3) [MIDIfind.Com]",
 	"Nirvanableach Big Cheese",
+	"Nirvanableach Downer",
 	"Nirvanableach Love Buzz",
 	"Nirvanaincesticide Beeswax",
 	"Nirvanaincesticide Hairspray Queen",
