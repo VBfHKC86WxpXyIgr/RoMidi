@@ -88,6 +88,7 @@ return {
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Metallica - Wherever I May Roam [MIDIfind.Com]",
 	"Michael Jackson - Thriller",
+	"Monster - Skillet",
 	"Osbourne Ozzy - Crazy Train [MIDIfind.Com]",
 	"Osbourne Ozzy - Hellraiser [MIDIfind.Com]",
 	"Osbourne Ozzy - I Don'T Wanna Stop [MIDIfind.Com]",
