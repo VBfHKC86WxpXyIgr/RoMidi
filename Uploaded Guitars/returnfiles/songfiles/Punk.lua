@@ -34,6 +34,7 @@ return {
 	"Nirvanamuddy Banks Spank Thru",
 	"Nirvananevermind Endless Nameless",
 	"Nirvanararities D7",
+	"Nirvanararities Oh The Guilt",
 	"Nirvanararities Opinion",
 	"Nirvanararities Talk To Me",
 	"Nirvanararities The Money Will Roll Right In",
