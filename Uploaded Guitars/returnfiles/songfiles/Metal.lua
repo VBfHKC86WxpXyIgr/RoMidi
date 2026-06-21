@@ -34,6 +34,7 @@ return {
 	"Darkthrone - Under A Funeral Moon [MIDIfind.Com]",
 	"Darkthrone - Unholy Blackmetal [MIDIfind.Com]",
 	"Darkthrone - Valkyrie [MIDIfind.Com]",
+	"DauðI Baldrs - Burzum",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
 	"Eruption - Van Halen",
