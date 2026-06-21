@@ -2,6 +2,7 @@
 return {
 	"[Dropped] Gojira - The Art of Dying",
 	"37075 Danger-Line (2)",
+	"50 Iron Maiden RIFFS",
 	"50 KISS RIFFS",
 	"50 Megadeth RIFFS",
 	"50 Metallica RIFFS",
