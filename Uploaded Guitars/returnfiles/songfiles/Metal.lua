@@ -149,6 +149,7 @@ return {
 	"Type O Negative - Out Of The Fire [MIDIfind.Com]",
 	"Vai Steve - For The Love Of God [MIDIfind.Com]",
 	"Valhalla - Bathory",
+	"Venom - If You Wanna War [MIDIfind.Com]",
 	"VØJ & Narvent - Memory Reboot",
 	"War - Burzum",
 	"WASP - On Your Knees [MIDIfind.Com]",
