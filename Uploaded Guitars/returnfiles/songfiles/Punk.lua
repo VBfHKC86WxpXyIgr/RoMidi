@@ -82,6 +82,7 @@ return {
 	"Rape Me - Nirvana",
 	"School - Nirvana School - Nirvana",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
+	"Smells Like Teen Spirit",
 	"Swap Meet - Nirvana (Piano-Vocal-Guitar)",
 	"Territorial - Pissings",
 	"Territorial Pissings - Nirvana (1)",
