@@ -184,6 +184,7 @@ return {
 	"Staind - Can't Believe [MIDIfind.com]",
 	"Staind - Ephiphany [MIDIfind.com]",
 	"Staind - Staind Fade [MIDIfind.com]",
+	"Stay Away - Nirvana",
 	"Styx - Heavy Metal Poisoning [MIDIfind.com]",
 	"Sugar",
 	"System Of A Down - Aerials [MIDIfind.Com]",
