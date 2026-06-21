@@ -47,6 +47,7 @@ return {
 	"Avenged Sevenfold~Critical Acclaim",
 	"BeQuickOrBeDead",
 	"Bitchslap",
+	"Black Sabbath - Black Sabbath [MIDIfind.Com]",
 	"Black Sabbath - Paranoid [MIDIfind.Com]",
 	"Black-Hole-Sun",
 	"Blazed - Heavy Metal Balad [MIDIfind.com]",
