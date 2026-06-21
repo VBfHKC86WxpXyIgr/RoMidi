@@ -37,5 +37,6 @@ return {
 	"Rape Me - Nirvana",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Territorial - Pissings",
+	"The Man Who Sold The World - Nirvana",
 	"Where Did You Sleep Last Night - Nirvana",
 }
