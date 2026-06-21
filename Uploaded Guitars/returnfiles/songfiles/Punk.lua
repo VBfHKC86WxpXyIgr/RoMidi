@@ -32,6 +32,7 @@ return {
 	"Nirvana - Sifting (3) [MIDIfind.Com]",
 	"Nirvanableach Big Cheese",
 	"Nirvanableach Love Buzz",
+	"Nirvanaincesticide Beeswax",
 	"Nirvanaincesticide Hairspray Queen",
 	"Nirvanaincesticide Turnaround",
 	"Nirvanamuddy Banks Spank Thru",
