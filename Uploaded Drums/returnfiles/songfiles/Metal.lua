@@ -45,6 +45,7 @@ return {
 	"Avenged Sevenfold - Warmness on the Soul [MIDIfind.com]",
 	"Avenged Sevenfold - Welcome to the Family",
 	"Avenged Sevenfold~Critical Acclaim",
+	"Bathory - The Return Of The Darkness And Evil",
 	"Bathory - Total Destruction",
 	"BeQuickOrBeDead",
 	"Bitchslap",
