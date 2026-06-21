@@ -117,6 +117,7 @@ return {
 	"Megadeth - Peace Sells [MIDIfind.Com]",
 	"Megadeth - Symphony Of Destruction [MIDIfind.Com]",
 	"Megadeth - The Conjuring [MIDIfind.Com]",
+	"Megadeth - Tornado Of Souls [MIDIfind.Com]",
 	"Meshuggah- Bleed.mid",
 	"Metallica - And Justice For All [MIDIfind.Com]",
 	"Metallica - Battery (2) [MIDIfind.com]",
