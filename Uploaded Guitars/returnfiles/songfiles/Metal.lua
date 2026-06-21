@@ -152,6 +152,7 @@ return {
 	"Venom - Countess Bathory (2) [MIDIfind.Com]",
 	"Venom - Don'T Burn The Witch [MIDIfind.Com]",
 	"Venom - If You Wanna War [MIDIfind.Com]",
+	"Venom - In League With Satan [MIDIfind.Com]",
 	"Venom - Prime Evil [MIDIfind.Com]",
 	"Venom - Witching Hour [MIDIfind.Com]",
 	"VØJ & Narvent - Memory Reboot",
