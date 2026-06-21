@@ -79,6 +79,7 @@ return {
 	"Faith No More - Collision [MIDIfind.com]",
 	"Fiction - Avenged Sevenfold   A7x",
 	"Floyd The Barber - Nirvana",
+	"Frances Farmer Will Have Her Revenge On Seattle",
 	"FreakOnALeash",
 	"Gentley",
 	"GoodGod",
