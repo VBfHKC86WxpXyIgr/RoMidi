@@ -119,6 +119,7 @@ return {
 	"The Nuker 4 Audio Remake (Original Composition From TN1.5)",
 	"The Nuker 4 Part 1",
 	"Thick Of It [The one from IG reels]",
+	"Title Theme (The Legend Of Zelda Ocarina Of Time)",
 	"Touhou - BAD APPLE NORMAL Mhxa",
 	"Undertale - SAVE the World",
 	"Undertale - Toby Fox",
