@@ -19,6 +19,7 @@ return {
 	"Green Day - When I Come Around [MIDIfind.Com]",
 	"Green Dayst Jimmy",
 	"Lake Of Fire - Nirvana (Piano-Vocal-Guitar)",
+	"Nirvana - Big Cheese (4) [MIDIfind.Com]",
 	"Nirvana - Big Long Now",
 	"Nirvana - Big Long Now (4) [MIDIfind.Com]",
 	"Nirvana - Here She Comes Now (3) [MIDIfind.Com]",
