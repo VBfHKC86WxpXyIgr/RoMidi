@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"50 KISS RIFFS",
 	"50 Megadeth RIFFS",
 	"505 - Arctic Monkeys",
 	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
