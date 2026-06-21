@@ -71,6 +71,7 @@ return {
 	"KISS - Detroit Rock City",
 	"Kiss - Rock And Roll All Night",
 	"Lifelover - Androider [MIDIfind.Com]",
+	"Lifelover - Cancertid [MIDIfind.Com]",
 	"Lifelover - I Love To Hurt You (2) [MIDIfind.Com]",
 	"Lifelover - Lethargy [MIDIfind.Com]",
 	"Lifelover - Mental Central Dialog [MIDIfind.Com]",
