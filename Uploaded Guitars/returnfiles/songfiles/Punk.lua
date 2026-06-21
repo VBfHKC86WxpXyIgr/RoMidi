@@ -74,6 +74,7 @@ return {
 	"Nirvanaverse Chorus Verse",
 	"On A Plain - Nirvana (Piano-Vocal-Guitar) (1)",
 	"Paper Cuts - Nirvana (Piano-Vocal-Guitar)",
+	"Polly",
 	"Rape Me - Nirvana",
 	"School - Nirvana School - Nirvana",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
