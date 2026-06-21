@@ -65,6 +65,7 @@ return {
 	"KISS - Detroit Rock City",
 	"Kiss - Rock And Roll All Night",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
+	"Lost Wisdom - Burzum",
 	"Megadeth - Devils Island [MIDIfind.Com]",
 	"Megadeth - Hanger 18",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
