@@ -4,6 +4,7 @@ return {
 	"37075 Danger-Line (2)",
 	"50 KISS RIFFS",
 	"50 Megadeth RIFFS",
+	"50 Metallica RIFFS",
 	"50 Nirvana RIFFS",
 	"A Little Piece of Heaven - Avenged Sevenfold (With vocals).mid",
 	"A.D.I.D.A.S.",
