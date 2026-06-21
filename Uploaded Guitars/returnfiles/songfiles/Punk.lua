@@ -48,6 +48,7 @@ return {
 	"Nirvana - Sifting (3) [MIDIfind.Com]",
 	"Nirvana - Son Of A Gun (3) [MIDIfind.Com]",
 	"Nirvana - Stain (4) [MIDIfind.Com]",
+	"Nirvana - Stay Away (6) [MIDIfind.Com]",
 	"Nirvana - Tourette'S (4) [MIDIfind.Com]",
 	"Nirvana Pennyroyal Tea1",
 	"Nirvanableach Big Cheese",
