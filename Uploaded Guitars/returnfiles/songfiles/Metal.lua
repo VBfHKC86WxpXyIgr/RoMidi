@@ -19,6 +19,7 @@ return {
 	"Avenged Sevenfold - So Far Away [MIDIfind.Com]",
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
 	"Becker Jason - Altitudes (2) [MIDIfind.Com]",
+	"Black Sabbath - Black Sabbath [MIDIfind.Com]",
 	"Black Sabbath - Paranoid [MIDIfind.Com]",
 	"Blitzkrieg Bop - Ramones",
 	"Cacophony - Concerto (2) [MIDIfind.Com]",
