@@ -58,6 +58,7 @@ return {
 	"Megadeth - Peace Sells [MIDIfind.Com]",
 	"Megadeth - Symphony Of Destruction [MIDIfind.Com]",
 	"Megadeth - The Conjuring [MIDIfind.Com]",
+	"Megadeth - Tornado Of Souls [MIDIfind.Com]",
 	"Metallica - And Justice For All [MIDIfind.Com]",
 	"Metallica - Anesthesia Pulling Teeth With Wah Sound",
 	"Metallica - Battery [MIDIfind.Com]",
