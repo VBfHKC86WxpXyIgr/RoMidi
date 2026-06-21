@@ -156,6 +156,7 @@ return {
 	"Rage Against the Machine - Rage Against the Machine Know Your Enemy [MIDIfind.com]",
 	"Ratt - Round And Round [MIDIfind.Com]",
 	"Revenga",
+	"School - Nirvana School - Nirvana",
 	"Scorpions - No One Like You (2) [MIDIfind.Com]",
 	"Scorpions - Rock You Like A Hurricane [MIDIfind.Com]",
 	"Scream",
