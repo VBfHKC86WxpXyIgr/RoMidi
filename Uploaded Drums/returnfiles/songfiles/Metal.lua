@@ -8,6 +8,7 @@ return {
 	"50 Megadeth RIFFS",
 	"50 Metallica RIFFS",
 	"50 Nirvana RIFFS",
+	"50 Pantera RIFFS",
 	"A Little Piece of Heaven - Avenged Sevenfold (With vocals).mid",
 	"A.D.I.D.A.S.",
 	"About A Girl - Nirvana",
