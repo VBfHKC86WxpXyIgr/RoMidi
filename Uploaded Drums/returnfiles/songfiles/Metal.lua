@@ -77,6 +77,7 @@ return {
 	"Faith No More - Caffeine [MIDIfind.com]",
 	"Faith No More - Collision [MIDIfind.com]",
 	"Fiction - Avenged Sevenfold   A7x",
+	"Floyd The Barber - Nirvana",
 	"FreakOnALeash",
 	"Gentley",
 	"GoodGod",
