@@ -212,6 +212,7 @@ return {
 	"Seasons - Wave To Earth (Piano)",
 	"Seasons (Wave To Earth) (Birru) MIDI",
 	"Seasons-Kim-Seasonswavetoearthseasons",
+	"Senbonzakura BLACK MIDI",
 	"Shucks Ending V2",
 	"Song For You",
 	"Studio Ghibli Piano",
