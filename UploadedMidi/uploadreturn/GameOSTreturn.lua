@@ -107,6 +107,7 @@ return {
 	"Stronger Than You - Undertale",
 	"Subwoofer Lullaby (Minecraft)",
 	"Summer Smile - Silent Partner No Copyright Music-303964052",
+	"Super Mario World Castle Theme Kyle Landry",
 	"Sweden (Minecraft)",
 	"Swift Strike",
 	"tera-io-flamewall-camellia",
