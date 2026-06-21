@@ -29,6 +29,7 @@ return {
 	"Nirvanaincesticide Turnaround",
 	"Nirvananevermind Endless Nameless",
 	"Nirvanararities D7",
+	"Nirvanararities Opinion",
 	"Nirvanararities Talk To Me",
 	"Nirvanararities The Money Will Roll Right In",
 	"Paper Cuts - Nirvana (Piano-Vocal-Guitar)",
