@@ -19,6 +19,7 @@ return {
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
 	"Becker Jason - Altitudes (2) [MIDIfind.Com]",
 	"Black Sabbath - Paranoid [MIDIfind.Com]",
+	"Blitzkrieg Bop - Ramones",
 	"Cacophony - Concerto (2) [MIDIfind.Com]",
 	"Cacophony - Speed Metal Symphony (2) [MIDIfind.Com]",
 	"Candlemass - Solitude [MIDIfind.Com]",
