@@ -48,6 +48,7 @@ return {
 	"Nirvana - Return Of The Rat (2) [MIDIfind.Com]",
 	"Nirvana - School (5) [MIDIfind.Com]",
 	"Nirvana - Sifting (3) [MIDIfind.Com]",
+	"Nirvana - Smells Like Teen Spirit (25) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit (Acoustic) [MIDIfind.Com]",
 	"Nirvana - Son Of A Gun (3) [MIDIfind.Com]",
 	"Nirvana - Stain (4) [MIDIfind.Com]",
