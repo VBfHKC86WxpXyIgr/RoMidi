@@ -23,6 +23,7 @@ return {
 	"Black Sabbath - Paranoid [MIDIfind.Com]",
 	"Blitzkrieg Bop - Ramones",
 	"Burzum - Det Som En Gang Var [MIDIfind.Com]",
+	"Burzum - Dunkelheit Burzum [MIDIfind.Com]",
 	"Burzum - Ea Lord Of The Depths [MIDIfind.Com]",
 	"Burzum - Feeble Screams From Forests Unknown [MIDIfind.Com]",
 	"Burzum - Jesus Tod [MIDIfind.Com]",
