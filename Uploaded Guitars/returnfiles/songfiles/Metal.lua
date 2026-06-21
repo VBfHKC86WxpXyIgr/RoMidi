@@ -130,6 +130,7 @@ return {
 	"Rage Against The Machine - Killing In The Name [MIDIfind.Com]",
 	"Rammstein - Du Hast [MIDIfind.Com]",
 	"Rammstein - Sonne [MIDIfind.Com]",
+	"Roses On Bathory S Blood Bath",
 	"Slayer - Angel Of Death (2) [MIDIfind.Com]",
 	"Slayer - Raining Blood [MIDIfind.Com]",
 	"Symphony X - Sea Of Lies First Part",
