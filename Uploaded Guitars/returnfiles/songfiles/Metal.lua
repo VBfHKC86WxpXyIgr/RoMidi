@@ -112,6 +112,7 @@ return {
 	"Pantera - Walk (3)",
 	"Rage Against The Machine - Killing In The Name (2) [MIDIfind.Com]",
 	"Rage Against The Machine - Killing In The Name [MIDIfind.Com]",
+	"Rammstein - Du Hast [MIDIfind.Com]",
 	"Slayer - Angel Of Death (2) [MIDIfind.Com]",
 	"Slayer - Raining Blood [MIDIfind.Com]",
 	"Symphony X - Sea Of Lies First Part",
