@@ -219,6 +219,7 @@ return {
 	"Type O Negative - I Don'T Wanna Be Me [MIDIfind.Com]",
 	"Type O Negative - My Girlfriend'S Girlfriend (2) [MIDIfind.Com]",
 	"Type O Negative - Out Of The Fire [MIDIfind.Com]",
+	"Under The Runes - Bathory",
 	"Unholy Confessions",
 	"Vai Steve - For The Love Of God [MIDIfind.Com]",
 	"Valkyrie - Heavy Metal Brigade [MIDIfind.com]",
