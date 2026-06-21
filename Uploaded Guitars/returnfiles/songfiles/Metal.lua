@@ -2,6 +2,7 @@
 return {
 	"50 KISS RIFFS",
 	"50 Megadeth RIFFS",
+	"50 Metallica RIFFS",
 	"505 - Arctic Monkeys",
 	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
 	"Avenged Sevenfold - Afterlife Solo Live [MIDIfind.Com]",
