@@ -26,6 +26,7 @@ return {
 	"Nirvana - Paper Cuts [MIDIfind.Com]",
 	"Nirvana - Sifting (3) [MIDIfind.Com]",
 	"Nirvanararities Talk To Me",
+	"Nirvanararities The Money Will Roll Right In",
 	"Paper Cuts - Nirvana (Piano-Vocal-Guitar)",
 	"Rape Me - Nirvana",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
