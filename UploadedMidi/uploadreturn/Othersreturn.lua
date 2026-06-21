@@ -222,6 +222,7 @@ return {
 	"Sword Art Online Gun Gale",
 	"Sword Art Online II Opening 1 - IGNITE",
 	"TáI Sinh",
+	"Tau 2 Deblacked",
 	"Tay TráI Chỉ TrăNg",
 	"Tentang-Kamu-Lyodra",
 	"TháI BìNh Mồ HôI RơI",
