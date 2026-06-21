@@ -149,6 +149,7 @@ return {
 	"Type O Negative - Out Of The Fire [MIDIfind.Com]",
 	"Vai Steve - For The Love Of God [MIDIfind.Com]",
 	"Valhalla - Bathory",
+	"Venom - Don'T Burn The Witch [MIDIfind.Com]",
 	"Venom - If You Wanna War [MIDIfind.Com]",
 	"Venom - Prime Evil [MIDIfind.Com]",
 	"VØJ & Narvent - Memory Reboot",
