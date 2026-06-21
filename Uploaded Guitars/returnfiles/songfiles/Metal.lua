@@ -96,6 +96,7 @@ return {
 	"Metallica - The Thing That Should Not Be [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Metallica - Wherever I May Roam [MIDIfind.Com]",
+	"Metallica - Whiplash [MIDIfind.Com]",
 	"Michael Jackson - Thriller",
 	"Monster - Skillet",
 	"Osbourne Ozzy - Crazy Train [MIDIfind.Com]",
