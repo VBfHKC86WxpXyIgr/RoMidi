@@ -72,5 +72,6 @@ return {
 	"Swap Meet - Nirvana (Piano-Vocal-Guitar)",
 	"Territorial - Pissings",
 	"The Man Who Sold The World - Nirvana",
+	"Tourettes - Nirvana Tourettes - Nirvana Drum Sheet Music",
 	"Where Did You Sleep Last Night - Nirvana",
 }
