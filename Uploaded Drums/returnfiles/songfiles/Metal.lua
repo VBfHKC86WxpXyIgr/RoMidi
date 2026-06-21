@@ -57,6 +57,7 @@ return {
 	"Bring Me the Horizon - Pray For Plagues [MIDIfind.com]",
 	"Candlemass - Solitude [MIDIfind.Com]",
 	"CaughtSomewhereInTime",
+	"Chevelle - Comfortable Liar [MIDIfind.Com]",
 	"Clown",
 	"Contempt of Cop",
 	"Crucify Thy Infant",
