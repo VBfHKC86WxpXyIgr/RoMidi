@@ -23,6 +23,7 @@ return {
 	"Black Sabbath - Paranoid [MIDIfind.Com]",
 	"Blitzkrieg Bop - Ramones",
 	"Burzum - Feeble Screams From Forests Unknown [MIDIfind.Com]",
+	"Burzum - Jesus Tod [MIDIfind.Com]",
 	"Cacophony - Concerto (2) [MIDIfind.Com]",
 	"Cacophony - Speed Metal Symphony (2) [MIDIfind.Com]",
 	"Candlemass - Solitude [MIDIfind.Com]",
