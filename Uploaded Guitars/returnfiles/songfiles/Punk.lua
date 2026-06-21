@@ -18,6 +18,7 @@ return {
 	"Green Day - Whatsername [MIDIfind.Com]",
 	"Green Day - When I Come Around [MIDIfind.Com]",
 	"Green Dayst Jimmy",
+	"I Hate Myself And Want To Die (Drums + Guitar)",
 	"Jesus Doesn'T Want Me For A Sunbeam - Nirvana (Piano-Vocal-Guitar)",
 	"Lake Of Fire - Nirvana (Piano-Vocal-Guitar)",
 	"Mexican Seafood - Nirvana Mexican Seafood",
