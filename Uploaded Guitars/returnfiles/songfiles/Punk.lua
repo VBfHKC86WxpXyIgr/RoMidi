@@ -38,6 +38,7 @@ return {
 	"Nirvanararities Opinion",
 	"Nirvanararities Talk To Me",
 	"Nirvanararities The Money Will Roll Right In",
+	"Nirvanaverse Chorus Verse",
 	"Paper Cuts - Nirvana (Piano-Vocal-Guitar)",
 	"Rape Me - Nirvana",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
