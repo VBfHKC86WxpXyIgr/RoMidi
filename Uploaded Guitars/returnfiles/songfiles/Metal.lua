@@ -114,6 +114,7 @@ return {
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"Through The Fire And Flames - DragonForce",
 	"Tool - Schism (3) [MIDIfind.Com]",
+	"Toxicity - System Of A Down",
 	"Trilogy Suite Op 5 - Yngwie Malmsteen",
 	"Type O Negative - Black No 1 (2) [MIDIfind.Com]",
 	"Type O Negative - Christian Woman [MIDIfind.Com]",
