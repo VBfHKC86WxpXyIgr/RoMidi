@@ -30,6 +30,7 @@ return {
 	"Nirvana - Curmudgeon [MIDIfind.Com]",
 	"Nirvana - Dive (7) [MIDIfind.Com]",
 	"Nirvana - Dive (7) [MIDIfind.Com] (1)",
+	"Nirvana - Floyd The Barber (4) [MIDIfind.Com]",
 	"Nirvana - Here She Comes Now (3) [MIDIfind.Com]",
 	"Nirvana - Love Buzz (7) [MIDIfind.Com]",
 	"Nirvana - Moist Vagina (2) [MIDIfind.Com]",
