@@ -25,6 +25,7 @@ return {
 	"Nirvana - Paper Cuts (2) [MIDIfind.Com]",
 	"Nirvana - Paper Cuts [MIDIfind.Com]",
 	"Nirvana - Sifting (3) [MIDIfind.Com]",
+	"Nirvanararities D7",
 	"Nirvanararities Talk To Me",
 	"Nirvanararities The Money Will Roll Right In",
 	"Paper Cuts - Nirvana (Piano-Vocal-Guitar)",
