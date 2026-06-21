@@ -25,6 +25,7 @@ return {
 	"Nirvana - Oh Me (2) [MIDIfind.Com]",
 	"Nirvana - Paper Cuts (2) [MIDIfind.Com]",
 	"Nirvana - Paper Cuts [MIDIfind.Com]",
+	"Nirvana - Plateau (3) [MIDIfind.Com]",
 	"Nirvana - Sifting (3) [MIDIfind.Com]",
 	"Nirvanableach Love Buzz",
 	"Nirvanaincesticide Turnaround",
