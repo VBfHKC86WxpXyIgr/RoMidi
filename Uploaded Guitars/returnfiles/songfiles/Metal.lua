@@ -26,6 +26,7 @@ return {
 	"Cacophony - Speed Metal Symphony (2) [MIDIfind.Com]",
 	"Candlemass - Solitude [MIDIfind.Com]",
 	"Darkthrone - Transilvanian Hunger (4) [MIDIfind.Com]",
+	"Darkthrone - Unholy Blackmetal [MIDIfind.Com]",
 	"Darkthrone - Valkyrie [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
