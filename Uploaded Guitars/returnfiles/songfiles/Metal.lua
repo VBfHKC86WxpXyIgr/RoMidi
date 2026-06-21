@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"50 Iron Maiden RIFFS",
 	"50 KISS RIFFS",
 	"50 Megadeth RIFFS",
 	"50 Metallica RIFFS",
