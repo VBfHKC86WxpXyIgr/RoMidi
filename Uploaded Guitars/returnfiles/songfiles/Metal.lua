@@ -66,6 +66,7 @@ return {
 	"KISS - Detroit Rock City",
 	"Kiss - Rock And Roll All Night",
 	"Lifelover - Androider [MIDIfind.Com]",
+	"Lifelover - Lethargy [MIDIfind.Com]",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
 	"Lost Wisdom - Burzum",
 	"Megadeth - Devils Island [MIDIfind.Com]",
