@@ -40,6 +40,7 @@ return {
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
 	"Eruption - Van Halen",
+	"Eyes Of A Homeless Dog - Psychonaut 4",
 	"For-Whom-The-Bell-Tolls",
 	"Han Som Reiste - Burzum",
 	"HermoðR Á Helferð - Burzum",
