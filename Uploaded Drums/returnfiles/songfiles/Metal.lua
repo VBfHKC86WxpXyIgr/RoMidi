@@ -183,6 +183,7 @@ return {
 	"System Of A Down - Aerials [MIDIfind.Com]",
 	"System Of A Down - Chop Suey! [MIDIfind.Com]",
 	"System Of A Down - Sugar [MIDIfind.Com]",
+	"The Man Who Sold The World - Nirvana",
 	"The Stage - Avenged Sevenfold by Rgman",
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"ThunderStruck - ACDC",
