@@ -39,6 +39,7 @@ return {
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
 	"Eruption - Van Halen",
 	"For-Whom-The-Bell-Tolls",
+	"Han Som Reiste - Burzum",
 	"HermoðR Á Helferð - Burzum",
 	"Ilia Burzum",
 	"Jason Becker - Altitudes Solo",
