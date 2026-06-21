@@ -111,6 +111,7 @@ return {
 	"Metallica - Whiplash [MIDIfind.Com]",
 	"Michael Jackson - Thriller",
 	"Monster - Skillet",
+	"Ms Salmonella - Lifelover",
 	"Necromancy - Bathory",
 	"Osbourne Ozzy - Crazy Train [MIDIfind.Com]",
 	"Osbourne Ozzy - Hellraiser [MIDIfind.Com]",
