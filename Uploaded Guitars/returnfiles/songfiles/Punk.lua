@@ -49,6 +49,7 @@ return {
 	"Paper Cuts - Nirvana (Piano-Vocal-Guitar)",
 	"Rape Me - Nirvana",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
+	"Swap Meet - Nirvana (Piano-Vocal-Guitar)",
 	"Territorial - Pissings",
 	"The Man Who Sold The World - Nirvana",
 	"Where Did You Sleep Last Night - Nirvana",
