@@ -21,6 +21,7 @@ return {
 	"I Hate Myself And Want To Die (Drums + Guitar)",
 	"Jesus Doesn'T Want Me For A Sunbeam - Nirvana (Piano-Vocal-Guitar)",
 	"Lake Of Fire - Nirvana (Piano-Vocal-Guitar)",
+	"Marigold - Nirvana",
 	"Mexican Seafood - Nirvana Mexican Seafood",
 	"Nirvana - Aero Zeppelin (4) [MIDIfind.Com]",
 	"Nirvana - Big Cheese (4) [MIDIfind.Com]",
