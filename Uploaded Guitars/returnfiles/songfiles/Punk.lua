@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"50 Nirvana RIFFS",
+	"50 Riffs - Nirvana (Pro)",
 	"About A Girl - Nirvana",
 	"Breed - Nirvana (TABS And Vocals)",
 	"Frances Farmer Will Have Her Revenge On Seattle - Nirvana",
