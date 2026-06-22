@@ -50,6 +50,7 @@ return {
 	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Rape Me [MIDIfind.Com]",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
+	"Nirvana - School",
 	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit",
 	"Rollin",
