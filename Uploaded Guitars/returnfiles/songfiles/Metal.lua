@@ -9,6 +9,7 @@ return {
 	"50 Riffs - Ac Dc (Pro)",
 	"50 Riffs - Iron Maiden (Pro)",
 	"50 Riffs - Megadeth (Pro)",
+	"50 Riffs - MetáLica (Pro)",
 	"50 Riffs - Pantera (Pro)",
 	"505 - Arctic Monkeys",
 	"A Miserable Life",
