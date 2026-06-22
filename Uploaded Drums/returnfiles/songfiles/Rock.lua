@@ -48,6 +48,7 @@ return {
 	"Nirvana - Drain You [MIDIfind.Com]",
 	"Nirvana - In Bloom [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
+	"Nirvana - Mr. Moustache",
 	"Nirvana - Rape Me [MIDIfind.Com]",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
 	"Nirvana - School",
