@@ -43,6 +43,7 @@ return {
 	"Leech",
 	"Linkin Park - No More Sorrow",
 	"Linkin Park - Numb",
+	"Love Buzz - Nirvana (Drums)",
 	"Nirvana - All Apologies (2) [MIDIfind.Com]",
 	"Nirvana - Aneurysm [MIDIfind.Com]",
 	"Nirvana - Blew (2) [MIDIfind.Com]",
