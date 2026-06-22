@@ -162,6 +162,7 @@ return {
 	"Silencer - Sterile Nails And Thunderbowels [MIDIfind.Com]",
 	"Slayer - Angel Of Death (2) [MIDIfind.Com]",
 	"Slayer - Raining Blood [MIDIfind.Com]",
+	"Slipknot - The Heretic Anthem (4) [MIDIfind.Com]",
 	"Symphony X - Sea Of Lies First Part",
 	"The Crying Orc - Burzum",
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
