@@ -167,6 +167,7 @@ return {
 	"Pantera - Cowboys From Hell [MIDIfind.Com]",
 	"Pantera - Shedding Skin [MIDIfind.Com]",
 	"Pantera - Slaughtered [MIDIfind.Com]",
+	"People=Shit- FlipgridJR",
 	"PhantomOfTheOpera",
 	"Powerslave",
 	"Primer 55 - My Girl [MIDIfind.com]",
