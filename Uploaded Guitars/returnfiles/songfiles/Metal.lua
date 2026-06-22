@@ -8,6 +8,7 @@ return {
 	"50 Pantera RIFFS",
 	"50 Riffs - Ac Dc (Pro)",
 	"50 Riffs - Iron Maiden (Pro)",
+	"50 Riffs - Megadeth (Pro)",
 	"505 - Arctic Monkeys",
 	"A Miserable Life",
 	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
