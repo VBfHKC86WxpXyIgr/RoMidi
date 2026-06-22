@@ -46,6 +46,7 @@ return {
 	"Nirvana - Blew (2) [MIDIfind.Com]",
 	"Nirvana - Come As You Are",
 	"Nirvana - Drain You [MIDIfind.Com]",
+	"Nirvana - Floyd The Barber (Drums)",
 	"Nirvana - In Bloom [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Mr. Moustache",
