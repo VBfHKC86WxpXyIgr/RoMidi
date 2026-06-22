@@ -89,6 +89,7 @@ return {
 	"Off The Map - SoFaygo Off The Map SoFaygo Piano Conversion By DK Marshmello",
 	"Palagi-Tj-Monterde-Palagi",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
+	"Quando Bate Aquela Saudade - Rubel Piano",
 	"rapp snitch knishes",
 	"Rapp Snitch Knishes - MF DOOM",
 	"Ricky Montgomery - Line Without A Hook [FULL]",
