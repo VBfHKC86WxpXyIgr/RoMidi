@@ -18,6 +18,7 @@ return {
 	"Counterfeit",
 	"Creep",
 	"Degenerate",
+	"Endless Nameless - Nirvana (Drums)",
 	"Faith",
 	"Foo Fighters - Everlong",
 	"Fortunate Son - Creedance Clearwater Revival-Drum Kit, Drums",
