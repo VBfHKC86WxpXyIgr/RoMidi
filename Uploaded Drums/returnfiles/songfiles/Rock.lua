@@ -17,6 +17,7 @@ return {
 	"Come as you are (3 beats)",
 	"Counterfeit",
 	"Creep",
+	"D7- Nirvana (Drums)",
 	"Degenerate",
 	"Endless Nameless - Nirvana (Drums)",
 	"Faith",
