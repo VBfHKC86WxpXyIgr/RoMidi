@@ -38,6 +38,7 @@ return {
 	"Fur Elise Nightmare",
 	"Galaxy Collapse (With Correct BPM)",
 	"GAYNOR.I Will Survive K",
+	"Girls-Und-Panzer-Ost---Piano-On-Musescore",
 	"Gloria Gaynor Arr.  Elaine Kelkel - I Will Survive",
 	"GOZALO - Ariis",
 	"Handel, Halvorsen - Passacaglia.Mid",
