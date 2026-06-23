@@ -29,6 +29,7 @@ return {
 	"Mexican Seafood - Nirvana Mexican Seafood",
 	"Misfits - Die Die My Darling [MIDIfind.Com]",
 	"Misfits - Hybrid Moments (3) [MIDIfind.Com]",
+	"Misfits - Hybrid Moments (Guitar)",
 	"Misfits - Last Caress [MIDIfind.Com]",
 	"Misfits - Skulls (2) [MIDIfind.Com]",
 	"Misfits - Where Eagles Dare [MIDIfind.Com]",
