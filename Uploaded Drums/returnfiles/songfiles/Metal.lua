@@ -65,6 +65,7 @@ return {
 	"Crucify Thy Infant",
 	"Cryptopsy - Defenestration (Drums)",
 	"Cryptopsy - Graves Of The Fathers (Drums)",
+	"Cryptopsy - Mutant Christ (Drums)",
 	"Cryptopsy - Slit Your Guts (Drums)",
 	"Daft Punk - Robot Rock [MIDIfind.Com]",
 	"Danger line (W.I.P)",
