@@ -40,6 +40,7 @@ return {
 	"Candlemass - Solitude [MIDIfind.Com]",
 	"Cryptopsy - Back To The Worms (Guitar)",
 	"Cryptopsy - Benedictine Convulsions (Guitar)",
+	"Cryptopsy - Dead And Dripping (Guitar)",
 	"Cryptopsy - Defenestration (Guitar)",
 	"Cryptopsy - Depths You'Ve Fallen (Guitar)",
 	"Cryptopsy - Graves Of The Fathers (Guitar)",
