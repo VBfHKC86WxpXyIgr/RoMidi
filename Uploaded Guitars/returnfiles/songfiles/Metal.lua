@@ -38,6 +38,7 @@ return {
 	"Cacophony - Speed Metal Symphony (2) [MIDIfind.Com]",
 	"Cancertid - Lifelover",
 	"Candlemass - Solitude [MIDIfind.Com]",
+	"Cryptopsy - Benedictine Convulsions (Guitar)",
 	"Cryptopsy - Defenestration (Guitar)",
 	"Cryptopsy - Graves Of The Fathers (Guitar)",
 	"Cryptopsy - Mutant Christ (Guitar)",
