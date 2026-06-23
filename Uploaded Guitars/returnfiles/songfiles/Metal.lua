@@ -41,6 +41,7 @@ return {
 	"Cryptopsy - Back To The Worms (Guitar)",
 	"Cryptopsy - Benedictine Convulsions (Guitar)",
 	"Cryptopsy - Defenestration (Guitar)",
+	"Cryptopsy - Depths You'Ve Fallen (Guitar)",
 	"Cryptopsy - Graves Of The Fathers (Guitar)",
 	"Cryptopsy - Mutant Christ (Guitar)",
 	"Cryptopsy - Slit Your Guts (Guitar)",
