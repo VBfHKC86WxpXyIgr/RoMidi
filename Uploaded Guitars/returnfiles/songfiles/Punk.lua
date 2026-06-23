@@ -94,6 +94,7 @@ return {
 	"Territorial - Pissings",
 	"Territorial Pissings - Nirvana (1)",
 	"Territorial Pissings - Nirvana (Piano-Vocal-Guitar)",
+	"The Aftermath",
 	"The Man Who Sold The World - Nirvana",
 	"Tourettes - Nirvana Tourettes - Nirvana Drum Sheet Music",
 	"Where Did You Sleep Last Night - Nirvana",
