@@ -40,6 +40,7 @@ return {
 	"Candlemass - Solitude [MIDIfind.Com]",
 	"Cryptopsy - Defenestration (Guitar)",
 	"Cryptopsy - Graves Of The Fathers (Guitar)",
+	"Cryptopsy - Mutant Christ (Guitar)",
 	"Cryptopsy - Slit Your Guts (Guitar)",
 	"Darkthrone - Transilvanian Hunger (4) [MIDIfind.Com]",
 	"Darkthrone - Under A Funeral Moon [MIDIfind.Com]",
