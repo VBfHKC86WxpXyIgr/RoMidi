@@ -27,6 +27,7 @@ return {
 	"Marigold - Nirvana",
 	"Mexican Seafood - Nirvana Mexican Seafood",
 	"Misfits - Die Die My Darling [MIDIfind.Com]",
+	"Misfits - Last Caress [MIDIfind.Com]",
 	"Misfits - Skulls (2) [MIDIfind.Com]",
 	"Misfits - Where Eagles Dare [MIDIfind.Com]",
 	"Negative Creep - Nirvana (Piano-Vocal-Guitar)",
