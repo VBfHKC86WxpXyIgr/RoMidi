@@ -38,6 +38,7 @@ return {
 	"Cacophony - Speed Metal Symphony (2) [MIDIfind.Com]",
 	"Cancertid - Lifelover",
 	"Candlemass - Solitude [MIDIfind.Com]",
+	"Cryptopsy - Defenestration (Guitar)",
 	"Cryptopsy - Graves Of The Fathers (Guitar)",
 	"Cryptopsy - Slit Your Guts (Guitar)",
 	"Darkthrone - Transilvanian Hunger (4) [MIDIfind.Com]",
