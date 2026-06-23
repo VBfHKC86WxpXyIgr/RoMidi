@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"Composed By Toby Fox Transcribed By Nefelibata - Home",
+	"Dont Let Me Down",
 	"Dumb Ways To Die",
 	"Dumb Ways To Die (1)",
 	"Finnish Folk Song - SäKkijäRven Polkka",
