@@ -65,6 +65,7 @@ return {
 	"Crucify Thy Infant",
 	"Cryptopsy - Back To The Worms (Drums)",
 	"Cryptopsy - Benedictine Convulsions (Drums)",
+	"Cryptopsy - Dead And Dripping (Drums)",
 	"Cryptopsy - Defenestration (Drums)",
 	"Cryptopsy - Depths You'Ve Fallen (Drums)",
 	"Cryptopsy - Graves Of The Fathers (Drums)",
