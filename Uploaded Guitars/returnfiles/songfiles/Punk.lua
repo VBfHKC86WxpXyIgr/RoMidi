@@ -26,6 +26,7 @@ return {
 	"Lake Of Fire - Nirvana (Piano-Vocal-Guitar)",
 	"Marigold - Nirvana",
 	"Mexican Seafood - Nirvana Mexican Seafood",
+	"Misfits - Where Eagles Dare [MIDIfind.Com]",
 	"Negative Creep - Nirvana (Piano-Vocal-Guitar)",
 	"Nirvana - Aero Zeppelin (4) [MIDIfind.Com]",
 	"Nirvana - Big Cheese (4) [MIDIfind.Com]",
