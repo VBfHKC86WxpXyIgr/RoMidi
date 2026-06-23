@@ -63,6 +63,7 @@ return {
 	"Clown",
 	"Contempt of Cop",
 	"Crucify Thy Infant",
+	"Cryptopsy - Benedictine Convulsions (Drums)",
 	"Cryptopsy - Defenestration (Drums)",
 	"Cryptopsy - Graves Of The Fathers (Drums)",
 	"Cryptopsy - Mutant Christ (Drums)",
