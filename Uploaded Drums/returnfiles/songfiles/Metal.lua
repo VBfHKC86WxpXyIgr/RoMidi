@@ -122,6 +122,7 @@ return {
 	"Judas Priest - You'Ve Got Another Thing Comin [MIDIfind.Com]",
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
+	"Linkin Park - One Step Closer [MIDIfind.Com]",
 	"Lithium - Nirvana Drums And Leadsheet",
 	"Master of Puppets",
 	"Megadeth - Devils Island [MIDIfind.Com]",
