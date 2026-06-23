@@ -10,4 +10,5 @@ return {
 	"One Last Breath",
 	"Smells Like Teen Spirit",
 	"THE EAGLES.Hotel California K",
+	"Ween-Ocean Man (Piano Arrangement) [50 FOLLOWER SPECIAL]",
 }
