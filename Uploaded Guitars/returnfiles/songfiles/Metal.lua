@@ -155,6 +155,7 @@ return {
 	"Pantera - This Love [MIDIfind.Com]",
 	"Pantera - Walk (3)",
 	"People = Shit - Slipknot",
+	"Phobophile",
 	"Psychonaut 4 - Drop By Drop [MIDIfind.Com]",
 	"Psychonaut 4 - Lethargic Dialogue [MIDIfind.Com]",
 	"Psychonaut 4 - Nackskott [MIDIfind.Com]",
