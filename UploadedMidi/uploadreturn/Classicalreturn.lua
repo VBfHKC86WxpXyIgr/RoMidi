@@ -24,6 +24,7 @@ return {
 	"Bruno Mars - Risk It All",
 	"Chopin – Nocturne Op.9 No.2",
 	"chopin ballade 4 (c)lubetsky",
+	"Christina Perri - A Thousand Years (Piano Cover)",
 	"Counting stars",
 	"Dạo Bước HongKong 1999",
 	"Death Waltz.Mid",
