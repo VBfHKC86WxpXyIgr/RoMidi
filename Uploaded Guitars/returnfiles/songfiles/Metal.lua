@@ -60,6 +60,7 @@ return {
 	"Eyes Of A Homeless Dog - Psychonaut 4",
 	"For-Whom-The-Bell-Tolls",
 	"Han Som Reiste - Burzum",
+	"Happy Days - Don'T Guns (Guitar)",
 	"Haunted (The) - Silencer [MIDIfind.Com]",
 	"HermoðR Á Helferð - Burzum",
 	"Ilia Burzum",
