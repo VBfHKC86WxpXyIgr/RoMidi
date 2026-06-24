@@ -135,6 +135,7 @@ return {
 	"Metallica - Wherever I May Roam [MIDIfind.Com]",
 	"Metallica - Whiplash [MIDIfind.Com]",
 	"Michael Jackson - Thriller",
+	"Midnight Queen - SarcóFago (IníCio)",
 	"Monster - Skillet",
 	"Ms Salmonella - Lifelover",
 	"Necromancy - Bathory",
