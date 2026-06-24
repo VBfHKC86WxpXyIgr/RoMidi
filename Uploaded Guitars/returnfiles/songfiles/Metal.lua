@@ -54,6 +54,7 @@ return {
 	"Decalius Lonliness Solo",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
+	"Discharge - Fight Back [MIDIfind.Com]",
 	"Discharge - Realities Of War [MIDIfind.Com]",
 	"Eruption - Van Halen",
 	"Eyes Of A Homeless Dog - Psychonaut 4",
