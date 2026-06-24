@@ -90,6 +90,7 @@ return {
 	"Virginio Aiello, On Piano - Van Gogh",
 	"Wedding-Day-at-Troldhaugen",
 	"Woke Up In Japan By Friqtao",
+	"Yung Kai - Blue Piano Cover Sheet Music (1)",
 	"بروحي فتاة.",
 	"กลัวว่าฉันจะไม่เสียใจ (Fear) – PURPEECH",
 	"거리에서Sung-Si-Kyung---On-The-Street-Piano-Ver",
