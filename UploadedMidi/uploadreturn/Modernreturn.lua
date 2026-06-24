@@ -20,6 +20,7 @@ return {
 	"Camellia - Flamewall",
 	"Chaos-Construct",
 	"Charlie Puth - We Don'T Talk Anymore (Feat. Selena Gomez)",
+	"Chiquitita - ABBA (Only The Ending)",
 	"Christina Perri - A Thousand Years",
 	"Clair-De-Lune-Debussy",
 	"coffin nails   rapp snitch knishes",
