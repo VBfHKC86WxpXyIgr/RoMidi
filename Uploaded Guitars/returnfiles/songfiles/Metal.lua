@@ -51,6 +51,7 @@ return {
 	"Darkthrone - Unholy Blackmetal [MIDIfind.Com]",
 	"Darkthrone - Valkyrie [MIDIfind.Com]",
 	"DauðI Baldrs - Burzum",
+	"Death Pierce Me (Guitar)",
 	"Decalius Lonliness Solo",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
