@@ -149,6 +149,7 @@ return {
 	"KhôNg PhảI Là DạNg VừA đâU Ost",
 	"KhuôN MặT đáNg ThươNg",
 	"KiêU NgạO",
+	"KING NASIR",
 	"KJ",
 	"KJ V2",
 	"KOBO KANAERO - HELP!! Mhxa",
