@@ -28,6 +28,7 @@ return {
 	"Counting stars",
 	"Dạo Bước HongKong 1999",
 	"Death Waltz.Mid",
+	"Debra Lady Gaga - Shallow",
 	"Drowning Love Tuxedo.Fx",
 	"Flamewall",
 	"Frank Sinatra - My Way",
