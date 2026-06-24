@@ -76,6 +76,7 @@ return {
 	"Mili - Hero",
 	"Mili - Through Patches of Violet",
 	"Minecraft OST Aria Math (Advanced)",
+	"Monster Hunter Freedom 2 - Pokke Village (2)",
 	"my light (我的光) - yung kai",
 	"My Light (我的光) - Yung Kai",
 	"New Super Mario Bros Overworld Theme",
