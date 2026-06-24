@@ -44,6 +44,7 @@ return {
 	"GOZALO - Ariis",
 	"Handel, Halvorsen - Passacaglia.Mid",
 	"Handel,Halvorsen Passacaglia",
+	"I Thought I Saw Your Face Today - She & Him (Piano Tutorial)",
 	"in the pool  C",
 	"Indonesia Raya.MID",
 	"Its Raining Tacos",
