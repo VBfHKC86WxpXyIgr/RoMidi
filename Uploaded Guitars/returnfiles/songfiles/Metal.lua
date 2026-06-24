@@ -143,6 +143,7 @@ return {
 	"Monster - Skillet",
 	"Ms Salmonella - Lifelover",
 	"Necromancy - Bathory",
+	"Nocturnal Depression - Her Ghost Haunts These Walls",
 	"Osbourne Ozzy - Crazy Train [MIDIfind.Com]",
 	"Osbourne Ozzy - Hellraiser [MIDIfind.Com]",
 	"Osbourne Ozzy - I Don'T Wanna Stop [MIDIfind.Com]",
