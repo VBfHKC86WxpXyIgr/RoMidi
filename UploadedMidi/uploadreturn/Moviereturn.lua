@@ -29,5 +29,6 @@ return {
 	"The Entertainer - Scott Joplin",
 	"The One Who’S Running The Show - TADC THE AMAZING DIGITAL CIRCUS",
 	"The Simpsons Main Theme  Danny Elfman MLX",
+	"Tiersen Yann - La Valse D Amelie (Piano Version) [MIDIfind.Com]",
 	"Two Birds - Regina Spektor",
 }
