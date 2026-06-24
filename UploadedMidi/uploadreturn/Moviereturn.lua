@@ -9,6 +9,7 @@ return {
 	"Cornfield Chase",
 	"Dạo Bước HongKong 1999",
 	"Every Breath You Take - The Police (1)",
+	"Game Of Thrones Main Theme",
 	"Got-Main-Theme-Advanced",
 	"Gravity Falls",
 	"hans-zimmer-cornfield-chase-interstellar-soundtrack-21091-nonstop2k.com",
