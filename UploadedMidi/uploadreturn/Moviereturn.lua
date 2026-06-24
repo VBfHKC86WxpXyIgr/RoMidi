@@ -2,6 +2,7 @@
 return {
 	"Accomplished",
 	"Bad Style",
+	"Blinding Lights",
 	"Bohemian Rhapsody - Queen",
 	"Bohemian Rhapsody - Queen (Piano Solo)",
 	"Charlie Clouser - Saw Final Theme WWW.MIDISFREE.COM",
