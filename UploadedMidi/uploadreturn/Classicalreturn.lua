@@ -61,6 +61,7 @@ return {
 	"Moonlight-Sonata-Nightmare-Lionel-Yu-Moonlightsonatanightmaremid",
 	"MORGENSHTERN Ft. элджей - Cadillac",
 	"MỘT ĐỜI (14 Casper & Bon Nghiêm)",
+	"My Heart Will Go On - TITANIC - Sheet Music - 4K60p - Piano Cover - CANACANA",
 	"operas",
 	"Otsukare Summer",
 	"Pedih Last Child 1780246257149",
