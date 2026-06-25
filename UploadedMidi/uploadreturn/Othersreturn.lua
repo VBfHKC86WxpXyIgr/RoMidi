@@ -222,6 +222,7 @@ return {
 	"Shucks Ending V2",
 	"Song For You",
 	"Studio Ghibli Piano",
+	"SUFFER WITH ME",
 	"Sukidakara",
 	"Sunkissed Lola - Pasilyo Mhxa",
 	"Super Mario 64 Wing Cap Mario Koji Kondo SM64 Powerful Mario Theme",
