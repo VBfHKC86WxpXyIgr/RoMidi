@@ -140,6 +140,7 @@ return {
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Metallica - Wherever I May Roam [MIDIfind.Com]",
 	"Metallica - Whiplash [MIDIfind.Com]",
+	"Metallica Spit Out The Bone",
 	"Michael Jackson - Thriller",
 	"Midnight Queen - SarcóFago (IníCio)",
 	"Monster - Skillet",
