@@ -70,6 +70,7 @@ return {
 	"CơN MưA Ngang Qua",
 	"CơN MưA Ngang Qua 2",
 	"CơN MưA Ngang Qua 3",
+	"CơN MưA Ngang Qua Remix",
 	"CơN MưA TìNh YêU",
 	"CùNg Anh",
 	"đã QuêN Hay ChưA",
