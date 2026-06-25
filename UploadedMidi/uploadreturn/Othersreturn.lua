@@ -232,6 +232,7 @@ return {
 	"TáI Sinh",
 	"Tau 2 Deblacked",
 	"Tay TráI Chỉ TrăNg",
+	"Tay TráI Chỉ TrăNg X LạC TrôI",
 	"Tentang-Kamu-Lyodra",
 	"TháI BìNh Mồ HôI RơI",
 	"TháNg 4 Là LờI NóI DốI CủA Em",
