@@ -154,6 +154,7 @@ return {
 	"Metallica - Sad But True (2) [MIDIfind.Com]",
 	"Metallica - Seek And Destroy [MIDIfind.Com]",
 	"Metallica - Some Kind Of Monster [MIDIfind.Com]",
+	"Metallica - Spit Out The Bone",
 	"Metallica - The Four Horseman [MIDIfind.Com]",
 	"Metallica - Trapped Under Ice [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
