@@ -99,5 +99,6 @@ return {
 	"بروحي فتاة.",
 	"กลัวว่าฉันจะไม่เสียใจ (Fear) – PURPEECH",
 	"거리에서Sung-Si-Kyung---On-The-Street-Piano-Ver",
+	"바라만-본다--피아노-커버악보포함--Pianocover",
 	"카트라이더 대저택 Bgm 피아노 청음연주 + 중급자용 악보 (Mansion Dance Battle Piano Cover) [문호준 인트로] - 지훈피아노 JH Piano (192k)",
 }
