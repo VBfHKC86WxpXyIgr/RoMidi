@@ -275,6 +275,7 @@ return {
 	"Woke Up In Japan By Friqtao",
 	"Xanh LụC",
 	"Xin LỗI Em",
+	"Yara Yara Funk",
 	"YêU Là Tha Thứ",
 	"YêU MộT NgườI Có Lẽ",
 	"YêU Từ CáI NhìN đầU TiêN",
