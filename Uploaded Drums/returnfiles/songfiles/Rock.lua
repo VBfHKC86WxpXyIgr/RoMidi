@@ -45,6 +45,7 @@ return {
 	"Linkin Park - No More Sorrow",
 	"Linkin Park - Numb",
 	"Love Buzz - Nirvana (Drums)",
+	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison (2) [MIDIfind.Com]",
 	"Nirvana - All Apologies (2) [MIDIfind.Com]",
 	"Nirvana - Aneurysm [MIDIfind.Com]",
 	"Nirvana - Blew (2) [MIDIfind.Com]",
