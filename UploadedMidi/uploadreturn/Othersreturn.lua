@@ -297,6 +297,7 @@ return {
 	"YêU MộT NgườI Có Lẽ",
 	"YêU Từ CáI NhìN đầU TiêN",
 	"YêU,TồN TạI",
+	"Yoasobi - Yoru Ni Kakeru Mhxa",
 	"Your New Home (Episode 9 End)",
 	"Zedd-Clarity-20231118170709-Nonstop2k.Com",
 	"Военные песни - Катюша (3) [MIDIfind.Com]",
