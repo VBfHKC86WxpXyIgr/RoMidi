@@ -22,6 +22,7 @@ return {
 	"DEAD OR LIE",
 	"Death Note OP1 - THE WORLD Mhxa",
 	"Death Note OST - L'S Theme Mhxa",
+	"Demon Slayer OP - Gurenge Mhxa",
 	"Demon Slayer OP Mhxa",
 	"Doraemon - No Uta",
 	"Eldoraudio-Hajime no Ippo  Knockout ED 1  Yuuzora no Kamihikouki  - Piano Tutorial MP3 160K ",
