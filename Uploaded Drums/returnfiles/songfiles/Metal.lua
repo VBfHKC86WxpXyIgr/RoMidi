@@ -150,6 +150,7 @@ return {
 	"Metallica - Frayed Ends Of Sanity [MIDIfind.Com]",
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
+	"Metallica - Motorbreath (2) [MIDIfind.Com]",
 	"Metallica - No Remorse [MIDIfind.Com]",
 	"Metallica - Phantom Lord [MIDIfind.Com]",
 	"Metallica - Sad But True (2) [MIDIfind.Com]",
