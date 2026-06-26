@@ -110,6 +110,7 @@ return {
 	"Metallica - Battery [MIDIfind.Com]",
 	"Metallica - Blackened [MIDIfind.Com]",
 	"Metallica - Blackened Reversed (Intro) [MIDIfind.Com]",
+	"Metallica - Blackened Solo Tutorial By Chris Zoupa [MIDIfind.Com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
 	"Metallica - Damage Inc [MIDIfind.Com]",
 	"Metallica - Disposable Heroes [MIDIfind.Com]",
