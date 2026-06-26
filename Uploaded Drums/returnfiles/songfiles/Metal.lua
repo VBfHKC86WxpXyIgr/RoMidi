@@ -80,6 +80,7 @@ return {
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Disasterpiece",
 	"DOOM - Theme E1M1",
+	"DragonForce - Through The Fire And Flames [MIDIfind.Com]",
 	"Drum - Afro Latin Ritm [MIDIfind.com]",
 	"Drum - Drum Exercise Double Bass Drumming Bobby Jarzombek [MIDIfind.com]",
 	"Drum - Drum Exercise Updown Rock N Jazz Flams Funk Rhythms [MIDIfind.com]",
