@@ -161,6 +161,7 @@ return {
 	"KhuôN MặT đáNg ThươNg",
 	"KiêU NgạO",
 	"KING NASIR",
+	"Kiss The Rain",
 	"KJ",
 	"KJ V2",
 	"KOBO KANAERO - HELP!! Mhxa",
