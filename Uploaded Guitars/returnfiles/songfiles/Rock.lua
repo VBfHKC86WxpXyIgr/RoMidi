@@ -76,6 +76,7 @@ return {
 	"Skillet - Monster [MIDIfind.Com]",
 	"Snow (Hey Oh!)",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
+	"Soda Stereo - Tratame Suavemente [MIDIfind.Com]",
 	"Strokes (The) - Last Nite [MIDIfind.Com]",
 	"Strokes (The) - The End Has No End (7) [MIDIfind.Com]",
 	"System Of A Down - Toxicity [MIDIfind.Com]",
