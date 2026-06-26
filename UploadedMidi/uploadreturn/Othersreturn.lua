@@ -24,6 +24,7 @@ return {
 	"Anh Sai RồI X BìNh YêN NơI ĐâU",
 	"Azali - MECHANICAL GOD",
 	"Back Number",
+	"Bad Apple",
 	"Bad Apple Ft. Nomico Deblacked",
 	"BáNh Mì KhôNg",
 	"Be The Sky",
