@@ -20,6 +20,7 @@ return {
 	"âM ThầM BêN Em 2",
 	"âM ThầM BêN Em X NơI NàY Có Anh",
 	"ấN NúT Thả GiấC Mơ",
+	"Anh Cứ đI đI",
 	"ANH SAI RỒI",
 	"Anh Sai RồI X BìNh YêN NơI ĐâU",
 	"Azali - MECHANICAL GOD",
