@@ -147,6 +147,7 @@ return {
 	"Ms Salmonella - Lifelover",
 	"Necromancy - Bathory",
 	"Nocturnal Depression - Her Ghost Haunts These Walls",
+	"Opensheets-Torment-Payback",
 	"Osbourne Ozzy - Crazy Train [MIDIfind.Com]",
 	"Osbourne Ozzy - Hellraiser [MIDIfind.Com]",
 	"Osbourne Ozzy - I Don'T Wanna Stop [MIDIfind.Com]",
