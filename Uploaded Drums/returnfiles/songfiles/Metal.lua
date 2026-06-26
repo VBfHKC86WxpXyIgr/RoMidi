@@ -178,6 +178,7 @@ return {
 	"Osbourne Ozzy - Perry Mason [MIDIfind.Com]",
 	"Pantera - 5 Minutes Alone [MIDIfind.Com]",
 	"Pantera - Becoming [MIDIfind.com]",
+	"Pantera - Becoming [MIDIfind.Com]",
 	"Pantera - By Demons Be Driven [MIDIfind.Com]",
 	"Pantera - Cemetery Gates [MIDIfind.com]",
 	"Pantera - Cowboys From Hell [MIDIfind.Com]",
