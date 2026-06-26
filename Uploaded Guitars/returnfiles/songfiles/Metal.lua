@@ -60,6 +60,7 @@ return {
 	"Eruption - Van Halen",
 	"Eyes Of A Homeless Dog - Psychonaut 4",
 	"For-Whom-The-Bell-Tolls",
+	"Gojira - Flying Whales (OFFICIAL) [MIDIfind.Com]",
 	"Han Som Reiste - Burzum",
 	"Happy Days - Don'T Guns (Guitar)",
 	"Haunted (The) - Silencer [MIDIfind.Com]",
