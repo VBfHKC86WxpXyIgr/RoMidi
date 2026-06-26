@@ -28,6 +28,7 @@ return {
 	"Becker Jason - Altitudes (2) [MIDIfind.Com]",
 	"Black Sabbath - Black Sabbath [MIDIfind.Com]",
 	"Black Sabbath - Paranoid [MIDIfind.Com]",
+	"Blackened Isolated Solo By Chicoplatr",
 	"Blitzkrieg Bop - Ramones",
 	"Burzum - Det Som En Gang Var [MIDIfind.Com]",
 	"Burzum - Dunkelheit Burzum [MIDIfind.Com]",
