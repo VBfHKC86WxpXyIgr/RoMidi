@@ -182,6 +182,7 @@ return {
 	"Pantera - By Demons Be Driven [MIDIfind.Com]",
 	"Pantera - Cemetery Gates [MIDIfind.com]",
 	"Pantera - Cowboys From Hell [MIDIfind.Com]",
+	"Pantera - Primal Concrete Sledge [MIDIfind.Com]",
 	"Pantera - Shedding Skin [MIDIfind.Com]",
 	"Pantera - Slaughtered [MIDIfind.Com]",
 	"People=Shit- FlipgridJR",
