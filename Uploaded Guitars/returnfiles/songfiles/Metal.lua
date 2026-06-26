@@ -183,6 +183,7 @@ return {
 	"Slipknot - The Heretic Anthem (4) [MIDIfind.Com]",
 	"Stabwound - Necrophagist Piano Arrangement (Sorta) Lyrics!!",
 	"Symphony X - Sea Of Lies First Part",
+	"System Of A Down - Lonely Day [MIDIfind.Com]",
 	"The Crying Orc - Burzum",
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"Through The Fire And Flames - DragonForce",
