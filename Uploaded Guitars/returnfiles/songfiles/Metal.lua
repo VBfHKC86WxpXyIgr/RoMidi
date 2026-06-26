@@ -166,6 +166,7 @@ return {
 	"Pantera - Cowboys From Hell [MIDIfind.Com]",
 	"Pantera - Domination",
 	"Pantera - Floods [MIDIfind.Com]",
+	"Pantera - Primal Concrete Sledge [MIDIfind.Com]",
 	"Pantera - Shedding Skin [MIDIfind.Com]",
 	"Pantera - Slaughtered [MIDIfind.Com]",
 	"Pantera - The Art Of Shredding",
