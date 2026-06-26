@@ -206,6 +206,7 @@ return {
 	"Slipknot - Before I Forget.drum midi",
 	"Slipknot - Dead Memories (5) [MIDIfind.com]",
 	"Slipknot - Eyeless",
+	"Slipknot - Eyeless (2) [MIDIfind.Com]",
 	"Slipknot - Eyeless (5) [MIDIfind.Com]",
 	"Slipknot - Joey Jordison Drum Solo From Surfacing [MIDIfind.com]",
 	"Slipknot - Psychosocial (ver 8 by Thaynan).mid",
