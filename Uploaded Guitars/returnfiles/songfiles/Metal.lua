@@ -140,6 +140,7 @@ return {
 	"Metallica - Of Wolf And Man (3) [MIDIfind.Com]",
 	"Metallica - One",
 	"Metallica - One [MIDIfind.Com]",
+	"Metallica - One Solo Played By David Escobar [MIDIfind.Com]",
 	"Metallica - Orion [MIDIfind.Com]",
 	"Metallica - Phantom Lord [MIDIfind.Com]",
 	"Metallica - Ride The Lightning",
