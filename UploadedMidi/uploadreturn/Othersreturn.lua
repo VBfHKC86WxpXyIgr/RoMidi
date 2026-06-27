@@ -245,6 +245,7 @@ return {
 	"Sunkissed Lola - Pasilyo Mhxa",
 	"Super Mario 64 Wing Cap Mario Koji Kondo SM64 Powerful Mario Theme",
 	"SuýT NữA Thì",
+	"Sweet Boy - Malcom Todd WIP",
 	"Sword Art Online Gun Gale",
 	"Sword Art Online II Opening 1 - IGNITE",
 	"TáI Sinh",
