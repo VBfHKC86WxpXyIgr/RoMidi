@@ -10,6 +10,7 @@ return {
 	"In The End - Linkin Park",
 	"Jane! Ttest",
 	"LED ZEPPELIN.Stairway To Heaven KA",
+	"Made In Thailland 2",
 	"Smashing Pumpkins - Mayonaise [MIDIfind.Com]",
 	"Soundgarden - Black Hole Sun (3) [MIDIfind.Com]",
 	"Them Bones - Alice In Chains",
