@@ -31,6 +31,7 @@ return {
 	"FULL Inferno - Enen No Shouboutai Fire Force OP Mhxa",
 	"FullMetal Alchemist - Again Brotherhood OP1 Mhxa",
 	"Giornos Theme",
+	"Gooby This Gooby Tha5",
 	"GOZALO - Ariis",
 	"HalcyonMusic 10k subs medley",
 	"Harry Potter- Hedwig'S Theme",
