@@ -153,6 +153,7 @@ return {
 	"Metallica - Spit Out The Bone",
 	"Metallica - The Day That Never Comes (13) [MIDIfind.Com]",
 	"Metallica - The Four Horseman [MIDIfind.Com]",
+	"Metallica - The Shortest Straw [MIDIfind.Com]",
 	"Metallica - The Thing That Should Not Be [MIDIfind.Com]",
 	"Metallica - Trapped Under Ice [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
