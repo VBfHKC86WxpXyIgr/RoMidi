@@ -185,6 +185,7 @@ return {
 	"Pantera - By Demons Be Driven [MIDIfind.Com]",
 	"Pantera - Cemetery Gates [MIDIfind.com]",
 	"Pantera - Cowboys From Hell [MIDIfind.Com]",
+	"Pantera - Fucking Hostile [MIDIfind.Com]",
 	"Pantera - Heresy [MIDIfind.Com]",
 	"Pantera - Primal Concrete Sledge [MIDIfind.Com]",
 	"Pantera - Shedding Skin [MIDIfind.Com]",
