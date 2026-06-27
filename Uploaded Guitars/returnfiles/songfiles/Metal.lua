@@ -113,6 +113,7 @@ return {
 	"Metallica - Blackened Reversed (Intro) [MIDIfind.Com]",
 	"Metallica - Blackened Solo Tutorial By Chris Zoupa [MIDIfind.Com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
+	"Metallica - Creeping Death (Solo) [MIDIfind.Com]",
 	"Metallica - Damage Inc [MIDIfind.Com]",
 	"Metallica - Disposable Heroes [MIDIfind.Com]",
 	"Metallica - Dyers Eve [MIDIfind.Com]",
