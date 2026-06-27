@@ -48,6 +48,7 @@ return {
 	"Cryptopsy - Graves Of The Fathers (Guitar)",
 	"Cryptopsy - Mutant Christ (Guitar)",
 	"Cryptopsy - Slit Your Guts (Guitar)",
+	"Darkthrone - Lifeless [MIDIfind.Com]",
 	"Darkthrone - Transilvanian Hunger (4) [MIDIfind.Com]",
 	"Darkthrone - Under A Funeral Moon [MIDIfind.Com]",
 	"Darkthrone - Unholy Blackmetal [MIDIfind.Com]",
