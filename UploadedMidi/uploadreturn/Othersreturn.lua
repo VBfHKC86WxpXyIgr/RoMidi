@@ -15,6 +15,7 @@ return {
 	"50 Metallica RIFFS",
 	"50 Nirvana RIFFS",
 	"60375 Purnama-Merindu-",
+	"AA-Isaac Newton",
 	"Ai♡Scream Mhxa",
 	"AKASAKI - Bunny Girl Mhxa",
 	"ALL MY FELLAS [ Remastered & Finished ]",
