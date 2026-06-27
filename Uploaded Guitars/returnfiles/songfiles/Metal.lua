@@ -132,6 +132,7 @@ return {
 	"Metallica - Jump In The Fire [MIDIfind.Com]",
 	"Metallica - Leper Messiah [MIDIfind.Com]",
 	"Metallica - Lux ÆTerna",
+	"Metallica - Metal Militia [MIDIfind.Com]",
 	"Metallica - Motorbreath [MIDIfind.Com]",
 	"Metallica - No Remorse [MIDIfind.Com]",
 	"Metallica - Of Wolf And Man (3) [MIDIfind.Com]",
