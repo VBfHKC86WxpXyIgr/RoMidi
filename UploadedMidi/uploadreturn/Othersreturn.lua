@@ -240,6 +240,7 @@ return {
 	"Senbonzakura BLACK MIDI",
 	"Shucks Ending V2",
 	"Song For You",
+	"Stay With Me Exo",
 	"Studio Ghibli Piano",
 	"SUFFER WITH ME",
 	"Sukidakara",
