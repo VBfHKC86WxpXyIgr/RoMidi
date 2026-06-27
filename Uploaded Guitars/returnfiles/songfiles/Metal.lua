@@ -118,6 +118,7 @@ return {
 	"Metallica - Disposable Heroes [MIDIfind.Com]",
 	"Metallica - Dyers Eve [MIDIfind.Com]",
 	"Metallica - Enter Sandman [MIDIfind.Com]",
+	"Metallica - Eye Of The Beholder [MIDIfind.Com]",
 	"Metallica - Fade To Black [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire [MIDIfind.Com]",
