@@ -189,6 +189,7 @@ return {
 	"Pantera - Heresy [MIDIfind.Com]",
 	"Pantera - I'M Broken [MIDIfind.Com]",
 	"Pantera - Primal Concrete Sledge [MIDIfind.Com]",
+	"Pantera - Psycho Holiday [MIDIfind.Com]",
 	"Pantera - Shedding Skin [MIDIfind.Com]",
 	"Pantera - Slaughtered [MIDIfind.Com]",
 	"People=Shit- FlipgridJR",
