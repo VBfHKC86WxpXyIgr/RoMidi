@@ -129,6 +129,7 @@ return {
 	"Metallica - Harvester Of Sorrow [MIDIfind.Com]",
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - Holier Than Thou [MIDIfind.Com]",
+	"Metallica - Jump In The Fire [MIDIfind.Com]",
 	"Metallica - Leper Messiah [MIDIfind.Com]",
 	"Metallica - Lux ÆTerna",
 	"Metallica - Motorbreath [MIDIfind.Com]",
