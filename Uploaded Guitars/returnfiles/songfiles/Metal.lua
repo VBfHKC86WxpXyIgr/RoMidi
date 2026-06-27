@@ -142,6 +142,7 @@ return {
 	"Metallica - One [MIDIfind.Com]",
 	"Metallica - One Solo Played By David Escobar [MIDIfind.Com]",
 	"Metallica - Orion (Bass Riff) [MIDIfind.Com]",
+	"Metallica - Orion (Bass Solo) [MIDIfind.Com]",
 	"Metallica - Orion [MIDIfind.Com]",
 	"Metallica - Phantom Lord [MIDIfind.Com]",
 	"Metallica - Ride The Lightning",
