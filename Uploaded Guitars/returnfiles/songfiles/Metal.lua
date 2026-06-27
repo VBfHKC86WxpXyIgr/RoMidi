@@ -120,6 +120,7 @@ return {
 	"Metallica - Enter Sandman [MIDIfind.Com]",
 	"Metallica - Eye Of The Beholder [MIDIfind.Com]",
 	"Metallica - Fade To Black [MIDIfind.Com]",
+	"Metallica - Fade To Black Solo Guitar Kelly Valleau [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire [MIDIfind.Com]",
 	"Metallica - For Whom The Bell Tolls [MIDIfind.Com]",
