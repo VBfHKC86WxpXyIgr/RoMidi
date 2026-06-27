@@ -157,6 +157,7 @@ return {
 	"Metallica - The Struggle Within [MIDIfind.Com]",
 	"Metallica - The Thing That Should Not Be [MIDIfind.Com]",
 	"Metallica - Through The Never [MIDIfind.Com]",
+	"Metallica - To Live Is To Die (11) [MIDIfind.Com]",
 	"Metallica - Trapped Under Ice [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Metallica - Wherever I May Roam [MIDIfind.Com]",
