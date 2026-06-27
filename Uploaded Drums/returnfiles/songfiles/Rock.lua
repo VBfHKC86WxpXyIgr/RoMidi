@@ -42,6 +42,7 @@ return {
 	"imagine-dragons-believer-drum-score",
 	"Korn - Embrace",
 	"Leech",
+	"Linkin Park - Given Up [MIDIfind.Com]",
 	"Linkin Park - No More Sorrow",
 	"Linkin Park - Numb",
 	"Love Buzz - Nirvana (Drums)",
