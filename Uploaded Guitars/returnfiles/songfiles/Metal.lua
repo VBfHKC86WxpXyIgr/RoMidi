@@ -146,6 +146,7 @@ return {
 	"Metallica - Orion [MIDIfind.Com]",
 	"Metallica - Phantom Lord [MIDIfind.Com]",
 	"Metallica - Ride The Lightning",
+	"Metallica - Ride The Lightning Solo Tutorial By Chris Zoupa [MIDIfind.Com]",
 	"Metallica - Sad But True [MIDIfind.Com]",
 	"Metallica - Seek And Destroy [MIDIfind.Com]",
 	"Metallica - Some Kind Of Monster [MIDIfind.Com]",
