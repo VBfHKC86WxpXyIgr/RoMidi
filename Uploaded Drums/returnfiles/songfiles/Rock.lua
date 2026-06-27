@@ -63,6 +63,7 @@ return {
 	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit",
 	"Nirvana - Territorial Pissings",
+	"Oasis - She'S Electric [MIDIfind.Com]",
 	"Rollin",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Skillet - Monster [MIDIfind.Com]",
