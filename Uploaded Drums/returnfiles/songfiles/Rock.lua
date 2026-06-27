@@ -64,6 +64,7 @@ return {
 	"Nirvana - Smells Like Teen Spirit",
 	"Nirvana - Territorial Pissings",
 	"Oasis - She'S Electric [MIDIfind.Com]",
+	"Radiohead - Paranoid Android [MIDIfind.Com]",
 	"Rollin",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Skillet - Monster [MIDIfind.Com]",
