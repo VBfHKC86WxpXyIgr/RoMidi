@@ -35,6 +35,7 @@ return {
 	"Judas Priest - You'Ve Got Another Thing Comin [MIDIfind.Com]",
 	"Layla - Derek And The Dominos Ft Eric Clapton",
 	"Layla (Unplugged) - Eric Clapton",
+	"Linkin Park - Given Up [MIDIfind.Com]",
 	"Lonesome Town - Ricky Nelson",
 	"Megalo Box 2",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
