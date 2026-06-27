@@ -189,6 +189,7 @@ return {
 	"Pantera - Floods [MIDIfind.Com]",
 	"Pantera - Fucking Hostile [MIDIfind.Com]",
 	"Pantera - Heresy [MIDIfind.Com]",
+	"Pantera - I'M Broken [MIDIfind.Com]",
 	"Pantera - Primal Concrete Sledge [MIDIfind.Com]",
 	"Pantera - Shedding Skin [MIDIfind.Com]",
 	"Pantera - Slaughtered [MIDIfind.Com]",
