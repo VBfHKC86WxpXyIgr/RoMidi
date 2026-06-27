@@ -28,6 +28,7 @@ return {
 	"Back Number",
 	"Bad Apple",
 	"Bad Apple Ft. Nomico Deblacked",
+	"Bad Apple!! (Full)",
 	"BáNh Mì KhôNg",
 	"Be The Sky",
 	"Beautiful In White",
