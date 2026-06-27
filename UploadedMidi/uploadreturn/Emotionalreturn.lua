@@ -110,6 +110,7 @@ return {
 	"Too Little Too Late  laufey 1776838113996",
 	"Việt Nam I love impossible",
 	"Wait For U",
+	"WARRIYO",
 	"Washing Machine Heart - Mitski",
 	"Wave to earth - Love",
 	"Where's My Love – SYML",
