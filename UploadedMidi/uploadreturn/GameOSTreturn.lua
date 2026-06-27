@@ -11,6 +11,7 @@ return {
 	"ASGORE Kyle Landry EDT",
 	"Attack Of The Killer Queen - (Deltarune) - [MIDI]",
 	"Back on Track",
+	"Bad Apple!!",
 	"Bad Piggies - Main Theme",
 	"Basics in behavior",
 	"Battle Against a True Hero (Undyne the Undying) (wip)",
