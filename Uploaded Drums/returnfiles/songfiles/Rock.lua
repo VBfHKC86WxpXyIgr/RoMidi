@@ -65,6 +65,7 @@ return {
 	"Nirvana - Smells Like Teen Spirit",
 	"Nirvana - Territorial Pissings",
 	"Oasis - She'S Electric [MIDIfind.Com]",
+	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
 	"Radiohead - Fake Plastic Trees [MIDIfind.Com]",
 	"Radiohead - Lucky [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
