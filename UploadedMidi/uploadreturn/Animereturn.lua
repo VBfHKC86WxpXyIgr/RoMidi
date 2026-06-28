@@ -98,4 +98,5 @@ return {
 	"YOUR NAME - SPARKLE Mhxa",
 	"Your Reality",
 	"센과 치히로의 행방불명 OST Always With Me By (Pianicast) Mhxa",
+	"테일즈위버 OST - Reminiscence - Yeon H (192k)",
 }
