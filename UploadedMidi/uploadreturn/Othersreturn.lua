@@ -84,6 +84,7 @@ return {
 	"CơN MưA TìNh YêU",
 	"Cradles Mhxa",
 	"CùNg Anh",
+	"CướI Nhau đI",
 	"đã QuêN Hay ChưA",
 	"Đã-Lỡ-YêU-Em-NhiềU",
 	"ĐảO NghịCh",
