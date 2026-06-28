@@ -27,6 +27,7 @@ return {
 	"Fortunate Son - Creedance Clearwater Revival",
 	"Fortunate Son - Creedance Clearwater Revival-Electric Bass, Fingered Bass",
 	"Fortunate Son - Creedance Clearwater RevivalLEAD",
+	"Franz Ferdinand - Take Me Out (2) [MIDIfind.Com]",
 	"Free Bird - Lynyrd Skynyrd",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Heart Shaped Box - Nirvana",
