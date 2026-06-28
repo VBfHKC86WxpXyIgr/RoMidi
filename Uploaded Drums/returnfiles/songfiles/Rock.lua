@@ -66,6 +66,7 @@ return {
 	"Nirvana - Territorial Pissings",
 	"Oasis - She'S Electric [MIDIfind.Com]",
 	"Radiohead - Fake Plastic Trees [MIDIfind.Com]",
+	"Radiohead - Lucky [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
 	"Rollin",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
