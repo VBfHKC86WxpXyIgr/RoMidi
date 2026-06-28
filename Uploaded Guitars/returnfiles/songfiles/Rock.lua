@@ -71,6 +71,7 @@ return {
 	"Paramore - Misery Business [MIDIfind.Com]",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
 	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
+	"Radiohead - Fake Plastic Trees [MIDIfind.Com]",
 	"Radiohead - Just [MIDIfind.Com]",
 	"Radiohead - Lucky [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
