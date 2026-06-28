@@ -72,6 +72,7 @@ return {
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
 	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
 	"Radiohead - Just [MIDIfind.Com]",
+	"Radiohead - Lucky [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
 	"Radiohead - The Bends [MIDIfind.Com]",
 	"Ratt - Lay It Down [MIDIfind.Com]",
