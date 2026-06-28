@@ -11,6 +11,7 @@ return {
 	"Jane! Ttest",
 	"LED ZEPPELIN.Stairway To Heaven KA",
 	"Made In Thailland 2",
+	"PTV - King For A Day",
 	"Smashing Pumpkins - Mayonaise [MIDIfind.Com]",
 	"Soundgarden - Black Hole Sun (3) [MIDIfind.Com]",
 	"Them Bones - Alice In Chains",
