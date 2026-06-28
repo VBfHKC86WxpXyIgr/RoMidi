@@ -23,6 +23,7 @@ return {
 	"Faith",
 	"Foo Fighters - Everlong",
 	"Fortunate Son - Creedance Clearwater Revival-Drum Kit, Drums",
+	"Franz Ferdinand - Take Me Out [MIDIfind.Com]",
 	"Girlfriend",
 	"Green Day - Basket Case [MIDIfind.Com]",
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
