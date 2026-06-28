@@ -30,6 +30,7 @@ return {
 	"Bathory - Necromansy [MIDIfind.Com]",
 	"Bathory - Song To Hall Up High",
 	"Becker Jason - Altitudes (2) [MIDIfind.Com]",
+	"Beggin-Maneskin.Mid (1)",
 	"Black Sabbath - Black Sabbath [MIDIfind.Com]",
 	"Black Sabbath - Paranoid [MIDIfind.Com]",
 	"Blackened Isolated Solo By Chicoplatr",
