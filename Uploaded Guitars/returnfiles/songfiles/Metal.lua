@@ -65,6 +65,7 @@ return {
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
 	"Discharge - Fight Back [MIDIfind.Com]",
 	"Discharge - Realities Of War [MIDIfind.Com]",
+	"Domination - Pantera, R Guitar + Solo, No Vocals Or Bass! (FIXED VERSION)",
 	"Domination - Pantera, Rhythm Guitar + Solo Only! No Vocals Or Bass! By Chicoplatr",
 	"Domination- Pantera, Rhythm And Solo Only Guitars!",
 	"Eldoraudio-Destroy Boys - Crybaby Guitar Solo 1",
