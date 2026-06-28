@@ -44,6 +44,7 @@ return {
 	"Cacophony - Speed Metal Symphony (2) [MIDIfind.Com]",
 	"Cancertid - Lifelover",
 	"Candlemass - Solitude [MIDIfind.Com]",
+	"Crybaby - Destroy Boys",
 	"Cryptopsy - Back To The Worms (Guitar)",
 	"Cryptopsy - Benedictine Convulsions (Guitar)",
 	"Cryptopsy - Dead And Dripping (Guitar)",
