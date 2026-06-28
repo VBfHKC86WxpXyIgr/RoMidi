@@ -212,6 +212,7 @@ return {
 	"Psychonaut 4 - World Of Pain And Hate [MIDIfind.Com]",
 	"Rage Against The Machine - Killing In The Name (2) [MIDIfind.Com]",
 	"Rage Against The Machine - Killing In The Name [MIDIfind.Com]",
+	"RainingBlood",
 	"Rammstein - Du Hast [MIDIfind.Com]",
 	"Rammstein - Sonne [MIDIfind.Com]",
 	"Roses On Bathory S Blood Bath",
