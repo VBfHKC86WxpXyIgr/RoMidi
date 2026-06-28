@@ -65,6 +65,7 @@ return {
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
 	"Discharge - Fight Back [MIDIfind.Com]",
 	"Discharge - Realities Of War [MIDIfind.Com]",
+	"Domination- Pantera, Rhythm And Solo Only Guitars!",
 	"Eldoraudio-Destroy Boys - Crybaby Guitar Solo 1",
 	"Eruption - Van Halen",
 	"Eyes Of A Homeless Dog - Psychonaut 4",
