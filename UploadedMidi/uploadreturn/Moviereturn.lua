@@ -17,6 +17,7 @@ return {
 	"I am still standing",
 	"INSIDE OUP 2",
 	"Interstellar-Suite - Hans Zimmer",
+	"Jaws Theme",
 	"Je Te Laisserai Des Mots - Patrick Watson",
 	"JOHN.I'm still standing K",
 	"Like A Dog Chasing Car",
