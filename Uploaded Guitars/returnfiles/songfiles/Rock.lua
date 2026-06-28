@@ -8,6 +8,7 @@ return {
 	"Alice In Chains - Sludge Factory [MIDIfind.Com]",
 	"Alice In Chains - Would(3) [MIDIfind.Com]",
 	"American Football - Never Meant",
+	"Beggin-Maneskin.Mid",
 	"Bismarck - Sabaton Piano Arrangement",
 	"Black Rover - Black Clover (OP 3)",
 	"Black Sabbath - Iron Man",
