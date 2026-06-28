@@ -69,6 +69,7 @@ return {
 	"Radiohead - Fake Plastic Trees [MIDIfind.Com]",
 	"Radiohead - Lucky [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
+	"Radiohead - The Bends (2) [MIDIfind.Com]",
 	"Rollin",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Skillet - Monster [MIDIfind.Com]",
