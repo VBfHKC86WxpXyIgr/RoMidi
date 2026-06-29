@@ -170,6 +170,7 @@ return {
 	"Metallica - The Shortest Straw [MIDIfind.Com]",
 	"Metallica - The Struggle Within [MIDIfind.Com]",
 	"Metallica - The Thing That Should Not Be [MIDIfind.Com]",
+	"Metallica - The Unforgiven [MIDIfind.Com]",
 	"Metallica - Through The Never [MIDIfind.Com]",
 	"Metallica - To Live Is To Die (11) [MIDIfind.Com]",
 	"Metallica - Trapped Under Ice [MIDIfind.Com]",
