@@ -91,6 +91,7 @@ return {
 	"Rape Me - Nirvana",
 	"School - Nirvana School - Nirvana",
 	"Seasons In The Sun - Westlife (Piano-Voice)",
+	"Seasons-In-The-Sun-Terry-Jacks-Ballad-Piano-Level-4 1",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Smells Like Teen Spirit",
 	"Smells Like Teen Spirit - Nirvana (Piano-Vocal-Guitar)",
