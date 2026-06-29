@@ -7,6 +7,7 @@ return {
 	"Alan Walker - Alone Part II",
 	"ALL MY FELLAS 8FR",
 	"Arctic Monkeys Arr. Lucky Piano - No. 1 Party Anthem (1)",
+	"Ariana Grande, Justin Bieber - Stuck With U",
 	"As The World Caves In - Matt Maltese",
 	"Attack On Titan Season 3 - Red Swan.Mid",
 	"Bad Habit - Steve Lacy",
