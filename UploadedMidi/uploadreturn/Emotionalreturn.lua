@@ -34,6 +34,7 @@ return {
 	"FOREVER",
 	"Freaks – Surf Curse Freaks",
 	"Golden-Hour-Full-Version",
+	"Green Day - Last Night On Earth",
 	"happy",
 	"Happy",
 	"Hope - XXXTENTACION",
