@@ -34,6 +34,7 @@ return {
 	"Green Day - Holiday (2) [MIDIfind.Com]",
 	"Green Day - Jesus Of Suburbia (2) [MIDIfind.Com]",
 	"Green Day - Letterbomb [MIDIfind.Com]",
+	"Green Day - Longview [MIDIfind.Com]",
 	"Green Day - She'S A Rebel [MIDIfind.Com]",
 	"Green Day - Whatsername [MIDIfind.Com]",
 	"Green Day - When I Come Around [MIDIfind.Com]",
