@@ -90,6 +90,7 @@ return {
 	"Polly - Nirvana (Piano-Vocal-Guitar)",
 	"Rape Me - Nirvana",
 	"School - Nirvana School - Nirvana",
+	"Seasons In The Sun - Westlife (Piano-Voice)",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Smells Like Teen Spirit",
 	"Smells Like Teen Spirit - Nirvana (Piano-Vocal-Guitar)",
