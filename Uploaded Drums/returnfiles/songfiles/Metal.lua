@@ -163,6 +163,7 @@ return {
 	"Metallica - Spit Out The Bone",
 	"Metallica - St Anger [MIDIfind.Com]",
 	"Metallica - The Four Horseman [MIDIfind.Com]",
+	"Metallica - The Unforgiven [MIDIfind.Com]",
 	"Metallica - Trapped Under Ice [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Metallica - Wherever I May Roam [MIDIfind.Com]",
