@@ -46,6 +46,7 @@ return {
 	"Michael Jackson - Beat It",
 	"Michael Jackson - Dirty Diana",
 	"Michael%20Jackson%20-%20Beat%20It",
+	"My Chemical Romance - Thank You For The Venom [MIDIfind.Com]",
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison (2) [MIDIfind.Com]",
 	"Never Meant - American Football",
 	"Nirvana - All Apologies [MIDIfind.Com]",
