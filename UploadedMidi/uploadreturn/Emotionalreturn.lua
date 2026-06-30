@@ -110,6 +110,7 @@ return {
 	"TheFatRat - Fly Away. Black MIDI.Mid",
 	"This Is What Autumn Feels Like - Jvke",
 	"Tom Odell - Another Love",
+	"Tony Ann - Four Letters",
 	"Tony Ann - ICARUS",
 	"Tony Ann - Reminisce 2",
 	"Too Little Too Late  laufey 1776838113996",
