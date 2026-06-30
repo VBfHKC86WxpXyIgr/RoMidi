@@ -77,6 +77,7 @@ return {
 	"Happy Days - Don'T Guns (Guitar)",
 	"Haunted (The) - Silencer [MIDIfind.Com]",
 	"HermoðR Á Helferð - Burzum",
+	"HIM - Gone With The Sin [MIDIfind.Com]",
 	"Ilia Burzum",
 	"Jason Becker - Altitudes Solo",
 	"Judas Priest - A Touch Of Evil [MIDIfind.Com]",
