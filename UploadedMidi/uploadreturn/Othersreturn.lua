@@ -167,6 +167,7 @@ return {
 	"Jackson Five I Want You Back",
 	"KháCh MờI",
 	"KhôNg BiếT PhảI LàM Sao",
+	"KhôNg BuôNg - Hngle (Piano)",
 	"KhôNg PhảI Là DạNg VừA đâU",
 	"KhôNg PhảI Là DạNg VừA đâU Ost",
 	"KhuôN MặT đáNg ThươNg",
