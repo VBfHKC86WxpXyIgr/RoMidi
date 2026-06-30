@@ -128,6 +128,7 @@ return {
 	"Ethan Bortnick - Cut My Fingers Off Mhxa",
 	"Evil Morty Meme Theme",
 	"Evil Morty Meme Theme (1)",
+	"Fake Love X Flower Dance",
 	"Fake Love X Suzume X BóNg Lá RơI",
 	"Feather - Nujabes",
 	"Flower Dance - DJ Okawari",
