@@ -11,6 +11,7 @@ return {
 	"AmericanIdiot",
 	"Arctic Monkeys - Do I Wanna Know [MIDIfind.com]",
 	"Arctic Monkeys - R U Mine [MIDIfind.com]",
+	"Audioslave - Like A Stone [MIDIfind.Com]",
 	"Big Cheese - Nirvana",
 	"BoysDontCry",
 	"BreakStuff",
