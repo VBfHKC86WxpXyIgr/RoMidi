@@ -50,6 +50,7 @@ return {
 	"Linkin Park - No More Sorrow",
 	"Linkin Park - Numb",
 	"Love Buzz - Nirvana (Drums)",
+	"Mac Demarco - Freaking Out The Neighborhood [MIDIfind.Com]",
 	"My Chemical Romance - Thank You For The Venom [MIDIfind.Com]",
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison (2) [MIDIfind.Com]",
 	"Nirvana - All Apologies (2) [MIDIfind.Com]",
