@@ -10,6 +10,7 @@ return {
 	"Linkin Park - Numb [MIDIfind.Com]",
 	"Linkin Park - One Step Closer [MIDIfind.Com]",
 	"Linkin Park - Papercut [MIDIfind.Com]",
+	"Metallica - So What [MIDIfind.Com]",
 	"Psychosocial - Slipknot",
 	"Slipknot - Eyeless (2) [MIDIfind.Com]",
 	"System Of A Down - Aerials [MIDIfind.Com]",
