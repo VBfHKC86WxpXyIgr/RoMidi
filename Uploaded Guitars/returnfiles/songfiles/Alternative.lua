@@ -2,6 +2,7 @@
 return {
 	"46792 Buko-",
 	"Aerosmith - Dream On",
+	"Audioslave - Like A Stone [MIDIfind.Com]",
 	"Bjork - Army Of Me WWW.MIDISFREE.COM",
 	"Chase Batta - JoJo'S Bizarre Adventure Part4 Diamond Is Unbreakable OP2",
 	"Chevelle - Comfortable Liar [MIDIfind.Com]",
