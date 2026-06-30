@@ -72,6 +72,7 @@ return {
 	"Có ChúT NgọT NgàO",
 	"Cô GáI M52",
 	"Có HẹN VớI Thanh XuâN",
+	"Cô ThắM KhôNg Về",
 	"Có Thể,KhôNg",
 	"COME MY WAY",
 	"Come My Way X Intro HãY Trao Cho Anh",
