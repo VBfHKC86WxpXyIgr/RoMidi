@@ -110,6 +110,7 @@ return {
 	"Guns N' Roses - Sweet Child O' Mine [MIDIfind.com]",
 	"Heart Shaped Box - Nirvana Heart Shaped Box",
 	"HereToStay",
+	"HIM - Gone With The Sin [MIDIfind.Com]",
 	"I Hate Myself And Want To Die (Drums + Guitar)",
 	"I Won't See You Tonight - Avenged Sevenfold",
 	"Judas Priest - Breaking The Law [MIDIfind.Com]",
