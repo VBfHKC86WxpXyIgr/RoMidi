@@ -18,4 +18,5 @@ return {
 	"Them Bones - Alice In Chains",
 	"Weezer - Island In The Sun (4) [MIDIfind.Com]",
 	"Wonderless",
+	"Wonderless2",
 }
