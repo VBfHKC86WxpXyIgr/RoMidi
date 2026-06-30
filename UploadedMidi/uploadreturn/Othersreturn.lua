@@ -151,6 +151,7 @@ return {
 	"HãY Trao Cho Anh 2",
 	"HDSQ - Tau (6283 Notes With Fake Notes For Note Counter Rendering) [Lyzen'S Piano Cover MIDIs]",
 	"HIM - Gone With The Sin [MIDIfind.Com]",
+	"HIM - Join Me [MIDIfind.Com]",
 	"HINO DO CORINTHIANS",
 	"HoàNg HôN",
 	"HọC MèO KêU",
