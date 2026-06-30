@@ -109,6 +109,7 @@ return {
 	"đừNg Về Trễ Nha",
 	"đườNg MộT ChiềU",
 	"ĐƯỜNG-TÔI-CHỞ-EM-VỀ",
+	"Earrings - Malcolm Todd (Piano)",
 	"Elevator Jam LSPLASH But Here I Come Super Hard Edition",
 	"Ella Baila Sola Eslabon Armado Y Peso Pluma",
 	"Em Cua NgàY HôM Qua",
