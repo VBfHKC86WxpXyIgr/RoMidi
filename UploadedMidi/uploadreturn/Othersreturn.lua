@@ -214,6 +214,7 @@ return {
 	"Natori - OVERDOSE Mhxa",
 	"Neon Genesis Evangelion Extra Short Mhxa",
 	"Nevada X ĐI ĐI ĐI",
+	"Never Gonna Give You Up",
 	"Ngã Tư KhôNg đèN",
 	"NgườI Im LặNg GặP NgườI Hay NóI",
 	"NgườI Kế NhiệM",
