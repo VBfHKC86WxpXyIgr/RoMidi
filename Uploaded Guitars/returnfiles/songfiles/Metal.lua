@@ -139,6 +139,7 @@ return {
 	"Metallica - For Whom The Bell Tolls [MIDIfind.Com]",
 	"Metallica - Frayed Ends Of Sanity [MIDIfind.Com]",
 	"Metallica - Fuel [MIDIfind.Com]",
+	"Metallica - Harvester Of Sorrow (2) [MIDIfind.Com]",
 	"Metallica - Harvester Of Sorrow [MIDIfind.Com]",
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - Holier Than Thou [MIDIfind.Com]",
