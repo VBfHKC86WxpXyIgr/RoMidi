@@ -230,6 +230,7 @@ return {
 	"P Do Pecado - Ao Vivo - Grupo Menos É Mais (Piano)",
 	"Phi ĐIểU Và Ve SầU",
 	"PhíA Sau MộT Cô GáI",
+	"Phonecert (폰서트) - 10CM",
 	"Play Date",
 	"QuêN",
 	"RecuéRdame - Walt Disney Corporation RecuéRdame (Lembre De Mim)",
