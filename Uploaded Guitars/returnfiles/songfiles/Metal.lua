@@ -148,6 +148,7 @@ return {
 	"Metallica - Metal Militia [MIDIfind.Com]",
 	"Metallica - Motorbreath (2) [MIDIfind.Com]",
 	"Metallica - Motorbreath [MIDIfind.Com]",
+	"Metallica - My Apocalypse [MIDIfind.Com]",
 	"Metallica - No Remorse [MIDIfind.Com]",
 	"Metallica - Nothing Else Matters Whole Song Single Guitar [MIDIfind.Com]",
 	"Metallica - Of Wolf And Man (3) [MIDIfind.Com]",
