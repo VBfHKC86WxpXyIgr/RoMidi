@@ -263,6 +263,7 @@ return {
 	"SUFFER WITH ME",
 	"Sukidakara",
 	"Sunkissed Lola - Pasilyo Mhxa",
+	"Sunlight Sonata 3rd",
 	"Super Mario 64 Wing Cap Mario Koji Kondo SM64 Powerful Mario Theme",
 	"SuýT NữA Thì",
 	"Sweet Boy - Malcom Todd WIP",
