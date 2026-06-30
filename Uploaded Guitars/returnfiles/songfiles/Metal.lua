@@ -144,6 +144,7 @@ return {
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - Holier Than Thou [MIDIfind.Com]",
 	"Metallica - Jump In The Fire [MIDIfind.Com]",
+	"Metallica - Last Caress (2) [MIDIfind.Com]",
 	"Metallica - Leper Messiah [MIDIfind.Com]",
 	"Metallica - Lux ÆTerna",
 	"Metallica - Metal Militia [MIDIfind.Com]",
