@@ -11,6 +11,7 @@ return {
 	"bad apple 4.6 million",
 	"Beastars - JUNO is in love -adult-",
 	"BEASTARS -Classical- For 2 Violins",
+	"Binary Data IV",
 	"Cat Loving HSR",
 	"Chainsaw Man - In The Pool Reze Arc OST Mhxa",
 	"Chainsaw Man - IRIS OUT Reze Arc Mhxa",
