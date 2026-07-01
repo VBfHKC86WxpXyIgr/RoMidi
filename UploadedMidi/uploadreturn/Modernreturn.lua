@@ -45,6 +45,7 @@ return {
 	"Engravings-Ethan-Bortnick",
 	"Ere - Juan Karlos",
 	"EXECRETION Midi Recreation Instrumental",
+	"Faint - Linkin Park Faint",
 	"GIMS - NINAO Official Lyrics Vido",
 	"God Is - Kanye West WIP",
 	"Golden Brown Arragement By natsu",
