@@ -6,6 +6,7 @@ return {
 	"Buddy Holly - Weezer (Extremely Accurate) 🔥🎸G",
 	"Cant Stop - Red Hot Chili Peppers",
 	"Children",
+	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Fingerstyle",
 	"GOAT - Polyphia G O A T - Copy Mscz",
 	"Guns N Roses - Sweet Child O Mine",
