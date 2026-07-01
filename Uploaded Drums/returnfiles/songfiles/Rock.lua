@@ -13,6 +13,7 @@ return {
 	"Arctic Monkeys - R U Mine [MIDIfind.com]",
 	"Audioslave - Like A Stone [MIDIfind.Com]",
 	"Big Cheese - Nirvana",
+	"Blur - Song 2 [MIDIfind.Com]",
 	"BoysDontCry",
 	"BreakStuff",
 	"Come as you are (3 beats)",
