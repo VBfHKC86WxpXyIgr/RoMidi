@@ -8,6 +8,7 @@ return {
 	"Children",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Fingerstyle",
+	"Foo Fighters - Everlong [MIDIfind.Com]",
 	"GOAT - Polyphia G O A T - Copy Mscz",
 	"Guns N Roses - Sweet Child O Mine",
 	"Hava Nagila A Z Idelsohn",
