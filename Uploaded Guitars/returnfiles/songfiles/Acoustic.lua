@@ -15,6 +15,7 @@ return {
 	"Dumb Ways To Die",
 	"Ed Sheeran Thinking Out Loud",
 	"Just The Two Of Us.",
+	"Justin Bieber - Beauty And A Beat WWW.MIDISFREE.COM.Mid",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
 	"Nirvana - Do Re Mi",
