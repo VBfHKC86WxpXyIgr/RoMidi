@@ -6,6 +6,7 @@ return {
 	"Dumb Ways To Die (1)",
 	"Finnish Folk Song - SäKkijäRven Polkka",
 	"Heart-Shaped Box",
+	"Just The Two Of Us.Mid (1)",
 	"Lithium - Nirvana",
 	"One Last Breath",
 	"Smells Like Teen Spirit",
