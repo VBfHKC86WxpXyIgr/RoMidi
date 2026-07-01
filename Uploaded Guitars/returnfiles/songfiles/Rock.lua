@@ -78,6 +78,7 @@ return {
 	"Radiohead - Lucky [MIDIfind.Com]",
 	"Radiohead - No Surprises [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
+	"Radiohead - Subterranean Homesick Alien [MIDIfind.Com]",
 	"Radiohead - The Bends [MIDIfind.Com]",
 	"Ratt - Lay It Down [MIDIfind.Com]",
 	"Ratt - Round And Round [MIDIfind.Com]",
