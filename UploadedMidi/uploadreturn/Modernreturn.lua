@@ -55,6 +55,7 @@ return {
 	"Her - JVKE",
 	"Hey There Delilah",
 	"How The World Works - Bo Burnham",
+	"I Need A New Beginnig - Ruiji",
 	"I THOUGHT YOU WANTED TO DANCE",
 	"I Want You Back - Jackson 5",
 	"Impostor Syndrome - Sydney Gish",
