@@ -20,6 +20,7 @@ return {
 	"Creep",
 	"D7- Nirvana (Drums)",
 	"Degenerate",
+	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Endless Nameless - Nirvana (Drums)",
 	"Faith",
 	"Foo Fighters - Everlong",
