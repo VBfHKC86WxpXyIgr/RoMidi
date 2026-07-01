@@ -83,6 +83,7 @@ return {
 	"Sincerely - Violet Evergarden OP Mhxa",
 	"Sono Chi No Sadame - Jojo's Bizarre Adventure",
 	"Spirited Away - Inochi No Namae - The Name Of Life.Mid",
+	"Steel Ball Run",
 	"Summer Pockets",
 	"Sword Art Online Medley HalcyonMusic",
 	"Tau Cash",
