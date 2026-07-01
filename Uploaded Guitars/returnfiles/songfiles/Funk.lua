@@ -2,4 +2,5 @@
 return {
 	"Limp Bizkit - Take A Look Around [MIDIfind.Com]",
 	"Motley Crue - Kickstart My Heart.Mid",
+	"Кино - Спокойная ночь",
 }
