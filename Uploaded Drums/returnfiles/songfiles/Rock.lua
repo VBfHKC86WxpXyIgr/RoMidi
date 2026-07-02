@@ -61,6 +61,7 @@ return {
 	"Nirvana - Come As You Are",
 	"Nirvana - Dive (Drums)",
 	"Nirvana - Drain You [MIDIfind.Com]",
+	"Nirvana - Dumb [MIDIfind.Com]",
 	"Nirvana - Floyd The Barber (Drums)",
 	"Nirvana - In Bloom [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
