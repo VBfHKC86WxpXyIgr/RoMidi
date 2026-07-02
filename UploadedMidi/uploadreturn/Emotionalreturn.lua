@@ -33,6 +33,7 @@ return {
 	"Experience",
 	"Fly Away",
 	"FOREVER",
+	"Forever",
 	"Freaks – Surf Curse Freaks",
 	"Golden-Hour-Full-Version",
 	"Green Day - Last Night On Earth",
