@@ -14,6 +14,7 @@ return {
 	"LED ZEPPELIN.Stairway To Heaven KA",
 	"Made In Thailland 2",
 	"PTV - King For A Day",
+	"Radiohead - My Iron Lung",
 	"Smashing Pumpkins - Mayonaise [MIDIfind.Com]",
 	"Soundgarden - Black Hole Sun (3) [MIDIfind.Com]",
 	"Them Bones - Alice In Chains",
