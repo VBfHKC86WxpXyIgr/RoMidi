@@ -10,6 +10,7 @@ return {
 	"Just The Two Of Us.Mid (1)",
 	"Lithium - Nirvana",
 	"One Last Breath",
+	"PNE - Gitara (Fingerstyle)",
 	"Smells Like Teen Spirit",
 	"THE EAGLES.Hotel California K",
 	"Ween-Ocean Man (Piano Arrangement) [50 FOLLOWER SPECIAL]",
