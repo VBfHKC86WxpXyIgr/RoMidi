@@ -69,6 +69,7 @@ return {
 	"Oasis - Don'T Look Back In Anger",
 	"Oasis - She'S Electric [MIDIfind.Com]",
 	"Oasis - Slide Away [MIDIfind.Com]",
+	"Oasis - Supersonic [MIDIfind.Com]",
 	"Oasis - Wonderwall",
 	"Paramore - Misery Business [MIDIfind.Com]",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
