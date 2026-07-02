@@ -66,6 +66,7 @@ return {
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
 	"Nirvana - Something In The Way",
 	"Nirvana - You Know You'Re Right [MIDIfind.Com]",
+	"Oasis - Cigarettes Alcohol [MIDIfind.Com]",
 	"Oasis - Don'T Look Back In Anger",
 	"Oasis - Shakermaker",
 	"Oasis - She'S Electric [MIDIfind.Com]",
