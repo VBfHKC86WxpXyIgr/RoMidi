@@ -5,5 +5,6 @@ return {
 	"Led Zeppelin-Stairway To Heaven-06-11-2026 (1)",
 	"Mac Demarco - Freaking Out The Neighborhood [MIDIfind.Com]",
 	"Mundo By Iv Of Spades ( Solo Cover)",
+	"Nope Your Too Late I Already Died",
 	"SpongeBob - Main Theme [MIDIfind.Com]",
 }
