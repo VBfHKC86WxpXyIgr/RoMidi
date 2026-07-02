@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"Adventure Of A Lifetime - Coldplay",
 	"Crazy Frog - Axel F.Mid",
 	"Limp Bizkit - Take A Look Around [MIDIfind.Com]",
 	"Metallica-Enter-Sandman Midi",
