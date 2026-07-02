@@ -54,6 +54,7 @@ return {
 	"Nirvana - Aneurysm [MIDIfind.Com]",
 	"Nirvana - Blew (2) [MIDIfind.Com]",
 	"Nirvana - Drain You [MIDIfind.Com]",
+	"Nirvana - Dumb [MIDIfind.Com]",
 	"Nirvana - In Bloom [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Milk It [MIDIfind.Com]",
