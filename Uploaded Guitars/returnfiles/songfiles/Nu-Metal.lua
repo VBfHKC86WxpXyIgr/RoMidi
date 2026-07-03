@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"04-Hypnotize",
+	"Deftones - Change In The House Of Flies [MIDIfind.Com]",
 	"Deftones - Engine Number (9) [MIDIfind.Com]",
 	"Deftones - My Own Summer Shove It [MIDIfind.Com]",
 	"Korn - Blind",
