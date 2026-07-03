@@ -85,6 +85,7 @@ return {
 	"Running Up That Hill.Mid",
 	"Rush D",
 	"Rush E but its as difficult as humanly possible",
+	"RUSH E FINAL",
 	"SAMSUNG Over The Horizon 2021 (1)",
 	"Seluruh Nafas Ini Last Child 1780246231273",
 	"She Neva Knows - Justatee She Neva Knows",
