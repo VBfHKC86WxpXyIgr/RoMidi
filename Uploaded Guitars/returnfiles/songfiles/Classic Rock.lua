@@ -13,6 +13,7 @@ return {
 	"Guns N Roses - Sweet Child O Mine",
 	"Hava Nagila A Z Idelsohn",
 	"Iron Maiden - Iron Maiden [MIDIfind.Com]",
+	"Jerryc - Canon Rock Lead Guitar [MIDIfind.Com]",
 	"Last Rites Loved To Deth - Megadeth Last Rites Loved To Deth - Megadeth (Demo)",
 	"Let It Happen - Tame Impala",
 	"Megadeth - Holy Wars The Punishment Due",
