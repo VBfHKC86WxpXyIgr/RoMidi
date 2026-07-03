@@ -35,4 +35,5 @@ return {
 	"The Simpsons Main Theme  Danny Elfman MLX",
 	"Tiersen Yann - La Valse D Amelie (Piano Version) [MIDIfind.Com]",
 	"Two Birds - Regina Spektor",
+	"Yann Tiersen - La NoyéE",
 }
