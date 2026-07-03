@@ -85,6 +85,7 @@ return {
 	"Radiohead - Subterranean Homesick Alien [MIDIfind.Com]",
 	"Radiohead - The Bends (2) [MIDIfind.Com]",
 	"Rollin",
+	"Santana Carlos - Smooth [MIDIfind.Com]",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Skillet - Monster [MIDIfind.Com]",
 	"Smells Like Teen Spirit - Drums",
