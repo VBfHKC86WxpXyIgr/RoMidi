@@ -15,6 +15,7 @@ return {
 	"A Miserable Life",
 	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
 	"AngelOfDeath",
+	"Anthrax - Madhouse (4) [MIDIfind.Com]",
 	"Avenged Sevenfold - Afterlife Solo Live [MIDIfind.Com]",
 	"Avenged Sevenfold - Buried Alive [MIDIfind.Com]",
 	"Avenged Sevenfold - Clairvoyant Disease [MIDIfind.Com]",
