@@ -34,6 +34,7 @@ return {
 	"The One Who’S Running The Show - TADC THE AMAZING DIGITAL CIRCUS",
 	"The Simpsons Main Theme  Danny Elfman MLX",
 	"Tiersen Yann - La Valse D Amelie (Piano Version) [MIDIfind.Com]",
+	"Tony Ann - Now We Are Free - Gladiator Theme",
 	"Two Birds - Regina Spektor",
 	"Yann Tiersen - La NoyéE",
 }
