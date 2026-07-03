@@ -104,6 +104,7 @@ return {
 	"The Last Of Us - Main Theme (2) [MIDIfind.Com]",
 	"The Trooper",
 	"Vai Steve - For The Love Of God [MIDIfind.Com]",
+	"Van Halen - Ain'T Talkin Bout Love (2) [MIDIfind.Com]",
 	"War Pigs - Black Sabbath",
 	"WASP - I Wanna Be Somebody (2) [MIDIfind.Com]",
 	"WASP - Sleeping In The Fire [MIDIfind.Com]",
