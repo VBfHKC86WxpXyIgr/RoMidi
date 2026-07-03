@@ -235,6 +235,7 @@ return {
 	"Slayer - Raining Blood [MIDIfind.Com]",
 	"Slipknot - Before I Forget [MIDIfind.Com]",
 	"Slipknot - Duality [MIDIfind.Com]",
+	"Slipknot - Sic [MIDIfind.Com]",
 	"Slipknot - The Heretic Anthem (4) [MIDIfind.Com]",
 	"Stabwound - Necrophagist Piano Arrangement (Sorta) Lyrics!!",
 	"Symphony X - Sea Of Lies First Part",
