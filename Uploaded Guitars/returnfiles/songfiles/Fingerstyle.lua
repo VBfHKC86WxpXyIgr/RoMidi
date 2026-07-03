@@ -9,6 +9,7 @@ return {
 	"Just The Two Of Us.",
 	"Just The Two Of Us.Mid (1)",
 	"Lithium - Nirvana",
+	"Misirlou.Mid",
 	"One Last Breath",
 	"PNE - Gitara (Fingerstyle)",
 	"Smells Like Teen Spirit",
