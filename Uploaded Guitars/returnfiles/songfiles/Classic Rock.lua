@@ -23,6 +23,7 @@ return {
 	"PAUSE",
 	"Playing God - Polyphia Playing God Tab",
 	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
+	"Santana Carlos - Smooth [MIDIfind.Com]",
 	"Shiki No Uta (1)",
 	"THE BEATLES.Helter Skelter",
 	"Three Days Grace - Painkiller",
