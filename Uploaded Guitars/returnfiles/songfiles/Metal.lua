@@ -75,6 +75,7 @@ return {
 	"For-Whom-The-Bell-Tolls",
 	"Funeral Ceremony - Grausamkeit",
 	"Gojira - Flying Whales (OFFICIAL) [MIDIfind.Com]",
+	"Gotterkreig - Grausamkeit Gotterkreig (Only Melody, Without Ornaments) - Grausamkeit Gotterkreig",
 	"Han Som Reiste - Burzum",
 	"Happy Days - Don'T Guns (Guitar)",
 	"Haunted (The) - Silencer [MIDIfind.Com]",
