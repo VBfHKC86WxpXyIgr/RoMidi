@@ -104,6 +104,7 @@ return {
 	"Virginio Aiello, On Piano - Van Gogh",
 	"Wedding-Day-at-Troldhaugen",
 	"Woke Up In Japan By Friqtao",
+	"You'Ve Gotta Move",
 	"Yung Kai - Blue Piano Cover Sheet Music (1)",
 	"Кино - Группа крови [MIDIfind.Com]",
 	"Руки вверх - 18 мне уже [MIDIfind.Com]",
