@@ -78,6 +78,7 @@ return {
 	"RE ZERO - STAY ALIVE Mhxa",
 	"Reinai Circulation Mhxa",
 	"Rokudenashi - One Voice Mhxa",
+	"Sayonara Cross Teck-07-04-2026",
 	"Scott Joplin'S The Entertainer MIDI FULL",
 	"Self Embodiment of Perfection (Mahito Theme)",
 	"SHIGATSU WA KIMI NO US ENDING -ORANGE MHXA",
