@@ -2,6 +2,7 @@
 return {
 	"Home - Were Finally Landing 65702210",
 	"Michael Jackson - Billie Jean",
+	"Misc Covers-Aruarian Dance - Simplified By Nujabes-07-04-2026",
 	"Valve HALF LIFE 2 OST (Www.Lightaudio.Ru)",
 	"Гимны - Гимн СССР России [MIDIfind.Com]",
 	"Народные песни - Походный марш Люфтваффе (Немецкий) [MIDIfind.Com]",
