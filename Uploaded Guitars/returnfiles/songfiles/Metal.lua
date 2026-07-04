@@ -103,6 +103,7 @@ return {
 	"Judas Priest - Victim Of Changes Intro (Solo) [MIDIfind.Com]",
 	"KISS - Detroit Rock City",
 	"Kiss - Rock And Roll All Night",
+	"Kratze - Grausamkeit - Joel 12344",
 	"Lifelover - Androider [MIDIfind.Com]",
 	"Lifelover - Cancertid [MIDIfind.Com]",
 	"Lifelover - I Love To Hurt You (2) [MIDIfind.Com]",
