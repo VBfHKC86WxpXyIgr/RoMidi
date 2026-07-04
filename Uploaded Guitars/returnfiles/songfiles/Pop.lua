@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"Blinding Lights - The Weeknd (Piano-Vocal-Guitar)",
+	"ChúNg Ta KhôNg ThuộC Về Nhau",
 	"COME MY WAY",
 	"HãY Trao Cho Anh",
 	"Love Story X Golden Brown",
