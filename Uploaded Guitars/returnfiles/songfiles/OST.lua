@@ -3,6 +3,7 @@ return {
 	"Dire, Dire Docks (Super Mario 64)",
 	"Ella Baila Sola Eslabon Armado Y Peso Pluma",
 	"Grand Theft Auto San Andreas - Intro [MIDIfind.Com]",
+	"Misc Covers-Full Theme By JoJo Steel Ball Run-07-04-2026",
 	"Misc Covers-Jotaro'S Theme By JJBA-07-04-2026",
 	"OFFICIAL Roblox Bakon Theme Song",
 	"Seek (Among Us) NEW",
