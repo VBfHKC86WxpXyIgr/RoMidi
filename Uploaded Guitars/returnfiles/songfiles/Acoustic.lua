@@ -14,6 +14,7 @@ return {
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Composed By Yu-Peng Chen Arranged By Devon Sebastian K - Liyue Harbor Song No. 4",
 	"Dumb Ways To Die",
+	"Dying Light - Horizon",
 	"Ed Sheeran Thinking Out Loud",
 	"Just The Two Of Us.",
 	"Justin Bieber - Beauty And A Beat WWW.MIDISFREE.COM.Mid",
