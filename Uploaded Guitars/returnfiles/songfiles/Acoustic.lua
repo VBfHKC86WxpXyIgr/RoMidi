@@ -19,6 +19,7 @@ return {
 	"Justin Bieber - Beauty And A Beat WWW.MIDISFREE.COM.Mid",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
+	"Misc Covers-Is It Really You (Acoustic VER.) By Loathe-07-04-2026",
 	"Nirvana - Do Re Mi",
 	"Oasis - Married With Children",
 	"Radiohead - No Surprises",
