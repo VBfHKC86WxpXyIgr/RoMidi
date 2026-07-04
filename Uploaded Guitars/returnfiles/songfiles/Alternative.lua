@@ -21,6 +21,7 @@ return {
 	"New Computers - Girlfriends",
 	"PTV - King For A Day",
 	"Radiohead - My Iron Lung",
+	"Sayonara Cross Teck-07-04-2026",
 	"Smashing Pumpkins - Mayonaise [MIDIfind.Com]",
 	"Soundgarden - Black Hole Sun (3) [MIDIfind.Com]",
 	"Them Bones - Alice In Chains",
