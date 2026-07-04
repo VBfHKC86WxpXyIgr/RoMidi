@@ -76,6 +76,7 @@ return {
 	"Oasis - Shakermaker",
 	"Oasis - She'S Electric [MIDIfind.Com]",
 	"Oasis - Supersonic [MIDIfind.Com]",
+	"Offspring (The) - The Kids Aren'T Alright [MIDIfind.Com]",
 	"Radiohead - 2+2=5 [MIDIfind.Com]",
 	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
 	"Radiohead - Fake Plastic Trees [MIDIfind.Com]",
