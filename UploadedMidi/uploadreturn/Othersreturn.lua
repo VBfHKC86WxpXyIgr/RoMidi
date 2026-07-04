@@ -201,6 +201,7 @@ return {
 	"LàM Vợ Anh Nhé",
 	"Lemon",
 	"Lightning Moment",
+	"Lit My Own Worst Enemy.Midi",
 	"Love Story X Golden Brown",
 	"Lucid Dreams",
 	"Lullaby",
