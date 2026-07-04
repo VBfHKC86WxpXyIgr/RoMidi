@@ -79,6 +79,7 @@ return {
 	"Promise Neverland - Isabella'S Lullaby Mhxa",
 	"RE ZERO - STAY ALIVE Mhxa",
 	"Reinai Circulation Mhxa",
+	"Ripped Pants By Spongebob Squarepants And The Losers",
 	"Rokudenashi - One Voice Mhxa",
 	"Sayonara Cross Teck-07-04-2026",
 	"Scott Joplin'S The Entertainer MIDI FULL",
