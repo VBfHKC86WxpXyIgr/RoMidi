@@ -13,6 +13,7 @@ return {
 	"In The End - Linkin Park",
 	"Jane! Ttest",
 	"LED ZEPPELIN.Stairway To Heaven KA",
+	"Lit My Own Worst Enemy.Gtr",
 	"Made In Thailland 2",
 	"MAYONAISE",
 	"New Computers - Girlfriends",
