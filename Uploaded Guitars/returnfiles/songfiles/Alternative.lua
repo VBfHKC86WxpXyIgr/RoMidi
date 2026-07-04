@@ -18,6 +18,7 @@ return {
 	"Lit My Own Worst Enemy.Gtr",
 	"Made In Thailland 2",
 	"MAYONAISE",
+	"My Chemical Romance - I Don'T Love You [MIDIfind.Com]",
 	"New Computers - Girlfriends",
 	"PTV - King For A Day",
 	"Radiohead - My Iron Lung",
