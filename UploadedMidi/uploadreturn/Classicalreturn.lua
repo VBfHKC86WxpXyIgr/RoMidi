@@ -33,6 +33,7 @@ return {
 	"Debra Lady Gaga - Shallow",
 	"Drowning Love Tuxedo.Fx",
 	"Flamewall",
+	"Foggy Mountain Breakdown",
 	"Forever",
 	"Frank Sinatra - My Way",
 	"Freedom Dive",
