@@ -7,6 +7,7 @@ return {
 	"[Black MIDI] RUSH E CURSED REMIX",
 	"04 - Atic - MONTAGEM CEINTA (Nightcore)",
 	"072019",
+	"1 CộNg 1 LớN HơN 2",
 	"2 AM",
 	"3107-2",
 	"3am La La Land (Birru) MIDI",
