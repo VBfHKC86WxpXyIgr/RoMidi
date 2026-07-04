@@ -56,6 +56,7 @@ return {
 	"Its Raining Tacos",
 	"Its Raining Tacos.Mid",
 	"Je Te Laisserai Des Mots (1)",
+	"Jerryc - Canon Rock Lead Guitar",
 	"JOPLIN.The entertainer",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"liebestraum",
