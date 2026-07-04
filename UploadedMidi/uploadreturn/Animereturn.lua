@@ -2,6 +2,7 @@
 return {
 	"[Black MIDI] The Classic Black Medley",
 	"200 AniSong Medley HalcyonMusic",
+	"Ai No Uta",
 	"AIZO HalcyonMusic",
 	"Akuma no Ko (a child of evil) - Attack on Titan The Final Season Part 2 Ending",
 	"AOT - Ashes On The Fire Main Theme Mhxa",
