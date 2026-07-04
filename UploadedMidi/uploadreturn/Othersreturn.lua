@@ -84,6 +84,7 @@ return {
 	"CơN MưA Ngang Qua 3",
 	"CơN MưA Ngang Qua Remix",
 	"CơN MưA TìNh YêU",
+	"CơN MưA Xa DầN",
 	"Cradles Mhxa",
 	"CùNg Anh",
 	"CướI Nhau đI",
