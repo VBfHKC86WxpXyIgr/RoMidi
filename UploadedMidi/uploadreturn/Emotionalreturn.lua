@@ -111,6 +111,7 @@ return {
 	"Self Aware - Temper City (Piano)",
 	"Sesi Potret - Enau",
 	"Sinking Town   沈める街 - Yoeko Kurahashi",
+	"Smashing Pumpkins - 1979",
 	"Sunsezt yt @moongate 1234",
 	"Tai sinh",
 	"Tally Hall- Hidden in the Sand ",
