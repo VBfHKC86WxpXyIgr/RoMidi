@@ -9,6 +9,7 @@ return {
 	"Chevelle - Comfortable Liar [MIDIfind.Com]",
 	"Creep - Radiohead - Extremely Accurate (Full Band) G",
 	"CREEP U KLICKAUD",
+	"Deftones My Own Summer Shove It.Gtr",
 	"Everlong By The Foo Fighters Piia",
 	"In The End - Linkin Park",
 	"Jane! Ttest",
