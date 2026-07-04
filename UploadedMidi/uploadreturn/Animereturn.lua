@@ -50,6 +50,7 @@ return {
 	"JBA - Giorno'S Theme Mhxa",
 	"Jojo's Bizarre Adventure Part 2   Battle Tendency OP - Bloody Stream",
 	"Josuke's theme Diamond Is Unbreakable in piano(COMPLETE)",
+	"Jotaro'S Theme By JJBA",
 	"Judas",
 	"Kaibutsu 怪物 (MONSTER) - YOASOBI (BEASTARS OP2)",
 	"Kamado Nezuko no Uta HalcyonMusic",
