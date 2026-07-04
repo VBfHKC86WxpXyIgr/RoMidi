@@ -7,6 +7,7 @@ return {
 	"Motley Crue - Kickstart My Heart.Mid",
 	"Ozzy Osbourne - Crazy Train.Mid",
 	"Sweet Dreams Midi",
+	"Кино - Группа крови [MIDIfind.Com]",
 	"Кино - Последний Герой Kino - The Last Hero",
 	"Кино - Спокойная ночь",
 }
