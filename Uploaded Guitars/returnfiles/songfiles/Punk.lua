@@ -87,6 +87,7 @@ return {
 	"Nirvanararities Talk To Me",
 	"Nirvanararities The Money Will Roll Right In",
 	"Nirvanaverse Chorus Verse",
+	"Offspring (The) - The Kids Aren'T Alright [MIDIfind.Com]",
 	"On A Plain - Nirvana (Piano-Vocal-Guitar) (1)",
 	"Paper Cuts - Nirvana (Piano-Vocal-Guitar)",
 	"Pierce The Veil - A Match Into Water [MIDIfind.Com]",
