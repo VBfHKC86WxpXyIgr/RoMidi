@@ -14,6 +14,7 @@ return {
 	"Baby Hotline",
 	"babydoll - dominic fike",
 	"Back To Friends - Sombr",
+	"Basic Pitch Transcription",
 	"Blue Jeans",
 	"Buttercup - Jack Stauber",
 	"Childish Gambino - Redbone",
