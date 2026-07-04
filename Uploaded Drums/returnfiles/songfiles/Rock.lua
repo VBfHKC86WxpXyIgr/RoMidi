@@ -72,6 +72,7 @@ return {
 	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit",
 	"Nirvana - Territorial Pissings",
+	"NIRVANA.Smells Like Teen Spirit K",
 	"Oasis - Cigarettes Alcohol [MIDIfind.Com]",
 	"Oasis - Shakermaker",
 	"Oasis - She'S Electric [MIDIfind.Com]",
