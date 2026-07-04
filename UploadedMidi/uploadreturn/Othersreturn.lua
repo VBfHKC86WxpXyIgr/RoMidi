@@ -175,6 +175,7 @@ return {
 	"In Love - Low G (Piano)",
 	"Irida Cartoon V4",
 	"Irida V4 Cartoon",
+	"Is It Really You - Loathe",
 	"It'S Okay Now",
 	"Its Raining Tacos",
 	"Its Raining Tacos.Mid",
