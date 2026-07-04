@@ -74,6 +74,7 @@ return {
 	"Metal Crusher",
 	"Mice on Venus (Minecraft)",
 	"MiConv.com  Bunny Hop - Quincas Moreira",
+	"MiConv.Com OUTBREAK - Nicopatty (Nico Nextbots OST)",
 	"Mili - Compass",
 	"Mili - Fly, My Wings",
 	"Mili - Gone Angels",
