@@ -18,6 +18,7 @@ return {
 	"Beggin' – Måneskin Drum Sheet Music",
 	"Blood Theme (From Dexter) - Daniel J Licht (Piano Solo)",
 	"blue - yung kai",
+	"Brain-Stew",
 	"Burning Blue - Mariah The Scientist (Piano Solo)",
 	"Camellia - Flamewall",
 	"Chaos-Construct",
