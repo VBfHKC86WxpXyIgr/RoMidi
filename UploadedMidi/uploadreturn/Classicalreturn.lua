@@ -21,6 +21,7 @@ return {
 	"Beethoven-Moonlight-Sonata",
 	"Binks Rum Binks Sake 1780241727588",
 	"Bogemian",
+	"Boogie-Woogie-Blues",
 	"Bruno Mars - Risk It All",
 	"Chopin – Nocturne Op.9 No.2",
 	"chopin ballade 4 (c)lubetsky",
