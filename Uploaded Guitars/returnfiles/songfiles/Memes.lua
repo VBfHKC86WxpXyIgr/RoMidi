@@ -4,6 +4,7 @@ return {
 	"Michael Jackson - Billie Jean",
 	"Misc Covers-Aruarian Dance - Simplified By Nujabes-07-04-2026",
 	"Misc Covers-Ripped Pants By Spongebob Squarepants And The Losers-07-04-2026",
+	"Misc Covers-Squidwards Tikiland By The Golden Years Of Dutch Pop-07-04-2026",
 	"Valve HALF LIFE 2 OST (Www.Lightaudio.Ru)",
 	"Гимны - Гимн СССР России [MIDIfind.Com]",
 	"Народные песни - Походный марш Люфтваффе (Немецкий) [MIDIfind.Com]",
