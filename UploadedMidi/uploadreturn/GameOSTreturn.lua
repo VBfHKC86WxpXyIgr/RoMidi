@@ -21,6 +21,7 @@ return {
 	"C418 - Subwoofer Lullaby",
 	"Cascade2",
 	"Casey Edwards - Devil Trigger",
+	"Castle Vein - Ultrakill (1)",
 	"Creo - Flow",
 	"Deadlocked (Geometry Dash)",
 	"Death By Glamour Piano",
