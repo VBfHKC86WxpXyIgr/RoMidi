@@ -33,6 +33,7 @@ return {
 	"Eldoraudio-Juan Arenosa - Ofelia  Official Music Video  - Juan Arenosa  128k  humanized",
 	"Fukashigi no Carte",
 	"FULL Inferno - Enen No Shouboutai Fire Force OP Mhxa",
+	"Full Theme By JoJo Steel Ball Run",
 	"FullMetal Alchemist - Again Brotherhood OP1 Mhxa",
 	"Giornos Theme",
 	"Gooby This Gooby Tha5",
