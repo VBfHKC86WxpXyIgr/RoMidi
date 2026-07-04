@@ -12,6 +12,7 @@ return {
 	"Deftones My Own Summer Shove It.Gtr",
 	"Everlong By The Foo Fighters Piia",
 	"In The End - Linkin Park",
+	"Is It Really You - Loathe",
 	"Jane! Ttest",
 	"LED ZEPPELIN.Stairway To Heaven KA",
 	"Lit My Own Worst Enemy.Gtr",
