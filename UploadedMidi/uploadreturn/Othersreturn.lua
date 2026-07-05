@@ -136,6 +136,7 @@ return {
 	"Evil Morty Meme Theme (1)",
 	"Fake Love X Flower Dance",
 	"Fake Love X Suzume X BóNg Lá RơI",
+	"Fasion - Dansez - COPYRIGHT FREE - CEM",
 	"Feather - Nujabes",
 	"Flower Dance - DJ Okawari",
 	"Flower Dance + Windy Hill + 星茶会 + 夜、萤火虫和你 + Luv Letter",
