@@ -12,6 +12,7 @@ return {
 	"Arctic Monkeys - Do I Wanna Know [MIDIfind.com]",
 	"Arctic Monkeys - R U Mine [MIDIfind.com]",
 	"Audioslave - Like A Stone [MIDIfind.Com]",
+	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
 	"Big Cheese - Nirvana",
 	"Blur - Song 2 [MIDIfind.Com]",
 	"BoysDontCry",
