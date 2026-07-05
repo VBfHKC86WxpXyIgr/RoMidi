@@ -9,5 +9,6 @@ return {
 	"Nope Your Too Late I Already Died",
 	"Pink Floyd - Comfortably Numb (The Wall Live) [MIDIfind.Com]",
 	"Radiohead - All I Need [MIDIfind.Com]",
+	"Radiohead - Fake Plastic Trees Acoustic Version [MIDIfind.Com]",
 	"SpongeBob - Main Theme [MIDIfind.Com]",
 }
