@@ -36,6 +36,7 @@ return {
 	"Be The Sky",
 	"Beautiful In White",
 	"Because I Miss You",
+	"Beethoven - Virus Mhxa",
 	"Beethoven Virus",
 	"BếN ThượNg HảI",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
