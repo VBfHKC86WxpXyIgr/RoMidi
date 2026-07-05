@@ -16,6 +16,7 @@ return {
 	"Dumb Ways To Die",
 	"Dying Light - Horizon",
 	"Ed Sheeran Thinking Out Loud",
+	"Forwards",
 	"Forwards.Mp3",
 	"Iqro - Raim Laode",
 	"Just The Two Of Us.",
