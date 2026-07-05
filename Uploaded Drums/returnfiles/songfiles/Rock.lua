@@ -42,6 +42,7 @@ return {
 	"Green Day - Longview [MIDIfind.Com]",
 	"Green Day - No One Knows [MIDIfind.Com]",
 	"Green Day - She'S A Rebel [MIDIfind.Com]",
+	"Green Day - Stray Heart [MIDIfind.Com]",
 	"Green Day - Welcome To Paradise [MIDIfind.Com]",
 	"Green Day - Whatsername [MIDIfind.Com]",
 	"Green Day - When I Come Around [MIDIfind.Com]",
