@@ -161,6 +161,7 @@ return {
 	"Metallica - Motorbreath (2) [MIDIfind.Com]",
 	"Metallica - My Apocalypse [MIDIfind.Com]",
 	"Metallica - No Remorse [MIDIfind.Com]",
+	"Metallica - One [MIDIfind.Com]",
 	"Metallica - Phantom Lord [MIDIfind.Com]",
 	"Metallica - Sad But True (2) [MIDIfind.Com]",
 	"Metallica - Seek And Destroy [MIDIfind.Com]",
