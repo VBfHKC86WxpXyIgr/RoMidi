@@ -94,6 +94,7 @@ return {
 	"Scorpions - Rock You Like A Hurricane [MIDIfind.Com]",
 	"Simple Plan - Perfect [MIDIfind.Com]",
 	"Skid Row - 18 And Life [MIDIfind.Com]",
+	"Skillet - Monster (2) [MIDIfind.Com]",
 	"Skillet - Monster [MIDIfind.Com]",
 	"Snow (Hey Oh!)",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
