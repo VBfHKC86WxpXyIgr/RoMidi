@@ -4,6 +4,7 @@ return {
 	"Deftones - Be Quiet And Drive [MIDIfind.Com]",
 	"Deftones - Change In The House Of Flies [MIDIfind.Com]",
 	"Deftones - Engine Number (9) [MIDIfind.Com]",
+	"Deftones - My Own Summer (Shove It)",
 	"Deftones - My Own Summer Shove It [MIDIfind.Com]",
 	"Korn - Blind",
 	"Korn - Falling Away From Me [MIDIfind.Com]",
