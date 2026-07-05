@@ -27,6 +27,7 @@ return {
 	"Crybaby - Destroy Boys",
 	"Daft Punk - Robot Rock [MIDIfind.Com]",
 	"Dont Say Lazy",
+	"Flamewall By Camellia",
 	"Flying Through The Sky (Ram Ranch)",
 	"Fortunate Son - Creedance Clearwater Revival",
 	"Fortunate Son - Creedance Clearwater Revival-Electric Bass, Fingered Bass",
