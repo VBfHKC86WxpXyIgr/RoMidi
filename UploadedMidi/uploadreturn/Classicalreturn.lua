@@ -32,6 +32,7 @@ return {
 	"Death Waltz.Mid",
 	"Debra Lady Gaga - Shallow",
 	"Drowning Love Tuxedo.Fx",
+	"Fasion - Dansez - COPYRIGHT FREE - CEM",
 	"Flamewall",
 	"Foggy Mountain Breakdown",
 	"Forever",
