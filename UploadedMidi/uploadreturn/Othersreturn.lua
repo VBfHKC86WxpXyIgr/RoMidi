@@ -252,6 +252,7 @@ return {
 	"OFFICIAL Roblox Bakon Theme Song",
 	"Ordinary Confession",
 	"P Do Pecado - Ao Vivo - Grupo Menos É Mais (Piano)",
+	"Persona - Color Your Night Mhxa",
 	"Phi ĐIểU Và Ve SầU",
 	"PhíA Sau MộT Cô GáI",
 	"Phonecert (폰서트) - 10CM",
