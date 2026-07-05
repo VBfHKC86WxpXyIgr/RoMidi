@@ -3,6 +3,7 @@ return {
 	"Beatles (The) - Eleanor Rigby [MIDIfind.Com]",
 	"Beatles (The) - Here Comes The Sun [MIDIfind.Com]",
 	"Beatles (The) - I'M Only Sleeping [MIDIfind.Com]",
+	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
 	"Buddy Holly - Weezer (Extremely Accurate) 🔥🎸G",
 	"Cant Stop - Red Hot Chili Peppers",
 	"Children",
