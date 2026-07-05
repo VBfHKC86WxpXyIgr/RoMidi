@@ -7,6 +7,7 @@ return {
 	"Mac Demarco - Freaking Out The Neighborhood [MIDIfind.Com]",
 	"Mundo By Iv Of Spades ( Solo Cover)",
 	"Nope Your Too Late I Already Died",
+	"Pink Floyd - Comfortably Numb (The Wall Live) [MIDIfind.Com]",
 	"Radiohead - All I Need [MIDIfind.Com]",
 	"SpongeBob - Main Theme [MIDIfind.Com]",
 }
