@@ -86,6 +86,7 @@ return {
 	"CơN MưA Ngang Qua Remix",
 	"CơN MưA TìNh YêU",
 	"CơN MưA Xa DầN",
+	"Confession Of A Rotten Girl Mhxa",
 	"CôNg Tử VăN Thơ",
 	"Cradles Mhxa",
 	"CùNg Anh",
