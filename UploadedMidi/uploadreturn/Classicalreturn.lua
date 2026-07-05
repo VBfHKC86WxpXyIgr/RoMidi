@@ -12,6 +12,7 @@ return {
 	"Angel-Nidji",
 	"Arabesque-in-E-Nr-1",
 	"AUD AP2420H",
+	"Award Tour - A Tribe Called Quest (Instrumental Loop ~ Final Version)",
 	"Baby - Justin Bieber",
 	"Babydoll",
 	"Barber-Of-Seville-(Ouverture)",
