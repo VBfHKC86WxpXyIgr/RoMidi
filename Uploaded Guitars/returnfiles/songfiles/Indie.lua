@@ -10,5 +10,6 @@ return {
 	"Pink Floyd - Comfortably Numb (The Wall Live) [MIDIfind.Com]",
 	"Radiohead - All I Need [MIDIfind.Com]",
 	"Radiohead - Fake Plastic Trees Acoustic Version [MIDIfind.Com]",
+	"Radiohead - Nude [MIDIfind.Com]",
 	"SpongeBob - Main Theme [MIDIfind.Com]",
 }
