@@ -213,6 +213,7 @@ return {
 	"MãI MãI BêN Nhau",
 	"MAKING MY WAY",
 	"Mario Medley - (Nintendo Medleys 1) ADDED SUPER MARIO ODYSSEY",
+	"Master Of Puppets - Metallica",
 	"MấT KếT NốI",
 	"MặT TrờI CủA Em",
 	"May Be X Kiss The Rain X River Flows In You",
