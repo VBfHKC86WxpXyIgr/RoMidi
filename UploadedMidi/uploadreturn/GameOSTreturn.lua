@@ -19,6 +19,7 @@ return {
 	"Blue Skies - Silent Partner (Guitar remix)",
 	"C418 - Mice on Venus",
 	"C418 - Subwoofer Lullaby",
+	"Call Of Duty Black Ops Zombies",
 	"Cascade2",
 	"Casey Edwards - Devil Trigger",
 	"Castle Vein - Ultrakill (1)",
