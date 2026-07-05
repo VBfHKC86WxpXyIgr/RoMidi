@@ -8,5 +8,6 @@ return {
 	"HãY Trao Cho Anh",
 	"Love Story X Golden Brown",
 	"NắNg ấM Xa DầN - As One",
+	"Như NgàY HôM Qua",
 	"There-S-No-One-At-All",
 }
