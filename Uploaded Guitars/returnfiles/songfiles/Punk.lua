@@ -5,6 +5,7 @@ return {
 	"About A Girl - Nirvana",
 	"Breed - Nirvana (TABS And Vocals)",
 	"Frances Farmer Will Have Her Revenge On Seattle - Nirvana",
+	"Green Day - American Eulogy [MIDIfind.Com]",
 	"Green Day - American Idiot (2) [MIDIfind.Com]",
 	"Green Day - Are We The Waiting [MIDIfind.Com]",
 	"Green Day - Basket Case [MIDIfind.Com]",
