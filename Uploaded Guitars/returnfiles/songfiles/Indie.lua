@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"Angus And Julia Stone - Big Jet Plane [MIDIfind.Com]",
 	"Boys Don'T Cry - The Cure (Piano Arrangement)",
 	"Brubeck Dave - Take Five [MIDIfind.Com]",
 	"Creep - Radiohead (Guitar)",
