@@ -221,6 +221,7 @@ return {
 	"Scorpions - No One Like You (2) [MIDIfind.Com]",
 	"Scorpions - Rock You Like A Hurricane [MIDIfind.Com]",
 	"Scream",
+	"Sepultura - Roots Bloody Roots (3) [MIDIfind.Com]",
 	"Sepultura - Roots Bloody Roots (Drums Only)",
 	"Skid Row - 18 And Life [MIDIfind.Com]",
 	"Slapshock - Direction [MIDIfind.com]",
