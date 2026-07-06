@@ -77,6 +77,7 @@ return {
 	"Oasis - Supersonic [MIDIfind.Com]",
 	"Oasis - Wonderwall",
 	"Oasis-Dont Look Back In Anger",
+	"OASIS.Stand By Me",
 	"Paramore - Misery Business [MIDIfind.Com]",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
 	"Radiohead - 2+2=5 [MIDIfind.Com]",
