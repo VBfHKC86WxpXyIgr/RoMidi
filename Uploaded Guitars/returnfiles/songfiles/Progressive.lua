@@ -2,6 +2,7 @@
 return {
 	"Break By Alex G",
 	"Holiday By Weezer-07-06-2026",
+	"Lucy~ By Corbon Amodio",
 	"Misc Covers-Loneliness By Decalius-07-04-2026",
 	"Misc Covers-Made Your Mark-07-04-2026",
 	"Misc Covers-Poppies Lane Memoryy By Slank",
