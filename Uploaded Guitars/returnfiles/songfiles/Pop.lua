@@ -7,6 +7,7 @@ return {
 	"ChúNg Ta KhôNg ThuộC Về Nhau",
 	"COME MY WAY",
 	"CơN MưA Ngang Qua 2",
+	"CơN MưA Ngang Qua Remix",
 	"Flower Dance - DJ Okawari",
 	"Flower Dance Had",
 	"HãY Trao Cho Anh",
