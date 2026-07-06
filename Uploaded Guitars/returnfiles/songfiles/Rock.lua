@@ -43,6 +43,7 @@ return {
 	"Layla - Derek And The Dominos Ft Eric Clapton",
 	"Layla (Unplugged) - Eric Clapton",
 	"Linkin Park - Given Up [MIDIfind.Com]",
+	"Living Colorcult Of Personality",
 	"Lonesome Town - Ricky Nelson",
 	"Megalo Box 2",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
