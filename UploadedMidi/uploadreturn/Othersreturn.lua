@@ -305,6 +305,7 @@ return {
 	"Tay TráI Chỉ TrăNg",
 	"Tay TráI Chỉ TrăNg X LạC TrôI",
 	"Tentang-Kamu-Lyodra",
+	"TếT NàY Con Sẽ Về",
 	"TháI BìNh Mồ HôI RơI",
 	"TháNg 4 Là LờI NóI DốI CủA Em",
 	"ThằNg đIêN",
