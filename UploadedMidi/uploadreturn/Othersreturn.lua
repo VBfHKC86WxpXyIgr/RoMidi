@@ -225,6 +225,7 @@ return {
 	"Moonlight Sonata 3rd Movement",
 	"MộT NăM MớI BìNh An",
 	"MộT NăM MớI BìNh An Remix",
+	"MộT TriệU Khả NăNg",
 	"MừNg HụT",
 	"MuộN RồI Mà Sao CòN",
 	"Music Using Only Sounds From Windows XP & 98 ~ SomethingUnreal - Blacked By KF2015 (1)",
