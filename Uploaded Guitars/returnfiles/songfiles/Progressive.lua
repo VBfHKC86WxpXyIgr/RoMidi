@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"Holiday By Weezer-07-06-2026",
 	"Misc Covers-Loneliness By Decalius-07-04-2026",
 	"Misc Covers-Made Your Mark-07-04-2026",
 	"Misc Covers-Poppies Lane Memoryy By Slank",
