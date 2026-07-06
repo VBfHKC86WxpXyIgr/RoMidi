@@ -12,6 +12,7 @@ return {
 	"KhôNg PhảI Là DạNg VừA đâU Ost",
 	"Love Story X Golden Brown",
 	"NắNg ấM Xa DầN - As One",
+	"Never Gonna Give You Up",
 	"Như NgàY HôM Qua",
 	"TháI BìNh Mồ HôI RơI",
 	"There-S-No-One-At-All",
