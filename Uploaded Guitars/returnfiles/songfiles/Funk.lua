@@ -3,6 +3,7 @@ return {
 	"Adventure Of A Lifetime - Coldplay",
 	"Crazy Frog - Axel F.Mid",
 	"Daft Punk - Get Lucky [MIDIfind.Com]",
+	"Daft+Punk+-+Get+Lucky+(Slowed+++Reverb) 128k",
 	"Limp Bizkit - Take A Look Around [MIDIfind.Com]",
 	"Metallica-Enter-Sandman Midi",
 	"Motley Crue - Kickstart My Heart.Mid",
