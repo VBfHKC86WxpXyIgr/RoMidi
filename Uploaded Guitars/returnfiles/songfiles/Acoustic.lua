@@ -18,6 +18,7 @@ return {
 	"Ed Sheeran Thinking Out Loud",
 	"Forwards",
 	"Forwards.Mp3",
+	"Hillbilly Jim Promo [1985-04-20] 320k",
 	"Iqro - Raim Laode",
 	"Just The Two Of Us.",
 	"Justin Bieber - Beauty And A Beat WWW.MIDISFREE.COM.Mid",
