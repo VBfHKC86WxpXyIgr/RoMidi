@@ -9,6 +9,7 @@ return {
 	"Misc Covers-Restless By Untitled-07-04-2026",
 	"Misc Covers-Sempurna By Andra And The Backbone-07-04-2026",
 	"Misc Covers-Unslept (Accurate Pitch) By Miraidempa-07-04-2026",
+	"Nope Your Too Late I Already Died By WifiSkeleton",
 	"Sarah By Alex G",
 	"Sayonara Cross Teck-07-04-2026",
 	"Smashing Pumpkins - 1979",
