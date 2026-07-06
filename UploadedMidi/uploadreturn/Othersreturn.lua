@@ -142,6 +142,7 @@ return {
 	"Feather - Nujabes",
 	"Flower Dance - DJ Okawari",
 	"Flower Dance + Windy Hill + 星茶会 + 夜、萤火虫和你 + Luv Letter",
+	"Flower Dance Black Midi",
 	"Flower Dance Had",
 	"Forever Alone",
 	"Frank Sinatra - My Way But Improvising In Chopin Style - (Arr. Birru) (Live Midi) (1)",
