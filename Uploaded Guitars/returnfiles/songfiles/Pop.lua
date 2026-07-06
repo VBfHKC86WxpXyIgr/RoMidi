@@ -12,5 +12,6 @@ return {
 	"Love Story X Golden Brown",
 	"NắNg ấM Xa DầN - As One",
 	"Như NgàY HôM Qua",
+	"TháI BìNh Mồ HôI RơI",
 	"There-S-No-One-At-All",
 }
