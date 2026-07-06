@@ -33,6 +33,7 @@ return {
 	"Counting stars",
 	"Czardas",
 	"Dạo Bước HongKong 1999",
+	"Darkest Desire - FNaF Help Wanted Song - By Dheusta And Dawko",
 	"Death Waltz.Mid",
 	"Debra Lady Gaga - Shallow",
 	"Drowning Love Tuxedo.Fx",
