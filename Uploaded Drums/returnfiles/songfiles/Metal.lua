@@ -232,6 +232,7 @@ return {
 	"Slipknot - Eyeless (2) [MIDIfind.Com]",
 	"Slipknot - Eyeless (5) [MIDIfind.Com]",
 	"Slipknot - Joey Jordison Drum Solo From Surfacing [MIDIfind.com]",
+	"Slipknot - Joey Jordison Drum Solo From Surfacing [MIDIfind.Com]",
 	"Slipknot - Psychosocial (ver 8 by Thaynan).mid",
 	"Slipknot - Scissors [MIDIfind.com]",
 	"Slipknot - Vermilion Pt.1   WWW.MIDISFREE.COM",
