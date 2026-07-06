@@ -40,6 +40,7 @@ return {
 	"Misfits - Last Caress [MIDIfind.Com]",
 	"Misfits - Skulls (2) [MIDIfind.Com]",
 	"Misfits - Where Eagles Dare [MIDIfind.Com]",
+	"My Chemical Romance - I'M Not Okay I Promise [MIDIfind.Com]",
 	"Negative Creep - Nirvana (Piano-Vocal-Guitar)",
 	"Nirvana - Aero Zeppelin (4) [MIDIfind.Com]",
 	"Nirvana - Big Cheese (4) [MIDIfind.Com]",
