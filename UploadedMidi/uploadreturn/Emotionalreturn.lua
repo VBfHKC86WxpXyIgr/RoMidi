@@ -80,6 +80,7 @@ return {
 	"Ludovico Einaudi - Experience",
 	"Marcha Nupcial",
 	"MấT KếT NốI",
+	"Michael Jackson - Earth Song",
 	"Michael Jackson - Man In The Mirror",
 	"Michael Jackson - Will You Be There (From Free Will)",
 	"Moonlight - XXXTentacion",
