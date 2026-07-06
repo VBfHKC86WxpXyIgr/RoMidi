@@ -9,6 +9,7 @@ return {
 	"Alice In Chains - Would(3) [MIDIfind.Com]",
 	"American Football - Never Meant",
 	"AUD DW0234",
+	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
 	"Beggin-Maneskin.Mid",
 	"Bismarck - Sabaton Piano Arrangement",
 	"Black Rover - Black Clover (OP 3)",
