@@ -82,6 +82,7 @@ return {
 	"Oasis - She'S Electric [MIDIfind.Com]",
 	"Oasis - Supersonic [MIDIfind.Com]",
 	"Oasis-Dont Look Back In Anger",
+	"OASIS.Stand By Me",
 	"Offspring (The) - Pretty Fly For A White Guy [MIDIfind.Com]",
 	"Offspring (The) - The Kids Aren'T Alright [MIDIfind.Com]",
 	"Radiohead - 2+2=5 [MIDIfind.Com]",
