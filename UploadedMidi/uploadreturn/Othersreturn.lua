@@ -82,6 +82,7 @@ return {
 	"Come My Way X Intro HãY Trao Cho Anh",
 	"COME MY WAY X MAKING MY WAY",
 	"CơN MưA BăNg Giá",
+	"CơN MưA CuốI",
 	"CơN MưA Ngang Qua",
 	"CơN MưA Ngang Qua 2",
 	"CơN MưA Ngang Qua 3",
