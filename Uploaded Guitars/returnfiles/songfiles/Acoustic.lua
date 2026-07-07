@@ -5,6 +5,7 @@ return {
 	"About You By The 1780242398856",
 	"Andra And The BackBone - Sempurna Lyre.Mid",
 	"Arranged By @KAyuna-Guitar - 夜に駆ける",
+	"Beabadoobee - The Way Things Go",
 	"Beabadoobee-The Perfect Pair-05-27-2023-Acoustic Guitar",
 	"Binks Rum Binks Sake 1780241727588",
 	"Bleach - Ranbu No Melody (OP 13)",
