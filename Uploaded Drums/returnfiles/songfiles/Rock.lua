@@ -16,6 +16,7 @@ return {
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
 	"Big Cheese - Nirvana",
 	"Blink-182 - Always 7",
+	"Blink-182 - Drum Solo",
 	"Blur - Song 2 [MIDIfind.Com]",
 	"BoysDontCry",
 	"BreakStuff",
