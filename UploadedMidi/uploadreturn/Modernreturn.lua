@@ -73,6 +73,7 @@ return {
 	"Juice WRLD - Robbery",
 	"Just Give Me One More Day Alej",
 	"Just The Two Of Us - Grover Washington Jr. Feat. Bill Withers (Piano Solo)",
+	"JVKE - Golden Hour",
 	"Kahit Maputi Na Ang Buhok Ko",
 	"Kathang Isip Tut",
 	"KhôNg BuôNg - Hngle (Piano)",
