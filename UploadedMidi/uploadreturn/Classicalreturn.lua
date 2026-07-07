@@ -101,6 +101,7 @@ return {
 	"Rossini Gioacchino Rossini - Barber Of Sevilla Ouverture [MIDIfind.Com]",
 	"Running Up That Hill.Mid",
 	"Rush D",
+	"Rush E",
 	"Rush E but its as difficult as humanly possible",
 	"RUSH E FINAL",
 	"SAMSUNG Over The Horizon 2021 (1)",
