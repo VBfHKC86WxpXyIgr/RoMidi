@@ -10,6 +10,7 @@ return {
 	"Creep - Radiohead - Extremely Accurate (Full Band) G",
 	"CREEP U KLICKAUD",
 	"Deftones My Own Summer Shove It.Gtr",
+	"DöNence( ARsi3SHma6c )",
 	"Everlong By The Foo Fighters Piia",
 	"In The End - Linkin Park",
 	"Is It Really You - Loathe",
