@@ -83,6 +83,7 @@ return {
 	"Domination",
 	"DOOM - Theme E1M1",
 	"DragonForce - Through The Fire And Flames [MIDIfind.Com]",
+	"Dream Theater - The Dance Of Eternity",
 	"Drum - Afro Latin Ritm [MIDIfind.com]",
 	"Drum - Drum Exercise Double Bass Drumming Bobby Jarzombek [MIDIfind.com]",
 	"Drum - Drum Exercise Updown Rock N Jazz Flams Funk Rhythms [MIDIfind.com]",
