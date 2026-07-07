@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"Bad Apple Full Version",
+	"Black Or White (Single Version)",
 	"Blinding Lights - The Weeknd (Piano-Vocal-Guitar)",
 	"Buong Doi Tay Nhau Ra",
 	"Cause I Love You - Noo Phuoc Thinh Piano",
