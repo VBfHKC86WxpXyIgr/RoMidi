@@ -290,6 +290,7 @@ return {
 	"Seasons (Wave To Earth) (Birru) MIDI",
 	"Seasons-Kim-Seasonswavetoearthseasons",
 	"Senbonzakura BLACK MIDI",
+	"Senbonzakura Full",
 	"She Neva Knows - Justatee She Neva Knows",
 	"Shucks Ending V2",
 	"Song For You",
