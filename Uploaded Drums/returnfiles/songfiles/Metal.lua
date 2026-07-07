@@ -237,6 +237,7 @@ return {
 	"Slipknot - Joey Jordison Drum Solo From Surfacing [MIDIfind.Com]",
 	"Slipknot - Psychosocial (ver 8 by Thaynan).mid",
 	"Slipknot - Scissors [MIDIfind.com]",
+	"Slipknot - Vendetta",
 	"Slipknot - Vermilion Pt.1   WWW.MIDISFREE.COM",
 	"Slipknot - Wait And Bleed.mid",
 	"slipknot-sic",
