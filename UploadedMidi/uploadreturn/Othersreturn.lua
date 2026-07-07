@@ -168,6 +168,7 @@ return {
 	"HIM - Gone With The Sin [MIDIfind.Com]",
 	"HIM - Join Me [MIDIfind.Com]",
 	"HINO DO CORINTHIANS",
+	"HọA TìNh",
 	"HoàNg HôN",
 	"HọC MèO KêU",
 	"HơN Cả YêU",
