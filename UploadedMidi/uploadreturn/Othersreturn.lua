@@ -135,6 +135,7 @@ return {
 	"Em ơI LêN Phố",
 	"Ending Shucks",
 	"Endless Tears",
+	"Erika",
 	"Ethan Bortnick - Cut My Fingers Off Mhxa",
 	"Evil Morty Meme Theme",
 	"Evil Morty Meme Theme (1)",
