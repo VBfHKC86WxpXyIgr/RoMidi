@@ -84,6 +84,7 @@ return {
 	"Love Story X Golden Brown (1)",
 	"lover girl - laufey",
 	"Made Sum Plans (Osamason)",
+	"Mesmerizer (Midi)",
 	"Michael Jackson - Bad",
 	"Michael Jackson - Don’T Stop Till You Get Enough",
 	"Michael Jackson - Smooth Criminal",
