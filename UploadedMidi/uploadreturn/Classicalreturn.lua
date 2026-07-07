@@ -26,6 +26,7 @@ return {
 	"Boogie-Woogie-Blues",
 	"Brubeck Dave - Take Five [MIDIfind.Com]",
 	"Bruno Mars - Risk It All",
+	"Celestial Opus By Ace",
 	"Chopin – Nocturne Op.9 No.2",
 	"chopin ballade 4 (c)lubetsky",
 	"Chopin Winter Wind Etude",
