@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"Adventure Of A Lifetime - Coldplay",
+	"Another Part Of Me (2012 Remaster)",
 	"Crazy Frog - Axel F.Mid",
 	"Daft Punk - Get Lucky [MIDIfind.Com]",
 	"Daft+Punk+-+Get+Lucky+(Slowed+++Reverb) 128k",
