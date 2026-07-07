@@ -15,6 +15,7 @@ return {
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
 	"Big Cheese - Nirvana",
+	"Blink-182 - Always 7",
 	"Blur - Song 2 [MIDIfind.Com]",
 	"BoysDontCry",
 	"BreakStuff",
