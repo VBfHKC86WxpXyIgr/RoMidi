@@ -118,6 +118,7 @@ return {
 	"Sunsezt yt @moongate 1234",
 	"Tai sinh",
 	"Tally Hall- Hidden in the Sand ",
+	"Tchaikovsky - Pas De Deux ( From The Nutcracker).Mid",
 	"Televangelism - Ethel Cain - Pianotify",
 	"Thằng điên impossible",
 	"Thằng điên normal",
