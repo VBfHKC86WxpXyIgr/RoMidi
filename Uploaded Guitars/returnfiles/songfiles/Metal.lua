@@ -82,6 +82,7 @@ return {
 	"HermoðR Á Helferð - Burzum",
 	"HIM - Gone With The Sin [MIDIfind.Com]",
 	"HIM - Join Me [MIDIfind.Com]",
+	"HIM - Poison Girl [MIDIfind.Com]",
 	"Ilia Burzum",
 	"Jason Becker - Altitudes Solo",
 	"Judas Priest - A Touch Of Evil [MIDIfind.Com]",
