@@ -256,6 +256,7 @@ return {
 	"NgườI ấY",
 	"NgườI Im LặNg GặP NgườI Hay NóI",
 	"NgườI Kế NhiệM",
+	"NgườI Theo ĐUổI ÁNh SáNg",
 	"NgườI TừNg YêU",
 	"NgườI YêU Bỏ Lỡ",
 	"NguyệN CầU đếN 50 NăM",
