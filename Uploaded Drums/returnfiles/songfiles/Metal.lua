@@ -115,6 +115,7 @@ return {
 	"HIM - Join Me [MIDIfind.Com]",
 	"HIM - Poison Girl [MIDIfind.Com]",
 	"HIM - Razorblade Kiss [MIDIfind.Com]",
+	"HIM - Your Sweet 666 [MIDIfind.Com]",
 	"I Hate Myself And Want To Die (Drums + Guitar)",
 	"I Won't See You Tonight - Avenged Sevenfold",
 	"Judas Priest - Breaking The Law [MIDIfind.Com]",
