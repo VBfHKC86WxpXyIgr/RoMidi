@@ -107,6 +107,7 @@ return {
 	"RickRoll",
 	"Risk It All  Bruno Mars 1776838404638",
 	"River Flows In You",
+	"River Flows In You X Experience",
 	"Samplab Kasih Putih - Glenn",
 	"Sayonara Cross Teck",
 	"Seasons In The Sun - Westlife (Piano-Voice)",
