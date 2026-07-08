@@ -19,6 +19,7 @@ return {
 	"Let It Happen - Tame Impala",
 	"Megadeth - Holy Wars The Punishment Due",
 	"Megalovania On Guitar",
+	"METALLICA.One",
 	"Metallica+-+Master+Of+Puppets+(Guitars+Only)",
 	"My Hero - Foo Fighters",
 	"My Hero - Foo Fighters (1)",
