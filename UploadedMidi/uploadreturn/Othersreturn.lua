@@ -71,6 +71,7 @@ return {
 	"ChúNg Ta CủA TươNg Lai",
 	"CHÚNG TA CỦA TƯƠNG LAI",
 	"ChúNg Ta KhôNg ThuộC Về Nhau",
+	"ChúNg Ta KhôNg ThuộC Về Nhau 2",
 	"ChuyệN ĐôI Ta X VếT MưA",
 	"Có ChắC YêU Là đâY",
 	"Có ChàNg Trai ViếT LêN CâY",
