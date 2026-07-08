@@ -153,6 +153,7 @@ return {
 	"Metallica - Last Caress (2) [MIDIfind.Com]",
 	"Metallica - Leper Messiah [MIDIfind.Com]",
 	"Metallica - Lux ÆTerna",
+	"Metallica - Master Of Puppets",
 	"Metallica - Metal Militia [MIDIfind.Com]",
 	"Metallica - Motorbreath (2) [MIDIfind.Com]",
 	"Metallica - Motorbreath [MIDIfind.Com]",
