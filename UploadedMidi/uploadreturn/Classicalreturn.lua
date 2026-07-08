@@ -39,6 +39,7 @@ return {
 	"Death Waltz.Mid",
 	"Debra Lady Gaga - Shallow",
 	"Drowning Love Tuxedo.Fx",
+	"Endless-Rain-Piano-Cover",
 	"Fasion - Dansez - COPYRIGHT FREE - CEM",
 	"Flamewall",
 	"Foggy Mountain Breakdown",
