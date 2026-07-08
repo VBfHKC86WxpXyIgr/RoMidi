@@ -309,6 +309,7 @@ return {
 	"Sword Art Online II Opening 1 - IGNITE",
 	"TáI Sinh",
 	"Tau 2 Deblacked",
+	"Tau The Song",
 	"Tay TráI Chỉ TrăNg",
 	"Tay TráI Chỉ TrăNg X LạC TrôI",
 	"Tentang-Kamu-Lyodra",
