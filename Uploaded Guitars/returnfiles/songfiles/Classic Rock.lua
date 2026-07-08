@@ -17,6 +17,7 @@ return {
 	"Jerryc - Canon Rock Lead Guitar [MIDIfind.Com]",
 	"Last Rites Loved To Deth - Megadeth Last Rites Loved To Deth - Megadeth (Demo)",
 	"Let It Happen - Tame Impala",
+	"Linkin Park - Numb",
 	"Megadeth - Holy Wars The Punishment Due",
 	"Megalovania On Guitar",
 	"METALLICA.One",
