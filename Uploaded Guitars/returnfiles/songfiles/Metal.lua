@@ -157,6 +157,7 @@ return {
 	"Metallica - Leper Messiah [MIDIfind.Com]",
 	"Metallica - Lux ÆTerna",
 	"Metallica - Master Of Puppets",
+	"Metallica - Master Of Puppets [MIDIfind.Com]",
 	"Metallica - Metal Militia [MIDIfind.Com]",
 	"Metallica - Motorbreath (2) [MIDIfind.Com]",
 	"Metallica - Motorbreath [MIDIfind.Com]",
