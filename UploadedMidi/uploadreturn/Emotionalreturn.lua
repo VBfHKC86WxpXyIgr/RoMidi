@@ -134,6 +134,7 @@ return {
 	"Tony Ann - ICARUS",
 	"Tony Ann - Reminisce 2",
 	"Too Little Too Late  laufey 1776838113996",
+	"Twin Peaks - Laura Palmer'S Theme - Piano Cover & Tutorial [U3JkmGKirvg]",
 	"Unslept By Miraidempa",
 	"Việt Nam I love impossible",
 	"Wait For U",
