@@ -162,6 +162,7 @@ return {
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - Last Caress (2) [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
+	"Metallica - Master Of Puppets [MIDIfind.Com]",
 	"Metallica - Motorbreath (2) [MIDIfind.Com]",
 	"Metallica - My Apocalypse [MIDIfind.Com]",
 	"Metallica - No Remorse [MIDIfind.Com]",
