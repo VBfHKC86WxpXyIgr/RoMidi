@@ -45,6 +45,7 @@ return {
 	"Bloodbath Geometry Dash",
 	"BóNg DáNg ThiêN ThầN",
 	"BóNg Lá RơI",
+	"Buena Vida Mala Fama (King Nasir) Crish Ramirez",
 	"Bunny-Girl-Senpai-Ed-Mai-Sakurajiama",
 	"BướC-Qua-MùA-Cô-ĐơN",
 	"BuôNg đôI Tay Chill",
