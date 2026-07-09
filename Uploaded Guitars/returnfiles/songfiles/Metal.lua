@@ -222,6 +222,7 @@ return {
 	"Pantera - Psycho Holiday [MIDIfind.Com]",
 	"Pantera - Shedding Skin [MIDIfind.Com]",
 	"Pantera - Slaughtered [MIDIfind.Com]",
+	"Pantera - Strenght Beyond Strenght [MIDIfind.Com]",
 	"Pantera - The Art Of Shredding",
 	"Pantera - This Love [MIDIfind.Com]",
 	"Pantera - Walk (3)",
