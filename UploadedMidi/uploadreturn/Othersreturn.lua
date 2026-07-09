@@ -35,6 +35,7 @@ return {
 	"Bad Apple!! (Full)",
 	"BáNh Mì KhôNg",
 	"Be The Sky",
+	"Beat It",
 	"Beautiful In White",
 	"Because I Miss You",
 	"Beethoven - Virus Mhxa",
