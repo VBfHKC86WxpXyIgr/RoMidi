@@ -210,6 +210,7 @@ return {
 	"Pantera - Psycho Holiday [MIDIfind.Com]",
 	"Pantera - Shedding Skin [MIDIfind.Com]",
 	"Pantera - Slaughtered [MIDIfind.Com]",
+	"Pantera - Strenght Beyond Strenght [MIDIfind.Com]",
 	"People=Shit- FlipgridJR",
 	"PhantomOfTheOpera",
 	"Powerslave",
