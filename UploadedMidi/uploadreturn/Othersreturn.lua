@@ -64,6 +64,7 @@ return {
 	"ChắC Ai Đó Sẽ Về X Because I Miss You",
 	"ChạM Khẽ Tim Anh",
 	"ChàNg Trai NăM ấY Ost",
+	"Charlies Inferno",
 	"ChạY Ngay đI",
 	"Chờ đợI Có đáNg Sợ",
 	"ChưA ChắC",
