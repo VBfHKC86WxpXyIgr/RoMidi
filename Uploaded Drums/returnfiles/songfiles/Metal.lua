@@ -208,6 +208,7 @@ return {
 	"Pantera - I'M Broken [MIDIfind.Com]",
 	"Pantera - Primal Concrete Sledge [MIDIfind.Com]",
 	"Pantera - Psycho Holiday [MIDIfind.Com]",
+	"Pantera - Revolution Is My Name (2) [MIDIfind.Com]",
 	"Pantera - Shedding Skin [MIDIfind.Com]",
 	"Pantera - Slaughtered [MIDIfind.Com]",
 	"Pantera - Strenght Beyond Strenght [MIDIfind.Com]",
