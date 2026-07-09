@@ -260,6 +260,7 @@ return {
 	"Neon Genesis Evangelion Extra Short Mhxa",
 	"Nevada X ĐI ĐI ĐI",
 	"Never Gonna Give You Up",
+	"Never Gonna Give You Up 1",
 	"Ngã Tư KhôNg đèN",
 	"NgườI ấY",
 	"NgườI Im LặNg GặP NgườI Hay NóI",
