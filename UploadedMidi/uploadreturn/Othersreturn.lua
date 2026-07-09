@@ -367,6 +367,7 @@ return {
 	"Virtual To Live",
 	"Virtual To LIVE Easy",
 	"Vợ TuyệT VờI NhấT",
+	"Waiting For Love",
 	"Waiting For You",
 	"We Don'T Talk Anymore",
 	"WE DONT TALK ANYMORE X ChúNg Ta KhôNg ThuộC Về Nhau",
