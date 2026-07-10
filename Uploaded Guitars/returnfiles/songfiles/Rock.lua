@@ -8,6 +8,7 @@ return {
 	"Alice In Chains - Rotten Apple",
 	"Alice In Chains - Sludge Factory [MIDIfind.Com]",
 	"Alice In Chains - Would(3) [MIDIfind.Com]",
+	"All-My-Loving-1",
 	"American Football - Never Meant",
 	"AUD DW0234",
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
