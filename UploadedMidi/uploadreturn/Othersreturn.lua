@@ -34,6 +34,7 @@ return {
 	"Bad Apple Ft. Nomico Deblacked",
 	"Bad Apple!! (Full)",
 	"BáNh Mì KhôNg",
+	"Basic Pitch Transcription",
 	"Be The Sky",
 	"Beat It",
 	"Beautiful In White",
