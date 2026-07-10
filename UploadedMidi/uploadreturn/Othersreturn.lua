@@ -391,6 +391,7 @@ return {
 	"Xe đạP",
 	"Xin LỗI Em",
 	"Yara Yara Funk",
+	"YêU CầU",
 	"YêU Là Tha Thứ",
 	"YêU MộT NgườI Có Lẽ",
 	"YêU Từ CáI NhìN đầU TiêN",
