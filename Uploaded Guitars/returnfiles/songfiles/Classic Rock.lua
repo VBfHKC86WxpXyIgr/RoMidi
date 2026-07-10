@@ -7,6 +7,7 @@ return {
 	"Buddy Holly - Weezer (Extremely Accurate) 🔥🎸G",
 	"Cant Stop - Red Hot Chili Peppers",
 	"Children",
+	"Do You Wanna Know A Secret",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Fingerstyle",
 	"Foo Fighters - Everlong [MIDIfind.Com]",
