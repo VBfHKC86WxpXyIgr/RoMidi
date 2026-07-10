@@ -4,6 +4,7 @@ return {
 	"Aerosmith - Dream On",
 	"Audioslave - Like A Stone [MIDIfind.Com]",
 	"Basic Pitch Transcription",
+	"Basic Pitch Transcription (1)",
 	"Bedrott (Full Song)",
 	"Bjork - Army Of Me WWW.MIDISFREE.COM",
 	"Chase Batta - JoJo'S Bizarre Adventure Part4 Diamond Is Unbreakable OP2",
