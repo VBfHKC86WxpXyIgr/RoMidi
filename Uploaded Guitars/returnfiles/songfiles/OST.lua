@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"Dire, Dire Docks (Super Mario 64)",
+	"Doom - E1M1 (GM MIDI)",
 	"Ella Baila Sola Eslabon Armado Y Peso Pluma",
 	"Grand Theft Auto San Andreas - Intro [MIDIfind.Com]",
 	"Metro Exodus - A New Home (Guitar Cover) [MIDIfind.Com]",
