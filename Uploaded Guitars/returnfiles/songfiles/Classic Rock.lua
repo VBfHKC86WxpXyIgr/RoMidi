@@ -24,6 +24,7 @@ return {
 	"Metallica+-+Master+Of+Puppets+(Guitars+Only)",
 	"My Hero - Foo Fighters",
 	"My Hero - Foo Fighters (1)",
+	"Norwegian-Wood-1",
 	"PAUSE",
 	"Playing God - Polyphia Playing God Tab",
 	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
