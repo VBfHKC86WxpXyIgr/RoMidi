@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"AUD Lr0462",
 	"Beatles (The) - Eleanor Rigby [MIDIfind.Com]",
 	"Beatles (The) - Here Comes The Sun [MIDIfind.Com]",
 	"Beatles (The) - I'M Only Sleeping [MIDIfind.Com]",
