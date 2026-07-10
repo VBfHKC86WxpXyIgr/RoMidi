@@ -72,6 +72,7 @@ return {
 	"ChàNg Trai NăM ấY Ost",
 	"Charlies Inferno",
 	"ChạY Ngay đI",
+	"ChịU đựNg đủ RồI",
 	"Chờ đợI Có đáNg Sợ",
 	"Chopin - Etude Op. 25 No. 6",
 	"ChưA ChắC",
