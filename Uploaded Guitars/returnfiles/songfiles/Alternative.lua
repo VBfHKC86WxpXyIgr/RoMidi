@@ -30,6 +30,7 @@ return {
 	"Sayonara Cross Teck-07-04-2026",
 	"Smashing Pumpkins - Mayonaise [MIDIfind.Com]",
 	"Soundgarden - Black Hole Sun (3) [MIDIfind.Com]",
+	"Soundgarden - Half [MIDIfind.Com]",
 	"Them Bones - Alice In Chains",
 	"Weezer - Island In The Sun (4) [MIDIfind.Com]",
 	"Wonderless",
