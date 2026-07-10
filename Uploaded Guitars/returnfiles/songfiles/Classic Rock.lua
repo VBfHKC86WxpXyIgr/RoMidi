@@ -39,6 +39,7 @@ return {
 	"The Beatles - A Hard Day'S Night",
 	"THE BEATLES.Blackbird K",
 	"THE BEATLES.Helter Skelter",
+	"THE BEATLES.Something K",
 	"Three Days Grace - Painkiller",
 	"Through The Fire And Flames - DragonForce (Complete, Virtuoso Version)",
 	"Tuyo (Narcos Theme) - Rodrigo Amarante",
