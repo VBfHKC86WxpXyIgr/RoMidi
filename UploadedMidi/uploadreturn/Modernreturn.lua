@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"1Across The Sea By Weezer",
 	"1Hey Jude Acoustic By The Beatles",
 	"1Join Me In Death By HIM",
 	"2Pac - Changes",
