@@ -34,6 +34,7 @@ return {
 	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
 	"Santana Carlos - Smooth [MIDIfind.Com]",
 	"Shiki No Uta (1)",
+	"THE BEATLES.Blackbird K",
 	"THE BEATLES.Helter Skelter",
 	"Three Days Grace - Painkiller",
 	"Through The Fire And Flames - DragonForce (Complete, Virtuoso Version)",
