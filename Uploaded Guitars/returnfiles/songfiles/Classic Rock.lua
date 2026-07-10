@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"And-Your-Bird-Can-Sing",
 	"AUD Lr0462",
 	"AUD NOY0290",
 	"Beatles (The) - Eleanor Rigby [MIDIfind.Com]",
