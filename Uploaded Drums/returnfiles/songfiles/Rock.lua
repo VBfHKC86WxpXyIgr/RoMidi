@@ -105,6 +105,7 @@ return {
 	"Skillet - Monster [MIDIfind.Com]",
 	"Smells Like Teen Spirit - Drums",
 	"The Avengers Theme Song (CHECK MY NEW VERSION)",
+	"THE BEATLES.All My Loving",
 	"THE BEATLES.Helter Skelter",
 	"Van Halen - Ain'T Talkin Bout Love (2) [MIDIfind.Com]",
 	"Weezer - Undone the Sweater Song [MIDIfind.com]",
