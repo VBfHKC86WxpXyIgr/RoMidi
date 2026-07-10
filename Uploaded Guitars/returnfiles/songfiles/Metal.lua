@@ -128,6 +128,7 @@ return {
 	"Megadeth - Symphony Of Destruction [MIDIfind.Com]",
 	"Megadeth - The Conjuring [MIDIfind.Com]",
 	"Megadeth - Tornado Of Souls [MIDIfind.Com]",
+	"Megadeth-Rust In Peace Polaris",
 	"Metallica - 2 X 4 [MIDIfind.Com]",
 	"Metallica - Am I Evil [MIDIfind.Com]",
 	"Metallica - And Justice For All [MIDIfind.Com]",
