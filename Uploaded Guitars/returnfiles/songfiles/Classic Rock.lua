@@ -25,6 +25,7 @@ return {
 	"My Hero - Foo Fighters",
 	"My Hero - Foo Fighters (1)",
 	"Norwegian-Wood-1",
+	"Paperback Writer",
 	"PAUSE",
 	"Playing God - Polyphia Playing God Tab",
 	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
