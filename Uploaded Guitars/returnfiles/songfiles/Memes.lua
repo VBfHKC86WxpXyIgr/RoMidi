@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"1Bakamitai",
 	"Home - Were Finally Landing 65702210",
 	"Michael Jackson - Billie Jean",
 	"Misc Covers-Aruarian Dance - Simplified By Nujabes-07-04-2026",
