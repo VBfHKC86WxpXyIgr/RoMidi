@@ -51,6 +51,7 @@ return {
 	"Fur Elise",
 	"Fur Elise (1)",
 	"Fur Elise Nightmare",
+	"G.F. Handel - Salmon",
 	"Galaxy Collapse (With Correct BPM)",
 	"GAYNOR.I Will Survive K",
 	"Girls-Und-Panzer-Ost---Piano-On-Musescore",
