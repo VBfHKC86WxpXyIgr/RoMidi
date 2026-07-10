@@ -2,6 +2,7 @@
 return {
 	"1Across The Sea By Weezer",
 	"1Join Me In Death By HIM",
+	"1Kagefumi (Accurate) By Hyakkei",
 	"1Ma Cherie Guitar By Malice Mizer",
 	"46792 Buko-",
 	"Aerosmith - Dream On",
