@@ -6,6 +6,7 @@ return {
 	"Basic Pitch Transcription",
 	"Basic Pitch Transcription (1)",
 	"Basic Pitch Transcription (4)",
+	"Basic Pitch Transcription (5)",
 	"Bedrott (Full Song)",
 	"Bjork - Army Of Me WWW.MIDISFREE.COM",
 	"Chase Batta - JoJo'S Bizarre Adventure Part4 Diamond Is Unbreakable OP2",
