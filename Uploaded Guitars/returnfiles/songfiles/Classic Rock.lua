@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"1Hey Jude Acoustic By The Beatles",
 	"And-Your-Bird-Can-Sing",
 	"AUD Lr0462",
 	"AUD NOY0290",
