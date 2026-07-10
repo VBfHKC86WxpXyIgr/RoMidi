@@ -5,6 +5,7 @@ return {
 	"1Join Me In Death By HIM",
 	"1Kagefumi (Accurate) By Hyakkei",
 	"1Laputa By Panchiko",
+	"1Ma Cherie Guitar By Malice Mizer",
 	"1Reunion By Korea Girl",
 	"2Pac - Changes",
 	"66203 Sa-Susunod-Na-Habang-Buhay",
