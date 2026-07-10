@@ -289,6 +289,7 @@ return {
 	"Norwegian Wood",
 	"NuôNg ChiềU đếN Hư HỏNg",
 	"OFFICIAL Roblox Bakon Theme Song",
+	"ÔI",
 	"Ordinary Confession",
 	"P Do Pecado - Ao Vivo - Grupo Menos É Mais (Piano)",
 	"Persona - Color Your Night Mhxa",
