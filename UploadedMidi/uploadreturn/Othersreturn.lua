@@ -35,6 +35,7 @@ return {
 	"Bad Apple!! (Full)",
 	"BáNh Mì KhôNg",
 	"Basic Pitch Transcription",
+	"Basic Pitch Transcription (1)",
 	"Be The Sky",
 	"Beat It",
 	"Beautiful In White",
