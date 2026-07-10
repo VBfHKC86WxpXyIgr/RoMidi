@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"1Hey Jude Acoustic By The Beatles",
 	"1Join Me In Death By HIM",
 	"2Pac - Changes",
 	"66203 Sa-Susunod-Na-Habang-Buhay",
