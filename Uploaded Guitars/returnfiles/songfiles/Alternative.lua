@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"1Join Me In Death By HIM",
 	"46792 Buko-",
 	"Aerosmith - Dream On",
 	"Audioslave - Like A Stone [MIDIfind.Com]",
