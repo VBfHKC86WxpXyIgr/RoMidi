@@ -81,6 +81,7 @@ return {
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
 	"Nirvana - School",
 	"Nirvana - Sliver (2) [MIDIfind.Com]",
+	"Nirvana - Sliver (5) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit",
 	"Nirvana - Territorial Pissings",
 	"NIRVANA.Smells Like Teen Spirit K",
