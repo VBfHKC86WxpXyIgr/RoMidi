@@ -211,6 +211,7 @@ return {
 	"Osbourne Ozzy - Mr Crowley [MIDIfind.Com]",
 	"Osbourne Ozzy - No More Tears [MIDIfind.Com]",
 	"Osbourne Ozzy - Perry Mason [MIDIfind.Com]",
+	"Ozzy Osbourne-Crazy Train",
 	"Pantera - 10'S [MIDIfind.Com]",
 	"Pantera - 5 Minutes Alone [MIDIfind.Com]",
 	"Pantera - A New Level [MIDIfind.Com]",
