@@ -390,6 +390,7 @@ return {
 	"YêU Là Tha Thứ",
 	"YêU MộT NgườI Có Lẽ",
 	"YêU Từ CáI NhìN đầU TiêN",
+	"YêU Xa",
 	"YêU,TồN TạI",
 	"Yoasobi - Yoru Ni Kakeru Mhxa",
 	"Your New Home (Episode 9 End)",
