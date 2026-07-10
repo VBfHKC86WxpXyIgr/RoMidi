@@ -5,6 +5,7 @@ return {
 	"[Black MIDI] Bad Apple!! 1 Million Notes v3 (fixed piano)",
 	"[Black MIDI] The Classic Black Medley",
 	"[JvP] Electroman Adventures - Geometry Dash",
+	"1Bakamitai",
 	"After School Jamboree",
 	"Animation Warrior Theme - Nighthawk22",
 	"ASGORE - Toby Fox",
