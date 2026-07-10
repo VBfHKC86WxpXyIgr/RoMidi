@@ -254,6 +254,7 @@ return {
 	"MộT NăM MớI BìNh An",
 	"MộT NăM MớI BìNh An Remix",
 	"MộT TriệU Khả NăNg",
+	"MùA Hạ ThoáNg Qua",
 	"MừNg HụT",
 	"MuộN RồI Mà Sao CòN",
 	"Music Using Only Sounds From Windows XP & 98 ~ SomethingUnreal - Blacked By KF2015 (1)",
