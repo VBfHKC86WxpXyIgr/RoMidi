@@ -316,6 +316,7 @@ return {
 	"Shucks Ending V2",
 	"Song For You",
 	"Stay With Me Exo",
+	"Strawberry Fields For Ever",
 	"Studio Ghibli Piano",
 	"SUFFER WITH ME",
 	"Sukidakara",
