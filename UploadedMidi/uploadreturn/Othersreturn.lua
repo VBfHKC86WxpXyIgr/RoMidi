@@ -279,6 +279,7 @@ return {
 	"NơI ấY Con TìM",
 	"NơI NàY Có Anh",
 	"NƠI NÀY CÓ ANH EASY",
+	"Norwegian Wood",
 	"NuôNg ChiềU đếN Hư HỏNg",
 	"OFFICIAL Roblox Bakon Theme Song",
 	"Ordinary Confession",
