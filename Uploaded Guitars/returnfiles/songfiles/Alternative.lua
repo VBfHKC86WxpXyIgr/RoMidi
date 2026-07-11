@@ -8,6 +8,7 @@ return {
 	"1Reunion By Korea Girl",
 	"46792 Buko-",
 	"Aerosmith - Dream On",
+	"Alex G - Mary",
 	"Audioslave - Like A Stone [MIDIfind.Com]",
 	"Basic Pitch Transcription",
 	"Basic Pitch Transcription (1)",
