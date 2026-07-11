@@ -9,6 +9,7 @@ return {
 	"Metallica-Enter-Sandman Midi",
 	"Motley Crue - Kickstart My Heart.Mid",
 	"Ozzy Osbourne - Crazy Train.Mid",
+	"Red Hot Chili Peppers - Scar Tissue",
 	"Sweet Dreams Midi",
 	"Кино - Группа крови [MIDIfind.Com]",
 	"Кино - Последний Герой Kino - The Last Hero",
