@@ -4,6 +4,7 @@ return {
 	"[Black MIDI] The Classic Black Medley",
 	"1Break By Alex G",
 	"1Pretend Alex G",
+	"1Strangers By Proderics",
 	"1The Love I Lost By Fried By Fluoride",
 	"505 best part",
 	"81416 Take-Me-Back-Home",
