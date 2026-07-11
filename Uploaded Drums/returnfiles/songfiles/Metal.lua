@@ -274,6 +274,7 @@ return {
 	"The Stage - Avenged Sevenfold by Rgman",
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"ThunderStruck - ACDC",
+	"Tool - Parabol Parabola [MIDIfind.Com]",
 	"Tourettes - Nirvana Tourettes - Nirvana Drum Sheet Music",
 	"Toxicity by System of a Down -- Version 4.2",
 	"Type O Negative - Black No 1 (2) [MIDIfind.Com]",
