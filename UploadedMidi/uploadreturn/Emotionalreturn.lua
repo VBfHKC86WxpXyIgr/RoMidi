@@ -51,6 +51,7 @@ return {
 	"Hope - XXXTENTACION",
 	"House In Nebraska - Ethel Cain - Pianotify",
 	"I Deserve To Bleed - Suchi Soucy",
+	"I Thought I Saw Your Face Today - She Him LYRICS",
 	"Imagine - John Lennon, John Lennon And The Plastic Ono Band (Piano Solo)",
 	"Indila - Love Story",
 	"Interstellar main theme (With Effects!)",
