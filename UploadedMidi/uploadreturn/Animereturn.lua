@@ -16,6 +16,7 @@ return {
 	"BEASTARS -Classical- For 2 Violins",
 	"BEFORE LIGHTS OUT",
 	"Binary Data IV",
+	"Bleach - Ranbu No Melody",
 	"Cat Loving HSR",
 	"Chainsaw Man - In The Pool Reze Arc OST Mhxa",
 	"Chainsaw Man - IRIS OUT Reze Arc Mhxa",
