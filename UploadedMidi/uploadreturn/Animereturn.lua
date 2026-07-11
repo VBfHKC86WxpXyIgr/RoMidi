@@ -3,6 +3,7 @@ return {
 	"[Black MIDI] The Classic Black Medley",
 	"[COMPLETE] Bloody Stream (JoJo'S Bizarre Adventure)",
 	"200 AniSong Medley HalcyonMusic",
+	"Ai ĐưA Em Về Take Me Back Home",
 	"Ai No Uta",
 	"AIZO HalcyonMusic",
 	"Akuma no Ko (a child of evil) - Attack on Titan The Final Season Part 2 Ending",
