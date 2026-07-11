@@ -8,6 +8,7 @@ return {
 	"Beatles (The) - Here Comes The Sun [MIDIfind.Com]",
 	"Beatles (The) - I'M Only Sleeping [MIDIfind.Com]",
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
+	"Beatles Sun King",
 	"Buddy Holly - Weezer (Extremely Accurate) 🔥🎸G",
 	"Canned Heat - Going Up The Country",
 	"Cant Stop - Red Hot Chili Peppers",
