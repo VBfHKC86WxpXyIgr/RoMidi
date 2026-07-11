@@ -72,6 +72,7 @@ return {
 	"Domination - Pantera, Rhythm Guitar + Solo Only! No Vocals Or Bass! By Chicoplatr",
 	"Domination- Pantera, Rhythm And Solo Only Guitars!",
 	"Eldoraudio-Destroy Boys - Crybaby Guitar Solo 1",
+	"Electric Wizard - We Hate You [MIDIfind.Com]",
 	"Eruption - Van Halen",
 	"Eyes Of A Homeless Dog - Psychonaut 4",
 	"For-Whom-The-Bell-Tolls",
