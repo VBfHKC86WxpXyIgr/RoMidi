@@ -83,6 +83,7 @@ return {
 	"Nirvana - Rape Me [MIDIfind.Com]",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
 	"Nirvana - School",
+	"Nirvana - Seasons In The Sun [MIDIfind.Com]",
 	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Sliver (5) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit",
