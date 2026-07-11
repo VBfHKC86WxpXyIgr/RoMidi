@@ -46,6 +46,7 @@ return {
 	"BìNh YêN Trong NhữNg PhúT GiâY",
 	"Black-And-White-Rag-Arr-Winifred-Atwell",
 	"Bloodbath Geometry Dash",
+	"Bohemian-Rhapsody-1",
 	"BóNg DáNg ThiêN ThầN",
 	"BóNg Lá RơI",
 	"Buena Vida Mala Fama (King Nasir) Crish Ramirez",
