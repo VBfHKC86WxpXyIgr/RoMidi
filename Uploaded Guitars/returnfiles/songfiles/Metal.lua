@@ -266,6 +266,7 @@ return {
 	"The Crying Orc - Burzum",
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"Through The Fire And Flames - DragonForce",
+	"Tool - Parabol Parabola [MIDIfind.Com]",
 	"Tool - Schism (3) [MIDIfind.Com]",
 	"Toxicity - System Of A Down",
 	"Trilogy Suite Op 5 - Yngwie Malmsteen",
