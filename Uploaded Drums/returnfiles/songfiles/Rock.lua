@@ -113,6 +113,7 @@ return {
 	"THE BEATLES.All My Loving",
 	"THE BEATLES.Helter Skelter",
 	"THE BEATLES.Something K",
+	"Tom-Sawyer-3",
 	"Van Halen - Ain'T Talkin Bout Love (2) [MIDIfind.Com]",
 	"Weezer - Undone the Sweater Song [MIDIfind.com]",
 }
