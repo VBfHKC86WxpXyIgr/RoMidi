@@ -266,6 +266,7 @@ return {
 	"System Of A Down - Aerials [MIDIfind.Com]",
 	"System Of A Down - B.Y.O.B. [MIDIfind.Com]",
 	"System Of A Down - Chop Suey! [MIDIfind.Com]",
+	"System Of A Down - Prison Song (5) [MIDIfind.Com]",
 	"System Of A Down - Prison Song (9) [MIDIfind.Com]",
 	"System Of A Down - Sugar [MIDIfind.Com]",
 	"Territorial Pissings - Nirvana",
