@@ -43,6 +43,7 @@ return {
 	"Fasion - Dansez - COPYRIGHT FREE - CEM",
 	"Flamewall",
 	"Foggy Mountain Breakdown",
+	"Foo Fighters - Everlong",
 	"Forever",
 	"Frank Sinatra - My Way",
 	"Freedom Dive",
