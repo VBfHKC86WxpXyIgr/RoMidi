@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"[Black MIDI] The Classic Black Medley",
+	"[COMPLETE] Bloody Stream (JoJo'S Bizarre Adventure)",
 	"200 AniSong Medley HalcyonMusic",
 	"Ai No Uta",
 	"AIZO HalcyonMusic",
