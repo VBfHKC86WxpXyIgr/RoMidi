@@ -37,6 +37,7 @@ return {
 	"PTV - King For A Day",
 	"Radiohead - My Iron Lung",
 	"Sayonara Cross Teck-07-04-2026",
+	"Smashing Pumpkins - Mayonaise (2) [MIDIfind.Com]",
 	"Smashing Pumpkins - Mayonaise [MIDIfind.Com]",
 	"Soundgarden - Black Hole Sun (3) [MIDIfind.Com]",
 	"Soundgarden - Half [MIDIfind.Com]",
