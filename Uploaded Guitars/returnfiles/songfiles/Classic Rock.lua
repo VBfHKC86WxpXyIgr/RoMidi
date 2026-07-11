@@ -36,6 +36,7 @@ return {
 	"Paperback Writer",
 	"PAUSE",
 	"Playing God - Polyphia Playing God Tab",
+	"Queen - Bohemian Rhapsody",
 	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
 	"Santana Carlos - Smooth [MIDIfind.Com]",
 	"Shiki No Uta (1)",
