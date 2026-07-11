@@ -47,6 +47,7 @@ return {
 	"Green Day - Last Night On Earth",
 	"happy",
 	"Happy",
+	"Himno Nacional Argentino 🇦🇷",
 	"Hope - XXXTENTACION",
 	"House In Nebraska - Ethel Cain - Pianotify",
 	"I Deserve To Bleed - Suchi Soucy",
