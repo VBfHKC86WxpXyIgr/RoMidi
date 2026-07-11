@@ -11,6 +11,7 @@ return {
 	"Ozzy Osbourne - Crazy Train.Mid",
 	"Red Hot Chili Peppers - Scar Tissue",
 	"Sweet Dreams Midi",
+	"Tiki Tiki Funk",
 	"Кино - Группа крови [MIDIfind.Com]",
 	"Кино - Последний Герой Kino - The Last Hero",
 	"Кино - Спокойная ночь",
