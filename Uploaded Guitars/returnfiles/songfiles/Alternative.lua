@@ -28,6 +28,7 @@ return {
 	"LED ZEPPELIN.Stairway To Heaven KA",
 	"Lit My Own Worst Enemy.Gtr",
 	"Made In Thailland 2",
+	"Mary Alex G",
 	"MAYONAISE",
 	"My Chemical Romance - I Don'T Love You [MIDIfind.Com]",
 	"New Computers - Girlfriends",
