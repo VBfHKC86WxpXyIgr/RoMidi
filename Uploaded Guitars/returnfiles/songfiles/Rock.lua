@@ -68,6 +68,7 @@ return {
 	"Nirvana - Rape Me [MIDIfind.Com]",
 	"Nirvana - Sappy",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
+	"Nirvana - Seasons In The Sun [MIDIfind.Com]",
 	"Nirvana - Serve The Servants [MIDIfind.Com]",
 	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
