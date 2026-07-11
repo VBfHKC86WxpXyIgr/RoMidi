@@ -38,6 +38,7 @@ return {
 	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
 	"Santana Carlos - Smooth [MIDIfind.Com]",
 	"Shiki No Uta (1)",
+	"SurfinUSA",
 	"The Beatles - A Hard Day'S Night",
 	"THE BEATLES.Blackbird K",
 	"THE BEATLES.Helter Skelter",
