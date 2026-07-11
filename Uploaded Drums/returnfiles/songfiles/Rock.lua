@@ -106,6 +106,7 @@ return {
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Skillet - Monster [MIDIfind.Com]",
 	"Smells Like Teen Spirit - Drums",
+	"SurfinUSA",
 	"The Avengers Theme Song (CHECK MY NEW VERSION)",
 	"The Beatles - A Hard Day'S Night",
 	"THE BEATLES.All My Loving",
