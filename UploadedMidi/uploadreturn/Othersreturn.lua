@@ -364,6 +364,7 @@ return {
 	"ThiếU NiêN Hoa HồNg",
 	"ThứC GiấC",
 	"ThươNg Em Là đIềU Anh KhôNg Ngờ",
+	"Tiki Tiki Funk",
 	"TìM Em",
 	"Tinh Vệ",
 	"TìNh YêU MàU NắNg",
