@@ -56,6 +56,7 @@ return {
 	"My Chemical Romance - Thank You For The Venom [MIDIfind.Com]",
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison (2) [MIDIfind.Com]",
 	"Never Meant - American Football",
+	"Nirvana - About A Girl (MTV Unplugged) [MIDIfind.Com]",
 	"Nirvana - All Apologies [MIDIfind.Com]",
 	"Nirvana - Aneurysm [MIDIfind.Com]",
 	"Nirvana - Blew (2) [MIDIfind.Com]",
