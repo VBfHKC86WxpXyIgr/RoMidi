@@ -16,6 +16,7 @@ return {
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
 	"Beatles (The) - Tomorrow Never Knows [MIDIfind.Com]",
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
+	"Beatles Besame Mucho",
 	"Big Cheese - Nirvana",
 	"Blink-182 - Always 7",
 	"Blink-182 - Drum Solo",
