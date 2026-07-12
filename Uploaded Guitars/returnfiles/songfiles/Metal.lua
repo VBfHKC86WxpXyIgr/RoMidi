@@ -256,6 +256,7 @@ return {
 	"Psychonaut 4 - Overdose Was The Best Way To Die [MIDIfind.Com]",
 	"Psychonaut 4 - Serial Lier (2) [MIDIfind.Com]",
 	"Psychonaut 4 - World Of Pain And Hate [MIDIfind.Com]",
+	"Racer X - Scarified (2) [MIDIfind.Com]",
 	"Rage Against The Machine - Killing In The Name (2) [MIDIfind.Com]",
 	"Rage Against The Machine - Killing In The Name [MIDIfind.Com]",
 	"RainingBlood",
