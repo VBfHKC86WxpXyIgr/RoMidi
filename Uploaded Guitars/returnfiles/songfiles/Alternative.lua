@@ -31,6 +31,7 @@ return {
 	"Made In Thailland 2",
 	"Mary Alex G",
 	"MAYONAISE",
+	"Mudhoney - Suck You Dry [MIDIfind.Com]",
 	"My Chemical Romance - I Don'T Love You [MIDIfind.Com]",
 	"New Computers - Girlfriends",
 	"Nirvana - Sliver (5) [MIDIfind.Com]",
