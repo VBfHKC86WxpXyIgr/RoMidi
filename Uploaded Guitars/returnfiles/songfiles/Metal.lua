@@ -72,6 +72,7 @@ return {
 	"Domination - Pantera, Rhythm Guitar + Solo Only! No Vocals Or Bass! By Chicoplatr",
 	"Domination- Pantera, Rhythm And Solo Only Guitars!",
 	"DragonForce - Heroes Of Our Time [MIDIfind.Com]",
+	"DragonForce - Operation Ground And Pound [MIDIfind.Com]",
 	"DragonForce - Valley Of The Damned Demo [MIDIfind.Com] (1)",
 	"Eldoraudio-Destroy Boys - Crybaby Guitar Solo 1",
 	"Electric Wizard - We Hate You [MIDIfind.Com]",
