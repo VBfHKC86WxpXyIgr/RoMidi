@@ -83,6 +83,7 @@ return {
 	"Happy Days - Don'T Guns (Guitar)",
 	"Haunted (The) - Silencer [MIDIfind.Com]",
 	"Helloween - Dr Stein (2) [MIDIfind.Com]",
+	"Helloween - Future World (3) [MIDIfind.Com]",
 	"HermoðR Á Helferð - Burzum",
 	"HIM - Gone With The Sin [MIDIfind.Com]",
 	"HIM - Join Me [MIDIfind.Com]",
