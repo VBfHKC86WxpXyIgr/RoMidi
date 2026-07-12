@@ -71,6 +71,7 @@ return {
 	"Domination - Pantera, R Guitar + Solo, No Vocals Or Bass! (FIXED VERSION)",
 	"Domination - Pantera, Rhythm Guitar + Solo Only! No Vocals Or Bass! By Chicoplatr",
 	"Domination- Pantera, Rhythm And Solo Only Guitars!",
+	"DragonForce - Fury Of The Storm [MIDIfind.Com]",
 	"DragonForce - Heroes Of Our Time [MIDIfind.Com]",
 	"DragonForce - Operation Ground And Pound [MIDIfind.Com]",
 	"DragonForce - Valley Of The Damned Demo [MIDIfind.Com] (1)",
