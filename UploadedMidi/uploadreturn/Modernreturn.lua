@@ -137,6 +137,7 @@ return {
 	"Vamp Anthem - Playboi Carti (Piano Sheets)",
 	"Vicetone - Nevada ZNG",
 	"Violent Crimes - Kanye West Violent Crimes - Kanye West",
+	"Virtual Insanity 180 BPM PIANO ONLY",
 	"We Not Like You (Tiktok Version)",
 	"WEEZER.Buddy Holly K",
 	"What Happened To Virgil - Lil Durk Ft. Gunna",
