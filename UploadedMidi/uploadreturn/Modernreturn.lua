@@ -130,6 +130,7 @@ return {
 	"Talking To The Moon (Bruno Mars).Mid",
 	"Tally Hall- Hidden In The Sand",
 	"Tek It - Cafune",
+	"The Greatest Showman - Rewrite The Stars Piano Cover With Strings (With PIANO SHEETS)",
 	"THE ITCHYWORMS - Di Na Muli ( Extended Solo ) NNTranscription",
 	"The+New+Periodic+Table+Song",
 	"TheFatRat+-+Windfall",
