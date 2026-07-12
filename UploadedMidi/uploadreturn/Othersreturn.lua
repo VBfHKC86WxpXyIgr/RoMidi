@@ -249,6 +249,7 @@ return {
 	"May Be X Kiss The Rain X River Flows In You",
 	"MâY Và BiểN",
 	"Meant To Be",
+	"Melody-Sheet",
 	"Michael Jackson - Dirty Diana",
 	"MìNh CướI Nhau đI",
 	"Miss You - Oliver Tree & Robin Schulz",
