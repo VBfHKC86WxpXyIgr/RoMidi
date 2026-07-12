@@ -99,6 +99,7 @@ return {
 	"lover girl - laufey",
 	"Made Sum Plans (Osamason)",
 	"Mala Vida Mala Fama",
+	"Marc Indigo - Boy For The Weekend",
 	"Mesmerizer (Midi)",
 	"Michael Jackson - Bad",
 	"Michael Jackson - Don’T Stop Till You Get Enough",
