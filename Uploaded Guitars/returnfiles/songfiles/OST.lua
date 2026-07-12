@@ -12,4 +12,5 @@ return {
 	"OFFICIAL Roblox Bakon Theme Song",
 	"Seek (Among Us) NEW",
 	"The Legend Of Zelda Great Fairy Fountain (Piano Cover)",
+	"Wonderful-Tonight-3",
 }
