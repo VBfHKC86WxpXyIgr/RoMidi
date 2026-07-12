@@ -71,6 +71,7 @@ return {
 	"Domination - Pantera, R Guitar + Solo, No Vocals Or Bass! (FIXED VERSION)",
 	"Domination - Pantera, Rhythm Guitar + Solo Only! No Vocals Or Bass! By Chicoplatr",
 	"Domination- Pantera, Rhythm And Solo Only Guitars!",
+	"DragonForce - Valley Of The Damned Demo [MIDIfind.Com] (1)",
 	"Eldoraudio-Destroy Boys - Crybaby Guitar Solo 1",
 	"Electric Wizard - We Hate You [MIDIfind.Com]",
 	"Eruption - Van Halen",
