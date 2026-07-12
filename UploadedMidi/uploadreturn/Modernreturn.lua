@@ -70,6 +70,7 @@ return {
 	"In Love - Low G (Piano)",
 	"In the end drum",
 	"iris-goo-goo-dolls",
+	"JAMIROQUAY.Virtual Insanity",
 	"Je-Te-Laisserai-Des-Mots-Patrick-Watson",
 	"John Legend - All Of Me - Pianoitall.Mid",
 	"John Rod Dondoyano - Wave To Earth - Seasons [Yougensaki Remake]",
