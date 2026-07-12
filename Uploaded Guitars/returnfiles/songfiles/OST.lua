@@ -11,6 +11,7 @@ return {
 	"Misc Covers-Jotaro'S Theme By JJBA-07-04-2026",
 	"NAZARETH.Love Hurt",
 	"OFFICIAL Roblox Bakon Theme Song",
+	"Queen - Bohemian Rhapsody",
 	"Seek (Among Us) NEW",
 	"The Legend Of Zelda Great Fairy Fountain (Piano Cover)",
 	"Wonderful-Tonight-3",
