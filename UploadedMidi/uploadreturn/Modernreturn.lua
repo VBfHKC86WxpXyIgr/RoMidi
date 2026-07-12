@@ -92,6 +92,7 @@ return {
 	"Long Time - Playboi Carti",
 	"Love Story X Golden Brown",
 	"Love Story X Golden Brown (1)",
+	"LOVELI LORI - Love For You",
 	"lover girl - laufey",
 	"Made Sum Plans (Osamason)",
 	"Mala Vida Mala Fama",
