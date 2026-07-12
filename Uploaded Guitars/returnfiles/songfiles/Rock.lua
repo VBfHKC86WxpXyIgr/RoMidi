@@ -12,6 +12,7 @@ return {
 	"American Football - Never Meant",
 	"AUD DW0234",
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
+	"Beatles It Wont Be Long",
 	"Beggin-Maneskin.Mid",
 	"Bismarck - Sabaton Piano Arrangement",
 	"Black Rover - Black Clover (OP 3)",
