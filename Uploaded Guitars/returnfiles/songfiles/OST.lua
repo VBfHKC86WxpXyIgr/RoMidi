@@ -9,6 +9,7 @@ return {
 	"Metro Exodus - Theme From The Main Menu.Gtr",
 	"Misc Covers-Full Theme By JoJo Steel Ball Run-07-04-2026",
 	"Misc Covers-Jotaro'S Theme By JJBA-07-04-2026",
+	"NAZARETH.Love Hurt",
 	"OFFICIAL Roblox Bakon Theme Song",
 	"Seek (Among Us) NEW",
 	"The Legend Of Zelda Great Fairy Fountain (Piano Cover)",
