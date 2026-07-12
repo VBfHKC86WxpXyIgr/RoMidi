@@ -211,6 +211,7 @@ return {
 	"Its Raining Tacos",
 	"Its Raining Tacos.Mid",
 	"Jackson Five I Want You Back",
+	"Jamiroquai Virtual Insanity",
 	"KháCh MờI",
 	"KhôNg BiếT PhảI LàM Sao",
 	"KhôNg BuôNg - Hngle (Piano)",
