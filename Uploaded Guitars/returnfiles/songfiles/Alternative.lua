@@ -9,6 +9,7 @@ return {
 	"46792 Buko-",
 	"Aerosmith - Dream On",
 	"Alex G - Mary",
+	"All In My Head Riff.Mid",
 	"Audioslave - Like A Stone [MIDIfind.Com]",
 	"Basic Pitch Transcription",
 	"Basic Pitch Transcription (1)",
