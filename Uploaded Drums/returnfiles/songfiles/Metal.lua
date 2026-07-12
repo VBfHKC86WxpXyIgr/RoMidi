@@ -189,6 +189,7 @@ return {
 	"Mushroomhead - Episode 29 [MIDIfind.com]",
 	"Mushroomhead - Sun Doesn't Rise [MIDIfind.com]",
 	"Mushroomhead - The Wrist [MIDIfind.com]",
+	"New Computers - Girlfriends",
 	"NIRVANA.Smells Like Teen Spirit K",
 	"No Name",
 	"Not Ready To Die",
