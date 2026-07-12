@@ -198,6 +198,7 @@ return {
 	"Osbourne Ozzy - Mr Crowley [MIDIfind.Com]",
 	"Osbourne Ozzy - No More Tears [MIDIfind.Com]",
 	"Osbourne Ozzy - Perry Mason [MIDIfind.Com]",
+	"Osbourne Ozzy - Walk On Water [MIDIfind.Com]",
 	"Painkiller",
 	"Pantera - 5 Minutes Alone [MIDIfind.Com]",
 	"Pantera - A New Level [MIDIfind.Com]",
