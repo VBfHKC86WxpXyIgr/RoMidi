@@ -15,6 +15,7 @@ return {
 	"505 - Arctic Monkeys",
 	"A Miserable Life",
 	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
+	"Angel Of Death - Slayer (Corrected To E Standard)",
 	"AngelOfDeath",
 	"Anthrax - Madhouse (4) [MIDIfind.Com]",
 	"Avenged Sevenfold - Afterlife Solo Live [MIDIfind.Com]",
