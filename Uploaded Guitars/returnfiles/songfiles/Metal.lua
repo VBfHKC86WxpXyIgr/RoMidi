@@ -83,6 +83,7 @@ return {
 	"Happy Days - Don'T Guns (Guitar)",
 	"Haunted (The) - Silencer [MIDIfind.Com]",
 	"Helloween - Dr Stein (2) [MIDIfind.Com]",
+	"Helloween - Eagle Fly Free (4) [MIDIfind.Com]",
 	"Helloween - Future World (3) [MIDIfind.Com]",
 	"Helloween - Halloween (2) [MIDIfind.Com]",
 	"Helloween - I Want Out (2) [MIDIfind.Com]",
