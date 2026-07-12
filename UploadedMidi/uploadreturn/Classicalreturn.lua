@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"[Black MIDI] RUSH E",
+	"[Embers Midi Blacker] RUSH E 5 (WITH 1,000,000 NOTES)",
 	"💞...🪽부활(Boowhal) - Never Ending Story (Piano Cover) [가사LYRICS KOR] - Pianist Cho Younghoon／HOON TO-BE (192k)",
 	"007amanha Nuncamais2",
 	"93772 Imposter-Syndrome-",
