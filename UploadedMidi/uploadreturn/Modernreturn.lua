@@ -12,6 +12,7 @@ return {
 	"87646 Terbuang-Dalam-Waktu",
 	"Ai Đưa Em Về (Take Me Back Home) – TIA  feat. Lê Thiện Hiếu (Low Cortisol Song)",
 	"Alan Walker - Alone Part II",
+	"Alan Walker - The Drum",
 	"ALL MY FELLAS 8FR",
 	"Arctic Monkeys Arr. Lucky Piano - No. 1 Party Anthem (1)",
 	"Ariana Grande, Justin Bieber - Stuck With U",
