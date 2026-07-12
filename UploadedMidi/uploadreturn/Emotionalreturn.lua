@@ -124,6 +124,7 @@ return {
 	"Sesi Potret - Enau",
 	"Sinking Town   沈める街 - Yoeko Kurahashi",
 	"Smashing Pumpkins - 1979",
+	"Stephen Sanchez - Until I Found You",
 	"Sunsezt yt @moongate 1234",
 	"Tai sinh",
 	"Tally Hall- Hidden in the Sand ",
