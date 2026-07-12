@@ -74,6 +74,7 @@ return {
 	"DragonForce - Fury Of The Storm [MIDIfind.Com]",
 	"DragonForce - Heroes Of Our Time [MIDIfind.Com]",
 	"DragonForce - Operation Ground And Pound [MIDIfind.Com]",
+	"DragonForce - Through The Fire And Flames (2) [MIDIfind.Com]",
 	"DragonForce - Valley Of The Damned Demo [MIDIfind.Com] (1)",
 	"Eldoraudio-Destroy Boys - Crybaby Guitar Solo 1",
 	"Electric Wizard - We Hate You [MIDIfind.Com]",
