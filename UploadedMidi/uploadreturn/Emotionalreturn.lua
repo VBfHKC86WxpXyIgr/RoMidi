@@ -81,6 +81,7 @@ return {
 	"like him - tyler creator",
 	"Like Him Tyler The Creator",
 	"Loneliness By Decalius-07-04-2026",
+	"Long-Love-New",
 	"Lost Sky - Dreams Pt. II",
 	"Love Story  Taylor Swift 1775672226231",
 	"Love Story X Golden Brown",
