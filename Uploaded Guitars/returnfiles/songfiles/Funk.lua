@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"[Midi] Michael Jackson - Rock With You",
 	"Adventure Of A Lifetime - Coldplay",
 	"Another Part Of Me (2012 Remaster)",
 	"Crazy Frog - Axel F.Mid",
