@@ -106,6 +106,7 @@ return {
 	"Frances Farmer Will Have Her Revenge On Seattle",
 	"FreakOnALeash",
 	"Gentley",
+	"Girlfriends - New Computers",
 	"GoodGod",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Guns N' Roses - Sweet Child O' Mine [MIDIfind.com]",
