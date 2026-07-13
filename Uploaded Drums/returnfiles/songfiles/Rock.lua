@@ -85,6 +85,7 @@ return {
 	"Nirvana - In Bloom [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Mr. Moustache",
+	"Nirvana - Nirvana Lithium Live MTV Vma 1992 [MIDIfind.Com]",
 	"Nirvana - Old Age [MIDIfind.Com]",
 	"Nirvana - Rape Me [MIDIfind.Com]",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
