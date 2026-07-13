@@ -149,6 +149,7 @@ return {
 	"Virtual Insanity 180 BPM PIANO ONLY",
 	"We Not Like You (Tiktok Version)",
 	"WEEZER.Buddy Holly K",
+	"WHAT A BEAUTIFUL NAME (HILLSONG)",
 	"What Happened To Virgil - Lil Durk Ft. Gunna",
 	"Where'D All The Time Go - Dr. Dog",
 	"World's smallest violin",
