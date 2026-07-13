@@ -3,6 +3,7 @@ return {
 	"Adventure Of A Lifetime - Coldplay",
 	"Another Part Of Me (2012 Remaster)",
 	"Crazy Frog - Axel F.Mid",
+	"D CR0057",
 	"Daft Punk - Get Lucky [MIDIfind.Com]",
 	"Daft+Punk+-+Get+Lucky+(Slowed+++Reverb) 128k",
 	"Limp Bizkit - Take A Look Around [MIDIfind.Com]",
