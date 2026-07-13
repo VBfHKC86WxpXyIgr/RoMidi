@@ -8,6 +8,7 @@ return {
 	"1Kagefumi (Accurate) By Hyakkei",
 	"1Laputa By Panchiko",
 	"1Ma Cherie Guitar By Malice Mizer",
+	"1Main Serong By The Changcuters",
 	"1Reunion By Korea Girl",
 	"2Pac - Changes",
 	"66203 Sa-Susunod-Na-Habang-Buhay",
