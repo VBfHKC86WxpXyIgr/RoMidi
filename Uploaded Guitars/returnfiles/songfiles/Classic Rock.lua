@@ -12,6 +12,7 @@ return {
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
 	"Beatles Besame Mucho",
 	"Beatles Sun King",
+	"Boston - More Than A Feeling [MIDIfind.Com]",
 	"Buddy Holly - Weezer (Extremely Accurate) 🔥🎸G",
 	"Canned Heat - Going Up The Country",
 	"Cant Stop - Red Hot Chili Peppers",
