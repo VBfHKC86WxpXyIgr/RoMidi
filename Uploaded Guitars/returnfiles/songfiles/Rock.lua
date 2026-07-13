@@ -65,6 +65,7 @@ return {
 	"Nirvana - Drain You [MIDIfind.Com]",
 	"Nirvana - Dumb [MIDIfind.Com]",
 	"Nirvana - In Bloom [MIDIfind.Com]",
+	"Nirvana - Lithium (3) [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Milk It [MIDIfind.Com]",
 	"Nirvana - Nirvana Lithium Live MTV Vma 1992 [MIDIfind.Com]",
