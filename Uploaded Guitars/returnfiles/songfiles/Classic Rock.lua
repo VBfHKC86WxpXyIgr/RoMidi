@@ -40,6 +40,7 @@ return {
 	"Norwegian-Wood-1",
 	"Paperback Writer",
 	"PAUSE",
+	"Pink Floyd - Comfortably Numb [MIDIfind.Com]",
 	"Playing God - Polyphia Playing God Tab",
 	"Queen - Bohemian Rhapsody",
 	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
