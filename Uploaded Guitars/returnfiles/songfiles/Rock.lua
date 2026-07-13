@@ -117,6 +117,7 @@ return {
 	"Snow (Hey Oh!)",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
 	"Soda Stereo - Tratame Suavemente [MIDIfind.Com]",
+	"Still-Loving-You",
 	"Strokes (The) - Last Nite [MIDIfind.Com]",
 	"Strokes (The) - The End Has No End (7) [MIDIfind.Com]",
 	"System Of A Down - Toxicity [MIDIfind.Com]",
