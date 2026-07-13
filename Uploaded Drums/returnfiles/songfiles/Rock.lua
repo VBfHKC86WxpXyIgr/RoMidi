@@ -125,6 +125,7 @@ return {
 	"THE BEATLES.Helter Skelter",
 	"THE BEATLES.Something K",
 	"Tom-Sawyer-3",
+	"Undone (The Sweater Song) - Weezer",
 	"Undone (The Sweater Song) - Weezer (Sleezy)",
 	"Van Halen - Ain'T Talkin Bout Love (2) [MIDIfind.Com]",
 	"Weezer - Undone the Sweater Song [MIDIfind.com]",
