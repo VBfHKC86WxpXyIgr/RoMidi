@@ -48,6 +48,7 @@ return {
 	"Them Bones - Alice In Chains",
 	"Treehouse Alex G",
 	"Weezer - Island In The Sun (4) [MIDIfind.Com]",
+	"Weezer - Undone The Sweater Song [MIDIfind.Com]",
 	"WEEZERUndone",
 	"Wonderless",
 	"Wonderless2",
