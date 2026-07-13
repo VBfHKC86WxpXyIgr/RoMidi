@@ -52,6 +52,7 @@ return {
 	"Weezer - Island In The Sun (4) [MIDIfind.Com]",
 	"Weezer - Undone The Sweater Song [MIDIfind.Com]",
 	"WEEZERUndone",
+	"Where Is My Mind - Pixies",
 	"Wonderless",
 	"Wonderless2",
 }
