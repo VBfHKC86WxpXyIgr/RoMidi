@@ -83,6 +83,7 @@ return {
 	"Nirvana - Dumb [MIDIfind.Com]",
 	"Nirvana - Floyd The Barber (Drums)",
 	"Nirvana - In Bloom [MIDIfind.Com]",
+	"Nirvana - Lithium (3) [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Mr. Moustache",
 	"Nirvana - Nirvana Lithium Live MTV Vma 1992 [MIDIfind.Com]",
