@@ -6,6 +6,7 @@ return {
 	"Bohemian Rhapsody - Queen",
 	"Bohemian Rhapsody - Queen (Piano Solo)",
 	"Charlie Clouser - Saw Final Theme WWW.MIDISFREE.COM",
+	"Cigarettes After Sex - Apocalypse (Ending) V2",
 	"Còn gì đẹp hơn impossible",
 	"Cornfield Chase",
 	"Dạo Bước HongKong 1999",
