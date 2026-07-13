@@ -127,4 +127,5 @@ return {
 	"Tom-Sawyer-3",
 	"Van Halen - Ain'T Talkin Bout Love (2) [MIDIfind.Com]",
 	"Weezer - Undone the Sweater Song [MIDIfind.com]",
+	"Where Is My Mind - Pixies Where Is My Mind",
 }
