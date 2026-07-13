@@ -10,6 +10,7 @@ return {
 	"Alice In Chains - Would(3) [MIDIfind.Com]",
 	"All-My-Loving-1",
 	"American Football - Never Meant",
+	"Arctic Monkeys - Crying Lightning [MIDIfind.Com]",
 	"AUD DW0234",
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
 	"Beatles It Wont Be Long",
