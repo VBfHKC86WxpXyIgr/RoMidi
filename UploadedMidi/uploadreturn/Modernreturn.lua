@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"1 V2 Main Serong By The Changcuters",
 	"1Across The Sea By Weezer",
 	"1Caravan (From 'Whiplash')",
 	"1Hey Jude Acoustic By The Beatles",
