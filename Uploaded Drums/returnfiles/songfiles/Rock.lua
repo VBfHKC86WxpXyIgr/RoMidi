@@ -97,6 +97,7 @@ return {
 	"Nirvana - Sliver (5) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit",
 	"Nirvana - Territorial Pissings",
+	"Nirvana - Verse Chorus Verse (2) [MIDIfind.Com]",
 	"NIRVANA.Smells Like Teen Spirit K",
 	"No Name 2",
 	"Oasis - Cigarettes Alcohol [MIDIfind.Com]",
