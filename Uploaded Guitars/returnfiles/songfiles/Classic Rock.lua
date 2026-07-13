@@ -4,6 +4,7 @@ return {
 	"And-Your-Bird-Can-Sing",
 	"AUD Lr0462",
 	"AUD NOY0290",
+	"Beatles (The) - And I Love Her [MIDIfind.Com]",
 	"Beatles (The) - Eleanor Rigby [MIDIfind.Com]",
 	"Beatles (The) - Here Comes The Sun [MIDIfind.Com]",
 	"Beatles (The) - I'M Only Sleeping [MIDIfind.Com]",
