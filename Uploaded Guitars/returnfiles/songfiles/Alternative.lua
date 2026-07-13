@@ -48,6 +48,7 @@ return {
 	"Soundgarden - Half [MIDIfind.Com]",
 	"Them Bones - Alice In Chains",
 	"Treehouse Alex G",
+	"Undone The Sweater Song - Weezer (Piano-Vocal-Guitar)",
 	"Weezer - Island In The Sun (4) [MIDIfind.Com]",
 	"Weezer - Undone The Sweater Song [MIDIfind.Com]",
 	"WEEZERUndone",
