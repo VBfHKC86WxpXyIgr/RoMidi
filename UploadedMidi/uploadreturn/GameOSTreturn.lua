@@ -48,6 +48,7 @@ return {
 	"finale-undertale",
 	"Five nights at Freddy's Song",
 	"Gaster's Theme - Toby Fox",
+	"Geometry Dash - Thinking Space II Nuke Powder",
 	"Geometry Dash - Time Machine",
 	"Geometry Dash Menu Theme",
 	"Geometry Dash Stereo Madness Original By Forever Bound",
