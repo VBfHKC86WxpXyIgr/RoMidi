@@ -2,6 +2,7 @@
 return {
 	"(Play!) The Neighbourhood-Sweater Weather",
 	"[Black MIDI] The Classic Black Medley",
+	"「 ꕤ 」 S0rrow - Unhappy",
 	"1Break By Alex G",
 	"1Pretend Alex G",
 	"1Strangers By Proderics",
