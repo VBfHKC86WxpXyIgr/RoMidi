@@ -37,6 +37,7 @@ return {
 	"My Chemical Romance - I Don'T Love You [MIDIfind.Com]",
 	"New Computers - Girlfriends",
 	"Nirvana - Sliver (5) [MIDIfind.Com]",
+	"Pixies - Where Is My Mind (5) [MIDIfind.Com]",
 	"PTV - King For A Day",
 	"Radiohead - My Iron Lung",
 	"Sayonara Cross Teck-07-04-2026",
