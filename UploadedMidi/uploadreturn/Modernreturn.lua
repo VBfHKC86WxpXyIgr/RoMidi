@@ -4,6 +4,7 @@ return {
 	"1Caravan (From 'Whiplash')",
 	"1Hey Jude Acoustic By The Beatles",
 	"1Join Me In Death By HIM",
+	"1Juicebox By The Strokes",
 	"1Kagefumi (Accurate) By Hyakkei",
 	"1Laputa By Panchiko",
 	"1Ma Cherie Guitar By Malice Mizer",
