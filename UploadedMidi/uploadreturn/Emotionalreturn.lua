@@ -11,6 +11,7 @@ return {
 	"505 best part",
 	"81416 Take-Me-Back-Home",
 	"A Miserable Life",
+	"Across The Sea - Weezer",
 	"After The Love Has Gone  David Foster Earth Wind  Fire 1775672109595",
 	"Alec Benjamin - Let Me Down Slowly",
 	"Anybody can find love (except you.) - Full Song",
