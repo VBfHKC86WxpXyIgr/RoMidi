@@ -64,6 +64,7 @@ return {
 	"Nirvana - Blew (2) [MIDIfind.Com]",
 	"Nirvana - Drain You [MIDIfind.Com]",
 	"Nirvana - Dumb [MIDIfind.Com]",
+	"Nirvana - Heart Shaped Box [MIDIfind.Com]",
 	"Nirvana - In Bloom [MIDIfind.Com]",
 	"Nirvana - Lithium (3) [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
