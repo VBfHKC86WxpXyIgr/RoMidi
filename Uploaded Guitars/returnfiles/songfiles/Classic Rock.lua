@@ -19,6 +19,7 @@ return {
 	"Canned Heat - Going Up The Country",
 	"Cant Stop - Red Hot Chili Peppers",
 	"Children",
+	"Ctgther",
 	"Do You Wanna Know A Secret",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Fingerstyle",
