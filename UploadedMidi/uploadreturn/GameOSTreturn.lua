@@ -8,6 +8,7 @@ return {
 	"1Bakamitai",
 	"After School Jamboree",
 	"Animation Warrior Theme - Nighthawk22",
+	"Animation Warrior Theme - NightHawk22 MIDI Piano Arrangement 1AG",
 	"ASGORE - Toby Fox",
 	"ASGORE Kyle Landry EDT",
 	"Attack Of The Killer Queen - (Deltarune) - [MIDI]",
