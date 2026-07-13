@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"1Caravan (From 'Whiplash')",
 	"Break By Alex G",
 	"Holiday By Weezer-07-06-2026",
 	"Lucy~ By Corbon Amodio",
