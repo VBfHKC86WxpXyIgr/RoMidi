@@ -21,6 +21,7 @@ return {
 	"Baby - Justin Bieber",
 	"Babydoll",
 	"Barber-Of-Seville-(Ouverture)",
+	"Beautiful In White & Canon In D - Shane Filan",
 	"Beethoven - Moonlight Sonata (1st Movement) ",
 	"Beethoven Virus (insane)",
 	"Beethoven Virus (insane).mid (1)",
