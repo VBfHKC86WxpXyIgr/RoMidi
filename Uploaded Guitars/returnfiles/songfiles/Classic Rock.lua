@@ -7,6 +7,7 @@ return {
 	"Beatles (The) - And I Love Her [MIDIfind.Com]",
 	"Beatles (The) - Eleanor Rigby [MIDIfind.Com]",
 	"Beatles (The) - Here Comes The Sun [MIDIfind.Com]",
+	"Beatles (The) - I Want You [MIDIfind.Com]",
 	"Beatles (The) - I'M Only Sleeping [MIDIfind.Com]",
 	"Beatles (The) - In Spite Of All The Danger [MIDIfind.Com]",
 	"Beatles (The) - Tomorrow Never Knows [MIDIfind.Com]",
