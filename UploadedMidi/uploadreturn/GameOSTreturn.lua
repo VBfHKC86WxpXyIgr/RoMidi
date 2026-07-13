@@ -140,6 +140,7 @@ return {
 	"Undertale - Asgore",
 	"Undertale - SAVE the World",
 	"Undertale - Toby Fox",
+	"Undertale~PFFinale~123,000",
 	"Uwa!! So Temperate♫ (UNDERTALE)",
 	"Valve HALF LIFE 2 OST (Www.Lightaudio.Ru)",
 	"Wet Hands (Minecraft)",
