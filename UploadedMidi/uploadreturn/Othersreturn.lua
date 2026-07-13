@@ -183,6 +183,7 @@ return {
 	"Golden Hour X Runaway X Interstellar",
 	"Gravity Falls - Made Me Realize",
 	"HàNg NgàN HàNh VạN",
+	"HạNh PhúC MớI",
 	"HAPPY BIRTHDAY",
 	"Haru Haru",
 	"Hatsune Miku - Senbonzakura Mhxa",
