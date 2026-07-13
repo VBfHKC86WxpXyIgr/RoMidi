@@ -14,6 +14,7 @@ return {
 	"Arctic Monkeys - R U Mine [MIDIfind.com]",
 	"Audioslave - Like A Stone [MIDIfind.Com]",
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
+	"Beatles (The) - And I Love Her [MIDIfind.Com]",
 	"Beatles (The) - Tomorrow Never Knows [MIDIfind.Com]",
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
 	"Beatles All My Loving",
