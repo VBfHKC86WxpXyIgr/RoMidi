@@ -59,6 +59,7 @@ return {
 	"EXECRETION Midi Recreation Instrumental",
 	"Faint - Linkin Park Faint",
 	"GIMS - NINAO Official Lyrics Vido",
+	"Girlfriends - New Computers",
 	"God Is - Kanye West WIP",
 	"Golden Brown Arragement By natsu",
 	"Grenade By Bruno Mars",
