@@ -386,6 +386,7 @@ return {
 	"Tra Cho Anh",
 	"Trả Cho Em Remix",
 	"TrạM Khí TưởNg",
+	"Treehouse - Alex G [PIANO]",
 	"TrướC Khi Em TồN TạI",
 	"Tuki",
 	"Tulus-Hati-Hati-Di-Jalan-Lead-Sheet",
