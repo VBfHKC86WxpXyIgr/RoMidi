@@ -46,6 +46,7 @@ return {
 	"Smashing Pumpkins - Mayonaise [MIDIfind.Com]",
 	"Soundgarden - Black Hole Sun (3) [MIDIfind.Com]",
 	"Soundgarden - Half [MIDIfind.Com]",
+	"Test Seumur Hidup Kan Ku Habiskan By Harum Manis",
 	"Them Bones - Alice In Chains",
 	"Treehouse Alex G",
 	"Undone The Sweater Song - Weezer (Piano-Vocal-Guitar)",
