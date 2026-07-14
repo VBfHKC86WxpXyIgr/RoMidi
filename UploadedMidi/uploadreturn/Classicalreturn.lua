@@ -101,6 +101,7 @@ return {
 	"Null - White Blossom",
 	"operas",
 	"Otsukare Summer",
+	"Panzerlied",
 	"Pedih Last Child 1780246257149",
 	"Pirates of the Caribbean - He's a Pirate (1)",
 	"Pirates Of The Caribbean - He'S A Pirate (Piano Version)",
