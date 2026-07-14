@@ -140,6 +140,7 @@ return {
 	"Star Shopping Midi.Mid",
 	"Stephanie - Nafeeisboujee",
 	"Strawberry Guy - Mrs Magic (Strings Version)",
+	"Subaru'S Ringtone (From Re Zero Kara Hajimeru Isekai Seikatsu A Dog Of Flanders)",
 	"Sufjan Stevens - Mystery Of Love",
 	"Talking To The Moon (Bruno Mars).Mid",
 	"Tally Hall- Hidden In The Sand",
