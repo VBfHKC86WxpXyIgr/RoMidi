@@ -24,6 +24,7 @@ return {
 	"Ariana Grande, Justin Bieber - Stuck With U",
 	"As The World Caves In - Matt Maltese",
 	"Attack On Titan Season 3 - Red Swan.Mid",
+	"Aura Monster Subaru (Jjs Version)",
 	"Bad Habit - Steve Lacy",
 	"banh mi Khong",
 	"basic pitch transcription",
