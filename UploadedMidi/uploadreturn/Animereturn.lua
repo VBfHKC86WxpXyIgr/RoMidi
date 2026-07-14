@@ -104,6 +104,7 @@ return {
 	"Throughout heaven and earth, i alone am the honored one",
 	"Toilet Story 3",
 	"Tokyo Ghoul - Unravel",
+	"Unravel - Tokyo Ghoul (Piano Cover) - MIDI.Mid",
 	"utsukushiki-zankoku-na-sekai-attack-on-titanshingeki-no-kyojin-ed-1-full",
 	"Vickeblanka - Black Catcher Black Clover Opening 10 WT1",
 	"Wild Side - ALI (Beastars OP 1)",
