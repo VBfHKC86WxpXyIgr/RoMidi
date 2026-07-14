@@ -24,6 +24,7 @@ return {
 	"babydoll - dominic fike",
 	"Back To Friends - Sombr",
 	"Basic Pitch Transcription",
+	"Beabadoobee - Glue Song (Ft. Clairo)",
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
 	"Blue Jeans",
 	"Buttercup - Jack Stauber",
