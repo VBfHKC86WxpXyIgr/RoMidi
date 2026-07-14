@@ -13,6 +13,7 @@ return {
 	"1Hava Nagila",
 	"1Heavenly Sahur Arr 4 Tubas",
 	"1Is It Really You - Sleep Token, Loathe",
+	"1Stay With Me - Miki Matsubara",
 	"1The Last Sahur Heavenly Sahur - DJ KZ VEKA",
 	"2 AM",
 	"3107-2",
