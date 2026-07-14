@@ -191,6 +191,7 @@ return {
 	"GạT đI NướC MắT 2",
 	"GHEN",
 	"Giá Như",
+	"GiấC Mơ TrưA",
 	"GộI ĐầU",
 	"Golden Hour - JVKE (Updated Ver.)",
 	"Golden Hour X Runaway X Interstellar",
