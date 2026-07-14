@@ -3,6 +3,7 @@ return {
 	"[Black MIDI] The Classic Black Medley",
 	"[COMPLETE] Bloody Stream (JoJo'S Bizarre Adventure)",
 	"1JoJo Vento Aureo OP 2 Traitor'S Requiem (Uragirimono No Requiem)",
+	"1Jotaro'S Theme From Jojo'S Bizarre Adventures Stardust Crusaders",
 	"200 AniSong Medley HalcyonMusic",
 	"Ai ĐưA Em Về Take Me Back Home",
 	"Ai No Uta",
