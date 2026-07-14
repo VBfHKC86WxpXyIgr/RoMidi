@@ -2,6 +2,7 @@
 return {
 	"[Black MIDI] The Classic Black Medley",
 	"[COMPLETE] Bloody Stream (JoJo'S Bizarre Adventure)",
+	"1JoJo Vento Aureo OP 2 Traitor'S Requiem (Uragirimono No Requiem)",
 	"200 AniSong Medley HalcyonMusic",
 	"Ai ĐưA Em Về Take Me Back Home",
 	"Ai No Uta",
