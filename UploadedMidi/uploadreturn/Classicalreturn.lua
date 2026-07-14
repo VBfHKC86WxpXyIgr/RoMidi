@@ -32,6 +32,7 @@ return {
 	"Boogie-Woogie-Blues",
 	"Brubeck Dave - Take Five [MIDIfind.Com]",
 	"Bruno Mars - Risk It All",
+	"Canon-In-D-Piano-Drums-Jpachelbel-Ftomatheus (2)",
 	"Celestial Opus By Ace",
 	"Chopin – Nocturne Op.9 No.2",
 	"chopin ballade 4 (c)lubetsky",
