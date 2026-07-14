@@ -114,6 +114,7 @@ return {
 	"Pokemon BlackWhite - An Unwavering Heart",
 	"Poppies Lane Memoryy By Slank",
 	"PULSE  Tony Ann aka my neighbours car alarm 1770203303452",
+	"Pupsies - Misery Full Song",
 	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
 	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
 	"Radiohead - No Surprises (4) WWW.MIDISFREE.COM",
