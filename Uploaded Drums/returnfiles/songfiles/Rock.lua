@@ -17,6 +17,7 @@ return {
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
 	"Beatles (The) - And I Love Her [MIDIfind.Com]",
 	"Beatles (The) - I Want You [MIDIfind.Com]",
+	"Beatles (The) - Strawberry Fields Forever [MIDIfind.Com]",
 	"Beatles (The) - Tomorrow Never Knows [MIDIfind.Com]",
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
 	"Beatles All My Loving",
