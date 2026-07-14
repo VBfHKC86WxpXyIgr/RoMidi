@@ -40,6 +40,7 @@ return {
 	"Basic Pitch Transcription (1)",
 	"Be The Sky",
 	"Beat It",
+	"Beatles (The) - Strawberry Fields Forever [MIDIfind.Com]",
 	"Beautiful In White",
 	"Because I Miss You",
 	"Beethoven - Virus Mhxa",
