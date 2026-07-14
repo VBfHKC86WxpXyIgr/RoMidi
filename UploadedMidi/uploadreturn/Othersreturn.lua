@@ -10,6 +10,7 @@ return {
 	"1 CộNg 1 LớN HơN 2",
 	"1Hava Nagila",
 	"1Is It Really You - Sleep Token, Loathe",
+	"1The Last Sahur Heavenly Sahur - DJ KZ VEKA",
 	"2 AM",
 	"3107-2",
 	"3am La La Land (Birru) MIDI",
