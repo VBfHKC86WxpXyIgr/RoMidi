@@ -328,6 +328,7 @@ return {
 	"Phonecert (폰서트) - 10CM",
 	"Play Date",
 	"Powfu - Death Bed (Dustbunny Edits)",
+	"Queen - Bohemian Rhapsody",
 	"QuêN",
 	"Radiohead - No Surprises",
 	"RecuéRdame - Walt Disney Corporation RecuéRdame (Lembre De Mim)",
