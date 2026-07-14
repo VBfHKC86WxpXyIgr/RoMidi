@@ -432,6 +432,7 @@ return {
 	"YêU Từ CáI NhìN đầU TiêN",
 	"YêU Xa",
 	"YêU,TồN TạI",
+	"Yin Luxi",
 	"Yoasobi - Yoru Ni Kakeru Mhxa",
 	"Your New Home (Episode 9 End)",
 	"YTDown.Com YouTube Adolf-Hitler-Speech-At-Krupp-Factory-In- Media FJ3N 2r6R-O 001 480p",
