@@ -10,6 +10,7 @@ return {
 	"Beatles (The) - I Want You [MIDIfind.Com]",
 	"Beatles (The) - I'M Only Sleeping [MIDIfind.Com]",
 	"Beatles (The) - In Spite Of All The Danger [MIDIfind.Com]",
+	"Beatles (The) - Strawberry Fields Forever [MIDIfind.Com]",
 	"Beatles (The) - Tomorrow Never Knows [MIDIfind.Com]",
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
 	"Beatles Besame Mucho",
