@@ -321,6 +321,7 @@ return {
 	"ÔI",
 	"Ordinary Confession",
 	"P Do Pecado - Ao Vivo - Grupo Menos É Mais (Piano)",
+	"Panic! At The Disco - House Of Memories.Mid",
 	"Persona - Color Your Night Mhxa",
 	"Phi ĐIểU Và Ve SầU",
 	"PhíA Sau MộT Cô GáI",
