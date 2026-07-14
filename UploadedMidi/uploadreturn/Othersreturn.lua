@@ -8,6 +8,7 @@ return {
 	"04 - Atic - MONTAGEM CEINTA (Nightcore)",
 	"072019",
 	"1 CộNg 1 LớN HơN 2",
+	"1Boom, Boom, Boom, Boom!! - (HardTekk - The Dark Triad)",
 	"1Dance With STEEL BALL RUN - Yugo Kanno (Piano)",
 	"1Fukashigi No Carte",
 	"1Hava Nagila",
