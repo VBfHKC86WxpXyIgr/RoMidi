@@ -136,6 +136,7 @@ return {
 	"Sempurna By Andra And The Backbone",
 	"Someone Like You (Easy Piano)",
 	"Star Shopping Midi.Mid",
+	"Stephanie - Nafeeisboujee",
 	"Strawberry Guy - Mrs Magic (Strings Version)",
 	"Sufjan Stevens - Mystery Of Love",
 	"Talking To The Moon (Bruno Mars).Mid",
