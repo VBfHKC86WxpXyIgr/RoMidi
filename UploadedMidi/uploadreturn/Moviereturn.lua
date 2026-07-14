@@ -15,6 +15,7 @@ return {
 	"Got-Main-Theme-Advanced",
 	"Government Funding (Kane Pixels)",
 	"Gravity Falls",
+	"Gravity Falls - Main Theme",
 	"hans-zimmer-cornfield-chase-interstellar-soundtrack-21091-nonstop2k.com",
 	"I am still standing",
 	"INSIDE OUP 2",
