@@ -120,6 +120,7 @@ return {
 	"Pupsies - Misery Full Song",
 	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
 	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
+	"Radiohead - Motion Picture Soundtrack [MIDIfind.Com]",
 	"Radiohead - No Surprises (4) WWW.MIDISFREE.COM",
 	"Raindance - Dave, Tems (Piano)",
 	"Restless By Untitled",
