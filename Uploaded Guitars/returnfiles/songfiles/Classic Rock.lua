@@ -6,6 +6,7 @@ return {
 	"AUD NOY0290",
 	"Beatles (The) - And I Love Her [MIDIfind.Com]",
 	"Beatles (The) - Eleanor Rigby [MIDIfind.Com]",
+	"Beatles (The) - For No One [MIDIfind.Com]",
 	"Beatles (The) - Here Comes The Sun [MIDIfind.Com]",
 	"Beatles (The) - I Want You [MIDIfind.Com]",
 	"Beatles (The) - I'M Only Sleeping [MIDIfind.Com]",
