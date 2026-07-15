@@ -5,6 +5,7 @@ return {
 	"AUD Lr0462",
 	"AUD NOY0290",
 	"Beatles (The) - And I Love Her [MIDIfind.Com]",
+	"Beatles (The) - Eleanor Rigby (2) [MIDIfind.Com]",
 	"Beatles (The) - Eleanor Rigby [MIDIfind.Com]",
 	"Beatles (The) - For No One (2) [MIDIfind.Com]",
 	"Beatles (The) - For No One [MIDIfind.Com]",
