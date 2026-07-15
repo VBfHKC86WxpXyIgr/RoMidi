@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"1Love - Wave To Earth (웨이브 투 어스) (Piano)",
 	"Bad Apple Full Version",
 	"Black Or White (Single Version)",
 	"Blinding Lights - The Weeknd (Piano-Vocal-Guitar)",
