@@ -199,6 +199,7 @@ return {
 	"GiấC Mơ TrưA",
 	"GộI ĐầU",
 	"Golden Hour - JVKE (Updated Ver.)",
+	"Golden Hour 2 Player",
 	"Golden Hour X Runaway X Interstellar",
 	"Gravity Falls - Made Me Realize",
 	"HàNg NgàN HàNh VạN",
