@@ -27,6 +27,7 @@ return {
 	"Back To Friends - Sombr",
 	"Basic Pitch Transcription",
 	"Beabadoobee - Glue Song (Ft. Clairo)",
+	"Beatles (The) - Eleanor Rigby (2) [MIDIfind.Com]",
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
 	"Blue Jeans",
 	"Buttercup - Jack Stauber",
