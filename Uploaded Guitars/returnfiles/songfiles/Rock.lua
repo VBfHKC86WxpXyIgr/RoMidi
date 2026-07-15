@@ -100,6 +100,7 @@ return {
 	"Radiohead - Just [MIDIfind.Com]",
 	"Radiohead - Kid A [MIDIfind.Com]",
 	"Radiohead - Lucky [MIDIfind.Com]",
+	"Radiohead - Motion Picture Soundtrack [MIDIfind.Com]",
 	"Radiohead - No Surprises [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
 	"Radiohead - Subterranean Homesick Alien [MIDIfind.Com]",
