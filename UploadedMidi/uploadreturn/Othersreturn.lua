@@ -333,6 +333,7 @@ return {
 	"Powfu - Death Bed (Dustbunny Edits)",
 	"Queen - Bohemian Rhapsody",
 	"QuêN",
+	"Radiohead - Kid A [MIDIfind.Com]",
 	"Radiohead - No Surprises",
 	"RecuéRdame - Walt Disney Corporation RecuéRdame (Lembre De Mim)",
 	"Remember Me Slimv Remix SơN TùNg",
