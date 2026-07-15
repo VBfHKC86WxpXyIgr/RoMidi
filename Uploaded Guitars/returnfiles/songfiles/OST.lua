@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"1 House Theme - Dexter - Daniel Licht",
 	"1Great Fairy Fountain Theme",
 	"1JoJo Vento Aureo OP 2 Traitor'S Requiem (Uragirimono No Requiem)",
 	"1Jotaro'S Theme From Jojo'S Bizarre Adventures Stardust Crusaders",
