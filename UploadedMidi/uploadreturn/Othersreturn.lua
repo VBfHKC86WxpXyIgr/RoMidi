@@ -51,6 +51,7 @@ return {
 	"Basic Pitch Transcription (1)",
 	"Be The Sky",
 	"Beat It",
+	"Beatles (The) - Something (2) [MIDIfind.Com]",
 	"Beatles (The) - Strawberry Fields Forever [MIDIfind.Com]",
 	"Beautiful In White",
 	"Because I Miss You",
