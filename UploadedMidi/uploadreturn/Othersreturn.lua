@@ -12,6 +12,7 @@ return {
 	"1 House Theme - Dexter - Daniel Licht",
 	"1Baka Mitai (Dame Da Ne) Transcription",
 	"1Boom, Boom, Boom, Boom!! - (HardTekk - The Dark Triad)",
+	"1Buena Vida Mala Fama (King Nasir) - Crish Ramirez Playable",
 	"1Dance With STEEL BALL RUN - Yugo Kanno (Piano)",
 	"1Fukashigi No Carte",
 	"1Hava Nagila",
