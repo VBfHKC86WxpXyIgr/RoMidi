@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"1Innocence - Daniel Caesar (Piano)",
+	"1On The Square (Piano)",
 	"Angus And Julia Stone - Big Jet Plane [MIDIfind.Com]",
 	"Boys Don'T Cry - The Cure (Piano Arrangement)",
 	"Brubeck Dave - Take Five [MIDIfind.Com]",
