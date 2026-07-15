@@ -53,6 +53,7 @@ return {
 	"If I Am With You - Jujutsu Kaisen - Yoshimasa Terui (Incomplete I Got Lazy)",
 	"Into The World - Issei",
 	"IRIS OUT HalcyonMusic",
+	"It'S Mygo!!!",
 	"itterasshai-attack-on-titan-ss4-ed-ai-higuchi",
 	"JBA - Giorno'S Theme Mhxa",
 	"Jojo's Bizarre Adventure Part 2   Battle Tendency OP - Bloody Stream",
