@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"1Great Fairy Fountain Theme",
+	"1JoJo Vento Aureo OP 2 Traitor'S Requiem (Uragirimono No Requiem)",
 	"1Red Swan - Attack On Titan Season 3 Opening",
 	"Dire, Dire Docks (Super Mario 64)",
 	"Doom - E1M1 (GM MIDI)",
