@@ -98,6 +98,7 @@ return {
 	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
 	"Radiohead - Fake Plastic Trees [MIDIfind.Com]",
 	"Radiohead - Just [MIDIfind.Com]",
+	"Radiohead - Kid A [MIDIfind.Com]",
 	"Radiohead - Lucky [MIDIfind.Com]",
 	"Radiohead - No Surprises [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
