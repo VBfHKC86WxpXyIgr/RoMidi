@@ -54,6 +54,7 @@ return {
 	"Geometry Dash Stereo Madness Original By Forever Bound",
 	"Get Outside! (WIP)",
 	"Got-Main-Theme-Advanced",
+	"Great Fairy Fountain Theme",
 	"Great Fairy Fountain Theme (Legend Of Zelda)",
 	"Home - Were Finally Landing 65702210",
 	"Hyperfun.mp3",
