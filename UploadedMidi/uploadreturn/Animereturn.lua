@@ -12,6 +12,7 @@ return {
 	"Akuma no Ko (a child of evil) - Attack on Titan The Final Season Part 2 Ending",
 	"AOT - Ashes On The Fire Main Theme Mhxa",
 	"AOT - Call Of Silence Ymir'S Theme Mhxa",
+	"Aozora No Rhapsody From Miss Kobayashi'S Maid Dragon (Short Version)",
 	"audio2midi",
 	"Bad Apple",
 	"bad apple 4.6 million",
