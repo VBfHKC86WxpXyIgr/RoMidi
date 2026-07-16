@@ -72,6 +72,7 @@ return {
 	"Handel, Halvorsen - Passacaglia",
 	"Handel, Halvorsen - Passacaglia.Mid",
 	"Handel,Halvorsen Passacaglia",
+	"Hit The Road Jack - Fikram",
 	"Human-Nature (1)",
 	"I Think I Had The Wrong Audience 😭🙏 - WzlfsKeys (192k)",
 	"I Thought I Saw Your Face Today - She & Him (Piano Tutorial)",
