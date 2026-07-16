@@ -68,6 +68,7 @@ return {
 	"Bohemian-Rhapsody-1",
 	"BóNg DáNg ThiêN ThầN",
 	"BóNg Lá RơI",
+	"Brooklyn Baby - Lana Del Rey",
 	"Buena Vida Mala Fama (King Nasir) Crish Ramirez",
 	"Bunny-Girl-Senpai-Ed-Mai-Sakurajiama",
 	"BướC-Qua-MùA-Cô-ĐơN",
