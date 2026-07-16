@@ -45,6 +45,7 @@ return {
 	"Azali - MECHANICAL GOD",
 	"Back Number",
 	"Bad Apple",
+	"Bad Apple 2 Player",
 	"Bad Apple Ft. Nomico Deblacked",
 	"Bad Apple!! (Full)",
 	"BáNh Mì KhôNg",
