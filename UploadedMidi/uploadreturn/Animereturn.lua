@@ -110,6 +110,7 @@ return {
 	"Sword Art Online Medley HalcyonMusic",
 	"Tau Cash",
 	"The Amazing Digital Circus Theme (Carameii Ver.) Piano Sheet Piano Tutorial - 피아노섬 PIANOSUMM (192k)",
+	"Three Years Of Youth Overflowing %E2%80%93 Yoshimasa Terui",
 	"Throughout heaven and earth, i alone am the honored one",
 	"Toilet Story 3",
 	"Tokyo Ghoul - Unravel",
