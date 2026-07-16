@@ -215,6 +215,7 @@ return {
 	"Hatsune Miku - Senbonzakura Mhxa",
 	"HãY Trao Cho Anh",
 	"HãY Trao Cho Anh 2",
+	"HãY Trao Cho Anh 3",
 	"HDSQ - Tau (6283 Notes With Fake Notes For Note Counter Rendering) [Lyzen'S Piano Cover MIDIs]",
 	"HIM - Gone With The Sin [MIDIfind.Com]",
 	"HIM - Join Me [MIDIfind.Com]",
