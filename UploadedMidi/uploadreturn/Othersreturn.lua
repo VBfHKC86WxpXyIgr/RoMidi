@@ -203,6 +203,7 @@ return {
 	"GộI ĐầU",
 	"Golden Hour - JVKE (Updated Ver.)",
 	"Golden Hour 2 Player",
+	"Golden Hour 2 Player Super",
 	"Golden Hour X Runaway X Interstellar",
 	"Gravity Falls - Made Me Realize",
 	"Great Fairy Fountain Theme",
