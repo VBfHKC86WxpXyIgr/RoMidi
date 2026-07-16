@@ -7,6 +7,7 @@ return {
 	"Arranged By @KAyuna-Guitar - 夜に駆ける",
 	"Beabadoobee - The Way Things Go",
 	"Beabadoobee-The Perfect Pair-05-27-2023-Acoustic Guitar",
+	"Bertaut - Guitar",
 	"Binks Rum Binks Sake 1780241727588",
 	"Bleach - Ranbu No Melody (OP 13)",
 	"Can'T Help Falling In Love - Elvis Presley",
