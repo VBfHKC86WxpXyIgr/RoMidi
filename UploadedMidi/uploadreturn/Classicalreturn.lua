@@ -86,6 +86,7 @@ return {
 	"JOPLIN.The entertainer",
 	"Kanye West - Runaway (EPIC) Dreaming Piano Cover( -NXgt5cAgS8 )",
 	"Kara Sevda - Anlatamam - Piyano( 6VpRprnc8os )",
+	"Katyusha",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"Kosma Joseph - Autumn Leaves [MIDIfind.Com]",
 	"Kosma Joseph - Fly Me To The Moon [MIDIfind.Com]",
