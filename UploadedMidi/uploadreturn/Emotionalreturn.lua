@@ -111,6 +111,7 @@ return {
 	"Moonlight - XXXTentacion",
 	"Morning Mood",
 	"Một vòng Việt Nam but impossible",
+	"Mrs Magic - Fikram",
 	"Mrs Magic - Strawberry Guy",
 	"Mrs Magic - Strawberry Guy (Intro)",
 	"Mrs Magic - Strawberry Guy (Piano Version)",
