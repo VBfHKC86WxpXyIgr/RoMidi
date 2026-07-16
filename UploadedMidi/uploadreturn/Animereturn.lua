@@ -69,6 +69,7 @@ return {
 	"Kimi No Na Wa - Sparkle (Piano).Mid (1)",
 	"Kiminonawa OST - Nandemonaiya Mhxa",
 	"KISS OF DEATH（Produced By HYDE）(延音)",
+	"Kobayashi San Chi No Maid Dragon ED - Ishukan Communication (TV Size) - ShinkoNetCavy",
 	"Light'S Theme - Death Note",
 	"Mermaid Rhapsody – v3rmillionkyo",
 	"Merry Go Round Of Life - Howl'S Moving Castle Mhxa",
