@@ -205,6 +205,7 @@ return {
 	"Golden Hour 2 Player",
 	"Golden Hour X Runaway X Interstellar",
 	"Gravity Falls - Made Me Realize",
+	"Great Fairy Fountain Theme",
 	"HàNg NgàN HàNh VạN",
 	"HạNh PhúC MớI",
 	"HAPPY BIRTHDAY",
