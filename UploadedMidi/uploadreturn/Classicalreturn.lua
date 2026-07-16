@@ -160,6 +160,7 @@ return {
 	"Wedding-Day-at-Troldhaugen",
 	"Whenjohnnycomesmarchinghome",
 	"Woke Up In Japan By Friqtao",
+	"Yankeedoodle",
 	"You'Ve Gotta Move",
 	"YTDown.Com YouTube Erika-A-German-WW2-Marching-Song Media WGw4mn2-ILc 001 1080p+(1)-1",
 	"Yung Kai - Blue Piano Cover Sheet Music (1)",
