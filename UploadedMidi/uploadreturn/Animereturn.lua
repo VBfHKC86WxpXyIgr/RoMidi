@@ -73,6 +73,7 @@ return {
 	"KISS OF DEATH（Produced By HYDE）(延音)",
 	"Kobayashi San Chi No Maid Dragon ED - Ishukan Communication (TV Size) - ShinkoNetCavy",
 	"Light'S Theme - Death Note",
+	"Maid In Dragon",
 	"Mermaid Rhapsody – v3rmillionkyo",
 	"Merry Go Round Of Life - Howl'S Moving Castle Mhxa",
 	"Mrs GREEN APPLE - Inferno",
