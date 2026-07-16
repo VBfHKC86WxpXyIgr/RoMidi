@@ -5,5 +5,6 @@ return {
 	"1The Godfather Love Theme Piano Arrangement",
 	"Beethoven - Moonlight Sonata (3) [MIDIfind.Com]",
 	"FrankSinatra My Way",
+	"Mangu - Guitar",
 	"Someone Like You (Easy Piano)",
 }
