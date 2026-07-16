@@ -79,6 +79,7 @@ return {
 	"Jowel: Your Love",
 	"Justin-Bieber-Ghost-Anonymous-20220216213352-nonstop2k.com",
 	"Kalapastangan - Fitterkarma",
+	"Kasih Putih - Fredly",
 	"Katy Perry - The One That Got Away",
 	"Kevin MacLeod - Blue Feather ",
 	"KISS — I Was Made For Loving You",
