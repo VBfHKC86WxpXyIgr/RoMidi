@@ -2,6 +2,7 @@
 return {
 	"Aladdin-(Medley-Of-All-Songs)",
 	"BRITNEY SPEARS.Toxic",
+	"Never-Gonna-Give-You-Up-3",
 	"Titanic-3",
 	"Titanic-6",
 	"Titanic-7",
