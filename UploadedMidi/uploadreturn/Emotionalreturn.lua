@@ -5,6 +5,7 @@ return {
 	"「 ꕤ 」 S0rrow - Unhappy",
 	"1Break By Alex G",
 	"1Innocence - Daniel Caesar (Piano)",
+	"1Join Me In Death - HIM (Piano Cover)",
 	"1Love - Wave To Earth (웨이브 투 어스) (Piano)",
 	"1Pretend Alex G",
 	"1Strangers By Proderics",
