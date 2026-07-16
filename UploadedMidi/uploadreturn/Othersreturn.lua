@@ -60,6 +60,7 @@ return {
 	"Because I Miss You",
 	"Beethoven - Virus Mhxa",
 	"Beethoven Virus",
+	"Beethoven Virus 2 Player",
 	"Bellaciao",
 	"BếN ThượNg HảI",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
