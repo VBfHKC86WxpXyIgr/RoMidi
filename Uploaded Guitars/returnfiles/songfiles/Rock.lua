@@ -50,6 +50,7 @@ return {
 	"Living Colorcult Of Personality",
 	"Lonesome Town - Ricky Nelson",
 	"Megalo Box 2",
+	"Megalovania Undertale",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Michael Jackson - Beat It",
 	"Michael Jackson - Dirty Diana",
