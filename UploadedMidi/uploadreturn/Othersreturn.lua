@@ -55,6 +55,7 @@ return {
 	"Beat It",
 	"Beatles (The) - For No One (2) [MIDIfind.Com]",
 	"Beatles (The) - For No One [MIDIfind.Com]",
+	"Beatles (The) - I Am The Walrus [MIDIfind.Com]",
 	"Beatles (The) - Something (2) [MIDIfind.Com]",
 	"Beatles (The) - Strawberry Fields Forever [MIDIfind.Com]",
 	"Beautiful In White",
