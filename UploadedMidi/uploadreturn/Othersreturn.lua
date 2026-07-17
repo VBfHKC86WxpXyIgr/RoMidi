@@ -271,6 +271,7 @@ return {
 	"Lemon",
 	"Lightning Moment",
 	"Lit My Own Worst Enemy.Midi",
+	"Lou Deezi",
 	"Love Story X Golden Brown",
 	"Lucid Dreams",
 	"Lullaby",
