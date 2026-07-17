@@ -13,6 +13,7 @@ return {
 	"Beatles (The) - I Am The Walrus [MIDIfind.Com]",
 	"Beatles (The) - I Want You [MIDIfind.Com]",
 	"Beatles (The) - I'M Only Sleeping [MIDIfind.Com]",
+	"Beatles (The) - If I Fell [MIDIfind.Com]",
 	"Beatles (The) - In Spite Of All The Danger [MIDIfind.Com]",
 	"Beatles (The) - Something (2) [MIDIfind.Com]",
 	"Beatles (The) - Strawberry Fields Forever [MIDIfind.Com]",
