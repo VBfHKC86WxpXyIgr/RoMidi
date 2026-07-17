@@ -94,6 +94,7 @@ return {
 	"Pearl Jam - Even Flow (3) [MIDIfind.Com]",
 	"Queen - Bohemian Rhapsody (Guitar Solo) [MIDIfind.Com]",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
+	"Radiohead - 15 Step [MIDIfind.Com]",
 	"Radiohead - 2+2=5 [MIDIfind.Com]",
 	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
 	"Radiohead - Fake Plastic Trees [MIDIfind.Com]",
