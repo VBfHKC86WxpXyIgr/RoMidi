@@ -130,6 +130,7 @@ return {
 	"Rossini Gioacchino Rossini - Barber Of Sevilla Ouverture [MIDIfind.Com]",
 	"Running Up That Hill.Mid",
 	"Rush D",
+	"Rush D HSR!",
 	"Rush E",
 	"Rush E (1.2M Notes)",
 	"Rush E 2",
