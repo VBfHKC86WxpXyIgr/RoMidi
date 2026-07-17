@@ -19,6 +19,7 @@ return {
 	"Battle Against a True Hero (Undyne the Undying) (wip)",
 	"Bendy And The Ink Machine - Build Our Machine",
 	"Blue Skies - Silent Partner (Guitar remix)",
+	"C418 - Blind Spots (From Minecraft Volume Beta) - Piano Tutorial",
 	"C418 - Mice on Venus",
 	"C418 - Subwoofer Lullaby",
 	"Call Of Duty Black Ops Zombies",
