@@ -16,6 +16,7 @@ return {
 	"Audioslave - Like A Stone [MIDIfind.Com]",
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
 	"Beatles (The) - And I Love Her [MIDIfind.Com]",
+	"Beatles (The) - I Am The Walrus [MIDIfind.Com]",
 	"Beatles (The) - I Want You [MIDIfind.Com]",
 	"Beatles (The) - Strawberry Fields Forever [MIDIfind.Com]",
 	"Beatles (The) - Tomorrow Never Knows [MIDIfind.Com]",
