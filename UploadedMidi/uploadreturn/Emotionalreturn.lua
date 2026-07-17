@@ -153,6 +153,7 @@ return {
 	"Sayonara Cross Teck",
 	"Seasons In The Sun - Westlife (Piano-Voice)",
 	"Seasons-In-The-Sun-Terry-Jacks-Ballad-Piano-Level-4 1",
+	"Selalu Ada Di Nadimu - From JUMBO - Fikram",
 	"Self Aware - Temper City (Piano)",
 	"Sesi Potret - Enau",
 	"Sinking Town   沈める街 - Yoeko Kurahashi",
