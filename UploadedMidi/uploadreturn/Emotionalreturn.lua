@@ -79,6 +79,7 @@ return {
 	"Jack Stauber - Baby Hotline (5)",
 	"Jacob And The Stone - Fikram",
 	"Jane",
+	"Janji Suci - Yovie & Nuno - Fikram",
 	"Jowel: fantasmas",
 	"Jowel: Goodbye World",
 	"Jowel: Im Still Standing",
