@@ -347,6 +347,7 @@ return {
 	"QuêN",
 	"Radiohead - Kid A [MIDIfind.Com]",
 	"Radiohead - No Surprises",
+	"Rate+Lyrics+(1)",
 	"RecuéRdame - Walt Disney Corporation RecuéRdame (Lembre De Mim)",
 	"Remember Me Slimv Remix SơN TùNg",
 	"River Flows In You 2 Player",
