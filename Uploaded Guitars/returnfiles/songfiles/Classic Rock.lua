@@ -10,6 +10,7 @@ return {
 	"Beatles (The) - For No One (2) [MIDIfind.Com]",
 	"Beatles (The) - For No One [MIDIfind.Com]",
 	"Beatles (The) - Here Comes The Sun [MIDIfind.Com]",
+	"Beatles (The) - I Am The Walrus [MIDIfind.Com]",
 	"Beatles (The) - I Want You [MIDIfind.Com]",
 	"Beatles (The) - I'M Only Sleeping [MIDIfind.Com]",
 	"Beatles (The) - In Spite Of All The Danger [MIDIfind.Com]",
