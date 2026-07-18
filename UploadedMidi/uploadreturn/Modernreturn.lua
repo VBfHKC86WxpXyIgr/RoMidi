@@ -42,6 +42,7 @@ return {
 	"Charlie Puth - We Don'T Talk Anymore (Feat. Selena Gomez)",
 	"Chiquitita - ABBA (Only The Ending)",
 	"Christina Perri - A Thousand Years",
+	"Cinderella (Instrumental)",
 	"Clair-De-Lune-Debussy",
 	"coffin nails   rapp snitch knishes",
 	"Congratulations - Mac Miller (Final Project)",
