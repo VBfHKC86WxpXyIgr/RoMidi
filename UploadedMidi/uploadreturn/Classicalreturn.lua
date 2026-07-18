@@ -72,6 +72,7 @@ return {
 	"GOZALO - Ariis",
 	"Grieg - Morning Mood - Fikram",
 	"GymnopéDie No",
+	"Hakucyou",
 	"Handel, Halvorsen - Passacaglia",
 	"Handel, Halvorsen - Passacaglia.Mid",
 	"Handel,Halvorsen Passacaglia",
