@@ -102,6 +102,7 @@ return {
 	"KISS — I Was Made For Loving You",
 	"Kosma Joseph - Autumn Leaves [MIDIfind.Com]",
 	"Ku Ingin Pisah - Fikram",
+	"La Maritza - Sylvie Vartan By Trouble",
 	"LạC TrôI Piano - SơN TùNg M-TP.Mid",
 	"Laufey - Promise",
 	"Laufey - Too little, too late",
