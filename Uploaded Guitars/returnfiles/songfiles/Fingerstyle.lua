@@ -16,5 +16,6 @@ return {
 	"PNE - Gitara (Fingerstyle)",
 	"Smells Like Teen Spirit",
 	"THE EAGLES.Hotel California K",
+	"Virgoun - Surat Cinta Untuk Starla - Guitar - Fikram",
 	"Ween-Ocean Man (Piano Arrangement) [50 FOLLOWER SPECIAL]",
 }
