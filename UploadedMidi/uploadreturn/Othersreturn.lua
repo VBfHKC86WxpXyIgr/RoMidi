@@ -378,6 +378,7 @@ return {
 	"Seasons - Wave To Earth (Piano)",
 	"Seasons (Wave To Earth) (Birru) MIDI",
 	"Seasons-Kim-Seasonswavetoearthseasons",
+	"Senbonzakura 2 Player",
 	"Senbonzakura 2 Player Super",
 	"Senbonzakura BLACK MIDI",
 	"Senbonzakura Full",
