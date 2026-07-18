@@ -260,6 +260,7 @@ return {
 	"Psychonaut 4 - World Of Pain And Hate [MIDIfind.Com]",
 	"Racer X - Scarified (2) [MIDIfind.Com]",
 	"Racer X - Technical Difficulties (3) [MIDIfind.Com]",
+	"Rage Against The Machine - Bulls On Parade (2) [MIDIfind.Com]",
 	"Rage Against The Machine - Killing In The Name (2) [MIDIfind.Com]",
 	"Rage Against The Machine - Killing In The Name [MIDIfind.Com]",
 	"RainingBlood",
