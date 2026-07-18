@@ -57,6 +57,7 @@ return {
 	"Foo Fighters - Everlong",
 	"Forever",
 	"Frank Sinatra - My Way",
+	"Frank Sinatra Fly Me To The Moon By Trouble",
 	"Freedom Dive",
 	"Friqtao Huye",
 	"Full - Comptine D'Un Autre Ete; L'Apres Midi",
