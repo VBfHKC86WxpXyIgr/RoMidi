@@ -134,6 +134,7 @@ return {
 	"Rush E",
 	"Rush E (1.2M Notes)",
 	"Rush E 2",
+	"Rush E 2 Real Black MIDI!! HSR",
 	"Rush E 3",
 	"Rush E but its as difficult as humanly possible",
 	"RUSH E FINAL",
