@@ -51,6 +51,7 @@ return {
 	"Elton John - I'm still standing",
 	"Erika",
 	"Experience",
+	"Floating In Reverie Moayad Aljabal - Fikram",
 	"Fly Away",
 	"FOREVER",
 	"Forever",
