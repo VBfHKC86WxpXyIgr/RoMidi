@@ -96,6 +96,7 @@ return {
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
 	"Nirvana - School",
 	"Nirvana - Seasons In The Sun [MIDIfind.Com]",
+	"Nirvana - Serve The Servants (5) [MIDIfind.Com]",
 	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Sliver (5) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit",
