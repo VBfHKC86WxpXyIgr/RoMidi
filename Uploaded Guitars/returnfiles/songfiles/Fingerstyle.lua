@@ -14,6 +14,7 @@ return {
 	"One Last Breath",
 	"Piano God - Fikram",
 	"PNE - Gitara (Fingerstyle)",
+	"Sempurna - Guitar - Fikram",
 	"Smells Like Teen Spirit",
 	"THE EAGLES.Hotel California K",
 	"Virgoun - Surat Cinta Untuk Starla - Guitar - Fikram",
