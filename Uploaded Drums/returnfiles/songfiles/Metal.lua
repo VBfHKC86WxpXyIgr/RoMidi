@@ -228,6 +228,7 @@ return {
 	"Primer 55 - My Girl [MIDIfind.com]",
 	"PrisonSong",
 	"Rage Against the Machine - Bullet in the Head [MIDIfind.com]",
+	"Rage Against The Machine - Bulls On Parade (2) [MIDIfind.Com]",
 	"Rage Against the Machine - Down on the Street [MIDIfind.com]",
 	"Rage Against the Machine - Killing in the Name with drum (1)",
 	"Rage Against the Machine - Rage Against the Machine Know Your Enemy [MIDIfind.com]",
