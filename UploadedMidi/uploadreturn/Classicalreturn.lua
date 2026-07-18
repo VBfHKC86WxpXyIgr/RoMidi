@@ -38,6 +38,7 @@ return {
 	"Campanella Busoni Chopin3",
 	"Canon-In-D-Piano-Drums-Jpachelbel-Ftomatheus (2)",
 	"Celestial Opus By Ace",
+	"Chopin - Waltz In A Minor By Trouble",
 	"Chopin – Nocturne Op.9 No.2",
 	"chopin ballade 4 (c)lubetsky",
 	"Chopin Winter Wind Etude",
