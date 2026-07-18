@@ -70,6 +70,7 @@ return {
 	"Gloria Gaynor Arr.  Elaine Kelkel - I Will Survive",
 	"Government Funding (Kane Pixels)",
 	"GOZALO - Ariis",
+	"GymnopéDie No",
 	"Handel, Halvorsen - Passacaglia",
 	"Handel, Halvorsen - Passacaglia.Mid",
 	"Handel,Halvorsen Passacaglia",
