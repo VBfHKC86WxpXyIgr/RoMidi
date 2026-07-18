@@ -56,6 +56,7 @@ return {
 	"Fly Away",
 	"FOREVER",
 	"Forever",
+	"Frank Sinatra - My Way By Trouble",
 	"Freaks – Surf Curse Freaks",
 	"Golden-Hour-Full-Version",
 	"Green Day - Last Night On Earth",
