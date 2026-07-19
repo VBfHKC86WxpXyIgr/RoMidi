@@ -41,6 +41,7 @@ return {
 	"Sunroof - Nicky Youre, Dazy",
 	"Tarot Feast 1780242551896",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
+	"Tsuki (พระจันทร์) - LANDOKMAI",
 	"Wonderless - Acoustic By Pierce The Veil",
 	"YTDown Instrumental.Mp3",
 	"ก่อน - Moderndog",
