@@ -266,6 +266,7 @@ return {
 	"RainingBlood",
 	"Rammstein - Du Hast [MIDIfind.Com]",
 	"Rammstein - Sonne [MIDIfind.Com]",
+	"Repentless",
 	"Roses On Bathory S Blood Bath",
 	"Serrana Solo",
 	"Silencer - Death Pierce Me [MIDIfind.Com]",
