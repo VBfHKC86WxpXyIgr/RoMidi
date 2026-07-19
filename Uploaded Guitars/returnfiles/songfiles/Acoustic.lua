@@ -57,6 +57,7 @@ return {
 	"รักแรกพบ Tattoo Colour",
 	"ฤดูร้อน (Acoustic Ver ) - Paradox",
 	"สองรัก Zeal",
+	"หรือ - Slur",
 	"อยากให้เธอลอง Musketeers",
 	"อย่าร้องอายเค้า - Tattoo Colour",
 	"作曲者：Toby Fox 編曲者：Jugon9187 - 夢と希望",
