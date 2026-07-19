@@ -49,6 +49,7 @@ return {
 	"ของขวัญ - Musketeers [Fingerstyle]",
 	"ขาหมู - Tattoo Colour",
 	"ขี้หึง - Silly Fools [Fingerstyle]",
+	"คุกเข่า - Cocktail",
 	"จันทร์เจ้า Slot Machine",
 	"ผิดที่ไว้ใจ Silly Fools",
 	"พิจารณา (Consider) - Musketeers Ft Maiyarap",
