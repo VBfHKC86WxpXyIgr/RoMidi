@@ -97,6 +97,7 @@ return {
 	"Pearl Jam - Black (2) [MIDIfind.Com]",
 	"Pearl Jam - Black [MIDIfind.Com]",
 	"Pearl Jam - Even Flow (3) [MIDIfind.Com]",
+	"Pearl Jam - Even Flow [MIDIfind.Com]",
 	"Queen - Bohemian Rhapsody (Guitar Solo) [MIDIfind.Com]",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
 	"Radiohead - 15 Step [MIDIfind.Com]",
