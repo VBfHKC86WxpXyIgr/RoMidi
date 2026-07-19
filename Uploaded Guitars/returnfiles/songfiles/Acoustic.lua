@@ -42,6 +42,7 @@ return {
 	"Three Man Down - ถ้าเธอรักฉันจริง",
 	"Wonderless - Acoustic By Pierce The Veil",
 	"YTDown Instrumental.Mp3",
+	"ก่อน - Moderndog",
 	"โกหก - Tattoo Colour",
 	"ใกล้ - Scrubb",
 	"ไกล Musketeer",
