@@ -126,6 +126,7 @@ return {
 	"Stone Temple Pilots - Creep (3) [MIDIfind.Com]",
 	"Stone Temple Pilots - Creep [MIDIfind.Com]",
 	"Stone Temple Pilots - Plush [MIDIfind.Com]",
+	"Stone Temple Pilots - Sex Type Thing [MIDIfind.Com]",
 	"Strokes (The) - Last Nite [MIDIfind.Com]",
 	"Strokes (The) - The End Has No End (7) [MIDIfind.Com]",
 	"System Of A Down - Toxicity [MIDIfind.Com]",
