@@ -43,6 +43,7 @@ return {
 	"YTDown Instrumental.Mp3",
 	"โกหก - Tattoo Colour",
 	"ไกล Musketeer",
+	"ของขวัญ - Musketeers [Fingerstyle]",
 	"ขาหมู - Tattoo Colour",
 	"ขี้หึง - Silly Fools [Fingerstyle]",
 	"ผิดที่ไว้ใจ Silly Fools",
