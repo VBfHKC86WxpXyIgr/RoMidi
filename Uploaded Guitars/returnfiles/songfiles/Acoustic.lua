@@ -55,6 +55,7 @@ return {
 	"พิจารณา (Consider) - Musketeers Ft Maiyarap",
 	"ไม่บอกเธอ - Bedroom Audio",
 	"ยาพิษ - Bodyslam (1)",
+	"ร (W8) - GENE KASIDIT",
 	"รักแรกพบ Tattoo Colour",
 	"ฤดูร้อน (Acoustic Ver ) - Paradox",
 	"สองรัก Zeal",
