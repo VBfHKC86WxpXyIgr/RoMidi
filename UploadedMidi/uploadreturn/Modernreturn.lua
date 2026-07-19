@@ -138,6 +138,7 @@ return {
 	"Robert-Miles-Children-20240118103815-Nonstop2k.Com",
 	"Rush E – lyre only",
 	"Sempurna By Andra And The Backbone",
+	"SHUCKS ENDING CUTCENE PIANO COVER",
 	"Someone Like You (Easy Piano)",
 	"Star Shopping Midi.Mid",
 	"Stephanie - Nafeeisboujee",
