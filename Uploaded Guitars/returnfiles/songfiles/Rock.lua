@@ -5,6 +5,7 @@ return {
 	"Alice In Chains - Damm That River [MIDIfind.Com]",
 	"Alice In Chains - It Ain'T Like It [MIDIfind.Com]",
 	"Alice In Chains - Man In A Box",
+	"Alice In Chains - Nutshell [MIDIfind.Com]",
 	"Alice In Chains - Rotten Apple",
 	"Alice In Chains - Sludge Factory [MIDIfind.Com]",
 	"Alice In Chains - Would(3) [MIDIfind.Com]",
