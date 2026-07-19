@@ -113,6 +113,7 @@ return {
 	"OASIS.Stand By Me",
 	"Offspring (The) - Pretty Fly For A White Guy [MIDIfind.Com]",
 	"Offspring (The) - The Kids Aren'T Alright [MIDIfind.Com]",
+	"Pearl Jam - Black (2) [MIDIfind.Com]",
 	"Pink Floyd - Comfortably Numb [MIDIfind.Com]",
 	"Radiohead - 15 Step [MIDIfind.Com]",
 	"Radiohead - 2+2=5 [MIDIfind.Com]",
