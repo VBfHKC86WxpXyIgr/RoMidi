@@ -42,6 +42,7 @@ return {
 	"Wonderless - Acoustic By Pierce The Veil",
 	"YTDown Instrumental.Mp3",
 	"โกหก - Tattoo Colour",
+	"ไกล Musketeer",
 	"ขาหมู - Tattoo Colour",
 	"ขี้หึง - Silly Fools [Fingerstyle]",
 	"ผิดที่ไว้ใจ Silly Fools",
