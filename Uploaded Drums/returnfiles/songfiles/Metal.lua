@@ -194,6 +194,7 @@ return {
 	"Mushroomhead - The Wrist [MIDIfind.com]",
 	"Necrophagist - Symbiotic In Theory [MIDIfind.Com]",
 	"New Computers - Girlfriends",
+	"Nile - Lashed To The Slave Stick [MIDIfind.Com]",
 	"Nile - Sarcophagus [MIDIfind.Com]",
 	"NIRVANA.Smells Like Teen Spirit K",
 	"No Name",
