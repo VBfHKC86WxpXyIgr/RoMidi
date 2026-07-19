@@ -96,6 +96,7 @@ return {
 	"Paramore - Misery Business [MIDIfind.Com]",
 	"Pearl Jam - Black (2) [MIDIfind.Com]",
 	"Pearl Jam - Black [MIDIfind.Com]",
+	"Pearl Jam - Even Flow (2) [MIDIfind.Com]",
 	"Pearl Jam - Even Flow (3) [MIDIfind.Com]",
 	"Pearl Jam - Even Flow [MIDIfind.Com]",
 	"Queen - Bohemian Rhapsody (Guitar Solo) [MIDIfind.Com]",
