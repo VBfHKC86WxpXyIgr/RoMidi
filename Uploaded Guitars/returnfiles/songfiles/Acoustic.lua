@@ -43,6 +43,7 @@ return {
 	"Wonderless - Acoustic By Pierce The Veil",
 	"YTDown Instrumental.Mp3",
 	"โกหก - Tattoo Colour",
+	"ใกล้ - Scrubb",
 	"ไกล Musketeer",
 	"ของขวัญ - Musketeers [Fingerstyle]",
 	"ขาหมู - Tattoo Colour",
