@@ -44,6 +44,7 @@ return {
 	"Wonderless - Acoustic By Pierce The Veil",
 	"YTDown Instrumental.Mp3",
 	"ก่อน - Moderndog",
+	"ก้อนหินละเมอ - Soul After Six",
 	"โกหก - Tattoo Colour",
 	"ใกล้ - Scrubb",
 	"ไกล Musketeer",
