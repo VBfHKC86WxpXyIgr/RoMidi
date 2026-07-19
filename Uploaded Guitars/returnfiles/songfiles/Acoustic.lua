@@ -52,6 +52,7 @@ return {
 	"จันทร์เจ้า Slot Machine",
 	"ผิดที่ไว้ใจ Silly Fools",
 	"พิจารณา (Consider) - Musketeers Ft Maiyarap",
+	"ยาพิษ - Bodyslam (1)",
 	"รักแรกพบ Tattoo Colour",
 	"ฤดูร้อน (Acoustic Ver ) - Paradox",
 	"อยากให้เธอลอง Musketeers",
