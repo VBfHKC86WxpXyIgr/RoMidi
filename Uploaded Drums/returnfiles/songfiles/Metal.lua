@@ -115,6 +115,7 @@ return {
 	"Guns N' Roses - Sweet Child O' Mine [MIDIfind.com]",
 	"Hatebreed - As Diehard As They Come [MIDIfind.Com]",
 	"Hatebreed - In Ashes They Shall Reap [MIDIfind.Com]",
+	"Hatebreeder",
 	"Heart Shaped Box - Nirvana Heart Shaped Box",
 	"HereToStay",
 	"HIM - Gone With The Sin [MIDIfind.Com]",
