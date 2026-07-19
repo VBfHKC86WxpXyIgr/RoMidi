@@ -50,6 +50,7 @@ return {
 	"ขาหมู - Tattoo Colour",
 	"ขี้หึง - Silly Fools [Fingerstyle]",
 	"ความรักทำให้คนตาบอด - Bodyslam",
+	"คำบางคำ Sqweez Animal",
 	"คุกเข่า - Cocktail",
 	"จันทร์เจ้า Slot Machine",
 	"ผิดที่ไว้ใจ Silly Fools",
