@@ -44,6 +44,7 @@ return {
 	"โกหก - Tattoo Colour",
 	"ขาหมู - Tattoo Colour",
 	"ขี้หึง - Silly Fools [Fingerstyle]",
+	"ผิดที่ไว้ใจ Silly Fools",
 	"รักแรกพบ Tattoo Colour",
 	"作曲者：Toby Fox 編曲者：Jugon9187 - 夢と希望",
 	"作詞：⽶津⽞師 作曲：⽶津⽞師 Tuning Eb Ab Db Gb Bb Eb - Lemon",
