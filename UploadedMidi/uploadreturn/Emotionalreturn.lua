@@ -115,6 +115,7 @@ return {
 	"Love Story X Golden Brown",
 	"Ludovico Einaudi - Experience",
 	"Mad Father - Old Doll Dutches",
+	"Malvinas Argentinas 🇦🇷",
 	"Marcha Nupcial",
 	"Married Life - Fikram",
 	"MấT KếT NốI",
