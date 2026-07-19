@@ -62,6 +62,7 @@ return {
 	"ร (W8) - GENE KASIDIT",
 	"รักแรกพบ Tattoo Colour",
 	"ฤดูร้อน (Acoustic Ver ) - Paradox",
+	"ลมแล้ง - Yew (Summertime) Feat LANDOKMAI",
 	"สองรัก Zeal",
 	"หรือ - Slur",
 	"อยากให้เธอลอง Musketeers",
