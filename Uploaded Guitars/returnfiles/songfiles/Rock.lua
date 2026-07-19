@@ -94,6 +94,7 @@ return {
 	"Oasis-Dont Look Back In Anger",
 	"OASIS.Stand By Me",
 	"Paramore - Misery Business [MIDIfind.Com]",
+	"Pearl Jam - Black [MIDIfind.Com]",
 	"Pearl Jam - Even Flow (3) [MIDIfind.Com]",
 	"Queen - Bohemian Rhapsody (Guitar Solo) [MIDIfind.Com]",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
