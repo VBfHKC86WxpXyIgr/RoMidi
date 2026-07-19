@@ -94,6 +94,7 @@ return {
 	"Duality",
 	"Duality - Slipknot",
 	"Elena Siegman - 115",
+	"Event Reborn - Stillbirth [MIDIfind.Com]",
 	"Eyeless",
 	"Eyeless -Without Metronome Added",
 	"Eyeless Cadence",
