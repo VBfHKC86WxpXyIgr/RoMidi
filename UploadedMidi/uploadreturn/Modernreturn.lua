@@ -2,6 +2,7 @@
 return {
 	"1 V2 Main Serong By The Changcuters",
 	"1Across The Sea By Weezer",
+	"1Baggy Trousers - Madness Madness Baggy Trousers",
 	"1Brasilian Skies - Masayoshi Takanaka",
 	"1Caravan (From 'Whiplash')",
 	"1Estrelar - Marcos Valle",
