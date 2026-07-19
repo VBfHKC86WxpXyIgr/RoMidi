@@ -46,6 +46,7 @@ return {
 	"ขี้หึง - Silly Fools [Fingerstyle]",
 	"ผิดที่ไว้ใจ Silly Fools",
 	"รักแรกพบ Tattoo Colour",
+	"ฤดูร้อน (Acoustic Ver ) - Paradox",
 	"อย่าร้องอายเค้า - Tattoo Colour",
 	"作曲者：Toby Fox 編曲者：Jugon9187 - 夢と希望",
 	"作詞：⽶津⽞師 作曲：⽶津⽞師 Tuning Eb Ab Db Gb Bb Eb - Lemon",
