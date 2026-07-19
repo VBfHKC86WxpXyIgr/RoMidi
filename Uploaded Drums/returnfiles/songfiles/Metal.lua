@@ -192,6 +192,7 @@ return {
 	"Mushroomhead - Episode 29 [MIDIfind.com]",
 	"Mushroomhead - Sun Doesn't Rise [MIDIfind.com]",
 	"Mushroomhead - The Wrist [MIDIfind.com]",
+	"Necrophagist - Symbiotic In Theory [MIDIfind.Com]",
 	"New Computers - Girlfriends",
 	"NIRVANA.Smells Like Teen Spirit K",
 	"No Name",
