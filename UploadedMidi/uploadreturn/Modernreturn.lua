@@ -7,6 +7,7 @@ return {
 	"1Brasilian Skies - Masayoshi Takanaka",
 	"1Caravan (From 'Whiplash')",
 	"1Estrelar - Marcos Valle",
+	"1Heart-Shaped Box",
 	"1Hey Jude Acoustic By The Beatles",
 	"1Join Me In Death By HIM",
 	"1Juicebox By The Strokes",
