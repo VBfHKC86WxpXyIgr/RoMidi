@@ -47,6 +47,7 @@ return {
 	"My Hero - Foo Fighters",
 	"My Hero - Foo Fighters (1)",
 	"Norwegian-Wood-1",
+	"Pantera - Floods (3) [MIDIfind.Com]",
 	"Paperback Writer",
 	"PAUSE",
 	"Pink Floyd - Comfortably Numb [MIDIfind.Com]",
