@@ -123,6 +123,7 @@ return {
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
 	"Soda Stereo - Tratame Suavemente [MIDIfind.Com]",
 	"Still-Loving-You",
+	"Stone Temple Pilots - Creep [MIDIfind.Com]",
 	"Stone Temple Pilots - Plush [MIDIfind.Com]",
 	"Strokes (The) - Last Nite [MIDIfind.Com]",
 	"Strokes (The) - The End Has No End (7) [MIDIfind.Com]",
