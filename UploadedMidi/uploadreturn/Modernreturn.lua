@@ -13,6 +13,7 @@ return {
 	"1Juicebox By The Strokes",
 	"1Kagefumi (Accurate) By Hyakkei",
 	"1Laputa By Panchiko",
+	"1Lithium - Nirvana",
 	"1Ma Cherie Guitar By Malice Mizer",
 	"1Main Serong By The Changcuters",
 	"1Nirvana - Smells Like Teen Spirit",
