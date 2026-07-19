@@ -43,6 +43,7 @@ return {
 	"Tarot Feast 1780242551896",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
 	"Tsuki (พระจันทร์) - LANDOKMAI",
+	"Winter Rain - Yented",
 	"Wonderless - Acoustic By Pierce The Veil",
 	"YTDown Instrumental.Mp3",
 	"กลับมา - 2 Days Ago Kids",
