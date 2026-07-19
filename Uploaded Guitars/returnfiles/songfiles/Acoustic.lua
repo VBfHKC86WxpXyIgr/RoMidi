@@ -45,6 +45,7 @@ return {
 	"ขาหมู - Tattoo Colour",
 	"ขี้หึง - Silly Fools [Fingerstyle]",
 	"ผิดที่ไว้ใจ Silly Fools",
+	"พิจารณา (Consider) - Musketeers Ft Maiyarap",
 	"รักแรกพบ Tattoo Colour",
 	"ฤดูร้อน (Acoustic Ver ) - Paradox",
 	"อย่าร้องอายเค้า - Tattoo Colour",
