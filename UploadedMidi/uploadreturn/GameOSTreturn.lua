@@ -6,6 +6,7 @@ return {
 	"[Black MIDI] The Classic Black Medley",
 	"[JvP] Electroman Adventures - Geometry Dash",
 	"1Bakamitai",
+	"1Granny - Theme Song (Horror Mobile Game)",
 	"1Granny Ambience - Lambjelly4",
 	"After School Jamboree",
 	"Animation Warrior Theme - Nighthawk22",
