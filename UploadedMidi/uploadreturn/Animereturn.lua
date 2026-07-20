@@ -3,6 +3,7 @@ return {
 	"- Miss Kobayashis Dragon Maid Op Arr. Phyxinon",
 	"[Black MIDI] The Classic Black Medley",
 	"[COMPLETE] Bloody Stream (JoJo'S Bizarre Adventure)",
+	"[FULL] Dystopia - The Iceblade Sorcerer Shall Rule The World OP - Piano Arrangement",
 	"1JoJo Vento Aureo OP 2 Traitor'S Requiem (Uragirimono No Requiem)",
 	"1Jotaro'S Theme From Jojo'S Bizarre Adventures Stardust Crusaders",
 	"1Red Swan - Attack On Titan Season 3 Opening",
