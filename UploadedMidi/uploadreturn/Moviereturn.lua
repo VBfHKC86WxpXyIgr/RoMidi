@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"1Everyone, Attack!(Minion Quest Boss Theme) From Mario And Luigi Superstar Saga + Bowser'S Minions",
 	"1Mission Impossible Theme - Lalo Schifrin (Piano Solo)",
 	"Accomplished",
 	"Bad Style",
