@@ -77,6 +77,7 @@ return {
 	"Nirvana - Mexican Seafood [MIDIfind.Com]",
 	"Nirvana - Milk It [MIDIfind.Com]",
 	"Nirvana - Nirvana Lithium Live MTV Vma 1992 [MIDIfind.Com]",
+	"Nirvana - On A Plain (2) [MIDIfind.Com]",
 	"Nirvana - Rape Me [MIDIfind.Com]",
 	"Nirvana - Sappy",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
