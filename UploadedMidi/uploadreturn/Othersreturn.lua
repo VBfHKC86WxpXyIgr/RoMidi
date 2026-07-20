@@ -27,6 +27,7 @@ return {
 	"1Stay With Me - Miki Matsubara",
 	"1The Housebuilding Song",
 	"1The Last Sahur Heavenly Sahur - DJ KZ VEKA",
+	"1The Lobotomy - Maebi",
 	"2 AM",
 	"3107-2",
 	"3am La La Land (Birru) MIDI",
