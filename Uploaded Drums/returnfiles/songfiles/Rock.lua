@@ -94,6 +94,7 @@ return {
 	"Nirvana - In Bloom [MIDIfind.Com]",
 	"Nirvana - Lithium (3) [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
+	"Nirvana - Mexican Seafood [MIDIfind.Com]",
 	"Nirvana - Mr. Moustache",
 	"Nirvana - Nirvana Lithium Live MTV Vma 1992 [MIDIfind.Com]",
 	"Nirvana - Old Age [MIDIfind.Com]",
