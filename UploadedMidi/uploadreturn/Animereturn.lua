@@ -23,6 +23,7 @@ return {
 	"BEFORE LIGHTS OUT",
 	"Binary Data IV",
 	"Bleach - Ranbu No Melody",
+	"Bloody Stream Piano Arrangement",
 	"Cat Loving HSR",
 	"Chainsaw Man - In The Pool Reze Arc OST Mhxa",
 	"Chainsaw Man - IRIS OUT Reze Arc Mhxa",
