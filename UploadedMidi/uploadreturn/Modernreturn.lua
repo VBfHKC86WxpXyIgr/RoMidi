@@ -14,6 +14,7 @@ return {
 	"1Join Me In Death By HIM",
 	"1Juicebox By The Strokes",
 	"1Kagefumi (Accurate) By Hyakkei",
+	"1Karma Police - Radiohead, Thomas Yorke (Piano Solo)",
 	"1Laputa By Panchiko",
 	"1Lithium - Nirvana",
 	"1Ma Cherie Guitar By Malice Mizer",
