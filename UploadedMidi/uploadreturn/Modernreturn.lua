@@ -80,6 +80,7 @@ return {
 	"Ere - Juan Karlos",
 	"EXECRETION Midi Recreation Instrumental",
 	"Faint - Linkin Park Faint",
+	"FULL PIANO STILL DRE",
 	"GIMS - NINAO Official Lyrics Vido",
 	"Girlfriends - New Computers",
 	"God Is - Kanye West WIP",
