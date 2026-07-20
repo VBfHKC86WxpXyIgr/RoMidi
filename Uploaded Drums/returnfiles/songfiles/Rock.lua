@@ -90,6 +90,7 @@ return {
 	"Nirvana - Dumb [MIDIfind.Com]",
 	"Nirvana - Floyd The Barber (Drums)",
 	"Nirvana - Heart Shaped Box [MIDIfind.Com]",
+	"Nirvana - In Bloom (2) [MIDIfind.Com]",
 	"Nirvana - In Bloom [MIDIfind.Com]",
 	"Nirvana - Lithium (3) [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
