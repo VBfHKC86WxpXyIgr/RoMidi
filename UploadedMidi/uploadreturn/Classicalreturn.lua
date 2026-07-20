@@ -8,6 +8,7 @@ return {
 	"007amanha Nuncamais2",
 	"1Crucified - Army Of Lovers",
 	"1La Foule, Edith Piaf, Piano-Chant",
+	"1Lacrimosa Original Transcription For Piano - Mozart",
 	"1Liquid Smooth - Mitski",
 	"1Rachmaninoff Piano Concerto 2",
 	"1The Godfather Love Theme Piano Arrangement",
