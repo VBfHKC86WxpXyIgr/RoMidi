@@ -14,6 +14,7 @@ return {
 	"1Boom, Boom, Boom, Boom!! - (HardTekk - The Dark Triad)",
 	"1Buena Vida Mala Fama (King Nasir) - Crish Ramirez Playable",
 	"1Cigarette Duet",
+	"1Daisy Bell (TADC)",
 	"1Dance With STEEL BALL RUN - Yugo Kanno (Piano)",
 	"1Fukashigi No Carte",
 	"1Hava Nagila",
