@@ -7,6 +7,7 @@ return {
 	"1Baggy Trousers - Madness Madness Baggy Trousers",
 	"1Brasilian Skies - Masayoshi Takanaka",
 	"1Caravan (From 'Whiplash')",
+	"1Creep - Radiohead",
 	"1Estrelar - Marcos Valle",
 	"1Heart-Shaped Box",
 	"1Hey Jude Acoustic By The Beatles",
