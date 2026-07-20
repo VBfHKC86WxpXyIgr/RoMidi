@@ -82,6 +82,7 @@ return {
 	"Nirvana - Aneurysm [MIDIfind.Com]",
 	"Nirvana - Been A Son (2) [MIDIfind.Com]",
 	"Nirvana - Blew (2) [MIDIfind.Com]",
+	"Nirvana - Breed (2) [MIDIfind.Com]",
 	"Nirvana - Come As You Are",
 	"Nirvana - Dive (Drums)",
 	"Nirvana - Drain You [MIDIfind.Com]",
