@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"- Miss Kobayashis Dragon Maid Op Arr. Phyxinon",
 	"[Black MIDI] The Classic Black Medley",
 	"[COMPLETE] Bloody Stream (JoJo'S Bizarre Adventure)",
 	"1JoJo Vento Aureo OP 2 Traitor'S Requiem (Uragirimono No Requiem)",
