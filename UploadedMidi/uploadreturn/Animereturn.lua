@@ -32,6 +32,7 @@ return {
 	"Chasing Kou - Oboreru Knife (Drowning Love)",
 	"Cry Baby - Tokyo Revengers OP Mhxa",
 	"Dan Dan Kokoro Hikareteku (From Dragon Ball GT) Ver 2",
+	"Darling In The Night Seven Shadows The Eminence In Shadow ED TV Ver",
 	"DEAD OR LIE",
 	"Death Note OP1 - THE WORLD Mhxa",
 	"Death Note OST - L'S Theme Mhxa",
