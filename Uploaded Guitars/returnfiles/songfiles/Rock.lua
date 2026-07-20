@@ -63,6 +63,7 @@ return {
 	"Nirvana - About A Girl (MTV Unplugged) [MIDIfind.Com]",
 	"Nirvana - All Apologies [MIDIfind.Com]",
 	"Nirvana - Aneurysm [MIDIfind.Com]",
+	"Nirvana - Been A Son (2) [MIDIfind.Com]",
 	"Nirvana - Blew (2) [MIDIfind.Com]",
 	"Nirvana - Drain You [MIDIfind.Com]",
 	"Nirvana - Dumb [MIDIfind.Com]",
