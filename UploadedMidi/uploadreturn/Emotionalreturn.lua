@@ -167,6 +167,7 @@ return {
 	"Selalu Ada Di Nadimu - From JUMBO - Fikram",
 	"Self Aware - Temper City (Piano)",
 	"Sesi Potret - Enau",
+	"SHUCKS EPIC",
 	"Sinking Town   沈める街 - Yoeko Kurahashi",
 	"Smashing Pumpkins - 1979",
 	"Stephen Sanchez - Until I Found You",
