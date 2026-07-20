@@ -80,6 +80,7 @@ return {
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison (2) [MIDIfind.Com]",
 	"Nirvana - All Apologies (2) [MIDIfind.Com]",
 	"Nirvana - Aneurysm [MIDIfind.Com]",
+	"Nirvana - Been A Son (2) [MIDIfind.Com]",
 	"Nirvana - Blew (2) [MIDIfind.Com]",
 	"Nirvana - Come As You Are",
 	"Nirvana - Dive (Drums)",
