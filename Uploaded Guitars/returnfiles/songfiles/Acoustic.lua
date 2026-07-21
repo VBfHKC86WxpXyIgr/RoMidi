@@ -63,6 +63,7 @@ return {
 	"คุกเข่า - Cocktail",
 	"จันทร์เจ้า Slot Machine",
 	"ฉันอยู่ตรงนี้ - Blackhead",
+	"ตาสว่าง - โมเดิร์นด็อก [Fingerstyle]",
 	"เธอไม่ได้สอนให้ฉันอยู่คนเดียว - SHERRY",
 	"น้ำลาย (Num Lye) - Silly Fools [Fingerstyle]",
 	"ผิดที่ไว้ใจ Silly Fools",
