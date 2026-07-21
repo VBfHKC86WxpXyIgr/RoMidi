@@ -64,6 +64,7 @@ return {
 	"จันทร์เจ้า Slot Machine",
 	"ฉันอยู่ตรงนี้ - Blackhead",
 	"เธอไม่ได้สอนให้ฉันอยู่คนเดียว - SHERRY",
+	"น้ำลาย (Num Lye) - Silly Fools [Fingerstyle]",
 	"ผิดที่ไว้ใจ Silly Fools",
 	"พิจารณา (Consider) - Musketeers Ft Maiyarap",
 	"ไม่บอกเธอ - Bedroom Audio",
