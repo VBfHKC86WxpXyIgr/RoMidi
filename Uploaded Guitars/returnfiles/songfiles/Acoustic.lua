@@ -11,6 +11,7 @@ return {
 	"Bertaut - Guitar",
 	"Binks Rum Binks Sake 1780241727588",
 	"Bleach - Ranbu No Melody (OP 13)",
+	"Buddy Holly - Weezer",
 	"Can'T Help Falling In Love - Elvis Presley",
 	"Chris Isaakwicked Game",
 	"Cinderella - Tattoo Colour",
