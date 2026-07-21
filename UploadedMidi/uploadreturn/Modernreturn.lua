@@ -87,6 +87,7 @@ return {
 	"Golden Brown Arragement By natsu",
 	"Grenade By Bruno Mars",
 	"Guns N Roses - Sweet Child O' Mine (1)",
+	"Guzzx - Xingpei",
 	"Habang Buhay",
 	"Her - JVKE",
 	"Hey There Delilah",
