@@ -442,6 +442,7 @@ return {
 	"Tra Cho Anh",
 	"Trả Cho Em Remix",
 	"TrạM Khí TưởNg",
+	"Travis Scott - My Eyes",
 	"Treehouse - Alex G [PIANO]",
 	"TrốNg RỗNg",
 	"TrướC Khi Em TồN TạI",
