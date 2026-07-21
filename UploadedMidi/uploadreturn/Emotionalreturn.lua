@@ -207,6 +207,7 @@ return {
 	"Wave to earth - Love",
 	"Where's My Love – SYML",
 	"Wiz Khalifa - See You Again ft Charlie Puth Lyrics",
+	"Yiruma - Maybe - Fikram",
 	"Young-Girl-A maybe more difficult",
 	"Your Love",
 	"ZAYN - Dusk Till Dawn Ft. Sia",
