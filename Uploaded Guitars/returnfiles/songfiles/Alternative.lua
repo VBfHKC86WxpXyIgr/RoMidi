@@ -25,6 +25,7 @@ return {
 	"Deftones My Own Summer Shove It.Gtr",
 	"DöNence( ARsi3SHma6c )",
 	"Everlong By The Foo Fighters Piia",
+	"I Cant Handle Change - Roar",
 	"In The End - Linkin Park",
 	"Is It Really You - Loathe",
 	"Jane! Ttest",
