@@ -40,6 +40,7 @@ return {
 	"NONT TANONT - โต๊ะริม (Melt)",
 	"Oasis - Married With Children",
 	"Radiohead - No Surprises",
+	"Ring-Around-The-Rosie",
 	"S.T.A.L.K.E.R - Guitar Music From Stalker (3) [MIDIfind.Com]",
 	"SHINING",
 	"Sunroof - Nicky Youre, Dazy",
