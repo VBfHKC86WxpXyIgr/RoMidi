@@ -51,6 +51,7 @@ return {
 	"Silly Fools -",
 	"Silly Fools - - Silly Fools Lyrics Audio",
 	"Slot Machine -",
+	"Solitude Is Bliss - Just One Thing",
 	"Sunroof - Nicky Youre, Dazy",
 	"Tarot Feast 1780242551896",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
