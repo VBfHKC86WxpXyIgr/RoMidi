@@ -92,6 +92,7 @@ return {
 	"No Game No Life - THIS GAME Mhxa Peak",
 	"Omae Wa Mou Mhxa",
 	"Orange 7!! - Your Lie In April",
+	"Output",
 	"Path Of The Wind - Totoro OST Mhxa",
 	"pf solo",
 	"popipo - Hatsune miku - midi by tutogamer2a - WIP",
