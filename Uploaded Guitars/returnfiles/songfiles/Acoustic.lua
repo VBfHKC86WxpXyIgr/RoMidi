@@ -51,6 +51,7 @@ return {
 	"Nirvana - Rape Me",
 	"NONT TANONT - โต๊ะริม (Melt)",
 	"Oasis - Married With Children",
+	"Paradox - Official MV-Drum Kit (1)",
 	"Radiohead - No Surprises",
 	"Ring-Around-The-Rosie",
 	"Roundabout- Bass Only",
