@@ -61,6 +61,7 @@ return {
 	"ใกล้ - Scrubb",
 	"ไกล Musketeer",
 	"ของขวัญ - Musketeers [Fingerstyle]",
+	"ข้างกัน (City) - Three Man Down Feat ออม TELEx TELEXs",
 	"ขาหมู - Tattoo Colour",
 	"ขี้หึง - Silly Fools [Fingerstyle]",
 	"ความรักทำให้คนตาบอด - Bodyslam",
