@@ -14,6 +14,7 @@ return {
 	"Bodyslam -FUULL",
 	"Buddy Holly - Weezer",
 	"Can'T Help Falling In Love - Elvis Presley",
+	"Carabao -",
 	"Chris Isaakwicked Game",
 	"Cinderella - Tattoo Colour",
 	"Clair-De-Lune-Debussy",
