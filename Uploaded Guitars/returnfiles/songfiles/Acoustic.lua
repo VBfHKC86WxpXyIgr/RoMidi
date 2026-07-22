@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"-",
 	"44269 Gitara",
 	"62977 GITARA",
 	"About You By The 1780242398856",
