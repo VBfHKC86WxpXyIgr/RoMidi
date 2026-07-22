@@ -27,6 +27,7 @@ return {
 	"Hill Billy Jim -[AudioTrimmer",
 	"Hill Billy Jim (1)",
 	"Hillbilly Jim Promo [1985-04-20] 320k",
+	"Holy-Diver",
 	"I Just Threw Out The Love Of My Dreams - Weezer",
 	"Iqro - Raim Laode",
 	"Iqro - Raim Laode Guitar",
