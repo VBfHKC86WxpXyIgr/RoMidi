@@ -22,6 +22,7 @@ return {
 	"Clair-De-Lune-Debussy",
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Composed By Yu-Peng Chen Arranged By Devon Sebastian K - Liyue Harbor Song No. 4",
+	"Deep Purple - Smoke On The Water-Drum Kit",
 	"Dire Straits - Sultans Of Swing",
 	"Dumb Ways To Die",
 	"Dying Light - Horizon",
