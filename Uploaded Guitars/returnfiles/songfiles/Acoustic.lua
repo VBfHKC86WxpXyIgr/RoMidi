@@ -70,6 +70,7 @@ return {
 	"จันทร์เจ้า Slot Machine",
 	"ฉันอยู่ตรงนี้ - Blackhead",
 	"ซ่อน(ไม่)หา - Jeff Satur X NONT TANONT",
+	"ดาวหางฮัลเลย์ (Halley'S Comet) - Fellow Fellow",
 	"ตาสว่าง - โมเดิร์นด็อก [Fingerstyle]",
 	"เธอไม่ได้สอนให้ฉันอยู่คนเดียว - SHERRY",
 	"นะหน้าทอง - โจอี้ ภูวศิษฐ์",
