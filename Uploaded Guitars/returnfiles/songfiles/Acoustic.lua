@@ -53,6 +53,7 @@ return {
 	"Silly Fools -",
 	"Silly Fools - - Silly Fools Lyrics Audio",
 	"Slot Machine -",
+	"Smashing Pumpkins - Luna",
 	"Smile Buffalo -",
 	"Solitude Is Bliss - Just One Thing",
 	"Sunroof - Nicky Youre, Dazy",
