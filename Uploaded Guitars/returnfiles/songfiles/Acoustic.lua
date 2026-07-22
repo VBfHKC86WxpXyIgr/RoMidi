@@ -41,6 +41,7 @@ return {
 	"Oasis - Married With Children",
 	"Radiohead - No Surprises",
 	"Ring-Around-The-Rosie",
+	"Roundabout- Bass Only",
 	"S.T.A.L.K.E.R - Guitar Music From Stalker (3) [MIDIfind.Com]",
 	"SHINING",
 	"Sunroof - Nicky Youre, Dazy",
