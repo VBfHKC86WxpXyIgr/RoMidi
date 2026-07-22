@@ -66,6 +66,7 @@ return {
 	"ฉันอยู่ตรงนี้ - Blackhead",
 	"ตาสว่าง - โมเดิร์นด็อก [Fingerstyle]",
 	"เธอไม่ได้สอนให้ฉันอยู่คนเดียว - SHERRY",
+	"นางแมว",
 	"น้ำลาย (Num Lye) - Silly Fools [Fingerstyle]",
 	"น้ำลาย (Num Lye) - Silly Fools [Fingerstyle] (1)",
 	"บ้าบอ",
