@@ -11,6 +11,7 @@ return {
 	"Bertaut - Guitar",
 	"Binks Rum Binks Sake 1780241727588",
 	"Bleach - Ranbu No Melody (OP 13)",
+	"Bodyslam - (1)",
 	"Bodyslam -FUULL",
 	"Buddy Holly - Weezer",
 	"Can'T Help Falling In Love - Elvis Presley",
