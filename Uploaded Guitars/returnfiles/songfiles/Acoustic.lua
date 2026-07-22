@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"-",
+	"- SILLY FOOLS OFFICIAL MV",
 	"44269 Gitara",
 	"62977 GITARA",
 	"About You By The 1780242398856",
