@@ -92,6 +92,7 @@ return {
 	"ฤดูร้อน (Acoustic Ver ) - Paradox",
 	"ลมแล้ง - Yew (Summertime) Feat LANDOKMAI",
 	"วัดใจ -",
+	"วาดไว้ (Recall) - BOWKYLION",
 	"วิภาวดี (Vibhavadi) YENTED",
 	"สองรัก Zeal",
 	"หรือ - Slur",
