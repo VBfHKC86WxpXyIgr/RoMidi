@@ -59,6 +59,7 @@ return {
 	"SHINING",
 	"Silly Fools -",
 	"Silly Fools - - Silly Fools Lyrics Audio",
+	"Silly Fools - Kid Hord(1)",
 	"Slot Machine -",
 	"Smashing Pumpkins - Luna",
 	"Smile Buffalo -",
