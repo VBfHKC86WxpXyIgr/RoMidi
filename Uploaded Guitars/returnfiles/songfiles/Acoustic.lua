@@ -47,6 +47,7 @@ return {
 	"Roundabout- Bass Only",
 	"S.T.A.L.K.E.R - Guitar Music From Stalker (3) [MIDIfind.Com]",
 	"SHINING",
+	"Silly Fools -",
 	"Sunroof - Nicky Youre, Dazy",
 	"Tarot Feast 1780242551896",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
