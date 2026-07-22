@@ -82,6 +82,7 @@ return {
 	"บ้าบอ",
 	"เบื่อ",
 	"ผิดที่ไว้ใจ Silly Fools",
+	"ผู้ถูกเลือกให้ผิดหวัง (Sad Flower) - Reinizra",
 	"พิจารณา (Consider) - Musketeers Ft Maiyarap",
 	"ไม่บอกเธอ - Bedroom Audio",
 	"ไม่มีเธอ",
