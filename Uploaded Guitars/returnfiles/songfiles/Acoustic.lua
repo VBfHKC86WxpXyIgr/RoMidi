@@ -39,6 +39,7 @@ return {
 	"Made In Thailand, Made In USA",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
 	"Misc Covers-Is It Really You (Acoustic VER.) By Loathe-07-04-2026",
+	"Moderndog -",
 	"Nirvana - Do Re Mi",
 	"NONT TANONT - โต๊ะริม (Melt)",
 	"Oasis - Married With Children",
