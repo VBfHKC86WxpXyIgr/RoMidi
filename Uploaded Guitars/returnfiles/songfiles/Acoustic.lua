@@ -48,6 +48,7 @@ return {
 	"Misc Covers-Is It Really You (Acoustic VER.) By Loathe-07-04-2026",
 	"Moderndog -",
 	"Nirvana - Do Re Mi",
+	"Nirvana - Rape Me",
 	"NONT TANONT - โต๊ะริม (Melt)",
 	"Oasis - Married With Children",
 	"Radiohead - No Surprises",
