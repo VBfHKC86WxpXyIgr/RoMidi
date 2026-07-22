@@ -68,6 +68,7 @@ return {
 	"น้ำลาย (Num Lye) - Silly Fools [Fingerstyle]",
 	"น้ำลาย (Num Lye) - Silly Fools [Fingerstyle] (1)",
 	"บ้าบอ",
+	"เบื่อ",
 	"ผิดที่ไว้ใจ Silly Fools",
 	"พิจารณา (Consider) - Musketeers Ft Maiyarap",
 	"ไม่บอกเธอ - Bedroom Audio",
