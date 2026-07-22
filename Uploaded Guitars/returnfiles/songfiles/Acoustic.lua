@@ -37,6 +37,7 @@ return {
 	"Justin Bieber - Beauty And A Beat WWW.MIDISFREE.COM.Mid",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"Loso -",
+	"Loso - (1)",
 	"Made In Thailand, Made In USA",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
 	"Misc Covers-Is It Really You (Acoustic VER.) By Loathe-07-04-2026",
