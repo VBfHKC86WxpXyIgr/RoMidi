@@ -65,6 +65,7 @@ return {
 	"ความรักทำให้คนตาบอด - Bodyslam",
 	"คำบางคำ Sqweez Animal",
 	"คุกเข่า - Cocktail",
+	"เคย",
 	"จันทร์เจ้า Slot Machine",
 	"ฉันอยู่ตรงนี้ - Blackhead",
 	"ตาสว่าง - โมเดิร์นด็อก [Fingerstyle]",
