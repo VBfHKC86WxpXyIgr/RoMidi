@@ -73,6 +73,7 @@ return {
 	"Sunroof - Nicky Youre, Dazy",
 	"Tarot Feast 1780242551896",
 	"The Beatles - Dont Let Me Down",
+	"The Beatles - Here Comes The Sun",
 	"The Beatles - Let It Be",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
 	"Tip Toe - HYBS",
