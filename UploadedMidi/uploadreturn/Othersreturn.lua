@@ -143,6 +143,7 @@ return {
 	"CướI Nhau đI",
 	"đã QuêN Hay ChưA",
 	"Đã-Lỡ-YêU-Em-NhiềU",
+	"Daniel.Mp3 Childhood Piano",
 	"DạO BướC HongKong 1999",
 	"ĐảO KhôNg NgườI",
 	"ĐảO NghịCh",
