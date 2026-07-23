@@ -125,6 +125,7 @@ return {
 	"Unravel - Tokyo Ghoul (Piano Cover) - MIDI.Mid",
 	"utsukushiki-zankoku-na-sekai-attack-on-titanshingeki-no-kyojin-ed-1-full",
 	"Vickeblanka - Black Catcher Black Clover Opening 10 WT1",
+	"Waterdrop",
 	"Wild Side - ALI (Beastars OP 1)",
 	"Yoshimasa Terui - IF I AM WITH YOU",
 	"You Say Run - My Hero Academia OST",
