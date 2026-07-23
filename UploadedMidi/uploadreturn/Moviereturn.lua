@@ -16,6 +16,7 @@ return {
 	"Dạo Bước HongKong 1999",
 	"Every Breath You Take - The Police (1)",
 	"Game Of Thrones Main Theme",
+	"Golden Brown - The Stranglers - Piano (1)",
 	"Got-Main-Theme-Advanced",
 	"Government Funding (Kane Pixels)",
 	"Gravity Falls",
