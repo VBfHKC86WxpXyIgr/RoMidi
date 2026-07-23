@@ -288,6 +288,7 @@ return {
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"Three Days Grace - Never Too Late (3) [MIDIfind.Com]",
 	"Three Days Grace - Pain (2) [MIDIfind.Com]",
+	"Three Days Grace - Riot [MIDIfind.Com]",
 	"Three Days Grace - Time For Dying [MIDIfind.Com]",
 	"Through The Fire And Flames - DragonForce",
 	"Tool - Parabol Parabola [MIDIfind.Com]",
