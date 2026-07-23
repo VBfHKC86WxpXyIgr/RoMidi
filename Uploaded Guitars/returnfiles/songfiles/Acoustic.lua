@@ -15,6 +15,7 @@ return {
 	"Bleach - Ranbu No Melody (OP 13)",
 	"Bodyslam - (1)",
 	"Bodyslam -FUULL",
+	"Bodyslam -Yapid",
 	"Buddy Holly - Weezer",
 	"Can'T Help Falling In Love - Elvis Presley",
 	"Carabao -",
