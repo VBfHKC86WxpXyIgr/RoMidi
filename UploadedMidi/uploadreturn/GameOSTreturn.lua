@@ -33,6 +33,7 @@ return {
 	"Cascade2",
 	"Casey Edwards - Devil Trigger",
 	"Castle Vein - Ultrakill (1)",
+	"Cornfield Chase",
 	"Creo - Flow",
 	"Deadlocked (Geometry Dash)",
 	"Death By Glamour Piano",
