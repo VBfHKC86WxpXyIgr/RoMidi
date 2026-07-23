@@ -72,6 +72,7 @@ return {
 	"Stone Metal Fire -",
 	"Sunroof - Nicky Youre, Dazy",
 	"Tarot Feast 1780242551896",
+	"The Beatles - Let It Be",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
 	"Tip Toe - HYBS",
 	"Tsuki (พระจันทร์) - LANDOKMAI",
