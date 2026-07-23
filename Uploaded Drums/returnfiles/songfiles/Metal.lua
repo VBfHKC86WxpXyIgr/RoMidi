@@ -289,6 +289,7 @@ return {
 	"The Heretic Anthem - Slipknot",
 	"The Man Who Sold The World - Nirvana",
 	"The Stage - Avenged Sevenfold by Rgman",
+	"Three Days Grace - I Hate Everything About You (4) [MIDIfind.Com]",
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"ThunderStruck - ACDC",
 	"Tool - Parabol Parabola [MIDIfind.Com]",
