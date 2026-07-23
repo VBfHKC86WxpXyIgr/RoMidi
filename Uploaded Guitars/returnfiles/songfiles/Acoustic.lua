@@ -60,6 +60,7 @@ return {
 	"Ring-Around-The-Rosie",
 	"Roundabout- Bass Only",
 	"S.T.A.L.K.E.R - Guitar Music From Stalker (3) [MIDIfind.Com]",
+	"Sailor (1)",
 	"Samurai - Never Fade Away",
 	"SHINING",
 	"Silly Fools -",
