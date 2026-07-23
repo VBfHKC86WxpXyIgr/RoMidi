@@ -47,6 +47,7 @@ return {
 	"Chopin – Nocturne Op.9 No.2",
 	"chopin ballade 4 (c)lubetsky",
 	"Chopin Winter Wind Etude",
+	"Chopin-Etude-Op10-No4",
 	"Christina Perri - A Thousand Years (Piano Cover)",
 	"Counting stars",
 	"Czardas",
