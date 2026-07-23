@@ -4,6 +4,7 @@ return {
 	"'MEDIC!' (Piano Arrangement Of Team Fortress 2 Soundtrack)",
 	"'Rocket Jump Waltz' (Piano Arrangement Of Team Fortress 2 Soundtrack)",
 	"'Team Fortress 2 (Main Theme)' (Piano Arrangement Of Team Fortress 2 Soundtrack)",
+	"'Upgrade Station' (Piano Arrangement Of Team Fortress 2 Soundtrack)",
 	"(REUPLOAD) Kevin MacLeod - Olde Timey",
 	"[Black MIDI] Bad Apple!! 1 Million Notes v3 (fixed piano)",
 	"[Black MIDI] The Classic Black Medley",
