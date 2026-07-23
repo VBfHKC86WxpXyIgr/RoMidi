@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	" Until-Then-OST--Memories",
+	"'MEDIC!' (Piano Arrangement Of Team Fortress 2 Soundtrack)",
 	"'Rocket Jump Waltz' (Piano Arrangement Of Team Fortress 2 Soundtrack)",
 	"'Team Fortress 2 (Main Theme)' (Piano Arrangement Of Team Fortress 2 Soundtrack)",
 	"(REUPLOAD) Kevin MacLeod - Olde Timey",
