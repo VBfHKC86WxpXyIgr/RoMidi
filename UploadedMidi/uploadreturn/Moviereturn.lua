@@ -3,6 +3,7 @@ return {
 	"1Everyone, Attack!(Minion Quest Boss Theme) From Mario And Luigi Superstar Saga + Bowser'S Minions",
 	"1Mission Impossible Theme - Lalo Schifrin (Piano Solo)",
 	"Accomplished",
+	"Alan Walker Faded",
 	"Bad Style",
 	"Blinding Lights",
 	"Bohemian Rhapsody - Queen",
