@@ -66,6 +66,7 @@ return {
 	"Silly Fools - - Silly Fools Lyrics Audio",
 	"Silly Fools - Kid Hord(1)",
 	"Slot Machine -",
+	"Smash Mouth - Walkin On The Sun",
 	"Smashing Pumpkins - Luna",
 	"Smile Buffalo -",
 	"Solitude Is Bliss - Just One Thing",
