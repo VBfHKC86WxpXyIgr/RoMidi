@@ -120,6 +120,7 @@ return {
 	"Samplab Screen Recording 202 (1)",
 	"sans. - Toby Fox",
 	"Saviour Of The Waking World Piano",
+	"Schoolhouse Trouble Playable",
 	"Shiawase Vip",
 	"Silent Partner - Dog Park   Dog and Pony Show (from YouTube Audio Library)",
 	"Silent Partner - Sugar Zone (A1D3N93 Remix)",
