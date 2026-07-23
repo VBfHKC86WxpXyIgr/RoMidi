@@ -35,6 +35,7 @@ return {
 	"Blue Jeans",
 	"Bunda By Melly Goeslaw - Fikram",
 	"Buttercup - Jack Stauber",
+	"Chamber Of Reflection",
 	"Chezile - Beanie - Fikram",
 	"Childish Gambino - Redbone",
 	"Cinta Tak Harus Memiliki - Fikram",
