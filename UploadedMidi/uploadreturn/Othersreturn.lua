@@ -125,6 +125,7 @@ return {
 	"Cô ThắM KhôNg Về",
 	"Có Thể,KhôNg",
 	"COME MY WAY",
+	"Come My Way Softer Version",
 	"Come My Way X Intro HãY Trao Cho Anh",
 	"COME MY WAY X MAKING MY WAY",
 	"CơN MưA BăNg Giá",
