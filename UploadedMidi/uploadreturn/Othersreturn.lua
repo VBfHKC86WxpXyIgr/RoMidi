@@ -51,6 +51,7 @@ return {
 	"Anh Cứ đI đI",
 	"ANH SAI RỒI",
 	"Anh Sai RồI X BìNh YêN NơI ĐâU",
+	"áNh Sang Tan Vỡ Trong MàN đêM",
 	"Azali - MECHANICAL GOD",
 	"Back Number",
 	"Bad Apple",
