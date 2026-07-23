@@ -151,6 +151,7 @@ return {
 	"Touhou - BAD APPLE NORMAL Mhxa",
 	"TripleTrouble",
 	"Undertale - Asgore",
+	"Undertale - Ruins",
 	"Undertale - SAVE the World",
 	"Undertale - Toby Fox",
 	"Undertale~PFFinale~123,000",
