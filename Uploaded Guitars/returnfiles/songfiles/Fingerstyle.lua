@@ -6,6 +6,7 @@ return {
 	"Dumb Ways To Die",
 	"Dumb Ways To Die (1)",
 	"Finnish Folk Song - SäKkijäRven Polkka",
+	"Giorno'S Theme [Jojo'S Bizarre Adventure] (WIP)",
 	"Heart-Shaped Box",
 	"Just The Two Of Us.",
 	"Just The Two Of Us.Mid (1)",
