@@ -126,6 +126,7 @@ return {
 	"Samba De Verao (So Nice!)",
 	"Scorpions - No One Like You (2) [MIDIfind.Com]",
 	"Scorpions - Rock You Like A Hurricane [MIDIfind.Com]",
+	"Seven Nation Army",
 	"Shadow Bonnie - Bonnie Lullaby",
 	"Simple Plan - Perfect [MIDIfind.Com]",
 	"Skid Row - 18 And Life [MIDIfind.Com]",
