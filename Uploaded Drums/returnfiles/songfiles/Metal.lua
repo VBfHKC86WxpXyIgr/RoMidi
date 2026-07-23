@@ -293,6 +293,7 @@ return {
 	"Three Days Grace - I Hate Everything About You (4) [MIDIfind.Com]",
 	"Three Days Grace - I Hate Everything About You [MIDIfind.Com]",
 	"Three Days Grace - Never Too Late (3) [MIDIfind.Com]",
+	"Three Days Grace - Pain (2) [MIDIfind.Com]",
 	"ThunderStruck - ACDC",
 	"Tool - Parabol Parabola [MIDIfind.Com]",
 	"Tourettes - Nirvana Tourettes - Nirvana Drum Sheet Music",
