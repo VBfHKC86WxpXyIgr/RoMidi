@@ -168,6 +168,7 @@ return {
 	"ĐừNg LàM TráI Tim Anh đAu",
 	"ĐừNg LàM TráI Tim Anh ĐAu X ĐI GiữA TrờI RựC Rỡ",
 	"ĐừNg LàM TráI Tim X ThiêN Lý",
+	"ĐừNg Về Trễ Full",
 	"đừNg Về Trễ Nha",
 	"đườNg MộT ChiềU",
 	"ĐườNg TôI Chở Em Về",
