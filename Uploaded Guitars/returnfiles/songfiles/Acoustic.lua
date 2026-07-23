@@ -68,6 +68,7 @@ return {
 	"Smashing Pumpkins - Luna",
 	"Smile Buffalo -",
 	"Solitude Is Bliss - Just One Thing",
+	"Stone Metal Fire -",
 	"Sunroof - Nicky Youre, Dazy",
 	"Tarot Feast 1780242551896",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
