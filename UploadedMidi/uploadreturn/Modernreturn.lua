@@ -145,6 +145,7 @@ return {
 	"NOSTYLIST Destroy Lonely Converted To Piano By DK Marshmello",
 	"Not Like Us",
 	"Off The Map - SoFaygo Off The Map SoFaygo Piano Conversion By DK Marshmello",
+	"Olivia Rodrigo - Vampire",
 	"Palagi-Tj-Monterde-Palagi",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
 	"Phonecert (폰서트) - 10CM",
