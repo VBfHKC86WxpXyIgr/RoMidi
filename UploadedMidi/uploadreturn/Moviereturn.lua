@@ -46,6 +46,7 @@ return {
 	"Squid Game slow",
 	"succession-piano-version-7",
 	"Super Mario World Ending Theme As Played By Tom Brier OB9",
+	"The Amazing Digital Circus - Running The Show",
 	"The Entertainer - Scott Joplin",
 	"The One Who’S Running The Show - TADC THE AMAZING DIGITAL CIRCUS",
 	"The Simpsons Main Theme  Danny Elfman MLX",
