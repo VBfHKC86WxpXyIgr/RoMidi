@@ -121,6 +121,7 @@ return {
 	"sans. - Toby Fox",
 	"Saviour Of The Waking World Piano",
 	"Schoolhouse Trouble Playable",
+	"Scizzle Aquatic Ambience Piano Tutorial Solo Arrangement",
 	"Shiawase Vip",
 	"Silent Partner - Dog Park   Dog and Pony Show (from YouTube Audio Library)",
 	"Silent Partner - Sugar Zone (A1D3N93 Remix)",
