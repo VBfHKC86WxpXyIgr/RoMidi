@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	" Until-Then-OST--Memories",
+	"'Team Fortress 2 (Main Theme)' (Piano Arrangement Of Team Fortress 2 Soundtrack)",
 	"(REUPLOAD) Kevin MacLeod - Olde Timey",
 	"[Black MIDI] Bad Apple!! 1 Million Notes v3 (fixed piano)",
 	"[Black MIDI] The Classic Black Medley",
