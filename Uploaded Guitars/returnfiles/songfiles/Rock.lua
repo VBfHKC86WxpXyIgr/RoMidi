@@ -148,6 +148,7 @@ return {
 	"Strokes (The) - The End Has No End (7) [MIDIfind.Com]",
 	"System Of A Down - Toxicity [MIDIfind.Com]",
 	"TF2 Kazotsky Kick",
+	"THE BEATLES.My Sweet Lord",
 	"The Last Of Us - Main Theme (2) [MIDIfind.Com]",
 	"The Trooper",
 	"Vai Steve - For The Love Of God [MIDIfind.Com]",
