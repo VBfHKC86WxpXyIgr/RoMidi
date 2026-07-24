@@ -114,6 +114,7 @@ return {
 	"LạC TrôI Piano - SơN TùNg M-TP.Mid",
 	"Laufey - Promise",
 	"Laufey - Too little, too late",
+	"Les Childish Gambino Piano Solo 1784876806897",
 	"like him - tyler creator",
 	"Like Him Tyler The Creator",
 	"Loneliness By Decalius-07-04-2026",
