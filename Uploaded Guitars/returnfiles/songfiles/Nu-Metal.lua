@@ -4,6 +4,7 @@ return {
 	"Deftones - Be Quiet And Drive [MIDIfind.Com]",
 	"Deftones - Change In The House Of Flies [MIDIfind.Com]",
 	"Deftones - Engine Number (9) [MIDIfind.Com]",
+	"Deftones - Knife Prty-06-24-2026",
 	"Deftones - My Own Summer (Shove It)",
 	"Deftones - My Own Summer Shove It [MIDIfind.Com]",
 	"Korn - Blind",
