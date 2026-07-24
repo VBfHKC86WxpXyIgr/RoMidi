@@ -28,6 +28,7 @@ return {
 	"Chainsaw Man - In The Pool Reze Arc OST Mhxa",
 	"Chainsaw Man - IRIS OUT Reze Arc Mhxa",
 	"Chainsaw Man - JANE DOE Reze Arc Mhxa",
+	"ChainsawMan Reze Arc OST - In The Pool Mhxa",
 	"Chaos-Construct",
 	"Chasing Kou - Oboreru Knife (Drowning Love)",
 	"Cry Baby - Tokyo Revengers OP Mhxa",
