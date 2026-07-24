@@ -143,6 +143,7 @@ return {
 	"The Beatles - A Hard Day'S Night",
 	"THE BEATLES.All My Loving",
 	"THE BEATLES.Helter Skelter",
+	"THE BEATLES.My Sweet Lord",
 	"THE BEATLES.Something K",
 	"Tom-Sawyer-3",
 	"Undone (The Sweater Song) - Weezer",
