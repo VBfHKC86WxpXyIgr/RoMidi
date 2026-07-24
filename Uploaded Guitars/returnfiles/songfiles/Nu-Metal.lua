@@ -8,6 +8,7 @@ return {
 	"Deftones - My Own Summer (Shove It)",
 	"Deftones - My Own Summer Shove It [MIDIfind.Com]",
 	"Deftones-Be Quiet And Drive-06-27-2026",
+	"Deftones-Departing The Body-03-28-2026",
 	"Korn - Blind",
 	"Korn - Falling Away From Me [MIDIfind.Com]",
 	"Korn - Freak On A Leash [MIDIfind.Com]",
