@@ -27,6 +27,7 @@ return {
 	"Avenged Sevenfold — Warmness on the Soul [MIDIfind.com]",
 	"Baby Hotline",
 	"babydoll - dominic fike",
+	"Babydoll - Dominic Fike",
 	"Back To Friends - Sombr",
 	"Basic Pitch Transcription",
 	"Beabadoobee - Glue Song (Ft. Clairo)",
