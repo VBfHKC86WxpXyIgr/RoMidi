@@ -132,6 +132,7 @@ return {
 	"Michael Jackson - Bad",
 	"Michael Jackson - Don’T Stop Till You Get Enough",
 	"Michael Jackson - Smooth Criminal",
+	"Michael Jackson - Thriller",
 	"Michael Jackson (They Don'T Care About Us) Complete",
 	"Mike Posner - I Took A Pill In Ibiza (SeeB Remix)",
 	"Mitski - My Love Mine All Mine",
