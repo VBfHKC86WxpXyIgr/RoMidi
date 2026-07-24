@@ -24,6 +24,7 @@ return {
 	"Gravity Falls",
 	"Gravity Falls - Main Theme",
 	"hans-zimmer-cornfield-chase-interstellar-soundtrack-21091-nonstop2k.com",
+	"Havana",
 	"HUNTRIX - GOLDEN From KPop Demon Hunters",
 	"I am still standing",
 	"INSIDE OUP 2",
