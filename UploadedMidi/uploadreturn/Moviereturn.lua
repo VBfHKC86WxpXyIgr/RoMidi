@@ -37,6 +37,7 @@ return {
 	"Lily",
 	"Looping In The Rooms",
 	"Looping In The Rooms - Rusino",
+	"Love Story",
 	"Mia--Sebastians-Theme",
 	"Multo - Cup Of Joe RNE",
 	"My heartPIANO",
