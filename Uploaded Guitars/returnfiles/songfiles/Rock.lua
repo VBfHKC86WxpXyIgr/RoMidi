@@ -4,6 +4,7 @@ return {
 	"ACDC - Thunderstruck [MIDIfind.Com]",
 	"ACDC.Highway To Hell K",
 	"ACDC.TNT",
+	"Aerials - System Of A Down",
 	"Alice In Chains - Damm That River [MIDIfind.Com]",
 	"Alice In Chains - It Ain'T Like It [MIDIfind.Com]",
 	"Alice In Chains - Man In A Box",
