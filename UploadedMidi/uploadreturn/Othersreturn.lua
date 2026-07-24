@@ -58,6 +58,7 @@ return {
 	"Bad Apple 2 Player",
 	"Bad Apple Ft. Nomico Deblacked",
 	"Bad Apple!! (Full)",
+	"Bang Dream CRYCHIC - Haruhikage MHXA",
 	"BáNh Mì KhôNg",
 	"Basic Pitch Transcription",
 	"Basic Pitch Transcription (1)",
