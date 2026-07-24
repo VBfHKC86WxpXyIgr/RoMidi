@@ -56,6 +56,7 @@ return {
 	"GOZALO - Ariis",
 	"HalcyonMusic 10k subs medley",
 	"Harry Potter- Hedwig'S Theme",
+	"Hikaru Nara",
 	"Howls Merry Go Round Of Life By Trouble",
 	"Hurtful and painful but I don't think it sounds very good",
 	"If I am with you",
