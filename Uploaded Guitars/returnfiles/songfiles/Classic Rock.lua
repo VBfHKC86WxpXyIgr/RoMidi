@@ -37,6 +37,7 @@ return {
 	"Il Vento D'Oro (The Golden Wind) Giorno'S Theme - JoJo'S Bizarre Adventures",
 	"Iron Maiden - Iron Maiden [MIDIfind.Com]",
 	"Jerryc - Canon Rock Lead Guitar [MIDIfind.Com]",
+	"Jpp 114-Crazy Train (Solo Only)-01-17-2026",
 	"Last Rites Loved To Deth - Megadeth Last Rites Loved To Deth - Megadeth (Demo)",
 	"Let It Happen - Tame Impala",
 	"Linkin Park - Numb",
