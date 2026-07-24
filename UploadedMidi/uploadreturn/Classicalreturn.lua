@@ -59,6 +59,7 @@ return {
 	"Drowning Love Tuxedo.Fx",
 	"Endless-Rain-Piano-Cover",
 	"Evgeny Grinko - Valse( VYCOg-YglNM )",
+	"EvGeny Grinko-Valse",
 	"Fasion - Dansez - COPYRIGHT FREE - CEM",
 	"Flamewall",
 	"Foggy Mountain Breakdown",
