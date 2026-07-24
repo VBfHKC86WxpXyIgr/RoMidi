@@ -121,6 +121,7 @@ return {
 	"Miles Davis - So What [MIDIfind.Com]",
 	"MONTAGEM REBOLA",
 	"Moonlight sonata 3rd x fantaisie impromptu",
+	"Moonlight Sonata Beethoven",
 	"moonlight-sonata-i",
 	"Moonlight-Sonata-Nightmare-Lionel-Yu-Moonlightsonatanightmaremid",
 	"MORGENSHTERN Ft. элджей - Cadillac",
