@@ -148,6 +148,7 @@ return {
 	"Korn - Freak On A Leash [MIDIfind.Com]",
 	"Korn - Got The Life (Drum)",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
+	"Limp Bizkit - Break Stuff (Drum)",
 	"Limp Bizkit - Just Like This (Drum)",
 	"Limp Bizkit - Nookie (Drum)",
 	"Linkin Park - Numb [MIDIfind.Com]",
