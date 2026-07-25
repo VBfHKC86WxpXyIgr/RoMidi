@@ -28,6 +28,7 @@ return {
 	"Beatles It Wont Be Long",
 	"Big Cheese - Nirvana",
 	"Blink-182 - Always 7",
+	"Blink-182 - Carousel (Drum)",
 	"Blink-182 - Drum Solo",
 	"Blur - Song 2 [MIDIfind.Com]",
 	"BoysDontCry",
