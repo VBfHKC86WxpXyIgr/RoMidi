@@ -61,6 +61,7 @@ return {
 	"Green Day - Basket Case [MIDIfind.Com]",
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
 	"Green Day - Brain Stew [MIDIfind.Com]",
+	"Green Day - Burnout (Drum)",
 	"Green Day - Burnout [MIDIfind.Com]",
 	"Green Day - Extraordinary Girl [MIDIfind.Com]",
 	"Green Day - Give Me Novacaine [MIDIfind.Com]",
