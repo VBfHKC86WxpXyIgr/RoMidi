@@ -61,6 +61,7 @@ return {
 	"Bring Me The Horizon - Happy Song [MIDIfind.com]",
 	"Bring Me the Horizon - Pray For Plagues [MIDIfind.com]",
 	"Candlemass - Solitude [MIDIfind.Com]",
+	"Cannibal Corpse - Hammer Smashed Face (Drum)",
 	"CaughtSomewhereInTime",
 	"Chevelle - Comfortable Liar [MIDIfind.Com]",
 	"Clown",
