@@ -139,6 +139,7 @@ return {
 	"Offspring (The) - The Kids Aren'T Alright [MIDIfind.Com]",
 	"Pearl Jam - Black (2) [MIDIfind.Com]",
 	"Pink Floyd - Comfortably Numb [MIDIfind.Com]",
+	"Pixies - Where Is My Mind (Drum)",
 	"Radiohead - 15 Step [MIDIfind.Com]",
 	"Radiohead - 2+2=5 [MIDIfind.Com]",
 	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
