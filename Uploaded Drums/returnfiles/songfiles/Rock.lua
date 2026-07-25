@@ -34,6 +34,7 @@ return {
 	"Blink-182 - Carousel (Drum)",
 	"Blink-182 - Drum Solo",
 	"Blink-182 - M+M’S (Drum)",
+	"Blink-182 - What'S My Age Again (Drum)",
 	"Blur - Song 2 [MIDIfind.Com]",
 	"BoysDontCry",
 	"BreakStuff",
