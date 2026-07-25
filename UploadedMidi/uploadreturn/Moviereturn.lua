@@ -6,6 +6,7 @@ return {
 	"Accomplished",
 	"Alan Walker - Alone",
 	"Alan Walker Faded",
+	"Anlatamam - Kara Sevda [Demon]",
 	"APT",
 	"Bad Style",
 	"Billie Eilish - WILDFLOWER (In The Key Of A Major).30-Sec-Sample.MIDISTAX.COM",
