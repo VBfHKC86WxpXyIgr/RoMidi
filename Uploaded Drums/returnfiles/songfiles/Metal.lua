@@ -311,6 +311,7 @@ return {
 	"System Of A Down - Prison Song (9) [MIDIfind.Com]",
 	"System Of A Down - Sugar [MIDIfind.Com]",
 	"System Of A Down - Toxicity (Drum)",
+	"System Of A Down - Vicinity Of Obscenity (Drum)",
 	"Territorial Pissings - Nirvana",
 	"The Heretic Anthem - Slipknot",
 	"The Man Who Sold The World - Nirvana",
