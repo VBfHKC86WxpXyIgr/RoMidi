@@ -301,6 +301,7 @@ return {
 	"Sugar",
 	"System Of A Down - Aerials [MIDIfind.Com]",
 	"System Of A Down - B.Y.O.B. [MIDIfind.Com]",
+	"System Of A Down - BYOB (Drum)",
 	"System Of A Down - Chop Suey! (Drum)",
 	"System Of A Down - Chop Suey! [MIDIfind.Com]",
 	"System Of A Down - Jet Pilot (Drum)",
