@@ -36,6 +36,7 @@ return {
 	"Crybaby - Destroy Boys",
 	"Daft Punk - Robot Rock [MIDIfind.Com]",
 	"Dont Say Lazy",
+	"DragonForce - Through The Fire And Flames KLICKAUD Converted",
 	"Flamewall By Camellia",
 	"Flying Through The Sky (Ram Ranch)",
 	"Fortunate Son - Creedance Clearwater Revival",
