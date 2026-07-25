@@ -155,6 +155,7 @@ return {
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
 	"Radiohead - Subterranean Homesick Alien [MIDIfind.Com]",
 	"Radiohead - The Bends (2) [MIDIfind.Com]",
+	"Red Hot Chili Peppers - Californication (Drum)",
 	"Rollin",
 	"Rush - YYZ (Drum)",
 	"Santana Carlos - Smooth [MIDIfind.Com]",
