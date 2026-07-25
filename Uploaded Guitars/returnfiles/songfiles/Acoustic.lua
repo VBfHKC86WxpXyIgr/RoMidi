@@ -55,6 +55,7 @@ return {
 	"LArcenCiel - Drivers High",
 	"Loso -",
 	"Loso - (1)",
+	"Mac Demarco - Freaking Out The Neighborhood",
 	"Made In Thailand, Made In USA",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
 	"Misc Covers-Is It Really You (Acoustic VER.) By Loathe-07-04-2026",
