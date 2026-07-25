@@ -270,6 +270,7 @@ return {
 	"Slipknot - Eyeless",
 	"Slipknot - Eyeless (2) [MIDIfind.Com]",
 	"Slipknot - Eyeless (5) [MIDIfind.Com]",
+	"Slipknot - Eyeless (Drum)",
 	"Slipknot - Joey Jordison Drum Solo From Surfacing [MIDIfind.com]",
 	"Slipknot - Joey Jordison Drum Solo From Surfacing [MIDIfind.Com]",
 	"Slipknot - Psychosocial (ver 8 by Thaynan).mid",
