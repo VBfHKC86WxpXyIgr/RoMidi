@@ -63,6 +63,7 @@ return {
 	"Green Day - Brain Stew [MIDIfind.Com]",
 	"Green Day - Burnout (Drum)",
 	"Green Day - Burnout [MIDIfind.Com]",
+	"Green Day - Chump (Drum)",
 	"Green Day - Extraordinary Girl [MIDIfind.Com]",
 	"Green Day - Give Me Novacaine [MIDIfind.Com]",
 	"Green Day - Holiday (2) [MIDIfind.Com]",
