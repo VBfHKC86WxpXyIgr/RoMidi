@@ -2,6 +2,7 @@
 return {
 	"1Everyone, Attack!(Minion Quest Boss Theme) From Mario And Luigi Superstar Saga + Bowser'S Minions",
 	"1Mission Impossible Theme - Lalo Schifrin (Piano Solo)",
+	"Aashiqui - The Love Theme",
 	"Accomplished",
 	"Alan Walker - Alone",
 	"Alan Walker Faded",
