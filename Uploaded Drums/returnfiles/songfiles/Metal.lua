@@ -272,6 +272,7 @@ return {
 	"Slayer - Seasons In The Abyss (Drum)",
 	"Slipknot - Before I Forget.drum midi",
 	"Slipknot - Dead Memories (5) [MIDIfind.com]",
+	"Slipknot - Duality (Drum)",
 	"Slipknot - Eyeless",
 	"Slipknot - Eyeless (2) [MIDIfind.Com]",
 	"Slipknot - Eyeless (5) [MIDIfind.Com]",
