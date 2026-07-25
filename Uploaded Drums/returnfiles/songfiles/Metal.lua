@@ -31,6 +31,7 @@ return {
 	"Avenged Sevenfold - I Won't See You Tonight Part (1) [MIDIfind.com]",
 	"Avenged Sevenfold - M.I.A (WIP)",
 	"Avenged Sevenfold - Natural Born Killer [MIDIfind.com]",
+	"Avenged Sevenfold - Nightmare (Drum)",
 	"Avenged Sevenfold - Nightmare [MIDIfind.Com]",
 	"Avenged Sevenfold - Nightmare.mid",
 	"Avenged Sevenfold - Nobody [MIDIfind.com]",
