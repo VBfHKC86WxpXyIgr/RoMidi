@@ -25,6 +25,7 @@ return {
 	"1No Im Not A Human - Day Theme",
 	"1Old Doll (From Mad Father) - Bluerra-Sai (Piano)",
 	"1On The Square (Piano)",
+	"1Plage Coquillage (First Kiss Song) - Tao Mon Amour - Arr M H",
 	"1Skittlegirl Sound Adv13",
 	"1Stay With Me - Miki Matsubara",
 	"1The Housebuilding Song",
