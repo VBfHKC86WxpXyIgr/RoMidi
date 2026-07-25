@@ -62,6 +62,7 @@ return {
 	"Bring Me the Horizon - Pray For Plagues [MIDIfind.com]",
 	"Candlemass - Solitude [MIDIfind.Com]",
 	"Cannibal Corpse - Hammer Smashed Face (Drum)",
+	"Cannibal Corpse - Scourge Of Iron (Drum)",
 	"CaughtSomewhereInTime",
 	"Chevelle - Comfortable Liar [MIDIfind.Com]",
 	"Clown",
