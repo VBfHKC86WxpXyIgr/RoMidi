@@ -39,6 +39,7 @@ return {
 	"Come as you are (3 beats)",
 	"Come-Together-1",
 	"Counterfeit",
+	"Cranberries - Zombie (Drum)",
 	"Creep",
 	"D7- Nirvana (Drums)",
 	"Degenerate",
