@@ -19,6 +19,7 @@ return {
 	"Arctic Monkeys - R U Mine [MIDIfind.com]",
 	"Audioslave - Like A Stone [MIDIfind.Com]",
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
+	"Bad Religion - Change Of Ideas (Drum)",
 	"Beatles (The) - And I Love Her [MIDIfind.Com]",
 	"Beatles (The) - I Am The Walrus [MIDIfind.Com]",
 	"Beatles (The) - I Want You [MIDIfind.Com]",
