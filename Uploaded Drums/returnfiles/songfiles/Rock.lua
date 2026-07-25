@@ -40,6 +40,7 @@ return {
 	"Coldplay - Clocks (Drum)",
 	"Coldplay - In My Place (Drum)",
 	"Coldplay - Shiver (Drum)",
+	"Coldplay - Yellow (Drum)",
 	"Come as you are (3 beats)",
 	"Come-Together-1",
 	"Counterfeit",
