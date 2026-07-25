@@ -14,6 +14,7 @@ return {
 	"1Stranded Lullaby (Piano)",
 	"1Strangers By Proderics",
 	"1The Love I Lost By Fried By Fluoride",
+	"1The Mind Electric (Piano Cover)",
 	"1Undone - The Sweater Song By Weezer",
 	"505 best part",
 	"81416 Take-Me-Back-Home",
