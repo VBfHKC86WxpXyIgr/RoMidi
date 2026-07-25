@@ -300,6 +300,7 @@ return {
 	"System Of A Down - B.Y.O.B. [MIDIfind.Com]",
 	"System Of A Down - Chop Suey! (Drum)",
 	"System Of A Down - Chop Suey! [MIDIfind.Com]",
+	"System Of A Down - Jet Pilot (Drum)",
 	"System Of A Down - Know (Drum)",
 	"System Of A Down - Prison Song (5) [MIDIfind.Com]",
 	"System Of A Down - Prison Song (9) [MIDIfind.Com]",
