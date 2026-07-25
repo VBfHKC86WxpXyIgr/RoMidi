@@ -8,6 +8,7 @@ return {
 	"1Join Me In Death - HIM (Piano Cover)",
 	"1Love - Wave To Earth (웨이브 투 어스) (Piano)",
 	"1Pretend Alex G",
+	"1Seasons - Wave To Earth Seasons",
 	"1Strangers By Proderics",
 	"1The Love I Lost By Fried By Fluoride",
 	"1Undone - The Sweater Song By Weezer",
