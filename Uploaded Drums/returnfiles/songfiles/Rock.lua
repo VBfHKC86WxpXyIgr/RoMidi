@@ -126,6 +126,7 @@ return {
 	"Oasis - Shakermaker",
 	"Oasis - She'S Electric [MIDIfind.Com]",
 	"Oasis - Supersonic [MIDIfind.Com]",
+	"Oasis - Wonderwall (Drum)",
 	"Oasis-Dont Look Back In Anger",
 	"OASIS.Stand By Me",
 	"Offspring (The) - Pretty Fly For A White Guy [MIDIfind.Com]",
