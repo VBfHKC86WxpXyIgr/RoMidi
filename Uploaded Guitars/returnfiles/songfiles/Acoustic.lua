@@ -34,6 +34,7 @@ return {
 	"Forwards",
 	"Forwards.Mp3",
 	"Green Day - Good Riddance [MIDIfind.Com]",
+	"Gto - GTO Opening 1 Drivers High",
 	"Hill Billy Jim -[AudioTrimmer",
 	"Hill Billy Jim (1)",
 	"Hillbilly Jim Promo [1985-04-20] 320k",
