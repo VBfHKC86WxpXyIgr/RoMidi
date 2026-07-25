@@ -72,6 +72,7 @@ return {
 	"Green Day - Longview (Drum)",
 	"Green Day - Longview [MIDIfind.Com]",
 	"Green Day - No One Knows [MIDIfind.Com]",
+	"Green Day - She (Drum)",
 	"Green Day - She'S A Rebel [MIDIfind.Com]",
 	"Green Day - Stray Heart [MIDIfind.Com]",
 	"Green Day - Welcome To Paradise (Drum)",
