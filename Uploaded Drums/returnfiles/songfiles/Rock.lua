@@ -145,6 +145,7 @@ return {
 	"THE BEATLES.Helter Skelter",
 	"THE BEATLES.My Sweet Lord",
 	"THE BEATLES.Something K",
+	"The Handshake (Drum)",
 	"Tom-Sawyer-3",
 	"Undone (The Sweater Song) - Weezer",
 	"Undone (The Sweater Song) - Weezer (Sleezy)",
