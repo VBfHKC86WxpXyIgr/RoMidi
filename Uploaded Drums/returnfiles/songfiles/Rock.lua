@@ -37,6 +37,7 @@ return {
 	"BreakStuff",
 	"Bush - Machinehead (Drum)",
 	"Canned Heat - Going Up The Country",
+	"Coldplay - Clocks (Drum)",
 	"Coldplay - In My Place (Drum)",
 	"Come as you are (3 beats)",
 	"Come-Together-1",
