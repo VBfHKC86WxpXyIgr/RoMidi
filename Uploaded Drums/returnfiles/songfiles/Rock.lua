@@ -2,6 +2,7 @@
 return {
 	"21 Guns - Green Day (Green Day) 21 Guns",
 	"505",
+	"ACDC - Thunderstruck (Drum)",
 	"ACDC - You Shook Me All Night Long (Drum)",
 	"Alice In Chains - Damm That River [MIDIfind.Com]",
 	"Alice In Chains - It Ain'T Like It [MIDIfind.Com]",
