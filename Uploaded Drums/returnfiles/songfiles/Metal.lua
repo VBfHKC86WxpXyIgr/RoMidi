@@ -142,6 +142,7 @@ return {
 	"Korn - Falling Away From Me [MIDIfind.Com]",
 	"Korn - Freak On A Leash [MIDIfind.Com]",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
+	"Limp Bizkit - Just Like This (Drum)",
 	"Linkin Park - Numb [MIDIfind.Com]",
 	"Linkin Park - One Step Closer [MIDIfind.Com]",
 	"Linkin Park - Papercut [MIDIfind.Com]",
