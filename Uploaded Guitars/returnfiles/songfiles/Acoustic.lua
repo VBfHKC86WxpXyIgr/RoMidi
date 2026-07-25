@@ -83,6 +83,7 @@ return {
 	"The Beatles - Dont Let Me Down",
 	"The Beatles - Here Comes The Sun",
 	"The Beatles - Let It Be",
+	"The WORLD - Death Note",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
 	"Tip Toe - HYBS",
 	"Tsuki (พระจันทร์) - LANDOKMAI",
