@@ -27,6 +27,7 @@ return {
 	"Government Funding (Kane Pixels)",
 	"Gravity Falls",
 	"Gravity Falls - Main Theme",
+	"Gulabi Aankhen",
 	"hans-zimmer-cornfield-chase-interstellar-soundtrack-21091-nonstop2k.com",
 	"Havana",
 	"Hazbin Hotel - Losin' Streak",
