@@ -27,6 +27,7 @@ return {
 	"Gravity Falls - Main Theme",
 	"hans-zimmer-cornfield-chase-interstellar-soundtrack-21091-nonstop2k.com",
 	"Havana",
+	"Hazbin Hotel - Losin' Streak",
 	"HUNTRIX - GOLDEN From KPop Demon Hunters",
 	"I am still standing",
 	"INSIDE OUP 2",
