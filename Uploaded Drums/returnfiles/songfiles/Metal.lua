@@ -193,6 +193,7 @@ return {
 	"Metallica - Wherever I May Roam [MIDIfind.Com]",
 	"Metallica - Whiplash [MIDIfind.Com]",
 	"Metallica-Enter-Sandman midi",
+	"Motorhead - Ace Of Spades (Drum)",
 	"Mushroomhead - 12 Hundred [MIDIfind.com]",
 	"Mushroomhead - Episode 29 [MIDIfind.com]",
 	"Mushroomhead - Sun Doesn't Rise [MIDIfind.com]",
