@@ -41,6 +41,7 @@ return {
 	"Attack On Titan Season 3 - Red Swan.Mid",
 	"Aura Monster Subaru (Jjs Version)",
 	"Bad Habit - Steve Lacy",
+	"BAILE INoLVIDABLE - Bad Bunny",
 	"banh mi Khong",
 	"basic pitch transcription",
 	"Beanie",
