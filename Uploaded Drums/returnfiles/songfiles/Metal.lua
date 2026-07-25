@@ -142,6 +142,7 @@ return {
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
 	"Korn - Falling Away From Me [MIDIfind.Com]",
 	"Korn - Freak On A Leash [MIDIfind.Com]",
+	"Korn - Got The Life (Drum)",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
 	"Limp Bizkit - Just Like This (Drum)",
 	"Linkin Park - Numb [MIDIfind.Com]",
