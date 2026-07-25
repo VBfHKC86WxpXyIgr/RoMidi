@@ -50,6 +50,7 @@ return {
 	"Franz Ferdinand - Take Me Out [MIDIfind.Com]",
 	"Girlfriend",
 	"Green Day - American Eulogy [MIDIfind.Com]",
+	"Green Day - Basket Case (Drum)",
 	"Green Day - Basket Case [MIDIfind.Com]",
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
 	"Green Day - Brain Stew [MIDIfind.Com]",
