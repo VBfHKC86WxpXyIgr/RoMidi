@@ -149,6 +149,7 @@ return {
 	"Korn - Got The Life (Drum)",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
 	"Limp Bizkit - Just Like This (Drum)",
+	"Limp Bizkit - Nookie (Drum)",
 	"Linkin Park - Numb [MIDIfind.Com]",
 	"Linkin Park - One Step Closer [MIDIfind.Com]",
 	"Linkin Park - Papercut [MIDIfind.Com]",
