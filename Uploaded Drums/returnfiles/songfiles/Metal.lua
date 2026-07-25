@@ -250,6 +250,7 @@ return {
 	"Pantera - Slaughtered [MIDIfind.Com]",
 	"Pantera - Strenght Beyond Strenght [MIDIfind.Com]",
 	"Pantera - Throes Of Rejection (Drum)",
+	"Pantera - Walk (Drum)",
 	"People=Shit- FlipgridJR",
 	"PhantomOfTheOpera",
 	"Powerslave",
