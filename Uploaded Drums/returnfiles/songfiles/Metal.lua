@@ -264,6 +264,7 @@ return {
 	"Slipknot - Joey Jordison Drum Solo From Surfacing [MIDIfind.Com]",
 	"Slipknot - Psychosocial (ver 8 by Thaynan).mid",
 	"Slipknot - Scissors [MIDIfind.com]",
+	"Slipknot - Spit It Out (Drum)",
 	"Slipknot - Surfacing [MIDIfind.Com]",
 	"Slipknot - Vendetta",
 	"Slipknot - Vermilion Pt.1   WWW.MIDISFREE.COM",
