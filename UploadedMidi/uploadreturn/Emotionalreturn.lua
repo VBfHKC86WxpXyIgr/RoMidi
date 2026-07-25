@@ -3,6 +3,7 @@ return {
 	"(Play!) The Neighbourhood-Sweater Weather",
 	"[Black MIDI] The Classic Black Medley",
 	"「 ꕤ 」 S0rrow - Unhappy",
+	"1Bad - Wave To Earth (Lead Sheet)",
 	"1Break By Alex G",
 	"1Innocence - Daniel Caesar (Piano)",
 	"1Join Me In Death - HIM (Piano Cover)",
