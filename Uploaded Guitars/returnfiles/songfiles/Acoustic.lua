@@ -22,6 +22,7 @@ return {
 	"Chris Isaakwicked Game",
 	"Cinderella - Tattoo Colour",
 	"Clair-De-Lune-Debussy",
+	"Clarion - Hello Juliet",
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Composed By Yu-Peng Chen Arranged By Devon Sebastian K - Liyue Harbor Song No. 4",
 	"Deep Purple - Smoke On The Water-Drum Kit",
