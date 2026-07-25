@@ -10,6 +10,7 @@ return {
 	"Andra And The BackBone - Sempurna Lyre.Mid",
 	"Arranged By @KAyuna-Guitar - 夜に駆ける",
 	"Batta - Chase",
+	"Batta - Chase-JojoDr",
 	"Beabadoobee - The Way Things Go",
 	"Beabadoobee-The Perfect Pair-05-27-2023-Acoustic Guitar",
 	"Bertaut - Guitar",
