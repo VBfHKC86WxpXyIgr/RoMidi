@@ -56,6 +56,7 @@ return {
 	"Loso -",
 	"Loso - (1)",
 	"Mac Demarco - Freaking Out The Neighborhood",
+	"Mac Demarco - Freaking Out The Neighborhood (1)",
 	"Made In Thailand, Made In USA",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
 	"Misc Covers-Is It Really You (Acoustic VER.) By Loathe-07-04-2026",
