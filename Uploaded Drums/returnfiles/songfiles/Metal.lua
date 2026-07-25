@@ -261,6 +261,7 @@ return {
 	"Scream",
 	"Sepultura - Roots Bloody Roots (3) [MIDIfind.Com]",
 	"Sepultura - Roots Bloody Roots (Drums Only)",
+	"Sepultura - Slave New World (Drum)",
 	"Sepultura - Territory (Drum)",
 	"Skid Row - 18 And Life [MIDIfind.Com]",
 	"Slapshock - Direction [MIDIfind.com]",
