@@ -243,6 +243,7 @@ return {
 	"Pantera - Shedding Skin [MIDIfind.Com]",
 	"Pantera - Slaughtered [MIDIfind.Com]",
 	"Pantera - Strenght Beyond Strenght [MIDIfind.Com]",
+	"Pantera - Throes Of Rejection (Drum)",
 	"People=Shit- FlipgridJR",
 	"PhantomOfTheOpera",
 	"Powerslave",
