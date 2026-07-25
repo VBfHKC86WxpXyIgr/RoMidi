@@ -39,6 +39,7 @@ return {
 	"Canned Heat - Going Up The Country",
 	"Coldplay - Clocks (Drum)",
 	"Coldplay - In My Place (Drum)",
+	"Coldplay - Shiver (Drum)",
 	"Come as you are (3 beats)",
 	"Come-Together-1",
 	"Counterfeit",
