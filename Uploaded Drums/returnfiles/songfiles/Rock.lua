@@ -32,6 +32,7 @@ return {
 	"Blur - Song 2 [MIDIfind.Com]",
 	"BoysDontCry",
 	"BreakStuff",
+	"Bush - Machinehead (Drum)",
 	"Canned Heat - Going Up The Country",
 	"Come as you are (3 beats)",
 	"Come-Together-1",
