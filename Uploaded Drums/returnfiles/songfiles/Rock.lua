@@ -172,6 +172,7 @@ return {
 	"THE BEATLES.My Sweet Lord",
 	"THE BEATLES.Something K",
 	"The Handshake (Drum)",
+	"The White Stripes- Seven Nation Army (Drum)",
 	"Tom-Sawyer-3",
 	"Undone (The Sweater Song) - Weezer",
 	"Undone (The Sweater Song) - Weezer (Sleezy)",
