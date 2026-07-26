@@ -154,6 +154,7 @@ return {
 	"Rush D HSR!",
 	"Rush E",
 	"Rush E (1.2M Notes)",
+	"Rush E (Impossible) + Midi Download",
 	"Rush E 2",
 	"Rush E 2 Real Black MIDI!! HSR",
 	"Rush E 3",
