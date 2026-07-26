@@ -50,6 +50,7 @@ return {
 	"chopin ballade 4 (c)lubetsky",
 	"Chopin Winter Wind Etude",
 	"Chopin-Etude-Op10-No4",
+	"Chpn Op23",
 	"Chpn Op35 1",
 	"Chpn Op35 3",
 	"Christina Perri - A Thousand Years (Piano Cover)",
