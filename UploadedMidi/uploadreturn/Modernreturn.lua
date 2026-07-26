@@ -123,6 +123,7 @@ return {
 	"L'Amour Toujours - Gigi D'Agostino (Organ Cover)",
 	"Laufey - From The Start",
 	"Long Time - Playboi Carti",
+	"Love Is In The Air, Pt. 1",
 	"Love Story X Golden Brown",
 	"Love Story X Golden Brown (1)",
 	"LOVELI LORI - Love For You",
