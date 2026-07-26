@@ -143,6 +143,7 @@ return {
 	"Pirates of the Caribbean - He's a Pirate (1)",
 	"Pirates Of The Caribbean - He'S A Pirate (Piano Version)",
 	"Posso Até NãO Te Da Flores - MC Ryan SP, MC Jacaré E MC Meno K Piano",
+	"Rac Op3 2",
 	"Raca Negra - Cheia De Manias.Mid",
 	"Rachmaninoff - Piano Concerto No 2 (Op 18) - 2nd Mvmt - Piano Solo",
 	"Radiohead - No Surprises (Piano Cover)( Z Qlo23fdAY )",
