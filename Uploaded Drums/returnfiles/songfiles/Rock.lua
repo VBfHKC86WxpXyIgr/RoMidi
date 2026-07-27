@@ -54,6 +54,7 @@ return {
 	"Crowbar-IT POURS FROM ME-07-27-2026",
 	"Crowbar-Planets Collide-07-27-2026",
 	"D7- Nirvana (Drums)",
+	"Deftones-Beauty School-07-27-2026",
 	"Degenerate",
 	"Dire Straits - Sultans Of Swing (Drum)",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
