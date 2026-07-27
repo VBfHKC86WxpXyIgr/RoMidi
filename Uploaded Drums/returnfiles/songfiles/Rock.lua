@@ -41,6 +41,7 @@ return {
 	"BreakStuff",
 	"Bush - Machinehead (Drum)",
 	"Canned Heat - Going Up The Country",
+	"Carnifex-Slit Wrist Savior-07-27-2026",
 	"Coldplay - Clocks (Drum)",
 	"Coldplay - In My Place (Drum)",
 	"Coldplay - Shiver (Drum)",
