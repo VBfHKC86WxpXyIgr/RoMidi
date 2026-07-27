@@ -385,6 +385,7 @@ return {
 	"Phi ĐIểU Và Ve SầU",
 	"PhíA Sau MộT Cô GáI",
 	"Phonecert (폰서트) - 10CM",
+	"Pixies - Where Is My Mind [MIDIfind.Com]",
 	"Play Date",
 	"Powfu - Death Bed (Dustbunny Edits)",
 	"Queen - Bohemian Rhapsody",
