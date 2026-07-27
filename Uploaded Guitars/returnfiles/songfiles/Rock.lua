@@ -50,6 +50,7 @@ return {
 	"Hoobastank - The Reason (2) [MIDIfind.Com]",
 	"Imagine - John Lennon",
 	"Judas Priest - You'Ve Got Another Thing Comin [MIDIfind.Com]",
+	"LastResort",
 	"Layla - Derek And The Dominos Ft Eric Clapton",
 	"Layla (Unplugged) - Eric Clapton",
 	"Linkin Park - Given Up [MIDIfind.Com]",
