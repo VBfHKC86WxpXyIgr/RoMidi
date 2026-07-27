@@ -187,6 +187,7 @@ return {
 	"Took Her To The O- King Von",
 	"Torete - Moonstar88",
 	"Tyler, The Creator - DOGTOOTH",
+	"Tyler, The Creator - IGOR'S THEME",
 	"Uhaw(Tayong Lahat) - Dilaw",
 	"Vamp Anthem - Playboi Carti (Piano Sheets)",
 	"Vicetone - Nevada ZNG",
