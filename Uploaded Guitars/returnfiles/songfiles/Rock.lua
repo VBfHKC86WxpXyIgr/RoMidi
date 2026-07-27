@@ -129,6 +129,7 @@ return {
 	"Ratt - Lay It Down [MIDIfind.Com]",
 	"Ratt - Round And Round [MIDIfind.Com]",
 	"Romantic Homicide",
+	"SA2 - Escape From The City",
 	"Samba De Verao (So Nice!)",
 	"Scorpions - No One Like You (2) [MIDIfind.Com]",
 	"Scorpions - Rock You Like A Hurricane [MIDIfind.Com]",
