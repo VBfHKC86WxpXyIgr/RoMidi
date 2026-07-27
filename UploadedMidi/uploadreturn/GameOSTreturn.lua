@@ -84,6 +84,7 @@ return {
 	"Kevin MacLeod - Who Likes To Party",
 	"Kevin MacLeod Heartbreaking Recreation (1)",
 	"KEY AFTER KEY LMS",
+	"Lana Del Rey Young And Beautiful Piano Midi",
 	"Legend Of Zelda - Saria's Song",
 	"Legendary Belmont - Castlevania Curse Of Darkness",
 	"Lena Raine - Pigstep",
