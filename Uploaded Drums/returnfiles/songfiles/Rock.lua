@@ -167,6 +167,7 @@ return {
 	"Red Hot Chili Peppers - Californication (Drum)",
 	"Rollin",
 	"Rush - YYZ (Drum)",
+	"SA2 - Escape From The City",
 	"Sadfasdf-Epic Cool Massive Like Ninjas Lowtaper Fade Meme Drum Solo-01-09-2025",
 	"Santana Carlos - Smooth [MIDIfind.Com]",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
