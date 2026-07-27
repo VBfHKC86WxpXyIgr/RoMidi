@@ -56,6 +56,7 @@ return {
 	"Linkin Park - Given Up [MIDIfind.Com]",
 	"Living Colorcult Of Personality",
 	"Lonesome Town - Ricky Nelson",
+	"Megadeth - Peace Sells [MIDIfind.Com]",
 	"Megalo Box 2",
 	"Megalovania Undertale",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
