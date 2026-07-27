@@ -311,6 +311,7 @@ return {
 	"Stay Away - Nirvana",
 	"Styx - Heavy Metal Poisoning [MIDIfind.com]",
 	"Sugar",
+	"Suicide Silence - You Only Llive Once [MIDIfind.Com]",
 	"System Of A Down - Aerials [MIDIfind.Com]",
 	"System Of A Down - B.Y.O.B. [MIDIfind.Com]",
 	"System Of A Down - BYOB (Drum)",
