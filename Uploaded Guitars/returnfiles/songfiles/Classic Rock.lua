@@ -61,6 +61,7 @@ return {
 	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
 	"Santana Carlos - Smooth [MIDIfind.Com]",
 	"Shiki No Uta (1)",
+	"Soundgarden - Outshined [MIDIfind.Com]",
 	"Stationsquare-Ts",
 	"SurfinUSA",
 	"The Beatles - A Hard Day'S Night",
