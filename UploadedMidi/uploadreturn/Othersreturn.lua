@@ -80,6 +80,7 @@ return {
 	"Beethoven Virus 2 Player",
 	"Bellaciao",
 	"BếN ThượNg HảI",
+	"Ben-Hala-Ruyada-Kisa-Versiyon",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
 	"Black-And-White-Rag-Arr-Winifred-Atwell",
 	"Bloodbath Geometry Dash",
