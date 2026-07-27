@@ -494,6 +494,7 @@ return {
 	"U.N. Owen",
 	"UN OWEN WAS HER 2 Player",
 	"ƯớC Mơ CủA Mẹ",
+	"Uzunince",
 	"Valentine Chờ",
 	"VâY Giữ",
 	"VâY HãM",
