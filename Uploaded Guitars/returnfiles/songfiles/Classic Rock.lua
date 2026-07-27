@@ -40,6 +40,7 @@ return {
 	"Jerryc - Canon Rock Lead Guitar [MIDIfind.Com]",
 	"Jpp 114-Crazy Train (Solo Only)-01-17-2026",
 	"Last Rites Loved To Deth - Megadeth Last Rites Loved To Deth - Megadeth (Demo)",
+	"LastResort",
 	"Let It Happen - Tame Impala",
 	"Linkin Park - Numb",
 	"Megadeth - Holy Wars The Punishment Due",
