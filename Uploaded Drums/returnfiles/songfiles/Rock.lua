@@ -177,6 +177,7 @@ return {
 	"Stone Temple Pilots - Plush [MIDIfind.Com]",
 	"Sunami-Die Slow-05-02-2026",
 	"SurfinUSA",
+	"Symphony-Of-Destruction",
 	"The Avengers Theme Song (CHECK MY NEW VERSION)",
 	"The Beatles - A Hard Day'S Night",
 	"THE BEATLES.All My Loving",
