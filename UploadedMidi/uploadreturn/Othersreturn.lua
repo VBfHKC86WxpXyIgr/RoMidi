@@ -320,6 +320,7 @@ return {
 	"Meant To Be",
 	"Melody-Sheet",
 	"Michael Jackson - Dirty Diana",
+	"Mihriban",
 	"MìNh CướI Nhau đI",
 	"Miss You - Oliver Tree & Robin Schulz",
 	"Mơ",
