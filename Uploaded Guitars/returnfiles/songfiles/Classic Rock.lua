@@ -60,6 +60,7 @@ return {
 	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
 	"Santana Carlos - Smooth [MIDIfind.Com]",
 	"Shiki No Uta (1)",
+	"Stationsquare-Ts",
 	"SurfinUSA",
 	"The Beatles - A Hard Day'S Night",
 	"THE BEATLES.Blackbird K",
