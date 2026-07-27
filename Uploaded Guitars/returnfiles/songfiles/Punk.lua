@@ -3,6 +3,7 @@ return {
 	"50 Nirvana RIFFS",
 	"50 Riffs - Nirvana (Pro)",
 	"About A Girl - Nirvana",
+	"Avenged Sevenfold - Bat Country [MIDIfind.Com]",
 	"Breed - Nirvana (TABS And Vocals)",
 	"Frances Farmer Will Have Her Revenge On Seattle - Nirvana",
 	"Green Day - American Eulogy [MIDIfind.Com]",
