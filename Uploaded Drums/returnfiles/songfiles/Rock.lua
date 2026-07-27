@@ -94,6 +94,7 @@ return {
 	"Green Day - Whatsername [MIDIfind.Com]",
 	"Green Day - When I Come Around [MIDIfind.Com]",
 	"Green Dayst Jimmy",
+	"Heroes Main",
 	"Hkmori - Anybody Can Find Love",
 	"Hkmori - Anybody Can Find Love (Except You.) [UNFINISHED] (Breakcore Drill 'N' Bass)",
 	"Hot For Teacher",
