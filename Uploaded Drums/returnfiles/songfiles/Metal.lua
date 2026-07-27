@@ -67,6 +67,7 @@ return {
 	"Cannibal Corpse - Hammer Smashed Face (Drum)",
 	"Cannibal Corpse - Scourge Of Iron (Drum)",
 	"CaughtSomewhereInTime",
+	"Chelsea Grin - Recreant [MIDIfind.Com]",
 	"Chevelle - Comfortable Liar [MIDIfind.Com]",
 	"Clown",
 	"Contempt of Cop",
