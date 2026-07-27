@@ -96,6 +96,7 @@ return {
 	"Hot For Teacher",
 	"imagine-dragons-believer-drum-score",
 	"Korn - Embrace",
+	"LastResort",
 	"Leech",
 	"Linkin Park - Given Up [MIDIfind.Com]",
 	"Linkin Park - No More Sorrow",
