@@ -163,6 +163,7 @@ return {
 	"Palagi-Tj-Monterde-Palagi",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
 	"Phonecert (폰서트) - 10CM",
+	"PUN - DAY ONE Piano Tutorial",
 	"Quando Bate Aquela Saudade - Rubel Piano",
 	"rapp snitch knishes",
 	"Rapp Snitch Knishes - MF DOOM",
