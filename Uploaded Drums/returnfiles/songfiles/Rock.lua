@@ -63,6 +63,7 @@ return {
 	"Faith",
 	"Foo Fighters - Everlong",
 	"Foo Fighters - Everlong (Drum)",
+	"For-Whom-The-Bell-Tolls",
 	"Fortunate Son - Creedance Clearwater Revival-Drum Kit, Drums",
 	"Franz Ferdinand - Take Me Out [MIDIfind.Com]",
 	"Girlfriend",
