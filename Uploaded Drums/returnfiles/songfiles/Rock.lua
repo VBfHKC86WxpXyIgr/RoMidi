@@ -170,6 +170,7 @@ return {
 	"Skillet - Monster [MIDIfind.Com]",
 	"Smells Like Teen Spirit - Drums",
 	"Stone Temple Pilots - Plush [MIDIfind.Com]",
+	"Sunami-Die Slow-05-02-2026",
 	"SurfinUSA",
 	"The Avengers Theme Song (CHECK MY NEW VERSION)",
 	"The Beatles - A Hard Day'S Night",
