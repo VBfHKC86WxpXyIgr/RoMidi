@@ -63,6 +63,7 @@ return {
 	"Bring Me The Horizon - It Never Ends MIDIfind.Com",
 	"Bring Me the Horizon - Pray For Plagues [MIDIfind.com]",
 	"Bring Me The Horizon - Sleepwalking MIDIfind.Com",
+	"Bullet For My Valentine - Tears Don'T Fall [MIDIfind.Com]",
 	"Candlemass - Solitude [MIDIfind.Com]",
 	"Cannibal Corpse - Hammer Smashed Face (Drum)",
 	"Cannibal Corpse - Scourge Of Iron (Drum)",
