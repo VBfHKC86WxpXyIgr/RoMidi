@@ -418,6 +418,7 @@ return {
 	"She Neva Knows - Justatee She Neva Knows",
 	"Shucks Ending V2",
 	"Song For You",
+	"Soundgarden - Outshined WWW.MIDISFREE.COM",
 	"Stay With Me Exo",
 	"Strawberry Fields For Ever",
 	"Studio Ghibli Piano",
