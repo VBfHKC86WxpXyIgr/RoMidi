@@ -186,6 +186,7 @@ return {
 	"Took Her To the O - King Vonn",
 	"Took Her To The O- King Von",
 	"Torete - Moonstar88",
+	"Tyler, The Creator - DOGTOOTH",
 	"Uhaw(Tayong Lahat) - Dilaw",
 	"Vamp Anthem - Playboi Carti (Piano Sheets)",
 	"Vicetone - Nevada ZNG",
