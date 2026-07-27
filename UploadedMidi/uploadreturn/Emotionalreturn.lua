@@ -78,6 +78,7 @@ return {
 	"Himno Nacional Argentino 🇦🇷",
 	"Hope - XXXTENTACION",
 	"House In Nebraska - Ethel Cain - Pianotify",
+	"Hozier - Take Me To Church.Mid",
 	"Humiliation Mistful Crimson Morning",
 	"I Cant Handle Change - Roar",
 	"I Deserve To Bleed - Suchi Soucy",
