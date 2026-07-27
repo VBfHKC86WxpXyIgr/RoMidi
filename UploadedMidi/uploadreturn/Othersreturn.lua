@@ -523,6 +523,7 @@ return {
 	"YTDown.Com YouTube Adolf-Hitler-Speech-At-Krupp-Factory-In- Media FJ3N 2r6R-O 001 480p",
 	"Zack Tabudlo - Pano Mhxa",
 	"Zedd-Clarity-20231118170709-Nonstop2k.Com",
+	"Zimmer Hans - Interstellar (3) [MIDIfind.Com]",
 	"Военные песни - Катюша (3) [MIDIfind.Com]",
 	"Народные песни - Походный марш Люфтваффе (Немецкий) [MIDIfind.Com]",
 	"Плыли мы по морю, ветер мачту рвал.Mid",
