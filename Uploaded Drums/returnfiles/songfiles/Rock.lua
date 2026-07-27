@@ -3,6 +3,7 @@ return {
 	"21 Guns - Green Day (Green Day) 21 Guns",
 	"4 Non Blondes - What'S Up (Drum)",
 	"505",
+	"ACDC - Thats The Way I Wanna Rock'N'Roll [MIDIfind.Com]",
 	"ACDC - Thunderstruck (Drum)",
 	"ACDC - You Shook Me All Night Long (Drum)",
 	"Alice In Chains - Damm That River [MIDIfind.Com]",
