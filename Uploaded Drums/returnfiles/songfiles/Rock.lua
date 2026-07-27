@@ -22,6 +22,7 @@ return {
 	"Arctic Monkeys - R U Mine [MIDIfind.com]",
 	"Audioslave - Like A Stone [MIDIfind.Com]",
 	"Avenged Sevenfold - Bat Country [MIDIfind.Com]",
+	"Avenged Sevenfold - Dear God [MIDIfind.Com]",
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
 	"Bad Religion - Change Of Ideas (Drum)",
 	"Beatles (The) - And I Love Her [MIDIfind.Com]",
