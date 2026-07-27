@@ -130,6 +130,7 @@ return {
 	"Snowy - Toby Fox",
 	"Sonic the Hedgehog - Mystic Cave Zone",
 	"Spongebob Squarepants Theme (MIDI)",
+	"Stationsquare-Ts",
 	"Stereo madness",
 	"Stereo Madness - ForeverBound",
 	"Stronger Than You - Undertale",
