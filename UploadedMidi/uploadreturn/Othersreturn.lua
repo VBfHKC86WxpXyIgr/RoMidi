@@ -502,6 +502,7 @@ return {
 	"Waiting For You",
 	"We Don'T Talk Anymore",
 	"WE DONT TALK ANYMORE X ChúNg Ta KhôNg ThuộC Về Nhau",
+	"White Stripes (The) - Seven Nation Army [MIDIfind.Com]",
 	"Winter Sonata",
 	"Woke Up In Japan By Friqtao",
 	"Xanh LụC",
