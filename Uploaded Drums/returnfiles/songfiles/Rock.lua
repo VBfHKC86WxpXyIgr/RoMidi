@@ -7,6 +7,7 @@ return {
 	"ACDC - Thats The Way I Wanna Rock'N'Roll [MIDIfind.Com]",
 	"ACDC - Thunderstruck (Drum)",
 	"ACDC - You Shook Me All Night Long (Drum)",
+	"AEROSMITH.Sweet Emotions",
 	"Alice In Chains - Damm That River [MIDIfind.Com]",
 	"Alice In Chains - It Ain'T Like It [MIDIfind.Com]",
 	"Alice In Chains - Nutshell [MIDIfind.Com]",
