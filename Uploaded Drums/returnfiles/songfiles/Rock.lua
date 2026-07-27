@@ -51,6 +51,7 @@ return {
 	"Cranberries - Zombie (Drum)",
 	"Creep",
 	"Crowbar-IT POURS FROM ME-07-27-2026",
+	"Crowbar-Planets Collide-07-27-2026",
 	"D7- Nirvana (Drums)",
 	"Degenerate",
 	"Dire Straits - Sultans Of Swing (Drum)",
