@@ -58,6 +58,7 @@ return {
 	"Five nights at Freddy's Song",
 	"FNAF",
 	"Gaster's Theme - Toby Fox",
+	"Genshin Impact Character Demo - Furina All The World'S A Stage",
 	"Geometry Dash - Thinking Space II Nuke Powder",
 	"Geometry Dash - Time Machine",
 	"Geometry Dash Menu Theme",
