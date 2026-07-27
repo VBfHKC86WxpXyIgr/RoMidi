@@ -62,6 +62,7 @@ return {
 	"Santana Carlos - Smooth [MIDIfind.Com]",
 	"Shiki No Uta (1)",
 	"Soundgarden - Outshined [MIDIfind.Com]",
+	"Soundgarden - Outshined WWW.MIDISFREE.COM",
 	"Stationsquare-Ts",
 	"SurfinUSA",
 	"The Beatles - A Hard Day'S Night",
