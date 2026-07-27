@@ -177,6 +177,7 @@ return {
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Skillet - Monster [MIDIfind.Com]",
 	"Smells Like Teen Spirit - Drums",
+	"Stationsquare-Ts",
 	"Stone Temple Pilots - Plush [MIDIfind.Com]",
 	"Sunami-Die Slow-05-02-2026",
 	"SurfinUSA",
