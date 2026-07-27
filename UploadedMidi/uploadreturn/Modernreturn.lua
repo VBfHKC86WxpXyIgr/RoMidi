@@ -53,6 +53,7 @@ return {
 	"BTS - House Of Cards",
 	"Burning Blue - Mariah The Scientist (Piano Solo)",
 	"Camellia - Flamewall",
+	"Champagne Coast - Piano Cover (TikTok Version)",
 	"Chaos-Construct",
 	"Charlie Puth - We Don'T Talk Anymore (Feat. Selena Gomez)",
 	"Chiquitita - ABBA (Only The Ending)",
