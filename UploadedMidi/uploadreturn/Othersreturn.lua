@@ -460,6 +460,7 @@ return {
 	"There-S-No-One-At-All",
 	"ThiêN BồNg NguyêN SóI",
 	"ThiếU NiêN Hoa HồNg",
+	"ThờI KhôNg Sai LệCh",
 	"ThứC GiấC",
 	"ThươNg Em Là đIềU Anh KhôNg Ngờ",
 	"Tiki Tiki Funk",
