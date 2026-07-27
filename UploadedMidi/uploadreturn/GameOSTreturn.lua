@@ -87,6 +87,7 @@ return {
 	"Legend Of Zelda - Saria's Song",
 	"Legendary Belmont - Castlevania Curse Of Darkness",
 	"Lena Raine - Pigstep",
+	"Letitgo",
 	"Limbo",
 	"MEGALOVANIA - Toby Fox",
 	"MeGaLoVania Piano",
