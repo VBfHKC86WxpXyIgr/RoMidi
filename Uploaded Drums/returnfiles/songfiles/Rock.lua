@@ -104,6 +104,7 @@ return {
 	"Love Buzz - Nirvana (Drums)",
 	"Mac Demarco - Freaking Out The Neighborhood [MIDIfind.Com]",
 	"Me-Aaron Kitcher Double Kicks-04-17-2025",
+	"Megadeth - Peace Sells [MIDIfind.Com]",
 	"My Chemical Romance - I'M Not Okay I Promise [MIDIfind.Com]",
 	"My Chemical Romance - Thank You For The Venom [MIDIfind.Com]",
 	"My Chemical Romance - Welcome To The Black Parade (Drum)",
