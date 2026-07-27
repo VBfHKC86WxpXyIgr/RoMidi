@@ -60,6 +60,7 @@ return {
 	"Blind",
 	"Breed - Nirvana Drums",
 	"Bring Me The Horizon - Happy Song [MIDIfind.com]",
+	"Bring Me The Horizon - It Never Ends MIDIfind.Com",
 	"Bring Me the Horizon - Pray For Plagues [MIDIfind.com]",
 	"Candlemass - Solitude [MIDIfind.Com]",
 	"Cannibal Corpse - Hammer Smashed Face (Drum)",
