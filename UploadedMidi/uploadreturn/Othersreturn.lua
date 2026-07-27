@@ -42,6 +42,7 @@ return {
 	"60375 Purnama-Merindu-",
 	"AA-Albert Einstein",
 	"AA-Isaac Newton",
+	"AEROSMITH.Sweet Emotions",
 	"Afton Family Impossible Piano Full",
 	"ÁI ThươNg",
 	"Ai♡Scream Mhxa",
