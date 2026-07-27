@@ -48,6 +48,7 @@ return {
 	"Free Bird - Lynyrd Skynyrd",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Heart Shaped Box - Nirvana",
+	"Heroes Main",
 	"Hoobastank - The Reason (2) [MIDIfind.Com]",
 	"Imagine - John Lennon",
 	"Judas Priest - You'Ve Got Another Thing Comin [MIDIfind.Com]",
