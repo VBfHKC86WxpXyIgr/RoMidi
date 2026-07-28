@@ -22,6 +22,7 @@ return {
 	"Adele - Skyfall",
 	"Advance Wars 2 Black Hole Rising - Colins Theme WWW.MIDISFREE.COM",
 	"Afgan-Bukan Cinta Biasa",
+	"Alexander Rybak - Fairytale.Mid",
 	"Angel-Nidji",
 	"Arabesque-in-E-Nr-1",
 	"Arithmophobia - Shapiano",
