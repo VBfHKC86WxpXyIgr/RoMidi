@@ -147,6 +147,7 @@ return {
 	"Judas Priest - The Sentinel [MIDIfind.Com]",
 	"Judas Priest - Victim Of Changes [MIDIfind.Com]",
 	"Judas Priest - You'Ve Got Another Thing Comin [MIDIfind.Com]",
+	"Korn - A.D.I.D.A.S (Drum)",
 	"Korn - Ball Tongue (Drum)",
 	"Korn - Blind (Drum)",
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
