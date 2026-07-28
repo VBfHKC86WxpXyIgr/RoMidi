@@ -18,6 +18,7 @@ return {
 	"1The Mind Electric (Piano Cover)",
 	"1Undone - The Sweater Song By Weezer",
 	"1White Ball - Miracle Musical (ミラクルミュージカル) White Ball",
+	"2Adele Skyfall",
 	"2Children",
 	"2Congratulations",
 	"2Meaningful Love X Virtual Insanity Piano",
