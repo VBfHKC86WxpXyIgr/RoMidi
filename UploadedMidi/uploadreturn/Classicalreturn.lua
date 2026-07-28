@@ -142,6 +142,7 @@ return {
 	"operas",
 	"Otsukare Summer",
 	"Panzerlied",
+	"Pathetique 3",
 	"Pedih Last Child 1780246257149",
 	"Piano",
 	"Pirates of the Caribbean - He's a Pirate (1)",
