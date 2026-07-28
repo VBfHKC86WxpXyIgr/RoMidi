@@ -121,6 +121,7 @@ return {
 	"ChịU đựNg đủ RồI",
 	"Chờ đợI Có đáNg Sợ",
 	"Chopin - Etude Op. 25 No. 6",
+	"Chopin-Etude-Op10-No4",
 	"ChưA ChắC",
 	"ChúNg Ta CủA HiệN TạI",
 	"ChúNg Ta CủA TươNg Lai",
