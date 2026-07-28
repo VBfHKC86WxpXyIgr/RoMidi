@@ -381,6 +381,7 @@ return {
 	"Nope Your Too Late I Already Died - Wifiskeleton",
 	"Norwegian Wood",
 	"NuôNg ChiềU đếN Hư HỏNg",
+	"O-Fortuna",
 	"OFFICIAL Roblox Bakon Theme Song",
 	"ÔI",
 	"Old Doll - Request Music Add Me - FikramGnteng",
