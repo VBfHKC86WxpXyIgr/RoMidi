@@ -443,6 +443,7 @@ return {
 	"Sounds - Line",
 	"Sounds - Reddit",
 	"Sounds - Skype",
+	"Sounds - Snapchat",
 	"Stay With Me Exo",
 	"Strawberry Fields For Ever",
 	"Studio Ghibli Piano",
