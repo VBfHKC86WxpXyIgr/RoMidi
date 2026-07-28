@@ -24,6 +24,7 @@ return {
 	"Afgan-Bukan Cinta Biasa",
 	"Alexander Rybak - Fairytale.Mid",
 	"Angel-Nidji",
+	"Appass 3",
 	"Arabesque-in-E-Nr-1",
 	"Arithmophobia - Shapiano",
 	"AUD AP2420H",
