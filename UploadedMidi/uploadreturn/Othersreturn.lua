@@ -441,6 +441,7 @@ return {
 	"Sounds - Google",
 	"Sounds - Instagram",
 	"Sounds - Line",
+	"Sounds - Nokia Tune",
 	"Sounds - Reddit",
 	"Sounds - Skype",
 	"Sounds - Snapchat",
