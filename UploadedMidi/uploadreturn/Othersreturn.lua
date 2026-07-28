@@ -441,6 +441,7 @@ return {
 	"Sounds - Google",
 	"Sounds - Instagram",
 	"Sounds - Line",
+	"Sounds - Reddit",
 	"Stay With Me Exo",
 	"Strawberry Fields For Ever",
 	"Studio Ghibli Piano",
