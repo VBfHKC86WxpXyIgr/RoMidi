@@ -47,6 +47,7 @@ return {
 	"Bush - Machinehead (Drum)",
 	"Canned Heat - Going Up The Country",
 	"Carnifex-Slit Wrist Savior-07-27-2026",
+	"CKY - 96 Quite Bitter Beings (Drum)",
 	"Coldplay - Clocks (Drum)",
 	"Coldplay - In My Place (Drum)",
 	"Coldplay - Shiver (Drum)",
