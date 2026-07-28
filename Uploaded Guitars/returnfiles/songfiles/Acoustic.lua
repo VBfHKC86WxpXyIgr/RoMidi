@@ -92,6 +92,7 @@ return {
 	"The Beatles - Here Comes The Sun",
 	"The Beatles - Let It Be",
 	"The Jimi Hendrix Experience - Purple Haze",
+	"The Neverminds - The Snow Will Catch Us Once Again",
 	"The WORLD - Death Note",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
 	"Tip Toe - HYBS",
