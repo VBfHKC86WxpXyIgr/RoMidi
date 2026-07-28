@@ -87,6 +87,7 @@ return {
 	"Solitude Is Bliss - Just One Thing",
 	"Stone Metal Fire -",
 	"Sunroof - Nicky Youre, Dazy",
+	"Surf Curse - FreaksChorus",
 	"Tarot Feast 1780242551896",
 	"The Beatles - Dont Let Me Down",
 	"The Beatles - Here Comes The Sun",
