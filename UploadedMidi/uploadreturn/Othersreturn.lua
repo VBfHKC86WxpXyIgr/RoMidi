@@ -447,6 +447,7 @@ return {
 	"Sounds - Tiktok",
 	"Sounds - Twich",
 	"Sounds - Twitter",
+	"Sounds - Viber",
 	"Sounds - WhatsApp",
 	"Stay With Me Exo",
 	"Strawberry Fields For Ever",
