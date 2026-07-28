@@ -225,6 +225,7 @@ return {
 	"Frank Sinatra - My Way But Improvising In Chopin Style - (Arr. Birru) (Live Midi) (1)",
 	"FREAKS",
 	"Friqtao Huye",
+	"Gangsta'S-Paradise-1",
 	"GáNh Mẹ",
 	"GạT đI NướC MắT",
 	"GạT đI NướC MắT 2",
