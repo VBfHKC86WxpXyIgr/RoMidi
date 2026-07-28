@@ -93,6 +93,7 @@ return {
 	"The Beatles - Let It Be",
 	"The Cure - Boys Dont Cry-Electric Guitar",
 	"The Cure - Boys Dont Cry-Electric Guitar (1)",
+	"The Cure - Boys Dont CryF",
 	"The Jimi Hendrix Experience - Purple Haze",
 	"The Neverminds - The Snow Will Catch Us Once Again",
 	"The WORLD - Death Note",
