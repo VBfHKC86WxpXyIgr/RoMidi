@@ -341,6 +341,7 @@ return {
 	"MộT NăM MớI BìNh An",
 	"MộT NăM MớI BìNh An Remix",
 	"MộT TriệU Khả NăNg",
+	"MưA đá 2.0",
 	"MùA Hạ ThoáNg Qua",
 	"MừNg HụT",
 	"MuộN RồI Mà Sao CòN",
