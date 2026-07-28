@@ -157,6 +157,7 @@ return {
 	"Oasis - Wonderwall (Drum)",
 	"Oasis-Dont Look Back In Anger",
 	"OASIS.Stand By Me",
+	"Offspring - Come Out And Play (Drum)",
 	"Offspring (The) - Pretty Fly For A White Guy [MIDIfind.Com]",
 	"Offspring (The) - The Kids Aren'T Alright [MIDIfind.Com]",
 	"Pearl Jam - Black (2) [MIDIfind.Com]",
