@@ -64,6 +64,7 @@ return {
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Michael Jackson - Beat It",
 	"Michael Jackson - Dirty Diana",
+	"Michael Jackson - Thriller",
 	"Michael Jackson-DIRTY DIANA - Guitar Cover By Adam Lee-10-02-2025",
 	"Michael%20Jackson%20-%20Beat%20It",
 	"Misc Covers-Steel Ball Run Teaser Trailer",
