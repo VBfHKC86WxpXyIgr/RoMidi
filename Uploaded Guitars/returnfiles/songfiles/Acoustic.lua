@@ -53,6 +53,7 @@ return {
 	"Karen Aoki Daisuke Hasegawa - Great Days Jojos Bizarre Adventure Diamond Is Unbreakable Op3",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"LArcenCiel - Drivers High",
+	"Led Zeppelin - Stairway To Heaven - Fingerstyle",
 	"Loso -",
 	"Loso - (1)",
 	"Mac Demarco - Freaking Out The Neighborhood",
