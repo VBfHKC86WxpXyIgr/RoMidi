@@ -91,6 +91,7 @@ return {
 	"The Beatles - Dont Let Me Down",
 	"The Beatles - Here Comes The Sun",
 	"The Beatles - Let It Be",
+	"The Cure - Boys Dont Cry-Electric Guitar",
 	"The Jimi Hendrix Experience - Purple Haze",
 	"The Neverminds - The Snow Will Catch Us Once Again",
 	"The WORLD - Death Note",
