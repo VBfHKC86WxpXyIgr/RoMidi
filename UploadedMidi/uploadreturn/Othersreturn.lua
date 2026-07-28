@@ -527,6 +527,7 @@ return {
 	"Waiting For You",
 	"We Don'T Talk Anymore",
 	"WE DONT TALK ANYMORE X ChúNg Ta KhôNg ThuộC Về Nhau",
+	"Webber Lloyd - The Phantom Of The Opera [MIDIfind.Com]",
 	"White Stripes (The) - Seven Nation Army [MIDIfind.Com]",
 	"Winter Sonata",
 	"Woke Up In Japan By Friqtao",
