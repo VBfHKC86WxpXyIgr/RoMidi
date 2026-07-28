@@ -19,6 +19,7 @@ return {
 	"1Undone - The Sweater Song By Weezer",
 	"1White Ball - Miracle Musical (ミラクルミュージカル) White Ball",
 	"2Children",
+	"2Congratulations",
 	"505 best part",
 	"81416 Take-Me-Back-Home",
 	"A Miserable Life",
