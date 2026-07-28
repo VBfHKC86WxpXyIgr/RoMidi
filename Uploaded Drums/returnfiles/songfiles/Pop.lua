@@ -5,5 +5,6 @@ return {
 	"Chamber Of Reflection - Mac DeMarco-Drum Kit, Set De Batterie",
 	"europop drumplosion",
 	"Mac DeMarco - Chamber of Reflection",
+	"Michael Jackson - Thriller",
 	"ThankYouForTheVenom(2)",
 }
