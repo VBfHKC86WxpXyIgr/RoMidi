@@ -235,6 +235,7 @@ return {
 	"Giá Như",
 	"GiấC Mơ TrưA",
 	"GộI ĐầU",
+	"Golden Brown - The Stranglers",
 	"Golden Hour - JVKE (Updated Ver.)",
 	"Golden Hour 2 Player",
 	"Golden Hour 2 Player Super",
