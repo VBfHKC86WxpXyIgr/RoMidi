@@ -142,6 +142,7 @@ return {
 	"Secret Door - Arctic Monkeys",
 	"Seven Nation Army",
 	"Shadow Bonnie - Bonnie Lullaby",
+	"Silverchair - Madman",
 	"Simple Plan - Perfect [MIDIfind.Com]",
 	"Skid Row - 18 And Life [MIDIfind.Com]",
 	"Skillet - Monster (2) [MIDIfind.Com]",
