@@ -6,5 +6,6 @@ return {
 	"europop drumplosion",
 	"Mac DeMarco - Chamber of Reflection",
 	"Michael Jackson - Thriller",
+	"Silverchair - Madman",
 	"ThankYouForTheVenom(2)",
 }
