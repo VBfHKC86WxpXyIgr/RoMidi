@@ -439,6 +439,7 @@ return {
 	"Soundgarden - Outshined WWW.MIDISFREE.COM",
 	"Sounds - Google",
 	"Sounds - Instagram",
+	"Sounds - Line",
 	"Stay With Me Exo",
 	"Strawberry Fields For Ever",
 	"Studio Ghibli Piano",
