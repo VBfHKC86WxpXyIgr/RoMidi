@@ -437,6 +437,7 @@ return {
 	"Shucks Ending V2",
 	"Song For You",
 	"Soundgarden - Outshined WWW.MIDISFREE.COM",
+	"Sounds - Google",
 	"Stay With Me Exo",
 	"Strawberry Fields For Ever",
 	"Studio Ghibli Piano",
