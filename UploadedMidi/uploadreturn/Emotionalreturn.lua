@@ -254,6 +254,7 @@ return {
 	"The Lantis - Bunga Maaf Piano Cover",
 	"The Living Tombstone - It'S Been So Long (FNaF 2 Song)",
 	"The Perfect Pair Beabadoobee (BEST VERSION HARD MODE)",
+	"The Perfect Pair Beabadoobee For Solo Piano (BEST VERSION)",
 	"The Sound Of Rain (BigRicePiano).Mid",
 	"The Stranglers - Golden Brown 2",
 	"TheFatRat - Fly Away. Black MIDI.Mid",
