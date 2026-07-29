@@ -58,6 +58,7 @@ return {
 	"Chubina (1)",
 	"Cinta Tak Harus Memiliki - Fikram",
 	"Cintakan Membawamu Kembali - Dewa 19 - Fikram",
+	"Clair-De-Lune-Debussy(BEST VERSION)",
 	"Coldplay - Sparks",
 	"Còn gì đẹp hơn impossible",
 	"Credits Song For My Death",
