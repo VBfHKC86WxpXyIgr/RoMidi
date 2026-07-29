@@ -69,6 +69,7 @@ return {
 	"THE BEATLES.Blackbird K",
 	"THE BEATLES.Helter Skelter",
 	"THE BEATLES.Something K",
+	"THE KINKS.You Really Got Me K",
 	"Three Days Grace - Painkiller",
 	"Through The Fire And Flames - DragonForce (Complete, Virtuoso Version)",
 	"Tuyo (Narcos Theme) - Rodrigo Amarante",
