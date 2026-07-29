@@ -82,6 +82,7 @@ return {
 	"Silly Fools -",
 	"Silly Fools - - Silly Fools Lyrics Audio",
 	"Silly Fools - Kid Hord(1)",
+	"Silly Fools -Cant Fight",
 	"Slot Machine -",
 	"Smash Mouth - All Star",
 	"Smash Mouth - Walkin On The Sun",
