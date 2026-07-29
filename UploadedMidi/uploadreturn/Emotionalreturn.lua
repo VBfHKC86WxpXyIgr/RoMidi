@@ -43,6 +43,7 @@ return {
 	"babydoll - dominic fike",
 	"Babydoll - Dominic Fike",
 	"Back To Friends - Sombr",
+	"Ballade No Opus In G Minor (BEST VERSION)",
 	"Basic Pitch Transcription",
 	"Beabadoobee - Glue Song (Ft. Clairo)",
 	"Beatles (The) - Eleanor Rigby (2) [MIDIfind.Com]",
