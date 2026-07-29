@@ -415,6 +415,7 @@ return {
 	"Rate+Lyrics+(1)",
 	"RecuéRdame - Walt Disney Corporation RecuéRdame (Lembre De Mim)",
 	"Remember Me Slimv Remix SơN TùNg",
+	"Ricochet Love - Waterflame OB0",
 	"River Flows In You 2 Player",
 	"River Flows In You X Kiss The Rain",
 	"Robert Miles - Children (Piano Version)",
