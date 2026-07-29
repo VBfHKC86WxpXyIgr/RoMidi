@@ -123,6 +123,7 @@ return {
 	"Kota Ini Tak Sama Tanpamu - Piano",
 	"La Campanella (BEST VERSION)",
 	"liebestraum",
+	"Liebestraum-S-541-No-3-In-A-Major-Liszt(BEST VERSION)",
 	"Liquid Smooth - Mitski",
 	"Liszt Grandes Tudes De Paganini In A Minor Theme And Variations S No (BEST VERSION)",
 	"Liz Et6",
