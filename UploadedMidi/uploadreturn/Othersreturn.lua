@@ -571,6 +571,7 @@ return {
 	"فتاة - عزف فاطمة الزبيدي Piano Cover",
 	"아무것도 아님",
 	"ふたつの木馬 - Kikuo",
+	"ふたつの木馬 (Twins At The Carousel) - Kikuo",
 	"不知所措",
 	"善变",
 	"會嗎",
