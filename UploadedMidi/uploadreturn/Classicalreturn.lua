@@ -37,6 +37,7 @@ return {
 	"Award Tour - A Tribe Called Quest (Instrumental Loop ~ Final Version)",
 	"Baby - Justin Bieber",
 	"Babydoll",
+	"Bach 846",
 	"Bach-Toccata-And-Fugue-In-D-Minor-Piano-Solo(BEST VERSION)",
 	"Barber-Of-Seville-(Ouverture)",
 	"Beautiful In White & Canon In D - Shane Filan",
