@@ -151,6 +151,7 @@ return {
 	"Confession Of A Rotten Girl Mhxa",
 	"CôNg Tử VăN Thơ",
 	"Cradles Mhxa",
+	"Cry For Me - Ironmouse Playable Ver",
 	"CùNg Anh",
 	"CướI Nhau đI",
 	"đã QuêN Hay ChưA",
