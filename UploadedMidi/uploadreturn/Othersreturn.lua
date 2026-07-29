@@ -502,6 +502,7 @@ return {
 	"ThờI KhôNg Sai LệCh",
 	"ThứC GiấC",
 	"ThươNg Em Là đIềU Anh KhôNg Ngờ",
+	"Tidal Wave Piano Ver Og By Symphoniac IT0",
 	"Tiki Tiki Funk",
 	"TìM Em",
 	"Tinh Vệ",
