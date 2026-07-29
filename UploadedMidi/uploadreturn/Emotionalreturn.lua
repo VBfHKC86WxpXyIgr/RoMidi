@@ -123,6 +123,7 @@ return {
 	"Jowel: Por qué te vas",
 	"Jowel: Your Love",
 	"Justin-Bieber-Ghost-Anonymous-20220216213352-nonstop2k.com",
+	"Kaikai-Kitan-Jujutsu-Kaisen-Opeve-Piano(BEST VERSION)",
 	"Kalapastangan - Fitterkarma",
 	"Kasih Putih - Fredly",
 	"Kasih Tak Sampai - Padi - Fikram",
