@@ -52,6 +52,7 @@ return {
 	"Full Theme By JoJo Steel Ball Run",
 	"FullMetal Alchemist - Again Brotherhood OP1 Mhxa",
 	"Giornos Theme",
+	"Gojos 0.2 Second Domain Expansion Theme (By AI From SUN VPS136) (But It Repeats)",
 	"Gooby This Gooby Tha5",
 	"GOZALO - Ariis",
 	"HalcyonMusic 10k subs medley",
