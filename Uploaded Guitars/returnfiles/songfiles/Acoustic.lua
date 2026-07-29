@@ -32,6 +32,7 @@ return {
 	"Creed - One Last Breath",
 	"Deep Purple - Smoke On The Water-Drum Kit",
 	"Dire Straits - Sultans Of Swing",
+	"Dorian Concept - 'Hide",
 	"Dumb Ways To Die",
 	"Dying Light - Horizon",
 	"Ed Sheeran Thinking Out Loud",
