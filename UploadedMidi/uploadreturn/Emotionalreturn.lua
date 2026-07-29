@@ -83,6 +83,7 @@ return {
 	"Ethereal - Txmy",
 	"Ethereal Tmxy (BEST VERSION)",
 	"Experience",
+	"FantaisieImpromptu (BEST VERSION)",
 	"Floating In Reverie Moayad Aljabal - Fikram",
 	"Fly Away",
 	"FOREVER",
