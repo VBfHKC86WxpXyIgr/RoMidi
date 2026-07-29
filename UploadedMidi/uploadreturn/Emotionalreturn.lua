@@ -80,6 +80,7 @@ return {
 	"Elton John - I'm still standing",
 	"Erika",
 	"Ethereal - Txmy",
+	"Ethereal Tmxy (BEST VERSION)",
 	"Experience",
 	"Floating In Reverie Moayad Aljabal - Fikram",
 	"Fly Away",
