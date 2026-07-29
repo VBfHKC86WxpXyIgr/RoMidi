@@ -48,6 +48,7 @@ return {
 	"Boogie-Woogie-Blues",
 	"Brubeck Dave - Take Five [MIDIfind.Com]",
 	"Bruno Mars - Risk It All",
+	"Burgmuller Etude Op No LOrage The Storm (BEST VERSION)",
 	"Campanella Busoni Chopin3",
 	"Canon-In-D-Piano-Drums-Jpachelbel-Ftomatheus (2)",
 	"Celestial Opus By Ace",
