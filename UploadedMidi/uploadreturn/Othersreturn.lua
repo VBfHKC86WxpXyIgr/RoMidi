@@ -475,6 +475,7 @@ return {
 	"Sword Art Online Gun Gale",
 	"Sword Art Online II Opening 1 - IGNITE",
 	"TáI Sinh",
+	"Take Me Hand",
 	"Tau 2 Deblacked",
 	"Tau No Art",
 	"Tau The Song",
