@@ -37,6 +37,7 @@ return {
 	"Aria-Math-C418-Arr-By-Chris-Fairmanminecraft-Creative(BEST VERSION)",
 	"Ariana Grande - Hampstead - Accurate Piano Tutorial With Sheet Music",
 	"Ariana Grande & Justin Bieber - Stuck With U (Midi By Carlo Prato) (Www.Cprato.Com)",
+	"Arrival Of The Birds The Cinematic Orchestra (BEST VERSION)",
 	"As The World Caves In - Matt Maltese (1)",
 	"Avenged Sevenfold - M I A [MIDIfind.com]",
 	"Avenged Sevenfold - M.i.a.   WWW.MIDISFREE.COM",
