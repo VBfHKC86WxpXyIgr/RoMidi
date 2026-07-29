@@ -68,6 +68,7 @@ return {
 	"Michael Jackson-DIRTY DIANA - Guitar Cover By Adam Lee-10-02-2025",
 	"Michael%20Jackson%20-%20Beat%20It",
 	"Misc Covers-Steel Ball Run Teaser Trailer",
+	"My Chemical Romance - Na Na Na [MIDIfind.Com]",
 	"My Chemical Romance - Thank You For The Venom [MIDIfind.Com]",
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison (2) [MIDIfind.Com]",
 	"Never Meant - American Football",
