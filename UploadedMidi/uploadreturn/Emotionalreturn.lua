@@ -239,6 +239,7 @@ return {
 	"Sunsezt yt @moongate 1234",
 	"Surat Cinta 4 Starla By Vero",
 	"Sweater Weather- The Neighbourhood-- 2.0",
+	"Sweetly-Lord-Kael(BEST VERSION)",
 	"Tai sinh",
 	"Tally Hall- Hidden in the Sand ",
 	"Tap 011 - Bunda WWW.MIDISFREE.COM",
