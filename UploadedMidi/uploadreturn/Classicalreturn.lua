@@ -63,6 +63,7 @@ return {
 	"Chpn Op35 1",
 	"Chpn Op35 3",
 	"Christina Perri - A Thousand Years (Piano Cover)",
+	"Classical-Music-Mashup(BEST VERSION)",
 	"Counting stars",
 	"Czardas",
 	"Dạo Bước HongKong 1999",
