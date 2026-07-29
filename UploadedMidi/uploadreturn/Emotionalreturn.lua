@@ -106,6 +106,7 @@ return {
 	"I Thought I Saw Your Face Today - She Him LYRICS",
 	"Idea 10 - Fikram",
 	"Imagine - John Lennon, John Lennon And The Plastic Ono Band (Piano Solo)",
+	"Impostor Syndrome (MEDIUM VERSION)",
 	"Indila - Love Story",
 	"Innocence - Daniel Caesar - Fikram",
 	"Interstellar main theme (With Effects!)",
