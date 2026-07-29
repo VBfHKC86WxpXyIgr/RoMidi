@@ -44,6 +44,7 @@ return {
 	"Beethoven Virus (insane)",
 	"Beethoven Virus (insane).mid (1)",
 	"Beethoven-Moonlight-Sonata",
+	"Binary-Data-Iv-Alfonso-Peduto(BEST VERSION)",
 	"Binks Rum Binks Sake 1780241727588",
 	"Bogemian",
 	"Boogie-Woogie-Blues",
