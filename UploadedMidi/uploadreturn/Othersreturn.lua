@@ -217,6 +217,7 @@ return {
 	"Fake Love X Suzume X BóNg Lá RơI",
 	"Fasion - Dansez - COPYRIGHT FREE - CEM",
 	"Feather - Nujabes",
+	"Flow - Creo (Piano)",
 	"Flower Dance - DJ Okawari",
 	"Flower Dance + Windy Hill + 星茶会 + 夜、萤火虫和你 + Luv Letter",
 	"Flower Dance 2 Player",
