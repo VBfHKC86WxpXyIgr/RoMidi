@@ -241,6 +241,7 @@ return {
 	"Golden Hour 2 Player Super",
 	"Golden Hour X Runaway X Interstellar",
 	"Gravity Falls - Made Me Realize",
+	"Great Fairy Fountain (Piano Etude)",
 	"Great Fairy Fountain But It'S A Little Much.",
 	"Great Fairy Fountain Theme",
 	"Hababam",
