@@ -170,6 +170,7 @@ return {
 	"Rockefeller Street By Nightcore (Piano)",
 	"Rossini Barber Of Seville, Overture Transcribed For Piano",
 	"Rossini Gioacchino Rossini - Barber Of Sevilla Ouverture [MIDIfind.Com]",
+	"Rousseau-Vivaldi-Summer-3rd-Mvt(BEST VERSION)",
 	"Running Up That Hill.Mid",
 	"Rush D",
 	"Rush D HSR!",
