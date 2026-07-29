@@ -85,6 +85,7 @@ return {
 	"Forever",
 	"Frank Sinatra - My Way By Trouble",
 	"Freaks – Surf Curse Freaks",
+	"Golden-Brown-X-Love-Story-Ilblu(BEST VERSION)",
 	"Golden-Hour-Full-Version",
 	"Green Day - Last Night On Earth",
 	"happy",
