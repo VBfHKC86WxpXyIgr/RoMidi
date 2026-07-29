@@ -198,6 +198,7 @@ return {
 	"THE BEATLES.My Sweet Lord",
 	"THE BEATLES.Something K",
 	"The Handshake (Drum)",
+	"THE KINKS.You Really Got Me K",
 	"The Offspring - Come Out And Play (Drum V2)",
 	"The White Stripes- Seven Nation Army (Drum)",
 	"Tom-Sawyer-3",
