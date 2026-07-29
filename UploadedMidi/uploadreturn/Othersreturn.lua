@@ -176,6 +176,7 @@ return {
 	"đôNg MiêM",
 	"DòNg TháC ThờI Gian",
 	"DONT TOUCH MY PIZZA",
+	"Dont Touch My Pizza",
 	"DONT+TOUCH+MY+PIZZA",
 	"DONTSTOPMENOW",
 	"Drowning Love - Chasing Kou Mhxa",
