@@ -355,6 +355,7 @@ return {
 	"MuộN RồI Mà Sao CòN",
 	"Music Using Only Sounds From Windows XP & 98 ~ SomethingUnreal - Blacked By KF2015",
 	"Music Using Only Sounds From Windows XP & 98 ~ SomethingUnreal - Blacked By KF2015 (1)",
+	"My Ordinary Life - The Living Tombstone",
 	"Mz 311 3",
 	"NắM LấY Tay Anh",
 	"Nandemonaiya",
