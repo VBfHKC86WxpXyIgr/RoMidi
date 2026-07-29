@@ -249,6 +249,7 @@ return {
 	"Vina Panduwinata - Kumpul Bocah",
 	"Virgoun Surat Cinta Untuk Starla Roblox",
 	"Wait For U",
+	"Waltz Of The Flowers Piano Arrangement (MEDIUM VERSION)",
 	"WARRIYO",
 	"Washing Machine Heart - Mitski",
 	"Wave to earth - Love",
