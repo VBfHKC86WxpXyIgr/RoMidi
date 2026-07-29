@@ -193,6 +193,7 @@ return {
 	"Metallica - Last Caress (2) [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (23) [MIDIfind.Com]",
+	"Metallica - Master Of Puppets (Drum)",
 	"Metallica - Master Of Puppets [MIDIfind.Com]",
 	"Metallica - Motorbreath (2) [MIDIfind.Com]",
 	"Metallica - My Apocalypse [MIDIfind.Com]",
