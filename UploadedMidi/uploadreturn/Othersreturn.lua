@@ -425,6 +425,7 @@ return {
 	"RồI Ta Sẽ NgắM PháO Hoa CùNg Nhau",
 	"Rosalina In The Observatory 3 - Super Mario Galaxy 2",
 	"RPReplay Final1783229073.Mp3",
+	"Rude Buster - Deltarune (PIANO SOLO)",
 	"Rush D HSR!",
 	"Rush E",
 	"Rush E (Impossible).Transformed",
