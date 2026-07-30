@@ -38,6 +38,7 @@ return {
 	"Castle Vein - Ultrakill (1)",
 	"Cornfield Chase",
 	"Creo - Flow",
+	"Daisy Bell (1892)",
 	"Deadlocked (Geometry Dash)",
 	"Death By Glamour Piano",
 	"Deltarune - Field Of Hopes And Dreams - Urimegaconnor (1)",
