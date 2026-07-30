@@ -349,6 +349,7 @@ return {
 	"Moonlight Sonata 3rd X Megalovania",
 	"Moonlight Sonata X Torrent",
 	"Moonlignt Sonata 3rd X Rush E",
+	"Moonstellar",
 	"MộT đườNg Nở Hoa",
 	"MộT NăM MớI BìNh An",
 	"MộT NăM MớI BìNh An Remix",
