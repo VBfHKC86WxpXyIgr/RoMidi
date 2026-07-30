@@ -72,6 +72,7 @@ return {
 	"DạO BướC HongKong 1999",
 	"Dark Red",
 	"Daylight - David Kushner",
+	"Demons",
 	"Die with a smile - Piano Solo LKZ",
 	"Dimension Creo",
 	"Dr Dre - Still Dre",
