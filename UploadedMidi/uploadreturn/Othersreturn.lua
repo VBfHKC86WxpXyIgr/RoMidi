@@ -347,6 +347,7 @@ return {
 	"MONTAGEM TOMADA - MXZI (Piano Tutorial)",
 	"Moonlight Sonata 3rd Movement",
 	"Moonlight Sonata X Torrent",
+	"Moonlignt Sonata 3rd X Rush E",
 	"MộT đườNg Nở Hoa",
 	"MộT NăM MớI BìNh An",
 	"MộT NăM MớI BìNh An Remix",
