@@ -34,6 +34,7 @@ return {
 	"Alan Walker - Better Off Alone (Alone, Pt. III)",
 	"Alan Walker - Sing Me To Sleep",
 	"Alan Walker - The Drum",
+	"Alan-Walker-The-Spectre-Anonymous-20200425083142-Nonstop2k.Com",
 	"ALL MY FELLAS 8FR",
 	"Arctic Monkeys Arr. Lucky Piano - No. 1 Party Anthem (1)",
 	"Ariana Grande, Justin Bieber - Stuck With U",
