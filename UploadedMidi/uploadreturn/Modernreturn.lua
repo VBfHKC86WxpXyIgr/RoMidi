@@ -32,6 +32,7 @@ return {
 	"Ai Đưa Em Về (Take Me Back Home) – TIA  feat. Lê Thiện Hiếu (Low Cortisol Song)",
 	"Alan Walker - Alone Part II",
 	"Alan Walker - Better Off Alone (Alone, Pt. III)",
+	"Alan Walker - On My Way (BúM ).Mid",
 	"Alan Walker - Sing Me To Sleep",
 	"Alan Walker - The Drum",
 	"Alan-Walker-The-Spectre-Anonymous-20200425083142-Nonstop2k.Com",
