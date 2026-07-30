@@ -83,6 +83,7 @@ return {
 	"Cryptopsy - Slit Your Guts (Drums)",
 	"Daft Punk - Robot Rock [MIDIfind.Com]",
 	"Danger line (W.I.P)",
+	"Death - Crystal Mountain (Drum)",
 	"Death - Flesh And The Power It Holds [MIDIfind.Com]",
 	"Death - Left To Die (Drum)",
 	"Deftones - 7 Words [MIDIfind.com]",
