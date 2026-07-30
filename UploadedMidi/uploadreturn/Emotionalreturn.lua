@@ -66,6 +66,7 @@ return {
 	"Coldplay - Sparks",
 	"Còn gì đẹp hơn impossible",
 	"Congratulations-Mac-Miller(BEST VERSION)",
+	"Cool For The Summer REMIX (BEST COMBO)",
 	"Credits Song For My Death",
 	"Cry for me impossible",
 	"D MD0251",
