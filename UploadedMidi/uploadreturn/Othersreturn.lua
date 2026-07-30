@@ -346,6 +346,7 @@ return {
 	"Monogolue As One",
 	"MONTAGEM TOMADA - MXZI (Piano Tutorial)",
 	"Moonlight Sonata 3rd Movement",
+	"Moonlight Sonata 3rd X Megalovania",
 	"Moonlight Sonata X Torrent",
 	"Moonlignt Sonata 3rd X Rush E",
 	"MộT đườNg Nở Hoa",
