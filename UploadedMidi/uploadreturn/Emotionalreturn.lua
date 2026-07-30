@@ -83,6 +83,7 @@ return {
 	"Elton John - I'm still standing",
 	"Erika",
 	"Ethereal - Txmy",
+	"Ethereal Full Score(BEST V2 VERSION)",
 	"Ethereal Tmxy (BEST VERSION)",
 	"Ethereal Txmy (BEST DIRECT MODE)",
 	"Experience",
