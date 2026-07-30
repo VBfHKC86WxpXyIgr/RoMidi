@@ -9,6 +9,7 @@ return {
 	"Anlatamam - Kara Sevda [Demon]",
 	"APT",
 	"Bad Style",
+	"Basic Pitch Transcription",
 	"Billie Eilish - WILDFLOWER (In The Key Of A Major).30-Sec-Sample.MIDISTAX.COM",
 	"Black Gryph0n - Upside Down (A Hazbin Hotel Song)",
 	"Blinding Lights",
