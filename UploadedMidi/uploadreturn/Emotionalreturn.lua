@@ -266,6 +266,7 @@ return {
 	"The Stranglers - Golden Brown 2",
 	"TheFatRat - Fly Away. Black MIDI.Mid",
 	"This Is What Autumn Feels Like - Jvke",
+	"Time Travel Theme By Jay Chou From Secret Film (BEST VERSION)",
 	"Time Travel Theme Jay Chou Secret Ending (BEST Advanced Mode)",
 	"Tokyo Ghoul OP Unravel FB Piano Anime (BEST VERSION)",
 	"Tom Odell - Another Love",
