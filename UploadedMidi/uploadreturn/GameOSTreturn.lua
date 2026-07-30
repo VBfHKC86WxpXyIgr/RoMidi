@@ -18,6 +18,7 @@ return {
 	"Animation Warrior Theme - NightHawk22 MIDI Piano Arrangement 1AG",
 	"ASGORE - Toby Fox",
 	"ASGORE Kyle Landry EDT",
+	"At The Speed Of Light",
 	"Attack Of The Killer Queen - (Deltarune) - [MIDI]",
 	"Back on Track",
 	"Bad Apple!!",
