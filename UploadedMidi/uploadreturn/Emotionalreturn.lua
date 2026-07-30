@@ -84,6 +84,7 @@ return {
 	"Erika",
 	"Ethereal - Txmy",
 	"Ethereal Tmxy (BEST VERSION)",
+	"Ethereal Txmy (BEST DIRECT MODE)",
 	"Experience",
 	"Faded",
 	"FantaisieImpromptu (BEST VERSION)",
