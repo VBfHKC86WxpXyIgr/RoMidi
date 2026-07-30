@@ -42,6 +42,7 @@ return {
 	"Avenged Sevenfold - M I A [MIDIfind.com]",
 	"Avenged Sevenfold - M.i.a.   WWW.MIDISFREE.COM",
 	"Avenged Sevenfold — Warmness on the Soul [MIDIfind.com]",
+	"Avicii - Waiting For Love.Mid",
 	"Baby Hotline",
 	"babydoll - dominic fike",
 	"Babydoll - Dominic Fike",
