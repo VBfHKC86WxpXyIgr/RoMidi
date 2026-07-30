@@ -439,6 +439,7 @@ return {
 	"Rush E 4",
 	"Rush E 4 No Lag",
 	"Rush E Normal Mhxa",
+	"Rush E X Beethoven Viruss X Nu Pogodi",
 	"Rush E X Interstellar",
 	"RUSH N",
 	"Samplab Screen-20260606-1108",
