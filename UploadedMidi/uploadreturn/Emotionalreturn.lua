@@ -56,6 +56,7 @@ return {
 	"Buttercup - Jack Stauber",
 	"Can You Hear The Music(BEST V2 VERSION)",
 	"Can-You-Hear-The-Music-Ludwig-Goransson-From-Oppenheimer(BEST VERSION)",
+	"Can-You-Hear-The-Music((BEST V3 VERSION)",
 	"Carol Of The BellsPiano(BEST VERSION)",
 	"Chamber Of Reflection",
 	"Chezile - Beanie - Fikram",
