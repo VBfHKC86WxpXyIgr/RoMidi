@@ -17,6 +17,7 @@ return {
 	"American Football - Never Meant",
 	"Arctic Monkeys - Crying Lightning [MIDIfind.Com]",
 	"AUD DW0234",
+	"Avenged Sevenfold - Afterlife [Sky]",
 	"Avenged Sevenfold - Almost Easy [Sky]",
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
 	"Beatles It Wont Be Long",
