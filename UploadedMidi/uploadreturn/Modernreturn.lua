@@ -127,6 +127,7 @@ return {
 	"Kota Ini Tak Sama Tanpamu - Nadhif Basalamah Tutorial Piano Pemula",
 	"L'Amour Toujours - Gigi D'Agostino (Organ Cover)",
 	"Laufey - From The Start",
+	"Levels",
 	"Long Time - Playboi Carti",
 	"Look At What You'Ve Done - Drake",
 	"Love Is In The Air, Pt. 1",
