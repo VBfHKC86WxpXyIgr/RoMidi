@@ -84,6 +84,7 @@ return {
 	"Daft Punk - Robot Rock [MIDIfind.Com]",
 	"Danger line (W.I.P)",
 	"Death - Flesh And The Power It Holds [MIDIfind.Com]",
+	"Death - Left To Die (Drum)",
 	"Deftones - 7 Words [MIDIfind.com]",
 	"Deftones - Around the Fur [MIDIfind.com]",
 	"Deftones - My Own Summer Shove It [MIDIfind.Com]",
