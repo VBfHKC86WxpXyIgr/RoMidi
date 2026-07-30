@@ -162,6 +162,7 @@ return {
 	"Thick Of It [The one from IG reels]",
 	"Title Theme (The Legend Of Zelda Ocarina Of Time)",
 	"Touhou - BAD APPLE NORMAL Mhxa",
+	"Town Talk",
 	"Triage At Dawn",
 	"TripleTrouble",
 	"Undertale - Asgore",
