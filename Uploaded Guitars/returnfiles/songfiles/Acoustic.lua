@@ -35,6 +35,7 @@ return {
 	"Composed By Yu-Peng Chen Arranged By Devon Sebastian K - Liyue Harbor Song No. 4",
 	"Creed - One Last Breath",
 	"Deep Purple - Smoke On The Water-Drum Kit",
+	"Deftones - Be Quiet And Drive Far AwayBass",
 	"Dire Straits - Sultans Of Swing",
 	"Dorian Concept - 'Hide",
 	"Dumb Ways To Die",
