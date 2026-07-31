@@ -123,6 +123,7 @@ return {
 	"Toe - Goodbye Rasgueo",
 	"Tsuki (พระจันทร์) - LANDOKMAI",
 	"Two Door Cinema Club - Undercover Martyn",
+	"Voice - Bille Jean",
 	"Winter Rain - Yented",
 	"Wonderless - Acoustic By Pierce The Veil",
 	"Yes - Roundabout Bass",
