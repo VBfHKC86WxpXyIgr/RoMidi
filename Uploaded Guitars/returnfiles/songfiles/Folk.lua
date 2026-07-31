@@ -4,6 +4,7 @@ return {
 	"1The Housebuilding Song",
 	"Blowin' In The Wind - Bob Dylan, Peter, Paul & Mary (Piano-Vocal-Guitar)",
 	"Bob Dylan - Like A Rolling Stone",
+	"Dylan Bob - Like A Rolling Stone (2) [MIDIfind.Com]",
 	"House-Of-The-Rising-Sun-1.Mid",
 	"Knockin'On Heaven'S Door - Bob Dylan",
 	"Like A Rolling Stone - Bob Dylan",
