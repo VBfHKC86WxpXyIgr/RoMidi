@@ -110,6 +110,7 @@ return {
 	"House In Nebraska - Ethel Cain - Pianotify",
 	"Hozier - Take Me To Church.Mid",
 	"Humiliation Mistful Crimson Morning",
+	"Hungarian Rhapsody (BEST VERSION)",
 	"I Cant Handle Change - Roar",
 	"I Deserve To Bleed - Suchi Soucy",
 	"I Love You So - The Watters",
