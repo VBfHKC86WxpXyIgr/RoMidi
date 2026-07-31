@@ -17,6 +17,7 @@ return {
 	"Bertaut - Guitar",
 	"Binks Rum Binks Sake 1780241727588",
 	"Bleach - Ranbu No Melody (OP 13)",
+	"Bocchi The Rock - Ano Bando",
 	"Bodyslam - (1)",
 	"Bodyslam -FUULL",
 	"Bodyslam -Yapid",
