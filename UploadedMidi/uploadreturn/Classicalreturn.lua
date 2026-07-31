@@ -135,6 +135,7 @@ return {
 	"Liebestraum-S-541-No-3-In-A-Major-Liszt(BEST VERSION)",
 	"Liquid Smooth - Mitski",
 	"Liszt Grandes Tudes De Paganini In A Minor Theme And Variations S No (BEST VERSION)",
+	"Little Red Riding Hood- Sergei Rachmaninoff (Finished)",
 	"Liz Et6",
 	"Liz Rhap02",
 	"Manco Baris - Donence [MIDIfind.Com]",
