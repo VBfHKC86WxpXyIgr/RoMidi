@@ -24,5 +24,6 @@ return {
 	"Slipknot - Eyeless (2) [MIDIfind.Com]",
 	"System Of A Down - Aerials [MIDIfind.Com]",
 	"System Of A Down - Sugar [MIDIfind.Com]",
+	"System Of A Down - Suite Pee [MIDIfind.Com]",
 	"System Of A Down - War (4) [MIDIfind.Com]",
 }
