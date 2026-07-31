@@ -215,6 +215,7 @@ return {
 	"Organ Sonata No BWV Andante Adagio Vikingur Olafsson Interpretation (MEDIUM VERSION)",
 	"Padi Kasih Tak Smp",
 	"Parfum D'Etoiles - Ichika Aoba",
+	"Parfum Dtoiles (BEST VERSION)",
 	"Past Lives - Borns",
 	"Pokemon BlackWhite - An Unwavering Heart",
 	"Poppies Lane Memoryy By Slank",
