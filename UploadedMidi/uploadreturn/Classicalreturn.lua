@@ -56,6 +56,7 @@ return {
 	"Campanella Busoni Chopin3",
 	"Canon-In-D-Piano-Drums-Jpachelbel-Ftomatheus (2)",
 	"Carnival Animals 7 (C)Pajares",
+	"Celestial Opus (BEST VERSION)",
 	"Celestial Opus By Ace",
 	"Chopin - Ballade No. 1 In G Minor Op 23 MIDI",
 	"Chopin - Waltz In A Minor By Trouble",
