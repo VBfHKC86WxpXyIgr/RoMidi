@@ -77,6 +77,7 @@ return {
 	"Debra Lady Gaga - Shallow",
 	"Drowning Love Tuxedo.Fx",
 	"Endless-Rain-Piano-Cover",
+	"Etude-In-E-Minor-Opus-25-Nr-5",
 	"Evgeny Grinko - Valse( VYCOg-YglNM )",
 	"EvGeny Grinko-Valse",
 	"Fasion - Dansez - COPYRIGHT FREE - CEM",
