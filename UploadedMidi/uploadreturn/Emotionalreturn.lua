@@ -247,6 +247,7 @@ return {
 	"SHUCKS EPIC",
 	"Sinking Town   沈める街 - Yoeko Kurahashi",
 	"Smashing Pumpkins - 1979",
+	"Sonata No In D Major Ascension (BEST VERSION)",
 	"Stephen Sanchez - Until I Found You",
 	"Still With You - BTS Jungkook.Mid",
 	"Succession Piano Version (BEST VERSION)",
