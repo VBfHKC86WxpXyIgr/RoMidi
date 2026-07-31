@@ -18,6 +18,7 @@ return {
 	"Binks Rum Binks Sake 1780241727588",
 	"Bleach - Ranbu No Melody (OP 13)",
 	"Bocchi The Rock - Ano Bando",
+	"Bocchi The Rock - Seisyun Complex",
 	"Bodyslam - (1)",
 	"Bodyslam -FUULL",
 	"Bodyslam -Yapid",
