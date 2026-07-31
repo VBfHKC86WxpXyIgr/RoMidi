@@ -16,6 +16,7 @@ return {
 	"Beabadoobee-The Perfect Pair-05-27-2023-Acoustic Guitar",
 	"Bertaut - Guitar",
 	"Binks Rum Binks Sake 1780241727588",
+	"Black Sabbath - NIB Bass",
 	"Black Sabbath - NIB Guitar",
 	"Bleach - Ranbu No Melody (OP 13)",
 	"Bocchi The Rock - Ano Bando",
