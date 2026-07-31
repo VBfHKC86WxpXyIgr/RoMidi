@@ -2,6 +2,7 @@
 return {
 	"1Hava Nagila",
 	"1The Housebuilding Song",
+	"Blowin' In The Wind - Bob Dylan, Peter, Paul & Mary (Piano-Vocal-Guitar)",
 	"Bob Dylan - Like A Rolling Stone",
 	"House-Of-The-Rising-Sun-1.Mid",
 	"Like A Rolling Stone - Bob Dylan (Piano-Vocal-Guitar)",
