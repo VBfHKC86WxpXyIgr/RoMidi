@@ -193,6 +193,7 @@ return {
 	"Mrs Magic - Strawberry Guy",
 	"Mrs Magic - Strawberry Guy (Intro)",
 	"Mrs Magic - Strawberry Guy (Piano Version)",
+	"Mrs Magic Strings Version (BEST DIRECT VERSION)",
 	"Multo - Cup of Joe RNE",
 	"My Chemical Romance - I Don'T Love You",
 	"My Heart - Fikram",
