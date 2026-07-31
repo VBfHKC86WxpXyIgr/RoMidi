@@ -410,6 +410,7 @@ return {
 	"Paparazzi - Lady Gaga",
 	"PEARL JAM.Even Flow",
 	"Persona - Color Your Night Mhxa",
+	"PhéP MàU",
 	"Phi ĐIểU Và Ve SầU",
 	"PhíA Sau MộT Cô GáI",
 	"Phonecert (폰서트) - 10CM",
