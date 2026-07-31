@@ -54,6 +54,7 @@ return {
 	"Jane! - The Long Faces",
 	"JOJOs - Roundabout-Electric Bass, Electric Bass",
 	"JOJOs - Roundabout-Electric Guitar, Electric Guitar",
+	"JOJOs - RoundaboutBass",
 	"Just The Two Of Us.",
 	"Justin Bieber - Beauty And A Beat WWW.MIDISFREE.COM.Mid",
 	"Karen Aoki Daisuke Hasegawa - Great Days Jojos Bizarre Adventure Diamond Is Unbreakable Op3",
