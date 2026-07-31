@@ -129,6 +129,7 @@ return {
 	"Kosma, Joseph - Autumn Leaves (2) [MIDIfind.Com]",
 	"Kota Ini Tak Sama Tanpamu - Piano",
 	"La Campanella (BEST VERSION)",
+	"La Valse DAmlie Yann Tiersen (BEST VERSION)",
 	"liebestraum",
 	"Liebestraum-S-541-No-3-In-A-Major-Liszt(BEST VERSION)",
 	"Liquid Smooth - Mitski",
