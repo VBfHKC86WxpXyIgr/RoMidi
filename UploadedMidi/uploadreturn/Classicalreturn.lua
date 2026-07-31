@@ -128,6 +128,7 @@ return {
 	"Kosma Joseph - Fly Me To The Moon [MIDIfind.Com]",
 	"Kosma, Joseph - Autumn Leaves (2) [MIDIfind.Com]",
 	"Kota Ini Tak Sama Tanpamu - Piano",
+	"Kuroshitsuji Book Of Circus OST (BEST VERSION)",
 	"La Campanella (BEST VERSION)",
 	"La Valse DAmlie Yann Tiersen (BEST VERSION)",
 	"liebestraum",
