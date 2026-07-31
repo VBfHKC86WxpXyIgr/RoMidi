@@ -221,6 +221,7 @@ return {
 	"Virginio Aiello, On Piano - Van Gogh",
 	"Vivaldi-Winter-Rousseau-Version-Original(BEST VERSION)",
 	"Waldstein 1",
+	"Waltz Opus No In C Minor (BEST VERSION)",
 	"Wedding-Day-at-Troldhaugen",
 	"Whenjohnnycomesmarchinghome",
 	"Woke Up In Japan By Friqtao",
