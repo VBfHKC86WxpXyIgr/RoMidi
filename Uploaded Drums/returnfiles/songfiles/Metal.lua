@@ -332,6 +332,7 @@ return {
 	"System Of A Down - Prison Song (5) [MIDIfind.Com]",
 	"System Of A Down - Prison Song (9) [MIDIfind.Com]",
 	"System Of A Down - Sugar [MIDIfind.Com]",
+	"System Of A Down - Suite Pee [MIDIfind.Com]",
 	"System Of A Down - Toxicity (Drum)",
 	"System Of A Down - Vicinity Of Obscenity (Drum)",
 	"System Of A Down - War (4) [MIDIfind.Com]",
