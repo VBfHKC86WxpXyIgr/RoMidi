@@ -100,6 +100,7 @@ return {
 	"Stone Metal Fire -",
 	"Sunroof - Nicky Youre, Dazy",
 	"Surf Curse - FreaksChorus",
+	"Surf Curse - FreaksLead",
 	"Tarot Feast 1780242551896",
 	"The Beatles - Dont Let Me Down",
 	"The Beatles - Here Comes The Sun",
