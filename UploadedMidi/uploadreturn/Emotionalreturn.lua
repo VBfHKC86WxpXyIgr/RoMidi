@@ -76,6 +76,7 @@ return {
 	"D4vd Romantic Homicide piano midi",
 	"Death Bed - Powfu",
 	"DebraYume Moayad Aljabal - Floating In Reverie",
+	"Delight Me - Lukewarm Tears",
 	"Die-With-A-Smile",
 	"Do I Wanna Know Bass",
 	"Do I Wanna Know by Arctic Monkeys",
