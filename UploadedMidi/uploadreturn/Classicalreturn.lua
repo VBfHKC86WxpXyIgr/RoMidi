@@ -54,6 +54,7 @@ return {
 	"Burgmuller Etude Op No LOrage The Storm (BEST VERSION)",
 	"Campanella Busoni Chopin3",
 	"Canon-In-D-Piano-Drums-Jpachelbel-Ftomatheus (2)",
+	"Carnival Animals 7 (C)Pajares",
 	"Celestial Opus By Ace",
 	"Chopin - Ballade No. 1 In G Minor Op 23 MIDI",
 	"Chopin - Waltz In A Minor By Trouble",
