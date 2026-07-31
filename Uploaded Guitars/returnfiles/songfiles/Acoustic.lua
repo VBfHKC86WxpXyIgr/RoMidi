@@ -73,6 +73,7 @@ return {
 	"Mac Demarco - Freaking Out The Neighborhood (1)",
 	"Made In Thailand, Made In USA",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
+	"Michael Jackson - Smooth Criminal Acoustic Fingerstyle",
 	"Misc Covers-Is It Really You (Acoustic VER.) By Loathe-07-04-2026",
 	"Moderndog -",
 	"Nirvana - Do Re Mi",
