@@ -354,6 +354,7 @@ return {
 	"MộT NăM MớI BìNh An",
 	"MộT NăM MớI BìNh An Remix",
 	"MộT TriệU Khả NăNg",
+	"Mr Kitty - After Dark.Mid",
 	"MưA đá 2.0",
 	"MùA Hạ ThoáNg Qua",
 	"MừNg HụT",
