@@ -36,6 +36,7 @@ return {
 	"Creed - One Last Breath",
 	"Deep Purple - Smoke On The Water-Drum Kit",
 	"Deftones - Be Quiet And Drive Far AwayBass",
+	"Deftones - Be Quiet And Drive Far AwayGuitar",
 	"Dire Straits - Sultans Of Swing",
 	"Dorian Concept - 'Hide",
 	"Dumb Ways To Die",
