@@ -92,6 +92,7 @@ return {
 	"Experience",
 	"Faded",
 	"FantaisieImpromptu (BEST VERSION)",
+	"Feeling Good (BEST VERSION)",
 	"Floating In Reverie Moayad Aljabal - Fikram",
 	"Floating-In-Reverie-Moayad-Aljabal(MEDIUM VERSION)",
 	"Flower-Dance(BEST VERSION)",
