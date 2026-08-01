@@ -174,6 +174,7 @@ return {
 	"rapp snitch knishes",
 	"Rapp Snitch Knishes - MF DOOM",
 	"Ricky Montgomery - Line Without A Hook [FULL]",
+	"Risk It All - Bruno Mars",
 	"Robert-Miles-Children-20240118103815-Nonstop2k.Com",
 	"Roommates - Malcolm Todd",
 	"Rush E – lyre only",
