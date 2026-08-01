@@ -223,6 +223,7 @@ return {
 	"Flower Dance - DJ Okawari",
 	"Flower Dance + Windy Hill + 星茶会 + 夜、萤火虫和你 + Luv Letter",
 	"Flower Dance 2 Player",
+	"Flower Dance 3",
 	"Flower Dance Black",
 	"Flower Dance Black Midi",
 	"Flower Dance Had",
