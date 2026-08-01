@@ -180,6 +180,7 @@ return {
 	"Yara Yara Ya Phonk - Sua Amiga Eu Vou Pegar - MC Lan, MC WM SLOWED",
 	"YTDown",
 	"Ария - Я свободен [MIDIfind.Com]",
+	"Кино - Спокойная ночь (4) [MIDIfind.Com]",
 	"Король и Шут - Прыгну со скалы [MIDIfind.Com]",
 	"Пикник - Египтянин [MIDIfind.Com]",
 	"Пикник - Королевство кривых [MIDIfind.Com]",
