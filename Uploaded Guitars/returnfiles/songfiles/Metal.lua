@@ -219,6 +219,7 @@ return {
 	"Monster - Skillet",
 	"Ms Salmonella - Lifelover",
 	"Necromancy - Bathory",
+	"Nightmare Sarcofago Parte1",
 	"Nocturnal Depression - Her Ghost Haunts These Walls",
 	"Opensheets-Torment-Payback",
 	"Osbourne Ozzy - Crazy Train [MIDIfind.Com]",
