@@ -417,6 +417,7 @@ return {
 	"Paparazzi - Lady Gaga",
 	"PEARL JAM.Even Flow",
 	"Persona - Color Your Night Mhxa",
+	"Persona 5 - Last Suprise (PIANO & DRUMS)",
 	"PhéP MàU",
 	"Phi ĐIểU Và Ve SầU",
 	"PhíA Sau MộT Cô GáI",
