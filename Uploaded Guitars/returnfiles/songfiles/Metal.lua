@@ -215,6 +215,7 @@ return {
 	"Metallica - Whiplash [MIDIfind.Com]",
 	"Metallica Spit Out The Bone",
 	"Michael Jackson - Thriller",
+	"Midnight Queen - Sarcofago",
 	"Midnight Queen - SarcóFago (IníCio)",
 	"Monster - Skillet",
 	"Ms Salmonella - Lifelover",
