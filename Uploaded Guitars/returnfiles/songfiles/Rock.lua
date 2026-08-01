@@ -64,6 +64,7 @@ return {
 	"Megalo Box 2",
 	"Megalovania Undertale",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
+	"Metallica - Master Of Puppets (Solo) [Sky]",
 	"Michael Jackson - Beat It",
 	"Michael Jackson - Dirty Diana",
 	"Michael Jackson - Thriller",
