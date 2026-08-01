@@ -142,6 +142,7 @@ return {
 	"ขี้หึง - Silly Fools [Fingerstyle]",
 	"ความรักทำให้คนตาบอด - Bodyslam",
 	"คำบางคำ Sqweez Animal",
+	"คืนจันทร์ - LOSO",
 	"คุกเข่า - Cocktail",
 	"เคย",
 	"จันทร์เจ้า Slot Machine",
