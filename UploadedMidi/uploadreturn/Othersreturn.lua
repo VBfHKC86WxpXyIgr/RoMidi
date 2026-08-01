@@ -196,6 +196,7 @@ return {
 	"ĐƯỜNG-TÔI-CHỞ-EM-VỀ",
 	"Earrings - Malcolm Todd (Piano)",
 	"Eek",
+	"Eek!",
 	"Elevator Jam LSPLASH But Here I Come Super Hard Edition",
 	"Ella Baila Sola Eslabon Armado Y Peso Pluma",
 	"Em Có BiếT",
