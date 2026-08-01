@@ -110,6 +110,7 @@ return {
 	"Reinai Circulation Mhxa",
 	"Ripped Pants By Spongebob Squarepants And The Losers",
 	"Rokudenashi - One Voice Mhxa",
+	"Rush E Normal",
 	"Sayonara Cross Teck-07-04-2026",
 	"Scott Joplin'S The Entertainer MIDI FULL",
 	"Self Embodiment of Perfection (Mahito Theme)",
