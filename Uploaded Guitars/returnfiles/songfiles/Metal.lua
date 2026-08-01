@@ -133,6 +133,7 @@ return {
 	"Lifelover - Myspys [MIDIfind.Com]",
 	"Lifelover - Nackskott [MIDIfind.Com]",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
+	"Linkin Park - In The End V5",
 	"Lost Wisdom - Burzum",
 	"Megadeth - Devils Island [MIDIfind.Com]",
 	"Megadeth - Hanger 18",
