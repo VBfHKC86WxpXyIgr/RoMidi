@@ -140,6 +140,7 @@ return {
 	"Sneaky Snitch - Kevin MacLeod",
 	"Snowy - Toby Fox",
 	"Sonic the Hedgehog - Mystic Cave Zone",
+	"Spider Dance - Undertale",
 	"Spongebob Squarepants Theme (MIDI)",
 	"Stationsquare-Ts",
 	"Stereo madness",
