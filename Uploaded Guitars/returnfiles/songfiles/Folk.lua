@@ -7,6 +7,7 @@ return {
 	"Bob DylanBobDylan Like A Rolling Stone",
 	"Dylan Bob - Like A Rolling Stone (2) [MIDIfind.Com]",
 	"House-Of-The-Rising-Sun-1.Mid",
+	"Huricane - Bob Dylan",
 	"Knockin'On Heaven'S Door - Bob Dylan",
 	"Like A Rolling Stone - Bob Dylan",
 	"Like A Rolling Stone - Bob Dylan (Piano-Vocal-Guitar)",
