@@ -14,6 +14,7 @@ return {
 	"50 Riffs - Pantera (Pro)",
 	"505 - Arctic Monkeys",
 	"A Miserable Life",
+	"A Miserable Life - Decalius",
 	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
 	"Angel Of Death - Slayer (Corrected To E Standard)",
 	"AngelOfDeath",
