@@ -82,6 +82,7 @@ return {
 	"Debra Lady Gaga - Shallow",
 	"Drowning Love Tuxedo.Fx",
 	"Endless-Rain-Piano-Cover",
+	"Etude In A Minor Op76 No.2(BEST ADVANCED VERSION)",
 	"Etude-In-E-Minor-Opus-25-Nr-5",
 	"Evgeny Grinko - Valse( VYCOg-YglNM )",
 	"EvGeny Grinko-Valse",
