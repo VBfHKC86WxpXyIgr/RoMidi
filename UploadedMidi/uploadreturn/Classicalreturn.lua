@@ -113,6 +113,7 @@ return {
 	"Handel, Halvorsen - Passacaglia",
 	"Handel, Halvorsen - Passacaglia.Mid",
 	"Handel,Halvorsen Passacaglia",
+	"Hino Nacional Brasileiro Em F Maior(BEST VERSION)",
 	"Hit The Road Jack - Fikram",
 	"Human-Nature (1)",
 	"I Think I Had The Wrong Audience 😭🙏 - WzlfsKeys (192k)",
