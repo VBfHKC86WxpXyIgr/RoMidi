@@ -68,6 +68,7 @@ return {
 	"The Beatles - A Hard Day'S Night",
 	"THE BEATLES.Blackbird K",
 	"THE BEATLES.Helter Skelter",
+	"THE BEATLES.Michelle K",
 	"THE BEATLES.Something K",
 	"THE KINKS.You Really Got Me K",
 	"Three Days Grace - Painkiller",
