@@ -23,6 +23,7 @@ return {
 	"Green Day - Letterbomb [MIDIfind.Com]",
 	"Green Day - Longview [MIDIfind.Com]",
 	"Green Day - No One Knows [MIDIfind.Com]",
+	"Green Day - One Eyed Bastard (SPOTISAVER)",
 	"Green Day - She'S A Rebel [MIDIfind.Com]",
 	"Green Day - Stray Heart [MIDIfind.Com]",
 	"Green Day - Welcome To Paradise [MIDIfind.Com]",
