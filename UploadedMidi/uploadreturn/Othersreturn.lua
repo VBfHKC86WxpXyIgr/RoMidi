@@ -315,6 +315,7 @@ return {
 	"KJ V2",
 	"KOBO KANAERO - HELP!! Mhxa",
 	"Kokoronashi",
+	"Là Anh",
 	"La Campanella",
 	"La Campanella 1838",
 	"La La Land - A Lovely Night(Birru) MIDI",
