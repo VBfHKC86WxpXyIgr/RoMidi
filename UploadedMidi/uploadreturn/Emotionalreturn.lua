@@ -90,6 +90,7 @@ return {
 	"Ethereal Full Score(BEST V2 VERSION)",
 	"Ethereal Tmxy (BEST VERSION)",
 	"Ethereal Txmy (BEST DIRECT MODE)",
+	"Etude Op76 No.2(BEST VERSION)",
 	"Experience",
 	"Faded",
 	"FantaisieImpromptu (BEST VERSION)",
