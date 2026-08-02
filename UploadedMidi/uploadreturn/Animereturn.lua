@@ -111,6 +111,7 @@ return {
 	"Ripped Pants By Spongebob Squarepants And The Losers",
 	"Rokudenashi - One Voice Mhxa",
 	"Rush E Normal",
+	"Sae Vs Everyone Blue Lock (BEST VERSION)",
 	"Sayonara Cross Teck-07-04-2026",
 	"Scott Joplin'S The Entertainer MIDI FULL",
 	"Self Embodiment of Perfection (Mahito Theme)",
