@@ -182,6 +182,7 @@ return {
 	"Pathetique 3",
 	"Pedih Last Child 1780246257149",
 	"Piano",
+	"Piano Cover - - Nice Piano Sheets 192k Converted By Jukeblocks",
 	"Pirates of the Caribbean - He's a Pirate (1)",
 	"Pirates Of The Caribbean - He'S A Pirate (Piano Version)",
 	"Posso Até NãO Te Da Flores - MC Ryan SP, MC Jacaré E MC Meno K Piano",
