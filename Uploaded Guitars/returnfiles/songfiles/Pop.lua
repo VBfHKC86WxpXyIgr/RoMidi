@@ -19,6 +19,7 @@ return {
 	"NắNg ấM Xa DầN - As One",
 	"Never Gonna Give You Up",
 	"Như NgàY HôM Qua",
+	"Take Me Hand",
 	"TháI BìNh Mồ HôI RơI",
 	"There-S-No-One-At-All",
 }
