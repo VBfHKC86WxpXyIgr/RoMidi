@@ -30,6 +30,7 @@ return {
 	"In The End - Linkin Park",
 	"Is It Really You - Loathe",
 	"Jane! Ttest",
+	"Kaer Morhen From Witcher",
 	"LED ZEPPELIN.Stairway To Heaven KA",
 	"Lit My Own Worst Enemy.Gtr",
 	"Made In Thailland 2",
