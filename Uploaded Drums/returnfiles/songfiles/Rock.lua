@@ -195,6 +195,7 @@ return {
 	"The Beatles - A Hard Day'S Night",
 	"THE BEATLES.All My Loving",
 	"THE BEATLES.Helter Skelter",
+	"THE BEATLES.Michelle K",
 	"THE BEATLES.My Sweet Lord",
 	"THE BEATLES.Something K",
 	"The Handshake (Drum)",
