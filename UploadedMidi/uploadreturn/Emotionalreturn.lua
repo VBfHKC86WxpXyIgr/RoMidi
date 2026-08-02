@@ -190,6 +190,7 @@ return {
 	"Michael Jackson - Earth Song",
 	"Michael Jackson - Man In The Mirror",
 	"Michael Jackson - Will You Be There (From Free Will)",
+	"Misty (BEST VERSION)",
 	"Moayad Aljabal - Finding Myself",
 	"Moonlight - XXXTentacion",
 	"Morning Mood",
