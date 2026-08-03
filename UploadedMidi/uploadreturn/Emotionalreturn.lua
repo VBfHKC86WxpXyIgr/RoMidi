@@ -81,6 +81,7 @@ return {
 	"Die-With-A-Smile",
 	"Do I Wanna Know Bass",
 	"Do I Wanna Know by Arctic Monkeys",
+	"Drowning-Love-(HUMAN BEST VERSION)",
 	"Duncan Laurence - Arcade",
 	"Duvet BoA (BEST VERSION)",
 	"El Beeper",
