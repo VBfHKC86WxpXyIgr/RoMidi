@@ -307,6 +307,7 @@ return {
 	"Twin Peaks - Laura Palmer'S Theme - Piano Cover & Tutorial [U3JkmGKirvg]",
 	"Unslept - Miraidempa",
 	"Unslept By Miraidempa",
+	"Victors Solo (HUMAN BEST VERSION)",
 	"Việt Nam I love impossible",
 	"Vina Panduwinata - Kumpul Bocah",
 	"Virgoun Surat Cinta Untuk Starla Roblox",
