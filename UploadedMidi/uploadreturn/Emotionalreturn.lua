@@ -279,6 +279,7 @@ return {
 	"Sweetly-Lord-Kael(BEST VERSION)",
 	"Tai sinh",
 	"Tally Hall- Hidden in the Sand ",
+	"Tango-Flamenco(HUMAN BEST VERSION)",
 	"Tap 011 - Bunda WWW.MIDISFREE.COM",
 	"Tapi Tahukah Kamu - Fikram",
 	"Tchaikovsky - Pas De Deux ( From The Nutcracker).Mid",
