@@ -279,6 +279,7 @@ return {
 	"Rammstein - Sonne [MIDIfind.Com]",
 	"Repentless",
 	"Roses On Bathory S Blood Bath",
+	"Satanic Lust - Sarcofago",
 	"Serrana Solo",
 	"Silencer - Death Pierce Me [MIDIfind.Com]",
 	"Silencer - Sterile Nails And Thunderbowels [MIDIfind.Com]",
