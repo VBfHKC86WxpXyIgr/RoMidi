@@ -292,6 +292,7 @@ return {
 	"System Of A Down - B.Y.O.B. [MIDIfind.Com]",
 	"System Of A Down - Lonely Day [MIDIfind.Com]",
 	"The Crying Orc - Burzum",
+	"The Laws Of Scourge - Sarcofago",
 	"Three Days Grace - Animal I Have Become [MIDIfind.Com]",
 	"Three Days Grace - Home [MIDIfind.Com]",
 	"Three Days Grace - I Hate Everything About You (4) [MIDIfind.Com]",
