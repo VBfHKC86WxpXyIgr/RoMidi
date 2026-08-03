@@ -16,5 +16,6 @@ return {
 	"Radiohead - Fake Plastic Trees Acoustic Version [MIDIfind.Com]",
 	"Radiohead - Jigsaw Falling Into Place [MIDIfind.Com]",
 	"Radiohead - Nude [MIDIfind.Com]",
+	"ROAR - Christmas Kids",
 	"SpongeBob - Main Theme [MIDIfind.Com]",
 }
