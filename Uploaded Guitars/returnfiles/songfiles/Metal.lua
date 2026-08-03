@@ -220,6 +220,7 @@ return {
 	"Michael Jackson - Thriller",
 	"Midnight Queen - Sarcofago",
 	"Midnight Queen - SarcóFago (IníCio)",
+	"Midnight Queen (Acurate)",
 	"Midnight Queen (Solo) - Sarcofago",
 	"Monster - Skillet",
 	"Ms Salmonella - Lifelover",
