@@ -38,6 +38,7 @@ return {
 	"Deftones - Be Quiet And Drive Far AwayBass",
 	"Deftones - Be Quiet And Drive Far AwayGuitar",
 	"Dire Straits - Sultans Of Swing",
+	"Do Re Mi",
 	"Dorian Concept - 'Hide",
 	"Dumb Ways To Die",
 	"Dying Light - Horizon",
