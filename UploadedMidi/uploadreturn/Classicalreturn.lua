@@ -226,6 +226,7 @@ return {
 	"Symphony 9 4 (C)Cvikl",
 	"Take-Me-Out-To-The-Ballgame",
 	"Tarot Feast 1780242551896",
+	"Tau Ultra",
 	"Tchaikovsky Nutcracker Suite Flowers 71a 8 (C)Kirschbaum",
 	"Tes Tes Tes",
 	"Tetris Block Arts V4",
