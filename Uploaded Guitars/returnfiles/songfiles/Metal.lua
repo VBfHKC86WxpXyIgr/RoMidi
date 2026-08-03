@@ -103,6 +103,7 @@ return {
 	"HIM - Poison Girl [MIDIfind.Com]",
 	"HIM - Razorblade Kiss [MIDIfind.Com]",
 	"HIM - Your Sweet 666 [MIDIfind.Com]",
+	"I N R L - Sarcofago",
 	"Ilia Burzum",
 	"Jason Becker - Altitudes Solo",
 	"Judas Priest - A Touch Of Evil [MIDIfind.Com]",
