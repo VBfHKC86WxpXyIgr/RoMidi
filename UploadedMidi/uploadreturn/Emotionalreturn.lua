@@ -163,6 +163,7 @@ return {
 	"La Foule (BEST VERSION)",
 	"La Maritza - Sylvie Vartan By Trouble",
 	"LạC TrôI Piano - SơN TùNg M-TP.Mid",
+	"Lacrimosa (HUMAN BEST VERSION)",
 	"Laufey - Promise",
 	"Laufey - Too little, too late",
 	"Les Childish Gambino Piano Solo 1784876806897",
