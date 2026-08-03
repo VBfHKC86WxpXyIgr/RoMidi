@@ -284,6 +284,7 @@ return {
 	"The Interstellar Experience",
 	"The Lantis - Bunga Maaf Piano Cover",
 	"The Living Tombstone - It'S Been So Long (FNaF 2 Song)",
+	"The Name Of LifeInochi(HUMAN BEST VERSION)",
 	"The Perfect Pair Beabadoobee (BEST VERSION HARD MODE)",
 	"The Perfect Pair Beabadoobee For Solo Piano (BEST VERSION)",
 	"The Sound Of Rain (BigRicePiano).Mid",
