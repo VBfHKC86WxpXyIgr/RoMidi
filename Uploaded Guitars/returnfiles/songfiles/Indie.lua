@@ -18,4 +18,5 @@ return {
 	"Radiohead - Nude [MIDIfind.Com]",
 	"ROAR - Christmas Kids",
 	"SpongeBob - Main Theme [MIDIfind.Com]",
+	"Tek It - Cafune.Mid",
 }
