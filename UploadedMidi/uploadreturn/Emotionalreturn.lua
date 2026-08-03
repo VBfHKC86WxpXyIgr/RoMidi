@@ -69,6 +69,7 @@ return {
 	"Clair-De-Lune-Debussy(BEST VERSION)",
 	"Coldplay - Sparks",
 	"Composition-Autumn-Memories(HUMAN BEST VERSION)",
+	"Composition-Clown-Chase(HUMAN BEST VERSION)",
 	"Còn gì đẹp hơn impossible",
 	"Congratulations-Mac-Miller(BEST VERSION)",
 	"Cool For The Summer REMIX (BEST COMBO)",
