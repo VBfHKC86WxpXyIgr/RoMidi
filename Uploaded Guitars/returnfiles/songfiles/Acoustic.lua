@@ -40,6 +40,7 @@ return {
 	"Dire Straits - Sultans Of Swing",
 	"Do Re Mi",
 	"Do Re Mi - Nirvana",
+	"Do Re Mi (Teste1)",
 	"Dorian Concept - 'Hide",
 	"Dumb Ways To Die",
 	"Dying Light - Horizon",
