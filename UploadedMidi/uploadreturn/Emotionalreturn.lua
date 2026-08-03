@@ -162,6 +162,7 @@ return {
 	"KISS — I Was Made For Loving You",
 	"Kosma Joseph - Autumn Leaves [MIDIfind.Com]",
 	"Ku Ingin Pisah - Fikram",
+	"Kyu-Kurarin-Iyowa-Feat-(HUMAN BEST VERSION)",
 	"La Foule (BEST VERSION)",
 	"La Maritza - Sylvie Vartan By Trouble",
 	"LạC TrôI Piano - SơN TùNg M-TP.Mid",
