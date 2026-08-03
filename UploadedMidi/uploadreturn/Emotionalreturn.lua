@@ -290,6 +290,7 @@ return {
 	"The Perfect Pair Beabadoobee For Solo Piano (BEST VERSION)",
 	"The Sound Of Rain (BigRicePiano).Mid",
 	"The Stranglers - Golden Brown 2",
+	"The Swan Lake Suite (HUMAN BEST VERSION)",
 	"TheFatRat - Fly Away. Black MIDI.Mid",
 	"This Is What Autumn Feels Like - Jvke",
 	"Time Travel Theme By Jay Chou From Secret Film (BEST VERSION)",
