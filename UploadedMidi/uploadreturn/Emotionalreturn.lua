@@ -258,6 +258,7 @@ return {
 	"Sampai Jadi Debu Placeholder",
 	"Samplab Kasih Putih - Glenn",
 	"Sayonara Cross Teck",
+	"Scherzo(HUMAN BEST VERSION)",
 	"Seasons In The Sun - Westlife (Piano-Voice)",
 	"Seasons Simple W2e By Vero",
 	"Seasons-In-The-Sun-Terry-Jacks-Ballad-Piano-Level-4 1",
