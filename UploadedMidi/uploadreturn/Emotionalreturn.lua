@@ -63,6 +63,7 @@ return {
 	"Can-You-Hear-The-Music((BEST V3 VERSION)",
 	"Carol Of The BellsPiano(BEST VERSION)",
 	"Chamber Of Reflection",
+	"CHAOS CONSTRUCT (HUMAN BEST VERSION)",
 	"Chezile - Beanie - Fikram",
 	"Childish Gambino - Redbone",
 	"Chubina (1)",
