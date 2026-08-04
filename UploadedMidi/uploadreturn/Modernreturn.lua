@@ -179,6 +179,7 @@ return {
 	"Robert-Miles-Children-20240118103815-Nonstop2k.Com",
 	"Roommates - Malcolm Todd",
 	"Rush E – lyre only",
+	"Rush E Mobile",
 	"Sempurna By Andra And The Backbone",
 	"Shooting Stars - Piano Solo Arrangement",
 	"SHUCKS ENDING CUTCENE PIANO COVER",
