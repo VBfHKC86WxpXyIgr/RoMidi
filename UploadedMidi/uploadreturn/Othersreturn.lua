@@ -261,6 +261,7 @@ return {
 	"HạNh PhúC MớI",
 	"HAPPY BIRTHDAY",
 	"Haru Haru",
+	"Hasretinle Yandı GöNlüM",
 	"Hatsune Miku - Senbonzakura Mhxa",
 	"HãY Trao Cho Anh",
 	"HãY Trao Cho Anh 2",
