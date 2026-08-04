@@ -116,6 +116,7 @@ return {
 	"ChắC Ai đó Sẽ Về 2015",
 	"ChắC Ai Đó Sẽ Về X Because I Miss You",
 	"ChạM Khẽ Tim Anh",
+	"ChẳNg PhảI TìNh đầU Sao đAu đếN Thế",
 	"ChàNg Trai NăM ấY Ost",
 	"Charlies Inferno",
 	"ChạY Ngay đI",
