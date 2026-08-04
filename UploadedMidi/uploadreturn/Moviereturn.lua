@@ -16,6 +16,7 @@ return {
 	"Blinding Lights",
 	"Bohemian Rhapsody - Queen",
 	"Bohemian Rhapsody - Queen (Piano Solo)",
+	"Carol Of The Bells With Style",
 	"Carter Burwell - Bella'S Lullaby [MIDIfind.Com] 2",
 	"Charlie Clouser - Saw Final Theme WWW.MIDISFREE.COM",
 	"Cigarettes After Sex - Apocalypse (Ending) V2",
