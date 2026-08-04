@@ -191,6 +191,7 @@ return {
 	"Sufjan Stevens - Mystery Of Love",
 	"Talking To The Moon (Bruno Mars).Mid",
 	"Tally Hall- Hidden In The Sand",
+	"TaU THE SONG",
 	"Tek It - Cafune",
 	"The Greatest Showman - Rewrite The Stars Piano Cover With Strings (With PIANO SHEETS)",
 	"THE ITCHYWORMS - Di Na Muli ( Extended Solo ) NNTranscription",
