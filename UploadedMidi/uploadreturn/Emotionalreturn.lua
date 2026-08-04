@@ -146,6 +146,7 @@ return {
 	"Jacob And The Stone - Fikram",
 	"Jane",
 	"Janji Suci - Yovie & Nuno - Fikram",
+	"Join Me In Death - HIM (Piano Cover)",
 	"Jowel: fantasmas",
 	"Jowel: Goodbye World",
 	"Jowel: Im Still Standing",
