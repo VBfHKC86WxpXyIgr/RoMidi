@@ -49,6 +49,7 @@ return {
 	"Looping In The Rooms",
 	"Looping In The Rooms - Rusino",
 	"Love Story",
+	"Love Story X Golden Brown",
 	"Mia--Sebastians-Theme",
 	"MidiLeaks.RiverFlowsInYou",
 	"Multo - Cup Of Joe RNE",
