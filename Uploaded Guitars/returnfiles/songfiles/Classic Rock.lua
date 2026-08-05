@@ -49,6 +49,7 @@ return {
 	"METALLICA.One",
 	"Metallica+-+Master+Of+Puppets+(Guitars+Only)",
 	"MICHAEL JACKSON - Come Together",
+	"Molotov - Frijolero",
 	"My Hero - Foo Fighters",
 	"My Hero - Foo Fighters (1)",
 	"Norwegian-Wood-1",
