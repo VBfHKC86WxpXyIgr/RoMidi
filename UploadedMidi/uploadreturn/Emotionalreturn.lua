@@ -337,6 +337,7 @@ return {
 	"Wifi Skeleton - Nope Your Too Late I Already Died (Midi)",
 	"Wiz Khalifa - See You Again ft Charlie Puth Lyrics",
 	"XXXTENTACION - SAD!",
+	"XXXTentacion - Sad!",
 	"Yiruma - Maybe - Fikram",
 	"Young-Girl-A maybe more difficult",
 	"Your Love",
