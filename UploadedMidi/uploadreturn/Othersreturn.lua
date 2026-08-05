@@ -40,6 +40,7 @@ return {
 	"50 Metallica RIFFS",
 	"50 Nirvana RIFFS",
 	"60375 Purnama-Merindu-",
+	"90 Memes",
 	"AA-Albert Einstein",
 	"AA-Isaac Newton",
 	"Ablankurban",
