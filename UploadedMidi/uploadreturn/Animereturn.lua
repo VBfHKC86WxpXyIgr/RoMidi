@@ -26,6 +26,7 @@ return {
 	"Binary Data IV",
 	"Bleach - Ranbu No Melody",
 	"Bloody Stream Piano Arrangement",
+	"BURNOUT (DIVA 1X X GHOUL TWO TIME LMS) - FORSAKEN OST PIANO COVER",
 	"Cat Loving HSR",
 	"Chainsaw Man - In The Pool Reze Arc OST Mhxa",
 	"Chainsaw Man - IRIS OUT Reze Arc Mhxa",
