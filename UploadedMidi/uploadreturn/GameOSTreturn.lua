@@ -122,6 +122,7 @@ return {
 	"Penumbra Phantasm LWP",
 	"PHOENIX LMS",
 	"Pixelland by Kevin Macleod",
+	"Plead MIDI",
 	"Pokke Village - Monster Hunter 2nd",
 	"Promise R",
 	"Rage of the Champions!",
