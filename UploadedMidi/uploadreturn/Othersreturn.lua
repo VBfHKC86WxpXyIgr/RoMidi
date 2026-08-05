@@ -329,6 +329,7 @@ return {
 	"La Campanella",
 	"La Campanella 1838",
 	"La La Land - A Lovely Night(Birru) MIDI",
+	"La Maritza",
 	"Là Tự Em đA TìNh",
 	"LạC TrôI",
 	"LALALALA (락) (樂) - Stray Kids (스트레이 키즈)",
