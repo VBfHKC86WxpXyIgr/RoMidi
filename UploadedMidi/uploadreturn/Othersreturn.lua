@@ -85,6 +85,7 @@ return {
 	"Beethoven - Virus Mhxa",
 	"Beethoven Virus",
 	"Beethoven Virus 2 Player",
+	"Believer",
 	"Bellaciao",
 	"BếN ThượNg HảI",
 	"Ben-Hala-Ruyada-Kisa-Versiyon",
