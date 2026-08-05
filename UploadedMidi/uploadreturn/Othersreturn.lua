@@ -363,6 +363,7 @@ return {
 	"Mơ",
 	"Moira Dela Torre - Titibo-Tibo Mhxa",
 	"Monogolue As One",
+	"Monologue As One Simply Ver",
 	"MONTAGEM TOMADA - MXZI (Piano Tutorial)",
 	"Moonlight Sonata 3rd Movement",
 	"Moonlight Sonata 3rd X Megalovania",
