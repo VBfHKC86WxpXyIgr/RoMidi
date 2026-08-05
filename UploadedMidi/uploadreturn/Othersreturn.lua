@@ -251,6 +251,7 @@ return {
 	"GHEN",
 	"Giá Như",
 	"GiấC Mơ TrưA",
+	"God Of War Ragnarok",
 	"GộI ĐầU",
 	"Golden Brown - The Stranglers",
 	"Golden Hour - JVKE (Updated Ver.)",
