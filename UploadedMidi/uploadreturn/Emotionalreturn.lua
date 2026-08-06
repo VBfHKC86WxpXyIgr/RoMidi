@@ -64,6 +64,7 @@ return {
 	"Carol Of The BellsPiano(BEST VERSION)",
 	"Chamber Of Reflection",
 	"CHAOS CONSTRUCT (HUMAN BEST VERSION)",
+	"CHAOS CONSTRUCT (HUMAN V2 BEST VERSION)",
 	"Chezile - Beanie - Fikram",
 	"Childish Gambino - Redbone",
 	"Chubina (1)",
