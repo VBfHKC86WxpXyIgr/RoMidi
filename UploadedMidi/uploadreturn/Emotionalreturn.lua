@@ -280,6 +280,7 @@ return {
 	"Sonata No In D Major Ascension (BEST VERSION)",
 	"Stephen Sanchez - Until I Found You",
 	"Still With You - BTS Jungkook.Mid",
+	"Studio Ghibli LoFi Piano (HUMAN BEST VERSION)",
 	"Succession Piano Version (BEST VERSION)",
 	"Sugar Song (BEST VERSION)",
 	"Sunsezt yt @moongate 1234",
