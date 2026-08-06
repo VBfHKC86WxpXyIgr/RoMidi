@@ -312,6 +312,7 @@ return {
 	"TheFatRat - Fly Away. Black MIDI.Mid",
 	"This Is What Autumn Feels Like - Jvke",
 	"Through-Patches(HUMAN BEST VERSION)",
+	"TIKTOK COMPILATION (😭🥀HUMAN BEST VERSION)",
 	"Time Travel Theme By Jay Chou From Secret Film (BEST VERSION)",
 	"Time Travel Theme Jay Chou Secret Ending (BEST Advanced Mode)",
 	"Tokyo Ghoul OP Unravel FB Piano Anime (BEST VERSION)",
