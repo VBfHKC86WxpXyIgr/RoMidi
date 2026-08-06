@@ -20,6 +20,7 @@ return {
 	"audio2midi",
 	"Bad Apple",
 	"bad apple 4.6 million",
+	"BANG BANG BANG - Chainsaw Man Song (Piano Tutorial)",
 	"BANG BANG BANG [Roblox Animation]",
 	"Beastars - JUNO is in love -adult-",
 	"BEASTARS -Classical- For 2 Violins",
