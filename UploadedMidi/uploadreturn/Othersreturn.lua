@@ -346,6 +346,7 @@ return {
 	"Love Story X Golden Brown",
 	"Lucid Dreams",
 	"Lullaby",
+	"Magbalik",
 	"MãI MãI BêN Nhau",
 	"MAKING MY WAY",
 	"Mariah Careymy All",
