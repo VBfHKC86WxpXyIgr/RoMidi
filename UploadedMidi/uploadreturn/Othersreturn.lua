@@ -480,6 +480,7 @@ return {
 	"Rush E X Beethoven Viruss X Nu Pogodi",
 	"Rush E X Interstellar",
 	"RUSH N",
+	"Ryannah J. - 'THIS NA MALAMBING' Ft. Nateman (Lyrics Video)",
 	"Samplab Screen-20260606-1108",
 	"Sarangi Mareul Deutjianha",
 	"Sau LưNg Anh Có Ai KìA",
