@@ -47,6 +47,7 @@ return {
 	"Ed Sheeran Thinking Out Loud",
 	"Forwards",
 	"Forwards.Mp3",
+	"Gotye - Somebody That I Used To Know (Ft. Kimbra)",
 	"Green Day - Good Riddance [MIDIfind.Com]",
 	"Gto - GTO Opening 1 Drivers High",
 	"Hers - Harvey",
