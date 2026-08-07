@@ -255,6 +255,7 @@ return {
 	"GHEN",
 	"Giá Như",
 	"GiấC Mơ TrưA",
+	"Gitara - Parokya Ni Edgar Fingerstyle Guitar Lyrics",
 	"God Of War Ragnarok",
 	"GộI ĐầU",
 	"Golden Brown - The Stranglers",
