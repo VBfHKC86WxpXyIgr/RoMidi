@@ -588,6 +588,7 @@ return {
 	"We Don'T Talk Anymore",
 	"WE DONT TALK ANYMORE X ChúNg Ta KhôNg ThuộC Về Nhau",
 	"Webber Lloyd - The Phantom Of The Opera [MIDIfind.Com]",
+	"Wellerman X Pirates Of The Caribbean",
 	"White Stripes (The) - Seven Nation Army [MIDIfind.Com]",
 	"Winter Sonata",
 	"Woke Up In Japan By Friqtao",
