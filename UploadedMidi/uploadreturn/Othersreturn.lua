@@ -89,6 +89,7 @@ return {
 	"Bellaciao",
 	"BếN ThượNg HảI",
 	"Ben-Hala-Ruyada-Kisa-Versiyon",
+	"BEST PHONK SONGS EVER ON PIANO!",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
 	"Black-And-White-Rag-Arr-Winifred-Atwell",
 	"Bloodbath Geometry Dash",
