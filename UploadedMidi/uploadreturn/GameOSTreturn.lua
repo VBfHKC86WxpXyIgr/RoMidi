@@ -99,6 +99,7 @@ return {
 	"Lena Raine - Pigstep",
 	"Letitgo",
 	"Limbo",
+	"May This Moment Last Forever Midi",
 	"MEGALOVANIA - Toby Fox",
 	"MeGaLoVania Piano",
 	"Metal Crusher",
