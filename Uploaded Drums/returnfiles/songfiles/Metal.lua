@@ -282,6 +282,7 @@ return {
 	"Sepultura - Ratamahatta (Drum)",
 	"Sepultura - Refuse Resist (Drum)",
 	"Sepultura - Roots Bloody Roots (3) [MIDIfind.Com]",
+	"Sepultura - Roots Bloody Roots (Drum)",
 	"Sepultura - Roots Bloody Roots (Drums Only)",
 	"Sepultura - Slave New World (Drum)",
 	"Sepultura - Territory (Drum)",
