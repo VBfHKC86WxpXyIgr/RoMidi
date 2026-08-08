@@ -169,6 +169,7 @@ return {
 	"Phyllomedusa-Pulverize That Hoe-07-27-2026",
 	"Pink Floyd - Comfortably Numb [MIDIfind.Com]",
 	"Pixies - Where Is My Mind (Drum)",
+	"Queens Of The Stone Age - Song For The Dead [MIDIfind.Com]",
 	"Radiohead - 15 Step [MIDIfind.Com]",
 	"Radiohead - 2+2=5 [MIDIfind.Com]",
 	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
