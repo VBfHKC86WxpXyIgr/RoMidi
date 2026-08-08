@@ -19,6 +19,7 @@ return {
 	"Angel Of Death - Slayer (Corrected To E Standard)",
 	"AngelOfDeath",
 	"Anthrax - Madhouse (4) [MIDIfind.Com]",
+	"Avenged Sevenfold - A Little Piece Of Heaven (2) [MIDIfind.Com]",
 	"Avenged Sevenfold - Afterlife Solo Live [MIDIfind.Com]",
 	"Avenged Sevenfold - Buried Alive [MIDIfind.Com]",
 	"Avenged Sevenfold - City Of Evil (Full) [MIDIfind.Com]",
