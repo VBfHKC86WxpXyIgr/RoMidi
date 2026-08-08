@@ -61,6 +61,7 @@ return {
 	"Anh Sai RồI X BìNh YêN NơI ĐâU",
 	"áNh Sang Tan Vỡ Trong MàN đêM",
 	"AnlamazdıN...",
+	"Avenged Sevenfold - A Little Piece Of Heaven (2) [MIDIfind.Com]",
 	"Azali - MECHANICAL GOD",
 	"Back Number",
 	"Bad Apple",
