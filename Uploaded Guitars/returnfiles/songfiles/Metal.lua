@@ -23,6 +23,7 @@ return {
 	"Avenged Sevenfold - Buried Alive [MIDIfind.Com]",
 	"Avenged Sevenfold - City Of Evil (Full) [MIDIfind.Com]",
 	"Avenged Sevenfold - Clairvoyant Disease [MIDIfind.Com]",
+	"Avenged Sevenfold - Critical Acclaim [MIDIfind.Com]",
 	"Avenged Sevenfold - Dancing Dead Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - Hail To The King Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - Nightmare [MIDIfind.Com]",
