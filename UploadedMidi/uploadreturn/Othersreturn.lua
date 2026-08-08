@@ -343,6 +343,7 @@ return {
 	"LàM NgườI LuôN YêU Em",
 	"LàM Vợ Anh Nhé",
 	"Lemon",
+	"Liana Flores - Rises The Moon",
 	"LiebestraüM No 3 In A♭ Major (Dream Of Love)",
 	"Lightning Moment",
 	"Lit My Own Worst Enemy.Midi",
