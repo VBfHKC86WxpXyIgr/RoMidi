@@ -22,6 +22,7 @@ return {
 	"Metallica - So What [MIDIfind.Com]",
 	"Psychosocial - Slipknot",
 	"Slipknot - Eyeless (2) [MIDIfind.Com]",
+	"Static-X - I'M With Stupid [MIDIfind.Com]",
 	"Static-X - Push It (2) [MIDIfind.Com]",
 	"Sweet Child O' Mine (Solo) - Guns N Roses",
 	"System Of A Down - Aerials [MIDIfind.Com]",
