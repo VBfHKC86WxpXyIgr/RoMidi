@@ -45,6 +45,7 @@ return {
 	"Nirvana - Sliver (5) [MIDIfind.Com]",
 	"Pixies - Where Is My Mind (5) [MIDIfind.Com]",
 	"PTV - King For A Day",
+	"Queens Of The Stone Age - Song For The Dead [MIDIfind.Com]",
 	"Radiohead - My Iron Lung",
 	"Sayonara Cross Teck-07-04-2026",
 	"Smashing Pumpkins - Mayonaise (2) [MIDIfind.Com]",
