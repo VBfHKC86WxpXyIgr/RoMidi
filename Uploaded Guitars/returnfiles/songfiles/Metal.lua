@@ -21,6 +21,7 @@ return {
 	"Anthrax - Madhouse (4) [MIDIfind.Com]",
 	"Avenged Sevenfold - Afterlife Solo Live [MIDIfind.Com]",
 	"Avenged Sevenfold - Buried Alive [MIDIfind.Com]",
+	"Avenged Sevenfold - City Of Evil (Full) [MIDIfind.Com]",
 	"Avenged Sevenfold - Clairvoyant Disease [MIDIfind.Com]",
 	"Avenged Sevenfold - Dancing Dead Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - Hail To The King Solo [MIDIfind.Com]",
