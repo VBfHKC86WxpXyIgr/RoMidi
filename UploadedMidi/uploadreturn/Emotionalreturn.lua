@@ -186,6 +186,7 @@ return {
 	"Long-Love-New",
 	"Lost Sky - Dreams Pt. II",
 	"Love Story  Taylor Swift 1775672226231",
+	"Love Story (HUMAN BEST VERSION)",
 	"Love Story X Golden Brown",
 	"Love-Wins-All-Iu-Tear-Jerking-Piano-Solo(BEST VERSION)",
 	"Ludovico Einaudi - Experience",
