@@ -34,6 +34,7 @@ return {
 	"Kaer Morhen From Witcher",
 	"LED ZEPPELIN.Stairway To Heaven KA",
 	"Lit My Own Worst Enemy.Gtr",
+	"Lustra - Scotty Doesn'T Know (2) [MIDIfind.Com]",
 	"Made In Thailland 2",
 	"Mary Alex G",
 	"MAYONAISE",
