@@ -54,6 +54,7 @@ return {
 	"Hendrix Jimi - All Along The Watchower [MIDIfind.Com]",
 	"Hendrix Jimi - Foxey Lady [MIDIfind.Com]",
 	"Hendrix Jimi - Hey Joe [MIDIfind.Com]",
+	"Hendrix Jimi - Machine Gun Live At Fillmore East [MIDIfind.Com]",
 	"Hendrix Jimi - The Star Spangled Banner [MIDIfind.Com]",
 	"Heroes Main",
 	"Hoobastank - The Reason (2) [MIDIfind.Com]",
