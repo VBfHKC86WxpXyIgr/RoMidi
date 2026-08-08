@@ -34,6 +34,7 @@ return {
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Composed By Yu-Peng Chen Arranged By Devon Sebastian K - Liyue Harbor Song No. 4",
 	"Creed - One Last Breath",
+	"CUPSIZE - Poka-Poka 79503343",
 	"Deep Purple - Smoke On The Water-Drum Kit",
 	"Deftones - Be Quiet And Drive Far AwayBass",
 	"Deftones - Be Quiet And Drive Far AwayGuitar",
