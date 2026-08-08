@@ -14,6 +14,7 @@ return {
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
 	"Green Day - Brain Stew [MIDIfind.Com]",
 	"Green Day - Burnout [MIDIfind.Com]",
+	"Green Day - Cigarettes And Valentines [MIDIfind.Com]",
 	"Green Day - Extraordinary Girl [MIDIfind.Com]",
 	"Green Day - Give Me Novacaine [MIDIfind.Com]",
 	"Green Day - Holiday [MIDIfind.Com]",
