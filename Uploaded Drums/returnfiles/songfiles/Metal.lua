@@ -317,6 +317,7 @@ return {
 	"Staind - Can't Believe [MIDIfind.com]",
 	"Staind - Ephiphany [MIDIfind.com]",
 	"Staind - Staind Fade [MIDIfind.com]",
+	"Static-X - I'M With Stupid [MIDIfind.Com]",
 	"Static-X - Push It (2) [MIDIfind.Com]",
 	"Stay Away - Nirvana",
 	"Styx - Heavy Metal Poisoning [MIDIfind.com]",
