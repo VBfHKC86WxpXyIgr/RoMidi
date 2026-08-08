@@ -6,6 +6,7 @@ return {
 	"Avenged Sevenfold - Bat Country [MIDIfind.Com]",
 	"Avenged Sevenfold - Dear God [MIDIfind.Com]",
 	"Breed - Nirvana (TABS And Vocals)",
+	"CUPSIZE - Ty Lyubish Tancevat 76775527",
 	"Frances Farmer Will Have Her Revenge On Seattle - Nirvana",
 	"Green Day - American Eulogy [MIDIfind.Com]",
 	"Green Day - American Idiot (2) [MIDIfind.Com]",
