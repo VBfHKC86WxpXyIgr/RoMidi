@@ -36,6 +36,7 @@ return {
 	"GOAT - Polyphia G O A T - Copy Mscz",
 	"Guns N Roses - Sweet Child O Mine",
 	"Hava Nagila A Z Idelsohn",
+	"Hendrix Jimi - Voodoo Child Slight Return Woodstock [MIDIfind.Com]",
 	"Il Vento D'Oro (The Golden Wind) Giorno'S Theme - JoJo'S Bizarre Adventures",
 	"Iron Maiden - Iron Maiden [MIDIfind.Com]",
 	"Jerryc - Canon Rock Lead Guitar [MIDIfind.Com]",
