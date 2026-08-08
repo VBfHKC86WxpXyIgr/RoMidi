@@ -110,6 +110,7 @@ return {
 	"Linkin Park - No More Sorrow",
 	"Linkin Park - Numb",
 	"Love Buzz - Nirvana (Drums)",
+	"Lustra - Scotty Doesn'T Know (2) [MIDIfind.Com]",
 	"Mac Demarco - Freaking Out The Neighborhood [MIDIfind.Com]",
 	"Me-Aaron Kitcher Double Kicks-04-17-2025",
 	"Megadeth - Peace Sells [MIDIfind.Com]",
