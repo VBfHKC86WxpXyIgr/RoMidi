@@ -50,6 +50,7 @@ return {
 	"Free Bird - Lynyrd Skynyrd",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Heart Shaped Box - Nirvana",
+	"Hendrix Jimi - All Along The Watchower [MIDIfind.Com]",
 	"Hendrix Jimi - Foxey Lady [MIDIfind.Com]",
 	"Hendrix Jimi - The Star Spangled Banner [MIDIfind.Com]",
 	"Heroes Main",
