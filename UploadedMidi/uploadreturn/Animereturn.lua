@@ -45,6 +45,7 @@ return {
 	"Death Note OST - L'S Theme Mhxa",
 	"Demon Slayer OP - Gurenge Mhxa",
 	"Demon Slayer OP Mhxa",
+	"Detective Conan Main Theme Katsuo Ono Band Detective Conan Main Theme 1786052934612",
 	"Doraemon - No Uta",
 	"Dragon Ball Kai - Dragon Soul",
 	"Eldoraudio-Ai No Uta",
