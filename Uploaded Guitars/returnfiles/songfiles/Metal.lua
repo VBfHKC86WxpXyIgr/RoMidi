@@ -211,6 +211,7 @@ return {
 	"Metallica - St Anger [MIDIfind.Com]",
 	"Metallica - The Call Of Ktulu [MIDIfind.Com]",
 	"Metallica - The Day That Never Comes (13) [MIDIfind.Com]",
+	"Metallica - The Ecstasy Of Gold [MIDIfind.Com]",
 	"Metallica - The Four Horseman [MIDIfind.Com]",
 	"Metallica - The Shortest Straw [MIDIfind.Com]",
 	"Metallica - The Struggle Within [MIDIfind.Com]",
