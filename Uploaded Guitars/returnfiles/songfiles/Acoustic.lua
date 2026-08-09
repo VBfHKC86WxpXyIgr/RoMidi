@@ -47,6 +47,7 @@ return {
 	"Dumb Ways To Die",
 	"Dying Light - Horizon",
 	"Ed Sheeran Thinking Out Loud",
+	"Firelake - Dirge For The Planet (S.T.A.L.K.E.R OST) [MIDIfind.Com]",
 	"Forwards",
 	"Forwards.Mp3",
 	"Gotye - Somebody That I Used To Know (Ft. Kimbra)",
