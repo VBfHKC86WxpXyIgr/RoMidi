@@ -23,6 +23,7 @@ return {
 	"Còn gì đẹp hơn impossible",
 	"Cornfield Chase",
 	"Dạo Bước HongKong 1999",
+	"Davy Jones Theme (Pirates Of The Caribbean)",
 	"Ed Sheeran - Shape Of You",
 	"Every Breath You Take - The Police (1)",
 	"Game Of Thrones Main Theme",
