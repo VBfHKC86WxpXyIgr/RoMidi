@@ -77,6 +77,7 @@ return {
 	"Daylight - David Kushner",
 	"Demons",
 	"Die with a smile - Piano Solo LKZ",
+	"Diedlonely & éNouement - Stellar Piano Midi",
 	"Dimension Creo",
 	"Dr Dre - Still Dre",
 	"Dracula - Tame Impala",
