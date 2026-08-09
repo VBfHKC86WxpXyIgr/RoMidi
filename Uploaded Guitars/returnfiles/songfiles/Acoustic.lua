@@ -54,6 +54,7 @@ return {
 	"Green Day - Good Riddance [MIDIfind.Com]",
 	"Gto - GTO Opening 1 Drivers High",
 	"Hers - Harvey",
+	"Hers - What Once Was",
 	"Hill Billy Jim -[AudioTrimmer",
 	"Hill Billy Jim (1)",
 	"Hillbilly Jim Promo [1985-04-20] 320k",
