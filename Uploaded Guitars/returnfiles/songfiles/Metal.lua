@@ -73,6 +73,7 @@ return {
 	"DauðI Baldrs - Burzum",
 	"Death Pierce Me (Guitar)",
 	"Decalius Lonliness Solo",
+	"Dethklok - Thunderhorse [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
 	"Discharge - Fight Back [MIDIfind.Com]",
