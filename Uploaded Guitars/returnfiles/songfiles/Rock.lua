@@ -50,6 +50,7 @@ return {
 	"Franz Ferdinand - Take Me Out (2) [MIDIfind.Com]",
 	"Free Bird - Lynyrd Skynyrd",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
+	"Guitarra Lead Annabel Alesana",
 	"Heart Shaped Box - Nirvana",
 	"Hendrix Jimi - All Along The Watchower [MIDIfind.Com]",
 	"Hendrix Jimi - Foxey Lady [MIDIfind.Com]",
