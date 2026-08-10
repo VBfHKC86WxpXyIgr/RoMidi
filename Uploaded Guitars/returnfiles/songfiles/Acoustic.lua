@@ -39,6 +39,7 @@ return {
 	"Creed - One Last Breath",
 	"CUPSIZE - Poka-Poka 79503343",
 	"CUPSIZE - Ты любишь танцевать Vocals Backing Track",
+	"D4vd - Here With Me",
 	"Deep Purple - Smoke On The Water-Drum Kit",
 	"Deftones - Be Quiet And Drive Far AwayBass",
 	"Deftones - Be Quiet And Drive Far AwayGuitar",
