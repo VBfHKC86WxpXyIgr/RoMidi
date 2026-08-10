@@ -46,6 +46,7 @@ return {
 	"Do Re Mi",
 	"Do Re Mi - Nirvana",
 	"Do Re Mi (Teste1)",
+	"Docter Dance",
 	"Dorian Concept - 'Hide",
 	"Dumb Ways To Die",
 	"Dying Light - Horizon",
