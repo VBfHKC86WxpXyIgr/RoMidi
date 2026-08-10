@@ -143,6 +143,7 @@ return {
 	"Linkin Park - In The End V5",
 	"Lost Wisdom - Burzum",
 	"Malmsteen Yngwie - Blitzkrieg [MIDIfind.Com]",
+	"Malmsteen Yngwie - Eclipse [MIDIfind.Com]",
 	"Megadeth - Devils Island [MIDIfind.Com]",
 	"Megadeth - Hanger 18",
 	"Megadeth - High Speed Dirt [MIDIfind.Com]",
