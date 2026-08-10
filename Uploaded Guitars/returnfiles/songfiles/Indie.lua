@@ -19,4 +19,5 @@ return {
 	"ROAR - Christmas Kids",
 	"SpongeBob - Main Theme [MIDIfind.Com]",
 	"Tek It - Cafune.Mid",
+	"The Haunted Youth-Teen Rebel-08-02-2026",
 }
