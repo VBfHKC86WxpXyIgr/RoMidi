@@ -126,6 +126,7 @@ return {
 	"Surf Curse - FreaksChorus",
 	"Surf Curse - FreaksLead",
 	"Tarot Feast 1780242551896",
+	"Tattoo Color - Guitar Cover Skill Zource",
 	"The Beatles - Dont Let Me Down",
 	"The Beatles - Here Comes The Sun",
 	"The Beatles - Let It Be",
