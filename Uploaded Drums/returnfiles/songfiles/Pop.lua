@@ -8,4 +8,5 @@ return {
 	"Michael Jackson - Thriller",
 	"Silverchair - Madman",
 	"ThankYouForTheVenom(2)",
+	"Yankee Doodle .Mid",
 }
