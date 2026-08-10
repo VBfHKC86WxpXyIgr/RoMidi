@@ -26,6 +26,7 @@ return {
 	"Back on Track",
 	"Bad Apple!!",
 	"Bad Piggies - Main Theme",
+	"Basic Pitch Transcription (1)",
 	"Basics in behavior",
 	"Battle Against a True Hero (Undyne the Undying) (wip)",
 	"Bee - Groovydominoes52",
