@@ -507,6 +507,7 @@ return {
 	"Senbonzakura Full",
 	"Sensiz-Olmaz (1)",
 	"She Neva Knows - Justatee She Neva Knows",
+	"Shucks DX Midi Recreation",
 	"Shucks Ending V2",
 	"Song For You",
 	"Soundgarden - Outshined WWW.MIDISFREE.COM",
