@@ -9,6 +9,7 @@ return {
 	"American Football - Never Meant (1)",
 	"Andra And The BackBone - Sempurna Lyre.Mid",
 	"Arranged By @KAyuna-Guitar - 夜に駆ける",
+	"Ba - Duvet - Rurouni1928s Instrumental Ver",
 	"Batta - Chase",
 	"Batta - Chase-Jojo",
 	"Batta - Chase-JojoDr",
