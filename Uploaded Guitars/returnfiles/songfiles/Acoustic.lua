@@ -132,6 +132,7 @@ return {
 	"The WORLD - Death Note",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
 	"Tip Toe - HYBS",
+	"Title Fight - Where Am I",
 	"Toe - Goodbye Rasgueo",
 	"Tsuki (พระจันทร์) - LANDOKMAI",
 	"Two Door Cinema Club - Undercover Martyn",
