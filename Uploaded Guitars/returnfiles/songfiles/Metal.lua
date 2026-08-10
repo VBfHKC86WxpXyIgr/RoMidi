@@ -232,6 +232,7 @@ return {
 	"Monster - Skillet",
 	"Ms Salmonella - Lifelover",
 	"Necromancy - Bathory",
+	"Necrophagist - Stabwound [MIDIfind.Com]",
 	"Nightmare - Sarcorfago",
 	"Nightmare (Accurate) - Sarcofago",
 	"Nightmare Sarcofago Parte1",
