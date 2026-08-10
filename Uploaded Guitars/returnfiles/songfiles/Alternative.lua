@@ -27,6 +27,7 @@ return {
 	"Everlong By The Foo Fighters Piia",
 	"Glistening-Absurdism Full Version-05-06-2026",
 	"Go Away - Weezer",
+	"Guiarra Lead Annabel Alesana",
 	"I Cant Handle Change - Roar",
 	"In The End - Linkin Park",
 	"Is It Really You - Loathe",
