@@ -90,6 +90,7 @@ return {
 	"Deftones - Around the Fur [MIDIfind.com]",
 	"Deftones - My Own Summer Shove It [MIDIfind.Com]",
 	"Deftones - One Weak [MIDIfind.com]",
+	"Dethklok - Thunderhorse [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Disasterpiece",
 	"Domination",
