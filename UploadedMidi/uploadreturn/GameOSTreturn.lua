@@ -164,6 +164,7 @@ return {
 	"The Green Orbs - At the Fair (Piano Cover)",
 	"The Green Orbs - Claudio The Worm (Duet)",
 	"The Green Orbs - Old MacDonald Instrumental (Happy)",
+	"The Legend Of Zelda Ocarina Of Time - Great Fairy Fountain (1)",
 	"The Legend Of Zelda Ocarina Of Time - Lost Woods",
 	"The NOexistenceN Of You AND Me - Just You",
 	"The Nuker 4 Audio Remake (Original Composition From TN1.5)",
