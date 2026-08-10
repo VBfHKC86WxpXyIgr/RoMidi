@@ -20,6 +20,7 @@ return {
 	"Black Sabbath - NIB Bass",
 	"Black Sabbath - NIB Guitar",
 	"Bleach - Ranbu No Melody (OP 13)",
+	"Boa - Duvet Arranged",
 	"Bocchi The Rock - Ano Bando",
 	"Bocchi The Rock - Seisyun Complex",
 	"Bodyslam - (1)",
