@@ -3,6 +3,7 @@ return {
 	"-",
 	"- EBOLAFull",
 	"- SILLY FOOLS OFFICIAL MV",
+	"- So Cool",
 	"44269 Gitara",
 	"62977 GITARA",
 	"About You By The 1780242398856",
