@@ -5,6 +5,7 @@ return {
 	"(˃⤙˂˶ )Hmph It's Not Like I Like You or anything mhxa",
 	"(˶ ｰ̀ ⤙ｰ́ ˶) It'SNot Like I Like You Or Anything Mhxa",
 	"(Anybody Can Find Love Except You) Need Drums Mhxa",
+	"[Audio] Sashley - XD MEME ~ Collab - Danidanijr & Orangepaprika 67",
 	"[Black MIDI] RUSH E CURSED REMIX",
 	"【黑乐谱】拉赫玛尼诺夫第二钢琴协奏曲 第二乐章[CC钢琴侧链]",
 	"04 - Atic - MONTAGEM CEINTA (Nightcore)",
