@@ -92,6 +92,7 @@ return {
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
 	"Michael Jackson - Smooth Criminal Acoustic Fingerstyle",
 	"Misc Covers-Is It Really You (Acoustic VER.) By Loathe-07-04-2026",
+	"MJMN - Rehab Session",
 	"Moderndog -",
 	"Mom Central",
 	"Mor Lum",
