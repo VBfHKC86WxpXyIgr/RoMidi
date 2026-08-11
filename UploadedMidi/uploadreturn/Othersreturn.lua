@@ -93,6 +93,7 @@ return {
 	"Ben-Hala-Ruyada-Kisa-Versiyon",
 	"BEST PHONK SONGS EVER ON PIANO!",
 	"BìNh YêN Trong NhữNg PhúT GiâY",
+	"Black MIDI 5K",
 	"Black-And-White-Rag-Arr-Winifred-Atwell",
 	"Bloodbath Geometry Dash",
 	"Bohemian-Rhapsody-1",
