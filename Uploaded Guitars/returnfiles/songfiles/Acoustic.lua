@@ -127,6 +127,7 @@ return {
 	"Smashing Pumpkins - Luna",
 	"Smile Buffalo -",
 	"Solitude Is Bliss - Just One Thing",
+	"Solitude Is Bliss - Vintage Pic",
 	"Stone Metal Fire -",
 	"Sunroof - Nicky Youre, Dazy",
 	"Surf Curse - FreaksChorus",
