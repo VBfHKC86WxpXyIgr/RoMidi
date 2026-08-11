@@ -31,6 +31,7 @@ return {
 	"Buddy Holly - Weezer",
 	"Can'T Help Falling In Love - Elvis Presley",
 	"Carabao -",
+	"Carabao Nang Yam",
 	"Chris Isaakwicked Game",
 	"Cinderella - Tattoo Colour",
 	"Clair-De-Lune-Debussy",
