@@ -144,6 +144,7 @@ return {
 	"The Jimi Hendrix Experience - Purple Haze",
 	"The Neverminds - The Snow Will Catch Us Once Again",
 	"The WORLD - Death Note",
+	"Thirty Seconds To Mars - The Kill Bury Me",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
 	"Tip Toe - HYBS",
 	"Title Fight - Where Am I",
