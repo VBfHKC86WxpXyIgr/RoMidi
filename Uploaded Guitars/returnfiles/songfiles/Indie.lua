@@ -11,6 +11,7 @@ return {
 	"Guitar For Now Not Ever-Motifs",
 	"Guitar1 Alv Bye Melted Ice Cream",
 	"Guitar1 Eidolon Hibou",
+	"Guitar2 Alv Bye Melted Ice Cream",
 	"Guitar2 Eidolon Hibou",
 	"Guns N' Roses - November Rain [MIDIfind.Com]",
 	"Led Zeppelin-Stairway To Heaven-06-11-2026 (1)",
