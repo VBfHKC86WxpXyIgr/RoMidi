@@ -95,6 +95,7 @@ return {
 	"Funeral Ceremony - Grausamkeit",
 	"Gojira - Flying Whales (OFFICIAL) [MIDIfind.Com]",
 	"Gotterkreig - Grausamkeit Gotterkreig (Only Melody, Without Ornaments) - Grausamkeit Gotterkreig",
+	"Guitar Awadama Fever BABYMETAL",
 	"Guitar San Sebastian Sonata Arctica Tuning Eb",
 	"Guitar Tuning Eb San Sebastian Sonata Arctica",
 	"Han Som Reiste - Burzum",
