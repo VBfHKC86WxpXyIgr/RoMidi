@@ -34,6 +34,7 @@ return {
 	"Avenged Sevenfold - Seize The Day Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - So Far Away [MIDIfind.Com]",
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
+	"Bass Awadama Fever BABYMETAL",
 	"Bass San Sebastian Sonata Arctica Tuning Eb",
 	"Bathory - A Fine Day To Die [MIDIfind.Com]",
 	"Bathory - Necromansy [MIDIfind.Com]",
