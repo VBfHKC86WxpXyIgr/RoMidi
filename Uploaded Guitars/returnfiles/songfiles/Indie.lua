@@ -9,6 +9,7 @@ return {
 	"Creep - Radiohead (Guitar)",
 	"Guitar For Now Not Ever-Motifs",
 	"Guitar1 Eidolon Hibou",
+	"Guitar2 Eidolon Hibou",
 	"Guns N' Roses - November Rain [MIDIfind.Com]",
 	"Led Zeppelin-Stairway To Heaven-06-11-2026 (1)",
 	"Mac Demarco - Freaking Out The Neighborhood [MIDIfind.Com]",
