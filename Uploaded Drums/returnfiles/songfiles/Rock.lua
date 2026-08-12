@@ -63,6 +63,7 @@ return {
 	"Deftones-Beauty School-07-27-2026",
 	"Degenerate",
 	"Dire Straits - Sultans Of Swing (Drum)",
+	"Drum Alesana Annabel",
 	"Drum For Now Not Ever Motifs",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Endless Nameless - Nirvana (Drums)",
