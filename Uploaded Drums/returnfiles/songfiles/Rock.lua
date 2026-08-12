@@ -208,6 +208,7 @@ return {
 	"THE BEATLES.My Sweet Lord",
 	"THE BEATLES.Something K",
 	"The Handshake (Drum)",
+	"The Haunted Youth-Teen Rebel (Rock Werchter 2026)-07-24-2026",
 	"THE KINKS.You Really Got Me K",
 	"The Offspring - Come Out And Play (Drum V2)",
 	"The White Stripes- Seven Nation Army (Drum)",
