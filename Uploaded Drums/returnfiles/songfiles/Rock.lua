@@ -65,6 +65,7 @@ return {
 	"Dire Straits - Sultans Of Swing (Drum)",
 	"Drum Alesana Annabel",
 	"Drum For Now Not Ever Motifs",
+	"Drum The Haunted Youth Teen Rebel",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Endless Nameless - Nirvana (Drums)",
 	"Faith",
