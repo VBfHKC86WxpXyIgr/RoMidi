@@ -29,6 +29,7 @@ return {
 	"Glistening-Absurdism Full Version-05-06-2026",
 	"Go Away - Weezer",
 	"Guiarra Lead Annabel Alesana",
+	"Guitar1 Helena MCR",
 	"Guitar2 Helena MCR",
 	"I Cant Handle Change - Roar",
 	"In The End - Linkin Park",
