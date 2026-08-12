@@ -117,6 +117,7 @@ return {
 	"Green Day - Last Night On Earth",
 	"happy",
 	"Happy",
+	"Hibou-Eidolon-07-26-2026",
 	"Himno Nacional Argentino 🇦🇷",
 	"Hope - XXXTENTACION",
 	"House In Nebraska - Ethel Cain - Pianotify",
