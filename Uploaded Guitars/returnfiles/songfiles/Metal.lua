@@ -36,6 +36,7 @@ return {
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
 	"Bass Awadama Fever BABYMETAL",
 	"Bass San Sebastian Sonata Arctica Tuning Eb",
+	"Bass-Kimi To Anime Ga Mitai-BABYMETAL",
 	"Bathory - A Fine Day To Die [MIDIfind.Com]",
 	"Bathory - Necromansy [MIDIfind.Com]",
 	"Bathory - Song To Hall Up High",
