@@ -486,6 +486,7 @@ return {
 	"Rush E (Impossible).Transformed",
 	"Rush E (MIDI) (SYNTHESIA)",
 	"RUSH E 2 - Sheet Music Boss",
+	"RUSH E 2 CLEANED",
 	"RUSH E 3 NO ART",
 	"Rush E 3 Real",
 	"RUSH E 3 Whitout Anything Else",
