@@ -106,6 +106,7 @@ return {
 	"Drum - Playing on Hi Hat With Two Hands [MIDIfind.com]",
 	"Drum Awadama Fever BABYMETAL",
 	"Drum San Sebastian Sonata Arctica",
+	"Drum-Kimi To Anime Ga Mitai-BABYMETAL",
 	"Duality",
 	"Duality - Slipknot",
 	"Elena Siegman - 115",
