@@ -96,6 +96,7 @@ return {
 	"Gojira - Flying Whales (OFFICIAL) [MIDIfind.Com]",
 	"Gotterkreig - Grausamkeit Gotterkreig (Only Melody, Without Ornaments) - Grausamkeit Gotterkreig",
 	"Guitar San Sebastian Sonata Arctica Tuning Eb",
+	"Guitar Tuning Eb San Sebastian Sonata Arctica",
 	"Han Som Reiste - Burzum",
 	"Happy Days - Don'T Guns (Guitar)",
 	"Haunted (The) - Silencer [MIDIfind.Com]",
