@@ -9,6 +9,7 @@ return {
 	"Creep - Radiohead (Guitar)",
 	"Guitar Alicia Viajes En El Tiempo",
 	"Guitar For Now Not Ever-Motifs",
+	"Guitar1 Alv Bye Melted Ice Cream",
 	"Guitar1 Eidolon Hibou",
 	"Guitar2 Eidolon Hibou",
 	"Guns N' Roses - November Rain [MIDIfind.Com]",
