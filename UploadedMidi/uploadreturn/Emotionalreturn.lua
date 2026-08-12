@@ -246,6 +246,7 @@ return {
 	"Parfum D'Etoiles - Ichika Aoba",
 	"Parfum Dtoiles (BEST VERSION)",
 	"Past Lives - Borns",
+	"Piano San Sebastian Sonata Arctica",
 	"Piano-Practice-Frustration(ANTI-AUTO VERSION)",
 	"Pokemon BlackWhite - An Unwavering Heart",
 	"Poppies Lane Memoryy By Slank",
