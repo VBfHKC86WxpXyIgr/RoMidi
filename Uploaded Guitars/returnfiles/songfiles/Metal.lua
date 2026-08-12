@@ -98,6 +98,7 @@ return {
 	"Guitar Awadama Fever BABYMETAL",
 	"Guitar San Sebastian Sonata Arctica Tuning Eb",
 	"Guitar Tuning Eb San Sebastian Sonata Arctica",
+	"Guitar2 Awadama Fever BABYMETAL",
 	"Han Som Reiste - Burzum",
 	"Happy Days - Don'T Guns (Guitar)",
 	"Haunted (The) - Silencer [MIDIfind.Com]",
