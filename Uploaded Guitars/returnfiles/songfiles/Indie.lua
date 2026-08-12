@@ -7,6 +7,7 @@ return {
 	"Boys Don'T Cry - The Cure (Piano Arrangement)",
 	"Brubeck Dave - Take Five [MIDIfind.Com]",
 	"Creep - Radiohead (Guitar)",
+	"Guitar Alicia Viajes En El Tiempo",
 	"Guitar For Now Not Ever-Motifs",
 	"Guitar1 Eidolon Hibou",
 	"Guitar2 Eidolon Hibou",
