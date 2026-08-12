@@ -104,6 +104,7 @@ return {
 	"Drum - Drums Fill and Solos Patterns [MIDIfind.com]",
 	"Drum - Heavy Metal Drums [MIDIfind.com]",
 	"Drum - Playing on Hi Hat With Two Hands [MIDIfind.com]",
+	"Drum Awadama Fever BABYMETAL",
 	"Drum San Sebastian Sonata Arctica",
 	"Duality",
 	"Duality - Slipknot",
