@@ -488,6 +488,7 @@ return {
 	"RUSH E 2 - Sheet Music Boss",
 	"RUSH E 3 NO ART",
 	"Rush E 3 Real",
+	"RUSH E 3 Whitout Anything Else",
 	"Rush E 4",
 	"Rush E 4 No Lag",
 	"Rush E Normal Mhxa",
