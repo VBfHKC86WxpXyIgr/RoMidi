@@ -16,6 +16,7 @@ return {
 	"All-My-Loving-1",
 	"American Football - Never Meant",
 	"Animals (The) - The House Of The Rising Sun [MIDIfind.Com]",
+	"Annabel-Alesana-Lead Guitar",
 	"Arctic Monkeys - Crying Lightning [MIDIfind.Com]",
 	"AUD DW0234",
 	"Avenged Sevenfold - Afterlife [Sky]",
