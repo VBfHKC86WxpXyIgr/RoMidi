@@ -67,6 +67,7 @@ return {
 	"Drum For Now Not Ever Motifs",
 	"Drum Pergi Hilang Dan Lupakan Remember Of Today",
 	"Drum The Haunted Youth Teen Rebel",
+	"Drum-Helena MCR",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Endless Nameless - Nirvana (Drums)",
 	"Faith",
