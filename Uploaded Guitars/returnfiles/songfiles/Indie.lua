@@ -5,6 +5,7 @@ return {
 	"Angus And Julia Stone - Big Jet Plane [MIDIfind.Com]",
 	"Bass For Now Not Ever-Motifs",
 	"Bass Teen Rebel DropD V2",
+	"Bass Teen Rebel DropD V3",
 	"Bass Teen Rebel The Haunted Youth Tuning Drop D",
 	"Boys Don'T Cry - The Cure (Piano Arrangement)",
 	"Brubeck Dave - Take Five [MIDIfind.Com]",
