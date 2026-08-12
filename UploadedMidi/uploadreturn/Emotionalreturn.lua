@@ -307,6 +307,7 @@ return {
 	"Thằng điên normal",
 	"The FatRat - Unity",
 	"The Greatest Showman - A Million Dreams",
+	"The Haunted Youth-Teen Rebel-08-02-2026",
 	"The Interstellar Experience",
 	"The Lantis - Bunga Maaf Piano Cover",
 	"The Living Tombstone - It'S Been So Long (FNaF 2 Song)",
