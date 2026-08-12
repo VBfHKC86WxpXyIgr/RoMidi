@@ -492,6 +492,7 @@ return {
 	"RUSH E 3 Whitout Anything Else",
 	"Rush E 4",
 	"Rush E 4 No Lag",
+	"RUSH E CLEANED",
 	"RUSH E MADE BY GROK",
 	"Rush E Normal Mhxa",
 	"Rush E Without Anything Else",
