@@ -101,6 +101,7 @@ return {
 	"Guitar Awadama Fever BABYMETAL",
 	"Guitar San Sebastian Sonata Arctica Tuning Eb",
 	"Guitar Tuning Eb San Sebastian Sonata Arctica",
+	"Guitar1 Awadama Fever LIVE BABYMETAL",
 	"Guitar1 Gimme Chocolate BABYMETAL",
 	"Guitar1-Kimi To Anime Ga Mitai-BABYMETAL",
 	"Guitar2 Awadama Fever BABYMETAL",
