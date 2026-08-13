@@ -456,6 +456,7 @@ return {
 	"PhíA Sau MộT Cô GáI",
 	"Phonecert (폰서트) - 10CM",
 	"Pi 3.14 Song Playable",
+	"Piano Gimme Chocolate BABYMETAL",
 	"Pixies - Where Is My Mind [MIDIfind.Com]",
 	"Play Date",
 	"PLEVNE MARŞI OSMAN PAŞA",
