@@ -133,6 +133,7 @@ return {
 	"KhôNg BuôNg - Hngle (Piano)",
 	"Kota Ini Tak Sama Tanpamu - Nadhif Basalamah Tutorial Piano Pemula",
 	"L'Amour Toujours - Gigi D'Agostino (Organ Cover)",
+	"La La Land Epilogue Mid",
 	"Laufey - From The Start",
 	"Levels",
 	"Long Time - Playboi Carti",
