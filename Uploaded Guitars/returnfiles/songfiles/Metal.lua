@@ -104,6 +104,7 @@ return {
 	"Guitar1 Gimme Chocolate BABYMETAL",
 	"Guitar1-Kimi To Anime Ga Mitai-BABYMETAL",
 	"Guitar2 Awadama Fever BABYMETAL",
+	"Guitar2 Awadama Fever LIVE BABYMETAL",
 	"Guitar2 Gimme Chocolate BABYMETAL",
 	"Guitar2-Kimi To Anime Ga Mitai-BABYMETAL",
 	"Han Som Reiste - Burzum",
