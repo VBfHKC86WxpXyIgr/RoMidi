@@ -341,6 +341,7 @@ return {
 	"La Campanella",
 	"La Campanella 1838",
 	"La La Land - A Lovely Night(Birru) MIDI",
+	"La La Land Epilogue Mid",
 	"La Maritza",
 	"Là Tự Em đA TìNh",
 	"LạC TrôI",
