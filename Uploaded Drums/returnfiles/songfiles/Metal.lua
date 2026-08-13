@@ -105,6 +105,7 @@ return {
 	"Drum - Heavy Metal Drums [MIDIfind.com]",
 	"Drum - Playing on Hi Hat With Two Hands [MIDIfind.com]",
 	"Drum Awadama Fever BABYMETAL",
+	"Drum Gimme Chocolate BABYMETAL",
 	"Drum San Sebastian Sonata Arctica",
 	"Drum-Kimi To Anime Ga Mitai-BABYMETAL",
 	"Duality",
