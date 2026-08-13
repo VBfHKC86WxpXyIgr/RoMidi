@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"Despacito",
 	"Desperado - Antonio Banderas - Cancion Del Mariachi",
 	"Desvelado By Bobby Pulido",
 	"La Resaka By Supermerk2",
