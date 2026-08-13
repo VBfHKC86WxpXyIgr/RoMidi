@@ -35,6 +35,7 @@ return {
 	"Avenged Sevenfold - So Far Away [MIDIfind.Com]",
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
 	"Bass Awadama Fever BABYMETAL",
+	"Bass Gimme Chocolate BABYMETAL",
 	"Bass San Sebastian Sonata Arctica Tuning Eb",
 	"Bass-Kimi To Anime Ga Mitai-BABYMETAL",
 	"Bathory - A Fine Day To Die [MIDIfind.Com]",
