@@ -102,6 +102,7 @@ return {
 	"Guitar Tuning Eb San Sebastian Sonata Arctica",
 	"Guitar1-Kimi To Anime Ga Mitai-BABYMETAL",
 	"Guitar2 Awadama Fever BABYMETAL",
+	"Guitar2 Gimme Chocolate BABYMETAL",
 	"Guitar2-Kimi To Anime Ga Mitai-BABYMETAL",
 	"Han Som Reiste - Burzum",
 	"Happy Days - Don'T Guns (Guitar)",
