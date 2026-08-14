@@ -120,6 +120,7 @@ return {
 	"Green Day - Last Night On Earth",
 	"happy",
 	"Happy",
+	"Harvey - Her'S",
 	"Hibou-Eidolon-07-26-2026",
 	"Himno Nacional Argentino 🇦🇷",
 	"Hope - XXXTENTACION",
