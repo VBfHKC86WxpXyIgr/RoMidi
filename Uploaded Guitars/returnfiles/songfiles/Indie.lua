@@ -33,6 +33,7 @@ return {
 	"Radiohead - Jigsaw Falling Into Place [MIDIfind.Com]",
 	"Radiohead - Nude [MIDIfind.Com]",
 	"ROAR - Christmas Kids",
+	"RoMIDI Context Test 48-63",
 	"RoMIDI NOTE 48",
 	"RoMIDI NOTE 49",
 	"RoMIDI NOTE 50",
