@@ -33,6 +33,7 @@ return {
 	"Radiohead - Jigsaw Falling Into Place [MIDIfind.Com]",
 	"Radiohead - Nude [MIDIfind.Com]",
 	"ROAR - Christmas Kids",
+	"RoMIDI NOTE 48",
 	"SpongeBob - Main Theme [MIDIfind.Com]",
 	"Teen Rebel Guitar Lead",
 	"Teen Rebel Guitar Lead 2",
