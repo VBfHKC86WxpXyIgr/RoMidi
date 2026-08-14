@@ -66,6 +66,7 @@ return {
 	"Drum Alesana Annabel",
 	"Drum For Now Not Ever Motifs",
 	"Drum Pergi Hilang Dan Lupakan Remember Of Today",
+	"Drum Teen Rebel LIVE",
 	"Drum The Haunted Youth Teen Rebel",
 	"Drum-Helena MCR",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
