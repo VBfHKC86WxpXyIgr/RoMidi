@@ -34,6 +34,7 @@ return {
 	"Radiohead - Nude [MIDIfind.Com]",
 	"ROAR - Christmas Kids",
 	"RoMIDI Context Test 48-63",
+	"RoMIDI Context Test 48-63 SLOW",
 	"RoMIDI NOTE 48",
 	"RoMIDI NOTE 49",
 	"RoMIDI NOTE 50",
