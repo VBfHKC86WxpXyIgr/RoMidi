@@ -19,6 +19,7 @@ return {
 	"Guitar2 Eidolon Hibou",
 	"Guitar2 For Now Not Ever-Motifs",
 	"Guns N' Roses - November Rain [MIDIfind.Com]",
+	"Key Test",
 	"Led Zeppelin-Stairway To Heaven-06-11-2026 (1)",
 	"Mac Demarco - Freaking Out The Neighborhood [MIDIfind.Com]",
 	"Mundo By Iv Of Spades ( Solo Cover)",
