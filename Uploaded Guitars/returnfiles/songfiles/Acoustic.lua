@@ -82,6 +82,7 @@ return {
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"LArcenCiel - Drivers High",
 	"Led Zeppelin - Stairway To Heaven - Fingerstyle",
+	"Linked Horizon - Attack On Titan OpShingeki No Kyojin Op",
 	"Linkin Park - Numb Fingerstyle",
 	"Loso -",
 	"Loso - (1)",
