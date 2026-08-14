@@ -227,6 +227,7 @@ return {
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Metallica - Wherever I May Roam [MIDIfind.Com]",
 	"Metallica - Whiplash [MIDIfind.Com]",
+	"Metallica - Whiskey In The Jar [MIDIfind.Com]",
 	"Metallica-Enter-Sandman midi",
 	"Motorhead - Ace Of Spades (Drum)",
 	"Mushroomhead - 12 Hundred [MIDIfind.com]",
