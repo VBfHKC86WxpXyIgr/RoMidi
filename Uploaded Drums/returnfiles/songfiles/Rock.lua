@@ -65,6 +65,7 @@ return {
 	"Dire Straits - Sultans Of Swing (Drum)",
 	"Drum Alesana Annabel",
 	"Drum For Now Not Ever Motifs",
+	"Drum Hibou Eidolon",
 	"Drum Pergi Hilang Dan Lupakan Remember Of Today",
 	"Drum Teen Rebel LIVE",
 	"Drum The Haunted Youth Teen Rebel",
