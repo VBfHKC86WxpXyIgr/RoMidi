@@ -342,6 +342,7 @@ return {
 	"Ussr Troublem",
 	"V1",
 	"V2",
+	"V3",
 	"Victors Solo (HUMAN BEST VERSION)",
 	"Việt Nam I love impossible",
 	"Vina Panduwinata - Kumpul Bocah",
