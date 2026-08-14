@@ -194,6 +194,7 @@ return {
 	"Metallica - Fade To Black [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - For Whom The Bell Tolls [MIDIfind.Com]",
+	"Metallica - Frantic [MIDIfind.Com]",
 	"Metallica - Frayed Ends Of Sanity [MIDIfind.Com]",
 	"Metallica - Fuel (2) [MIDIfind.Com]",
 	"Metallica - Harvester Of Sorrow (2) [MIDIfind.Com]",
