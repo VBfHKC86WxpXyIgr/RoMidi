@@ -357,6 +357,7 @@ return {
 	"Liana Flores - Rises The Moon",
 	"LiebestraüM No 3 In A♭ Major (Dream Of Love)",
 	"Lightning Moment",
+	"Liszt Liebestraume No 3",
 	"Lit My Own Worst Enemy.Midi",
 	"Lou Deezi",
 	"Love Story X Golden Brown",
