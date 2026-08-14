@@ -45,5 +45,6 @@ return {
 	"Teen Rebel Guitar Lead",
 	"Teen Rebel Guitar Lead 2",
 	"Tek It - Cafune.Mid",
+	"Test Tr",
 	"The Haunted Youth-Teen Rebel-08-02-2026",
 }
