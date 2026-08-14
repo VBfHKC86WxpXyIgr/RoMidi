@@ -38,6 +38,7 @@ return {
 	"RoMIDI NOTE 50",
 	"RoMIDI NOTE 51",
 	"RoMIDI NOTE 52",
+	"RoMIDI NOTE 53",
 	"SpongeBob - Main Theme [MIDIfind.Com]",
 	"Teen Rebel Guitar Lead",
 	"Teen Rebel Guitar Lead 2",
