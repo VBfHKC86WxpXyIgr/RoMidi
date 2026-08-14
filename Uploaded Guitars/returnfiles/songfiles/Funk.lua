@@ -2,6 +2,7 @@
 return {
 	"[Midi] Michael Jackson - Rock With You",
 	"Adventure Of A Lifetime - Coldplay",
+	"Altars Of Apostasy.Mid",
 	"Another Part Of Me (2012 Remaster)",
 	"Crazy Frog - Axel F.Mid",
 	"D CR0057",
