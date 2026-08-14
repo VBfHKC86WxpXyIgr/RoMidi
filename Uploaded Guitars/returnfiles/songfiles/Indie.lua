@@ -18,6 +18,7 @@ return {
 	"Guitar2 Alv Bye Melted Ice Cream",
 	"Guitar2 Eidolon Hibou",
 	"Guitar2 For Now Not Ever-Motifs",
+	"Guitars 1 2 Teen Rebel THY",
 	"Guns N' Roses - November Rain [MIDIfind.Com]",
 	"Key Test",
 	"Keys Test V2",
