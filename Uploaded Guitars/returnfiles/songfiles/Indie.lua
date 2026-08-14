@@ -19,6 +19,7 @@ return {
 	"Guitar2 Eidolon Hibou",
 	"Guitar2 For Now Not Ever-Motifs",
 	"Guitars 1 2 Teen Rebel THY",
+	"Guitars 1 2 Teen Rebel THY LIVE ROCK",
 	"Guns N' Roses - November Rain [MIDIfind.Com]",
 	"Key Test",
 	"Keys Test V2",
