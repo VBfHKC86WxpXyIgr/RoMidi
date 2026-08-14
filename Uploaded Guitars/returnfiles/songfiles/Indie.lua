@@ -35,6 +35,7 @@ return {
 	"ROAR - Christmas Kids",
 	"RoMIDI NOTE 48",
 	"RoMIDI NOTE 49",
+	"RoMIDI NOTE 50",
 	"SpongeBob - Main Theme [MIDIfind.Com]",
 	"Teen Rebel Guitar Lead",
 	"Teen Rebel Guitar Lead 2",
