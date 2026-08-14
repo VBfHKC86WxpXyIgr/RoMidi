@@ -33,6 +33,7 @@ return {
 	"Can'T Help Falling In Love - Elvis Presley",
 	"Carabao -",
 	"Carabao Nang Yam",
+	"Chainsmoker Cat - Opening FULL Nanmonee By Wasureranneyo",
 	"Chris Isaakwicked Game",
 	"Cinderella - Tattoo Colour",
 	"Clair-De-Lune-Debussy",
