@@ -7,6 +7,7 @@ return {
 	"(Anybody Can Find Love Except You) Need Drums Mhxa",
 	"[Audio] Sashley - XD MEME ~ Collab - Danidanijr & Orangepaprika 67",
 	"[Black MIDI] RUSH E CURSED REMIX",
+	"【黑乐谱】圆周率",
 	"【黑乐谱】拉赫玛尼诺夫第二钢琴协奏曲 第二乐章[CC钢琴侧链]",
 	"04 - Atic - MONTAGEM CEINTA (Nightcore)",
 	"072019",
