@@ -339,6 +339,7 @@ return {
 	"Unslept - Miraidempa",
 	"Unslept By Miraidempa",
 	"Ussr Troublem",
+	"V1",
 	"Victors Solo (HUMAN BEST VERSION)",
 	"Việt Nam I love impossible",
 	"Vina Panduwinata - Kumpul Bocah",
