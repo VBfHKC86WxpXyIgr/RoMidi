@@ -99,6 +99,7 @@ return {
 	"Black MIDI 5K",
 	"Black-And-White-Rag-Arr-Winifred-Atwell",
 	"Bloodbath Geometry Dash",
+	"Blue Bossa",
 	"Bohemian-Rhapsody-1",
 	"BóNg DáNg ThiêN ThầN",
 	"BóNg Lá RơI",
