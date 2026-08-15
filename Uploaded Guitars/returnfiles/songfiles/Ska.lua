@@ -2,5 +2,6 @@
 return {
 	"Bass Little Girls OB",
 	"Guitar Lead Little Girls OB",
+	"Guitar Rtm Little Girls OB",
 	"HãY Trao Cho Anh",
 }
