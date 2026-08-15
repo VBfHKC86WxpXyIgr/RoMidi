@@ -64,6 +64,7 @@ return {
 	"Degenerate",
 	"Dire Straits - Sultans Of Swing (Drum)",
 	"Drum Alesana Annabel",
+	"Drum Alv Bye Melted Ice Cream",
 	"Drum For Now Not Ever Motifs",
 	"Drum Hibou Eidolon",
 	"Drum Pergi Hilang Dan Lupakan Remember Of Today",
