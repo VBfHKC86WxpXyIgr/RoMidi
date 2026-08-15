@@ -68,6 +68,7 @@ return {
 	"Drum For Now Not Ever Motifs",
 	"Drum Freaks Surf Curse",
 	"Drum Hibou Eidolon",
+	"Drum Little Girls Oingo Boingo",
 	"Drum Pergi Hilang Dan Lupakan Remember Of Today",
 	"Drum Teen Rebel LIVE",
 	"Drum The Haunted Youth Teen Rebel",
