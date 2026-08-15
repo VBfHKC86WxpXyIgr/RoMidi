@@ -15,6 +15,7 @@ return {
 	"Creep - Radiohead (Guitar)",
 	"Guitar Alicia Viajes En El Tiempo",
 	"Guitar For Now Not Ever-Motifs",
+	"Guitar Lead Red In Summer Echoes DROP D",
 	"Guitar Lead Surf Curse Freaks",
 	"Guitar Rtm Red In Summer Echoes DROP D",
 	"Guitar Rtm Surf Curse Freaks",
