@@ -69,6 +69,7 @@ return {
 	"Drum Freaks Surf Curse",
 	"Drum Hibou Eidolon",
 	"Drum Little Girls Oingo Boingo",
+	"Drum My Hero FF",
 	"Drum Pergi Hilang Dan Lupakan Remember Of Today",
 	"Drum Red In Summer Echoes",
 	"Drum Teen Rebel LIVE",
