@@ -85,6 +85,7 @@ return {
 	"D4vd Romantic Homicide piano midi",
 	"Death Bed - Powfu",
 	"DebraYume Moayad Aljabal - Floating In Reverie",
+	"December Avenue - Kung Di Rin Lang Ikaw",
 	"Delight Me - Lukewarm Tears",
 	"Die-With-A-Smile",
 	"Do I Wanna Know Bass",
