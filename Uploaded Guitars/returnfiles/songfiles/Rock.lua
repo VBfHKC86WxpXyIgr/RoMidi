@@ -54,6 +54,7 @@ return {
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Guitar1 Remember Of Today Pergi Hilang",
 	"Guitar2 Alesana Annabel DROP D",
+	"Guitar2 Remember Of Today Pergi Hilang",
 	"Guitarra Lead Annabel Alesana",
 	"Heart Shaped Box - Nirvana",
 	"Hendrix Jimi - All Along The Watchower [MIDIfind.Com]",
