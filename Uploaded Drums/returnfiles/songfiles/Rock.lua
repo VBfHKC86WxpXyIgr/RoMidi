@@ -66,6 +66,7 @@ return {
 	"Drum Alesana Annabel",
 	"Drum Alv Bye Melted Ice Cream",
 	"Drum For Now Not Ever Motifs",
+	"Drum Freaks Surf Curse",
 	"Drum Hibou Eidolon",
 	"Drum Pergi Hilang Dan Lupakan Remember Of Today",
 	"Drum Teen Rebel LIVE",
