@@ -191,6 +191,7 @@ return {
 	"Diddy Heil Epstein 1784992602218",
 	"ĐIềU Anh BiếT",
 	"ĐIềU Em Mong đợI KhôNg PhảI Là TuyếT",
+	"Dilemma - Kelly Rowland, Nelly, Nelly Featuring Kelly Rowland (Piano-Vocal-Guitar)",
 	"độ KhôNg độ NàNg",
 	"ĐOảN XuâN Ca",
 	"Doll Dancing",
