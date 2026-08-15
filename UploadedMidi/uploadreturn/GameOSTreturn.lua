@@ -154,6 +154,7 @@ return {
 	"Subwoofer Lullaby (Minecraft)",
 	"Summer Smile - Silent Partner No Copyright Music-303964052",
 	"Sundowner (Piano Duet)",
+	"Super Mario Bros - Main Theme",
 	"Super Mario World Castle Theme Kyle Landry",
 	"Super Smash Bros Brawl- Menu Theme",
 	"Sweden (Minecraft)",
