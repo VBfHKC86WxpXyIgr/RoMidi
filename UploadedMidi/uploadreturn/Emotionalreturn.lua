@@ -250,6 +250,7 @@ return {
 	"Organ Sonata No BWV Andante Adagio Vikingur Olafsson Interpretation (MEDIUM VERSION)",
 	"Original-Composition-(HUMAN BEST VERSION)",
 	"Padi Kasih Tak Smp",
+	"Panchiko - D E A T H M E T A L (WIP)",
 	"Parfum D'Etoiles - Ichika Aoba",
 	"Parfum Dtoiles (BEST VERSION)",
 	"Past Lives - Borns",
