@@ -13,6 +13,7 @@ return {
 	"Creep - Radiohead (Guitar)",
 	"Guitar Alicia Viajes En El Tiempo",
 	"Guitar For Now Not Ever-Motifs",
+	"Guitar Lead Surf Curse Freaks",
 	"Guitar Rtm Surf Curse Freaks",
 	"Guitar1 Alv Bye Melted Ice Cream",
 	"Guitar1 Eidolon Hibou",
