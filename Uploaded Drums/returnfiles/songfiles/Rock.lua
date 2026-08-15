@@ -70,6 +70,7 @@ return {
 	"Drum Hibou Eidolon",
 	"Drum Little Girls Oingo Boingo",
 	"Drum Pergi Hilang Dan Lupakan Remember Of Today",
+	"Drum Red In Summer Echoes",
 	"Drum Teen Rebel LIVE",
 	"Drum The Haunted Youth Teen Rebel",
 	"Drum-Helena MCR",
