@@ -180,6 +180,7 @@ return {
 	"TripleTrouble",
 	"Undertale - Asgore",
 	"Undertale - Ruins",
+	"Undertale - Ruins [Piano]",
 	"Undertale - SAVE the World",
 	"Undertale - Toby Fox",
 	"Undertale~PFFinale~123,000",
