@@ -23,6 +23,7 @@ return {
 	"Avenged Sevenfold - Afterlife [Sky]",
 	"Avenged Sevenfold - Almost Easy [Sky]",
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
+	"Bass Remenber Of Today Pergi Hilang",
 	"Beatles It Wont Be Long",
 	"Beggin-Maneskin.Mid",
 	"Bismarck - Sabaton Piano Arrangement",
