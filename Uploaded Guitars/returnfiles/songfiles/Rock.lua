@@ -197,5 +197,6 @@ return {
 	"Король и Шут - Прыгну со скалы [MIDIfind.Com]",
 	"Пикник - Египтянин [MIDIfind.Com]",
 	"Пикник - Королевство кривых [MIDIfind.Com]",
+	"เล่นของสูง (Len Kaung Soong) - Big Ass",
 	"แสงสุดท้าย",
 }
