@@ -188,6 +188,7 @@ return {
 	"Les Childish Gambino Piano Solo 1784876806897",
 	"like him - tyler creator",
 	"Like Him Tyler The Creator",
+	"Lil Peep - Nuts (FULL DONE)",
 	"Liszt-Transcendental-Etude-No-5-Feux-Follets(BEST VERSION)",
 	"Loneliness By Decalius-07-04-2026",
 	"Long-Love-New",
