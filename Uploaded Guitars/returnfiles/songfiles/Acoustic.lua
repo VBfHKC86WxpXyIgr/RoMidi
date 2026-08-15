@@ -21,6 +21,7 @@ return {
 	"Batta - Chase-JojoDr",
 	"Beabadoobee - The Way Things Go",
 	"Beabadoobee-The Perfect Pair-05-27-2023-Acoustic Guitar",
+	"Bedroom Audio - รกมอสอง [Official Music Video]",
 	"Bertaut - Guitar",
 	"Binks Rum Binks Sake 1780241727588",
 	"Black Sabbath - NIB Bass",
