@@ -314,6 +314,7 @@ return {
 	"Silencer - Sterile Nails And Thunderbowels [MIDIfind.Com]",
 	"Slayer - Angel Of Death (2) [MIDIfind.Com]",
 	"Slayer - Raining Blood [MIDIfind.Com]",
+	"Slayer - Raining Blood Altars Of Sacrifice Jesus Saves [MIDIfind.Com]",
 	"Slayer - South Of Heaven (3) [MIDIfind.Com]",
 	"Slipknot - Before I Forget [MIDIfind.Com]",
 	"Slipknot - Duality [MIDIfind.Com]",
