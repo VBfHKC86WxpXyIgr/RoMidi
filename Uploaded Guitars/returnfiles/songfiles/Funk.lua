@@ -8,6 +8,7 @@ return {
 	"D CR0057",
 	"Daft Punk - Get Lucky [MIDIfind.Com]",
 	"Daft+Punk+-+Get+Lucky+(Slowed+++Reverb) 128k",
+	"Event Horizon (Reach For The Sun And Burn! Burn! Burn!) - ULTRAKILL OST",
 	"Limp Bizkit - Take A Look Around [MIDIfind.Com]",
 	"Metallica-Enter-Sandman Midi",
 	"Motley Crue - Kickstart My Heart.Mid",
