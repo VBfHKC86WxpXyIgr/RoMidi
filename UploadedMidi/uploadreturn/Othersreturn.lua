@@ -512,6 +512,7 @@ return {
 	"RUSH E MADE BY GROK",
 	"Rush E Normal Mhxa",
 	"Rush E Without Anything Else",
+	"RUSH E WITHOUT ANYTHING ELSE",
 	"Rush E X Beethoven Viruss X Nu Pogodi",
 	"Rush E X Interstellar",
 	"RUSH E ZOTMIDIs Ver WIP",
