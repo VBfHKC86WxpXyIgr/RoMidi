@@ -16,6 +16,7 @@ return {
 	"Basic Pitch Transcription (1)",
 	"Basic Pitch Transcription (4)",
 	"Basic Pitch Transcription (5)",
+	"Bass About The Girl-The Academy Is",
 	"Bass Helena MCR",
 	"Bedrott (Full Song)",
 	"Bjork - Army Of Me WWW.MIDISFREE.COM",
