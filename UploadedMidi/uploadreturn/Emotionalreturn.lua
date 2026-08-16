@@ -269,6 +269,7 @@ return {
 	"Radiohead - Creep",
 	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
 	"Radiohead - Motion Picture Soundtrack [MIDIfind.Com]",
+	"Radiohead - No Surprises",
 	"Radiohead - No Surprises (4) WWW.MIDISFREE.COM",
 	"Raindance - Dave, Tems (Piano)",
 	"Rebzyyx - I'M So Fucked Up Please Help Me",
