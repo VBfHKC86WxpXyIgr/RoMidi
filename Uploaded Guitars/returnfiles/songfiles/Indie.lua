@@ -19,6 +19,7 @@ return {
 	"Guitar Lead Royel Otis-Oysters In My Pocket",
 	"Guitar Lead Surf Curse Freaks",
 	"Guitar Rtm Red In Summer Echoes DROP D",
+	"Guitar Rtm Royel Otis-Oysters In My Pocket",
 	"Guitar Rtm Surf Curse Freaks",
 	"Guitar1 Alv Bye Melted Ice Cream",
 	"Guitar1 Eidolon Hibou",
