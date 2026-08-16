@@ -72,6 +72,7 @@ return {
 	"Drum My Hero FF",
 	"Drum Pergi Hilang Dan Lupakan Remember Of Today",
 	"Drum Red In Summer Echoes",
+	"Drum Royel Otis-Oysters In My Pocket",
 	"Drum Teen Rebel LIVE",
 	"Drum The Haunted Youth Teen Rebel",
 	"Drum-Helena MCR",
