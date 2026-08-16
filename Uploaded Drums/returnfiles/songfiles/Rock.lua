@@ -63,6 +63,7 @@ return {
 	"Deftones-Beauty School-07-27-2026",
 	"Degenerate",
 	"Dire Straits - Sultans Of Swing (Drum)",
+	"Drum About The Girl-The Academy Is",
 	"Drum Alesana Annabel",
 	"Drum Alv Bye Melted Ice Cream",
 	"Drum For Now Not Ever Motifs",
