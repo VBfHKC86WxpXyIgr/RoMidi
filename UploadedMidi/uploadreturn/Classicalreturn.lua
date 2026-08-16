@@ -114,6 +114,7 @@ return {
 	"GAYNOR.I Will Survive K",
 	"Girls-Und-Panzer-Ost---Piano-On-Musescore",
 	"Gloria Gaynor Arr.  Elaine Kelkel - I Will Survive",
+	"Goo Goo Dolls - Iris [Official Music Video] [4K Remaster] 1764384558236",
 	"Government Funding (Kane Pixels)",
 	"GOZALO - Ariis",
 	"Grieg - Morning Mood - Fikram",
