@@ -505,6 +505,7 @@ return {
 	"RUSH E 3 NO ART",
 	"Rush E 3 Real",
 	"RUSH E 3 Whitout Anything Else",
+	"RUSH E 3 WITHOUT ANYTHING ELSE REAL",
 	"Rush E 4",
 	"Rush E 4 No Lag",
 	"RUSH E CLEANED",
