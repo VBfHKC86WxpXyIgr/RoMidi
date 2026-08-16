@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"21 Guns - Green Day (Piano-Vocal-Guitar)",
+	"7 Souls",
 	"ACDC - Thats The Way I Wanna Rock'N'Roll [MIDIfind.Com]",
 	"ACDC - Thunderstruck [MIDIfind.Com]",
 	"ACDC.Highway To Hell K",
