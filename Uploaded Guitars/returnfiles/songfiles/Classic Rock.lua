@@ -3,6 +3,7 @@ return {
 	"1Hey Jude Acoustic By The Beatles",
 	"ACDC - It'S A Long Way To The Top If You Wanna Rock'N'Roll [MIDIfind.Com]",
 	"AEROSMITH.Sweet Emotions",
+	"Amazing-Grace-Guitar",
 	"And-Your-Bird-Can-Sing",
 	"AUD Lr0462",
 	"AUD NOY0290",
