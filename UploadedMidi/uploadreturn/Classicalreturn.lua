@@ -269,6 +269,7 @@ return {
 	"Yeni-Qukeru-Yoru-Ni-Kakeru-Racing-Into-The-Night(BEST VERSION)",
 	"Yeni-Qukeruyoasobi-Marasy-Full-Ver(BEST VERSION)",
 	"You'Ve Gotta Move",
+	"Your Song - Parokya Ni Edgar (Lyrics) 1766802639140",
 	"Youre-A-Mean-One-Mr-Grinch-Jazz-Virtuoso-Piano-Arr(BEST VERSION)",
 	"YTDown.Com YouTube Erika-A-German-WW2-Marching-Song Media WGw4mn2-ILc 001 1080p+(1)-1",
 	"Yukinoshingun",
