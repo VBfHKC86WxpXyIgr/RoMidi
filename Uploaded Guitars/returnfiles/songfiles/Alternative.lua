@@ -30,6 +30,7 @@ return {
 	"Glistening-Absurdism Full Version-05-06-2026",
 	"Go Away - Weezer",
 	"Guiarra Lead Annabel Alesana",
+	"Guitar Rtm About The Girl-The Academy Is",
 	"Guitar1 Helena MCR",
 	"Guitar2 Helena MCR",
 	"I Cant Handle Change - Roar",
