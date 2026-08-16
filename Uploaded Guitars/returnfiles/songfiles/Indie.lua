@@ -16,6 +16,7 @@ return {
 	"Guitar Alicia Viajes En El Tiempo",
 	"Guitar For Now Not Ever-Motifs",
 	"Guitar Lead Red In Summer Echoes DROP D",
+	"Guitar Lead Royel Otis-Oysters In My Pocket",
 	"Guitar Lead Surf Curse Freaks",
 	"Guitar Rtm Red In Summer Echoes DROP D",
 	"Guitar Rtm Surf Curse Freaks",
