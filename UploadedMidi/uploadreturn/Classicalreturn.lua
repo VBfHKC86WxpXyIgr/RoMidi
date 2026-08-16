@@ -184,6 +184,7 @@ return {
 	"operas",
 	"Otsukare Summer",
 	"Output",
+	"Panchiko - D E A T H M E T A L (WIP) (1)",
 	"Panzerlied",
 	"Pathetique 3",
 	"Pedih Last Child 1780246257149",
