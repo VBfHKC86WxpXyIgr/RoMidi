@@ -22,6 +22,7 @@ return {
 	"Guitar Rtm Red In Summer Echoes DROP D",
 	"Guitar Rtm Royel Otis-Oysters In My Pocket",
 	"Guitar Rtm Surf Curse Freaks",
+	"Guitar1 2 Motifs For Now Not Ever Live Baybeats",
 	"Guitar1 Alv Bye Melted Ice Cream",
 	"Guitar1 Eidolon Hibou",
 	"Guitar2 Alv Bye Melted Ice Cream",
