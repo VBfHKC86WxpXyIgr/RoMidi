@@ -5,6 +5,7 @@ return {
 	"Angus And Julia Stone - Big Jet Plane [MIDIfind.Com]",
 	"Bass For Now Not Ever-Motifs",
 	"Bass Red In Summer Echoes DROP D",
+	"Bass Royel Otis-Oysters In My Pocket",
 	"Bass Surf Curse Freaks",
 	"Bass Teen Rebel DropD V2",
 	"Bass Teen Rebel DropD V3",
