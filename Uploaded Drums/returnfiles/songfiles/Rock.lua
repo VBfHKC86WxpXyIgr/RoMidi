@@ -76,6 +76,7 @@ return {
 	"Drum Royel Otis-Oysters In My Pocket",
 	"Drum Teen Rebel LIVE",
 	"Drum The Haunted Youth Teen Rebel",
+	"Drum THY-Teen Rebel LIVE V2",
 	"Drum-Helena MCR",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Endless Nameless - Nirvana (Drums)",
