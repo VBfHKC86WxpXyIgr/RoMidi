@@ -122,6 +122,7 @@ return {
 	"happy",
 	"Happy",
 	"Harvey - Her'S",
+	"Her JVKE (BEST HUMAN VERSION)",
 	"Hibou-Eidolon-07-26-2026",
 	"Himno Nacional Argentino 🇦🇷",
 	"Honeymoon Un Deux Trois (BEST HUMAN VERSION)",
