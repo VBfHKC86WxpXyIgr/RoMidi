@@ -31,6 +31,7 @@ return {
 	"Children",
 	"Ctgther",
 	"Do You Wanna Know A Secret",
+	"DrMetal",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Fingerstyle",
 	"Foo Fighters - Everlong [MIDIfind.Com]",
