@@ -158,6 +158,7 @@ return {
 	"Tip Toe - HYBS",
 	"Title Fight - Where Am I",
 	"Toe - Goodbye Rasgueo",
+	"Torete - Moira Dela Torre Love You To The Stars And Back (Lyrics) 1786923671826",
 	"Tsuki (พระจันทร์) - LANDOKMAI",
 	"Two Door Cinema Club - Undercover Martyn",
 	"Unknown - Redbone - Come And Get Your Love Fingerstyle",
