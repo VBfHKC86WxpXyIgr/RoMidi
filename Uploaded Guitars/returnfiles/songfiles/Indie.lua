@@ -27,6 +27,7 @@ return {
 	"Guitar1 2 THY-Teen Rebel LIVE V2",
 	"Guitar1 Alv Bye Melted Ice Cream",
 	"Guitar1 Eidolon Hibou",
+	"Guitar1 Teen Rebel",
 	"Guitar2 Alv Bye Melted Ice Cream",
 	"Guitar2 Eidolon Hibou",
 	"Guitar2 For Now Not Ever-Motifs",
