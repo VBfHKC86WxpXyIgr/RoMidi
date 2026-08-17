@@ -73,6 +73,7 @@ return {
 	"Geometry Dash Menu Theme",
 	"Geometry Dash Stereo Madness Original By Forever Bound",
 	"Get Outside! (WIP)",
+	"Glory - Ultrakill",
 	"God Eater From Vs Shaggy Mod V2",
 	"Got-Main-Theme-Advanced",
 	"Great Fairy Fountain Theme",
