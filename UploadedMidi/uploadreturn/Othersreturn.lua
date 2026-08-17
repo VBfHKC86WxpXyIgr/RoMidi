@@ -511,6 +511,7 @@ return {
 	"Rush E 4",
 	"Rush E 4 No Lag",
 	"Rush E 4 Playable 88keys",
+	"RUSH E But It'S ACTUALLY PLAYABLE",
 	"RUSH E CLEANED",
 	"RUSH E MADE BY GROK",
 	"Rush E Normal Mhxa",
