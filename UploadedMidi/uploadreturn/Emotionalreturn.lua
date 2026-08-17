@@ -168,6 +168,7 @@ return {
 	"Jowel: Perdón",
 	"Jowel: Por qué te vas",
 	"Jowel: Your Love",
+	"Just The Two Of Us (BEST HUMAN VERSION)",
 	"Just The Two Of Us Solo (BEST MEDIUM VERSION)",
 	"Justin-Bieber-Ghost-Anonymous-20220216213352-nonstop2k.com",
 	"Kaikai-Kitan-Jujutsu-Kaisen-Opeve-Piano(BEST VERSION)",
