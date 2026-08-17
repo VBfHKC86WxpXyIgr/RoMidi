@@ -11,6 +11,7 @@ return {
 	"Bass Teen Rebel DropD V3",
 	"Bass Teen Rebel DropD V4",
 	"Bass Teen Rebel The Haunted Youth Tuning Drop D",
+	"Bass THY-Teen Rebel LIVE V2",
 	"Boys Don'T Cry - The Cure (Piano Arrangement)",
 	"Brubeck Dave - Take Five [MIDIfind.Com]",
 	"Creep - Radiohead (Guitar)",
