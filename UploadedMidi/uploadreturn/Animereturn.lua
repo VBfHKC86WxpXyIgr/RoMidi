@@ -28,6 +28,7 @@ return {
 	"Binary Data IV",
 	"Bleach - Nothing Can Be Explained",
 	"Bleach - Ranbu No Melody",
+	"Bleach - Torn Apart",
 	"Bleach Soundtrack Soundscape To Ardor",
 	"Bloody Stream Piano Arrangement",
 	"BURNOUT",
