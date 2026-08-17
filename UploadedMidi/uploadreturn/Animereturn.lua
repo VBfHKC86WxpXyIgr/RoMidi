@@ -27,6 +27,7 @@ return {
 	"BEFORE LIGHTS OUT",
 	"Binary Data IV",
 	"Bleach - Ranbu No Melody",
+	"Bleach Soundtrack Soundscape To Ardor",
 	"Bloody Stream Piano Arrangement",
 	"BURNOUT",
 	"BURNOUT (DIVA 1X X GHOUL TWO TIME LMS) - FORSAKEN OST PIANO COVER",
