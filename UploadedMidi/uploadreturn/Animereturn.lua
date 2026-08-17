@@ -26,6 +26,7 @@ return {
 	"BEASTARS -Classical- For 2 Violins",
 	"BEFORE LIGHTS OUT",
 	"Binary Data IV",
+	"Bleach - Nothing Can Be Explained",
 	"Bleach - Ranbu No Melody",
 	"Bleach Soundtrack Soundscape To Ardor",
 	"Bloody Stream Piano Arrangement",
