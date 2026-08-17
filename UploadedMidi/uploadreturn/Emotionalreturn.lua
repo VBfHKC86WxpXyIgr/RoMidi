@@ -294,6 +294,7 @@ return {
 	"Selalu Ada Di Nadimu - From JUMBO - Fikram",
 	"Self Aware - Temper City (Piano)",
 	"Sesi Potret - Enau",
+	"Shiro Sagisu - Soundscape To Ardor [MIDIfind.Com]",
 	"SHUCKS EPIC",
 	"Sinking Town   沈める街 - Yoeko Kurahashi",
 	"Smashing Pumpkins - 1979",
