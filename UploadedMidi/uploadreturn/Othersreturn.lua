@@ -314,6 +314,7 @@ return {
 	"IMPOSTOR SYNDROME",
 	"In Love - Low G (Piano)",
 	"Irida Cartoon V4",
+	"Irida Opening Cutcene (1)",
 	"Irida V4 Cartoon",
 	"Is It Really You - Loathe",
 	"It'S Okay Now",
