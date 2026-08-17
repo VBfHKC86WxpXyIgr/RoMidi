@@ -15,6 +15,7 @@ return {
 	"Boys Don'T Cry - The Cure (Piano Arrangement)",
 	"Brubeck Dave - Take Five [MIDIfind.Com]",
 	"Creep - Radiohead (Guitar)",
+	"Guitar 2 Teen Rebel LIVE V2",
 	"Guitar Alicia Viajes En El Tiempo",
 	"Guitar For Now Not Ever-Motifs",
 	"Guitar Lead Red In Summer Echoes DROP D",
