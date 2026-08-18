@@ -131,6 +131,7 @@ return {
 	"GoodGod",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Guns N' Roses - Sweet Child O' Mine [MIDIfind.com]",
+	"HARDWIRED",
 	"Hatebreed - As Diehard As They Come [MIDIfind.Com]",
 	"Hatebreed - In Ashes They Shall Reap [MIDIfind.Com]",
 	"Hatebreeder",
