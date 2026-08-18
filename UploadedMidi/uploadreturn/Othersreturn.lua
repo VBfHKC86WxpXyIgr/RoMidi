@@ -361,6 +361,7 @@ return {
 	"LALALALA (락) (樂) - Stray Kids (스트레이 키즈)",
 	"LàM NgườI LuôN YêU Em",
 	"LàM Vợ Anh Nhé",
+	"Laufey - Let You Break My Heart Again (WIP)",
 	"Lemon",
 	"Liana Flores - Rises The Moon",
 	"LiebestraüM No 3 In A♭ Major (Dream Of Love)",
