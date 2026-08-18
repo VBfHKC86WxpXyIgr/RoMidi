@@ -95,6 +95,7 @@ return {
 	"Etude-In-E-Minor-Opus-25-Nr-5",
 	"Evgeny Grinko - Valse( VYCOg-YglNM )",
 	"EvGeny Grinko-Valse",
+	"Fantaisie-Impromptu JAZZ Version",
 	"Fasion - Dansez - COPYRIGHT FREE - CEM",
 	"Flamewall",
 	"Foggy Mountain Breakdown",
