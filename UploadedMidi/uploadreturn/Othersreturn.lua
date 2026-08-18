@@ -467,6 +467,7 @@ return {
 	"Panic! At The Disco - House Of Memories.Mid",
 	"Paparazzi - Lady Gaga",
 	"Parokya Ni Edgar - Pangarap Lang Kita",
+	"Payphone",
 	"PEARL JAM.Even Flow",
 	"Persona - Color Your Night Mhxa",
 	"Persona 5 - Last Suprise (PIANO & DRUMS)",
