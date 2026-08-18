@@ -143,6 +143,7 @@ return {
 	"Toilet Story 3",
 	"Tokyo Ghoul - Unravel",
 	"Twins At The Carousel N°45 - Kikou",
+	"Umamusume Pretty Derby - Umapyoi Legend - Akihiro Honda - Piano Cover Short Attempt (1)",
 	"Unravel - Tokyo Ghoul (Piano Cover) - MIDI.Mid",
 	"utsukushiki-zankoku-na-sekai-attack-on-titanshingeki-no-kyojin-ed-1-full",
 	"Vickeblanka - Black Catcher Black Clover Opening 10 WT1",
