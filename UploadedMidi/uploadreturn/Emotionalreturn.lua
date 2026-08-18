@@ -209,6 +209,7 @@ return {
 	"Mahika",
 	"Malvinas Argentinas 🇦🇷",
 	"Marcha Nupcial",
+	"Margaret - Lana Del Rey",
 	"Married Life - Fikram",
 	"MấT KếT NốI",
 	"Mattyeux, Princesse Chelsea - Sometimes (Some Changes)",
