@@ -31,6 +31,7 @@ return {
 	"Bleach - Torn Apart",
 	"Bleach Soundtrack Soundscape To Ardor",
 	"Bloody Stream Piano Arrangement",
+	"Bruno Mars - Risk It All Official Music Video",
 	"BURNOUT",
 	"BURNOUT (DIVA 1X X GHOUL TWO TIME LMS) - FORSAKEN OST PIANO COVER",
 	"Cat Loving HSR",
