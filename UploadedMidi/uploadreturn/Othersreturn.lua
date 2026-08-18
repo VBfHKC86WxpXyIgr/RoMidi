@@ -485,6 +485,7 @@ return {
 	"PvZ-Loonboon.Mid 1612468846906.Mid",
 	"Queen - Bohemian Rhapsody",
 	"QuêN",
+	"Rachmaninov Concerto 2 2 (C)Galimberti",
 	"Radiohead - Kid A [MIDIfind.Com]",
 	"Radiohead - No Surprises",
 	"Rate+Lyrics+(1)",
