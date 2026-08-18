@@ -93,6 +93,7 @@ return {
 	"Kiminonawa OST - Nandemonaiya Mhxa",
 	"KISS OF DEATH（Produced By HYDE）(延音)",
 	"Kobayashi San Chi No Maid Dragon ED - Ishukan Communication (TV Size) - ShinkoNetCavy",
+	"Kokoronashi",
 	"Light'S Theme - Death Note",
 	"Maid In Dragon",
 	"Manazashi Wa Hikari Tatsuya Kitani The Fragrant Flower Blooms With Dignity OP 1784992924078",
