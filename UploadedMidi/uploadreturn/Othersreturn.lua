@@ -139,6 +139,7 @@ return {
 	"Cheri Cheri Lady",
 	"ChịU đựNg đủ RồI",
 	"Chờ đợI Có đáNg Sợ",
+	"Chopin - Ballade No. 1 In G Minor Op 23 MIDI",
 	"Chopin - Etude Op. 25 No. 6",
 	"Chopin-Etude-Op10-No4",
 	"ChưA ChắC",
