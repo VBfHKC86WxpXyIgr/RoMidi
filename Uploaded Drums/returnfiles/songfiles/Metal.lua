@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"[Dropped] Gojira - The Art of Dying",
+	"2x4",
 	"37075 Danger-Line (2)",
 	"50 AC DC RIFFS",
 	"50 Iron Maiden RIFFS",
