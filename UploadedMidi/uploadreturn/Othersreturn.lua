@@ -141,6 +141,7 @@ return {
 	"Chờ đợI Có đáNg Sợ",
 	"Chopin - Ballade No. 1 In G Minor Op 23 MIDI",
 	"Chopin - Etude Op. 25 No. 6",
+	"Chopin Waltz Opus 64, No. 2 In C♯ Minor",
 	"Chopin-Etude-Op10-No4",
 	"ChưA ChắC",
 	"ChúNg Ta CủA HiệN TạI",
