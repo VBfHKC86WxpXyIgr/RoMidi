@@ -152,6 +152,7 @@ return {
 	"Kuroshitsuji Book Of Circus OST (BEST VERSION)",
 	"La Campanella (BEST VERSION)",
 	"La Valse DAmlie Yann Tiersen (BEST VERSION)",
+	"Libertango(Piano Solo) - Astor Piazzolla",
 	"liebestraum",
 	"Liebestraum-S-541-No-3-In-A-Major-Liszt(BEST VERSION)",
 	"Liquid Smooth - Mitski",
