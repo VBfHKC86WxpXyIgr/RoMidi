@@ -135,6 +135,7 @@ return {
 	"L'Amour Toujours - Gigi D'Agostino (Organ Cover)",
 	"La La Land Epilogue Mid",
 	"Laufey - From The Start",
+	"Let You Break My Heart Again - Laufey Philharmonia Orchestra Official Audio",
 	"Levels",
 	"Long Time - Playboi Carti",
 	"Look At What You'Ve Done - Drake",
