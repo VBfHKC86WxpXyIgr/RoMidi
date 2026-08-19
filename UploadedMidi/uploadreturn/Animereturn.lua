@@ -30,6 +30,7 @@ return {
 	"Binary Data IV",
 	"Bleach - Nothing Can Be Explained",
 	"Bleach - Ranbu No Melody",
+	"Bleach - Soundscape To Ardor (Morning Rememberance) - Midi By Tutogamer2a",
 	"Bleach - Torn Apart",
 	"Bleach Soundtrack Soundscape To Ardor",
 	"Bloody Stream Piano Arrangement",
