@@ -49,6 +49,7 @@ return {
 	"DragonForce - Through The Fire And Flames KLICKAUD Converted",
 	"Flamewall By Camellia",
 	"Flying Through The Sky (Ram Ranch)",
+	"Foo Fighters - My Hero [MIDIfind.Com]",
 	"For-Whom-The-Bell-Tolls",
 	"Fortunate Son - Creedance Clearwater Revival",
 	"Fortunate Son - Creedance Clearwater Revival-Electric Bass, Fingered Bass",
