@@ -112,6 +112,7 @@ return {
 	"Nezuko HalcyonMusic",
 	"NieR - Kaine Salvation",
 	"No Game No Life - THIS GAME Mhxa Peak",
+	"Nothing Can Be Explained - Bleach",
 	"Omae Wa Mou Mhxa",
 	"Orange 7",
 	"Orange 7!! - Your Lie In April",
