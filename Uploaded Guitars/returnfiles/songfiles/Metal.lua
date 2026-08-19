@@ -186,6 +186,7 @@ return {
 	"Metallica - Disposable Heroes [MIDIfind.Com]",
 	"Metallica - Dyers Eve [MIDIfind.Com]",
 	"Metallica - Enter Sandman [MIDIfind.Com]",
+	"Metallica - Enter Sandman Better (Bass) [MIDIfind.Com]",
 	"Metallica - Eye Of The Beholder [MIDIfind.Com]",
 	"Metallica - Fade To Black [MIDIfind.Com]",
 	"Metallica - Fade To Black Solo Guitar Kelly Valleau [MIDIfind.Com]",
