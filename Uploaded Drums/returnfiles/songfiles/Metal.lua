@@ -368,6 +368,7 @@ return {
 	"Three Days Grace - Riot [MIDIfind.Com]",
 	"Three Days Grace - Time For Dying [MIDIfind.Com]",
 	"ThunderStruck - ACDC",
+	"Tool - Lateralus (4) [MIDIfind.Com]",
 	"Tool - Parabol Parabola [MIDIfind.Com]",
 	"Tourettes - Nirvana Tourettes - Nirvana Drum Sheet Music",
 	"Toxicity by System of a Down -- Version 4.2",
