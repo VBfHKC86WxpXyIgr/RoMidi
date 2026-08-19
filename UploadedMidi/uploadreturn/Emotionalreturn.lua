@@ -360,6 +360,7 @@ return {
 	"V1",
 	"V2",
 	"V3",
+	"VALZ DARK",
 	"Victors Solo (HUMAN BEST VERSION)",
 	"Việt Nam I love impossible",
 	"Vina Panduwinata - Kumpul Bocah",
