@@ -159,6 +159,7 @@ return {
 	"Judas Priest - You'Ve Got Another Thing Comin [MIDIfind.Com]",
 	"Korn - A.D.I.D.A.S (Drum)",
 	"Korn - Ball Tongue (Drum)",
+	"Korn - Ball Tongue [MIDIfind.Com]",
 	"Korn - Blind (Drum)",
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
 	"Korn - Falling Away From Me [MIDIfind.Com]",
