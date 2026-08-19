@@ -319,6 +319,7 @@ return {
 	"IMPOSTOR SYNDROME",
 	"In Love - Low G (Piano)",
 	"Irida Cartoon V4",
+	"IRIDA EPICmp3 Remix Converted By Jukeblocks",
 	"Irida Opening Cutcene (1)",
 	"Irida V2",
 	"Irida V4 Cartoon",
