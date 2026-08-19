@@ -83,6 +83,7 @@ return {
 	"Faith",
 	"Foo Fighters - Everlong",
 	"Foo Fighters - Everlong (Drum)",
+	"Foo Fighters - Everlong [MIDIfind.Com]",
 	"Foo Fighters - My Hero [MIDIfind.Com]",
 	"For-Whom-The-Bell-Tolls",
 	"Fortunate Son - Creedance Clearwater Revival-Drum Kit, Drums",
