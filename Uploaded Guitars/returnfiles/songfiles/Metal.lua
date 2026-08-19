@@ -338,6 +338,7 @@ return {
 	"Three Days Grace - Riot [MIDIfind.Com]",
 	"Three Days Grace - Time For Dying [MIDIfind.Com]",
 	"Through The Fire And Flames - DragonForce",
+	"Tool - Lateralus (4) [MIDIfind.Com]",
 	"Tool - Parabol Parabola [MIDIfind.Com]",
 	"Tool - Schism (3) [MIDIfind.Com]",
 	"Toxicity - System Of A Down",
