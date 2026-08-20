@@ -89,6 +89,7 @@ return {
 	"Beautiful In White",
 	"Because I Miss You",
 	"Beethoven - Virus Mhxa",
+	"Beethoven Symphony No 5 (1st Movement) Piano Solo",
 	"Beethoven Virus",
 	"Beethoven Virus 2 Player",
 	"Believer",
