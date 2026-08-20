@@ -6,5 +6,6 @@ return {
 	"Caravan(1)",
 	"Vaughan Stevie Ray - Pride And Joy [MIDIfind.Com]",
 	"Whiplash - Caravan",
+	"Whiplash - Hank Levy (Drums Transcription Of The Whiplash Movie Version)",
 	"Whiplash-Caravan By B.F.",
 }
