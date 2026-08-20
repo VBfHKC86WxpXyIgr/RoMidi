@@ -56,6 +56,7 @@ return {
 	"Burning Blue - Mariah The Scientist (Piano Solo)",
 	"Camellia - Flamewall",
 	"Careless-Whisper",
+	"Champagne Coast - Blood Orange",
 	"Champagne Coast - Piano Cover (TikTok Version)",
 	"Chaos-Construct",
 	"Charlie Puth - We Don'T Talk Anymore (Feat. Selena Gomez)",
