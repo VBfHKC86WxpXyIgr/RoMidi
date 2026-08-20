@@ -9,6 +9,7 @@ return {
 	"Daft Punk - Get Lucky [MIDIfind.Com]",
 	"Daft+Punk+-+Get+Lucky+(Slowed+++Reverb) 128k",
 	"Event Horizon (Reach For The Sun And Burn! Burn! Burn!) - ULTRAKILL OST",
+	"Get Proto Art Of Guitar (2)",
 	"Limp Bizkit - Take A Look Around [MIDIfind.Com]",
 	"Metallica-Enter-Sandman Midi",
 	"Motley Crue - Kickstart My Heart.Mid",
