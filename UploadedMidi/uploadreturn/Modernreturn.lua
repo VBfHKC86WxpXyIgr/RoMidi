@@ -136,6 +136,7 @@ return {
 	"Kota Ini Tak Sama Tanpamu - Nadhif Basalamah Tutorial Piano Pemula",
 	"L'Amour Toujours - Gigi D'Agostino (Organ Cover)",
 	"La La Land Epilogue Mid",
+	"La Maritza Piano Tutorial",
 	"Laufey - From The Start",
 	"Let You Break My Heart Again - Laufey Philharmonia Orchestra Official Audio",
 	"Levels",
