@@ -207,6 +207,7 @@ return {
 	"Tek It - Cafune",
 	"The Greatest Showman - Rewrite The Stars Piano Cover With Strings (With PIANO SHEETS)",
 	"THE ITCHYWORMS - Di Na Muli ( Extended Solo ) NNTranscription",
+	"The One That Got Away X Clean - Katy Perry Taylor Swift",
 	"The+New+Periodic+Table+Song",
 	"TheFatRat+-+Windfall",
 	"This Is What Falling In Love Feels Like - JVKE For Piano-1",
