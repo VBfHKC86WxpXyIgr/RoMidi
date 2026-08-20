@@ -578,6 +578,7 @@ return {
 	"Sukidakara",
 	"Sunkissed Lola - Pasilyo Mhxa",
 	"Sunlight Sonata 3rd",
+	"Super Hero",
 	"Super Mario 64 Wing Cap Mario Koji Kondo SM64 Powerful Mario Theme",
 	"Superhero Mo Converted By Jukeblocks",
 	"SuýT NữA Thì",
