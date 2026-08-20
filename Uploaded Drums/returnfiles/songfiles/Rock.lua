@@ -67,6 +67,7 @@ return {
 	"Drum Alesana Annabel",
 	"Drum Alv Bye Melted Ice Cream",
 	"Drum For Now Not Ever Motifs",
+	"Drum For Now Not Ever Motifs Studio",
 	"Drum Freaks Surf Curse",
 	"Drum Hibou Eidolon",
 	"Drum Little Girls Oingo Boingo",
