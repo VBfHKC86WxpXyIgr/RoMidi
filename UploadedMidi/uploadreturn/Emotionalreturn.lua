@@ -354,6 +354,7 @@ return {
 	"Troublem",
 	"Twin Peaks - Fikram",
 	"Twin Peaks - Laura Palmer'S Theme - Piano Cover & Tutorial [U3JkmGKirvg]",
+	"Udaarian - Satinder Sartaaj (1)",
 	"Udaarian+-+Satinder+Sartaaj+(1)",
 	"Unslept - Miraidempa",
 	"Unslept By Miraidempa",
