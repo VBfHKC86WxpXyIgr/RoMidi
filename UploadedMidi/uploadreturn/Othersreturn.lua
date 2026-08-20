@@ -286,6 +286,7 @@ return {
 	"Great Fairy Fountain But It'S A Little Much.",
 	"Great Fairy Fountain Theme",
 	"Hababam",
+	"Halloween Piano Medley",
 	"HàNg NgàN HàNh VạN",
 	"HạNh PhúC MớI",
 	"Hans-Zimmer-Cornfield-Chase-Interstellar-Soundtrack-21091-Nonstop2k.Com",
