@@ -481,6 +481,7 @@ return {
 	"Phonecert (폰서트) - 10CM",
 	"Pi 3.14 Song Playable",
 	"Piano Gimme Chocolate BABYMETAL",
+	"Piano Man (Piano)",
 	"Piazzola Astor - Libertango [MIDIfind.Com]",
 	"Pixies - Where Is My Mind [MIDIfind.Com]",
 	"Play Date",
