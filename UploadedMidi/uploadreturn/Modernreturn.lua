@@ -93,6 +93,7 @@ return {
 	"Faint - Linkin Park Faint",
 	"Forever - The Little Dippers",
 	"Forsaken - Through Patches Of Violet (Hacklord LMS)",
+	"From The Start - Laufey",
 	"FULL PIANO STILL DRE",
 	"GIMS - NINAO Official Lyrics Vido",
 	"Girlfriends - New Computers",
