@@ -30,6 +30,7 @@ return {
 	"Guitar1 Alv Bye Melted Ice Cream",
 	"Guitar1 Eidolon Hibou",
 	"Guitar1 For Now Not Ever Motifs Studio",
+	"Guitar1 For Now Not Ever Motifs Studio V2",
 	"Guitar1 Teen Rebel",
 	"Guitar2 Alv Bye Melted Ice Cream",
 	"Guitar2 Eidolon Hibou",
