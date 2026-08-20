@@ -180,6 +180,7 @@ return {
 	"Output",
 	"Palagi-Tj-Monterde-Palagi",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
+	"Pasilyo - Sunkissed Lola (Piano)",
 	"Phonecert (폰서트) - 10CM",
 	"PUN - DAY ONE Piano Tutorial",
 	"Quando Bate Aquela Saudade - Rubel Piano",
