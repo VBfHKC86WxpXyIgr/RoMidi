@@ -79,6 +79,7 @@ return {
 	"Die with a smile - Piano Solo LKZ",
 	"Diedlonely & éNouement - Stellar Piano Midi",
 	"Dimension Creo",
+	"Djo - End Of Beginning - Piano Tutorial With Sheet Music",
 	"Dr Dre - Still Dre",
 	"Dracula - Tame Impala",
 	"Elektronomia - Sky High",
