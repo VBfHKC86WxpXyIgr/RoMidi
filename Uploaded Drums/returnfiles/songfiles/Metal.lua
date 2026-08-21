@@ -89,6 +89,7 @@ return {
 	"Death - Left To Die (Drum)",
 	"Deftones - 7 Words [MIDIfind.com]",
 	"Deftones - Around the Fur [MIDIfind.com]",
+	"Deftones - Knife Party (2) [MIDIfind.Com]",
 	"Deftones - My Own Summer Shove It [MIDIfind.Com]",
 	"Deftones - One Weak [MIDIfind.com]",
 	"Dethklok - Thunderhorse [MIDIfind.Com]",
