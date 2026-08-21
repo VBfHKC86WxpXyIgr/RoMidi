@@ -124,6 +124,7 @@ return {
 	"Hot For Teacher",
 	"imagine-dragons-believer-drum-score",
 	"Jane! WIP",
+	"Killers - Mr Brightside [MIDIfind.Com]",
 	"Korn - Embrace",
 	"LastResort",
 	"Leech",
