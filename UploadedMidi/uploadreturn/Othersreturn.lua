@@ -243,6 +243,7 @@ return {
 	"Erika.Mid",
 	"Estilo Horizonte Diamante X An Engimatic Encounter",
 	"Ethan Bortnick - Cut My Fingers Off Mhxa",
+	"Every Living Breathing Moment",
 	"Every Living Breathing Moment Grant Steller",
 	"Evil Morty Meme Theme",
 	"Evil Morty Meme Theme (1)",
