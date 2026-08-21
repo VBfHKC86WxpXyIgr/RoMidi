@@ -37,6 +37,7 @@ return {
 	"Blur - Song 2 [MIDIfind.Com]",
 	"Chamber Of Reflection - Mac DeMarcoBass",
 	"Chamber Of Reflection - Mac DeMarcoLead",
+	"Chevelle - Saferwaters [Custom Instrumental]",
 	"Chop Suey - System Of A Down",
 	"Come As You Are (Unplugged) - Nirvana Bass",
 	"Come As You Are (Unplugged) - Nirvana Guitar",
