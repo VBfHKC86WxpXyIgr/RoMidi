@@ -3,6 +3,7 @@ return {
 	"A Night In Tunisia Drum Part",
 	"A.JACKSON.Livin On Love",
 	"B.B King - The Thrill Is Gone [MIDIfind.Com]",
+	"Caravan (From Whiplash ) For Drums",
 	"Caravan(1)",
 	"Vaughan Stevie Ray - Pride And Joy [MIDIfind.Com]",
 	"Whiplash - Caravan",
