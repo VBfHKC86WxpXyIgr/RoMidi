@@ -319,6 +319,7 @@ return {
 	"Slipknot - Psychosocial (ver 8 by Thaynan).mid",
 	"Slipknot - Scissors [MIDIfind.com]",
 	"Slipknot - Spit It Out (Drum)",
+	"Slipknot - Surfacing (Drum)",
 	"Slipknot - Surfacing [MIDIfind.Com]",
 	"Slipknot - Vendetta",
 	"Slipknot - Vermilion Pt.1   WWW.MIDISFREE.COM",
