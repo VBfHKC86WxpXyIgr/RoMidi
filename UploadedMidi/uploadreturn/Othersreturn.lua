@@ -611,6 +611,7 @@ return {
 	"ThấP ThỏM",
 	"That Girl",
 	"The 16th Night",
+	"THE BEATLES.All My Loving",
 	"The Girl From Ipanema (Garota De Ipanema) - Antonio Carlos Jobim, Vinicius De Moraes (Piano Solo)",
 	"The Grand Finale - Piano Solo - Mario And Luigi Bowser039s Inside Story",
 	"The Last Of Us - Gustavo Santaolalla (Piano Solo)",
