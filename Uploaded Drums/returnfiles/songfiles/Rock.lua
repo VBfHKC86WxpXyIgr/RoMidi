@@ -193,6 +193,7 @@ return {
 	"Pixies - Where Is My Mind (Drum)",
 	"Queens Of The Stone Age - No One Knows [MIDIfind.Com]",
 	"Queens Of The Stone Age - Song For The Dead [MIDIfind.Com]",
+	"Queens Of The Stone Age - Song For The Deaf [MIDIfind.Com]",
 	"Radiohead - 15 Step [MIDIfind.Com]",
 	"Radiohead - 2+2=5 [MIDIfind.Com]",
 	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
