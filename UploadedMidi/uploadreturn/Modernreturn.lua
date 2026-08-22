@@ -212,6 +212,7 @@ return {
 	"The+New+Periodic+Table+Song",
 	"TheFatRat+-+Windfall",
 	"This Is What Falling In Love Feels Like - JVKE For Piano-1",
+	"Titibo-Tibo For Piano Solo",
 	"Tony Ann - Anxiety",
 	"Took Her To the O - King Vonn",
 	"Took Her To The O- King Von",
