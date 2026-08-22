@@ -51,6 +51,7 @@ return {
 	"Deltarune - THE WORLD REVOLVING",
 	"Descend [PianoSolo]",
 	"Dialtone - MIDI",
+	"DJ Nate Theory Of Everything 3.Mid",
 	"DJVI - Base After Base (Geometry Dash)",
 	"Doki Doki Literature Club - Main Theme - ShinkoNetCavy",
 	"Dry out Geometry Dash",
