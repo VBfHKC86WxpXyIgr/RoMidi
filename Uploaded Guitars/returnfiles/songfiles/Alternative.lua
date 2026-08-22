@@ -54,6 +54,7 @@ return {
 	"PTV - King For A Day",
 	"Queens Of The Stone Age - No One Knows [MIDIfind.Com]",
 	"Queens Of The Stone Age - Song For The Dead [MIDIfind.Com]",
+	"Queens Of The Stone Age - Song For The Deaf [MIDIfind.Com]",
 	"Radiohead - My Iron Lung",
 	"Sayonara Cross Teck-07-04-2026",
 	"Smashing Pumpkins - Mayonaise (2) [MIDIfind.Com]",
