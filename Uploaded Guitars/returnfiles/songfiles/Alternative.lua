@@ -52,6 +52,7 @@ return {
 	"Nirvana - Sliver (5) [MIDIfind.Com]",
 	"Pixies - Where Is My Mind (5) [MIDIfind.Com]",
 	"PTV - King For A Day",
+	"Queens Of The Stone Age - First It Giveth (3) [MIDIfind.Com]",
 	"Queens Of The Stone Age - No One Knows [MIDIfind.Com]",
 	"Queens Of The Stone Age - Song For The Dead [MIDIfind.Com]",
 	"Queens Of The Stone Age - Song For The Deaf [MIDIfind.Com]",
