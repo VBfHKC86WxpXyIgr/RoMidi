@@ -319,6 +319,7 @@ return {
 	"Slipknot - Psychosocial (Drum)",
 	"Slipknot - Psychosocial (ver 8 by Thaynan).mid",
 	"Slipknot - Scissors [MIDIfind.com]",
+	"Slipknot - Sic (Drum)",
 	"Slipknot - Spit It Out (Drum)",
 	"Slipknot - Surfacing (Drum)",
 	"Slipknot - Surfacing [MIDIfind.Com]",
