@@ -205,6 +205,7 @@ return {
 	"Ария - Я свободен [MIDIfind.Com]",
 	"Кино - Спокойная ночь (4) [MIDIfind.Com]",
 	"Король и Шут - Прыгну со скалы [MIDIfind.Com]",
+	"Любэ - Давай за",
 	"Пикник - Египтянин [MIDIfind.Com]",
 	"Пикник - Королевство кривых [MIDIfind.Com]",
 	"เล่นของสูง (Len Kaung Soong) - Big Ass",
