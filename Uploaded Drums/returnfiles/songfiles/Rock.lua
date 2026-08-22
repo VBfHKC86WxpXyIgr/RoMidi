@@ -191,6 +191,7 @@ return {
 	"Phyllomedusa-Pulverize That Hoe-07-27-2026",
 	"Pink Floyd - Comfortably Numb [MIDIfind.Com]",
 	"Pixies - Where Is My Mind (Drum)",
+	"Queens Of The Stone Age - First It Giveth (3) [MIDIfind.Com]",
 	"Queens Of The Stone Age - No One Knows [MIDIfind.Com]",
 	"Queens Of The Stone Age - Song For The Dead [MIDIfind.Com]",
 	"Queens Of The Stone Age - Song For The Deaf [MIDIfind.Com]",
