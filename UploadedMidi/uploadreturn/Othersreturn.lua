@@ -379,6 +379,7 @@ return {
 	"Liszt Liebestraume No 3",
 	"Lit My Own Worst Enemy.Midi",
 	"Lou Deezi",
+	"Love Of My Life -Queen",
 	"Love Story X Golden Brown",
 	"Lucid Dreams",
 	"Lullaby",
