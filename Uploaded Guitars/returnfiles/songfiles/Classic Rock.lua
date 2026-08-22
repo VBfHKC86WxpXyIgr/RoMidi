@@ -58,6 +58,7 @@ return {
 	"Norwegian-Wood-1",
 	"Pantera - Floods (3) [MIDIfind.Com]",
 	"Paperback Writer",
+	"Paradise City WIP FL Studio",
 	"PAUSE",
 	"Pink Floyd - Comfortably Numb [MIDIfind.Com]",
 	"Playing God - Polyphia Playing God Tab",
