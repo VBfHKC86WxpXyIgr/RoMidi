@@ -339,6 +339,7 @@ return {
 	"Josean Log - Chachacha [Piano]",
 	"Jujutsu Kaisen Season 2 OP2 - SPECIALZ - Piano Cover King Gnu",
 	"Julius-Fucik-Entry-Of-The-Gladiators-Piano-Version",
+	"Jump Up, Super Star - Super Mario Odyssey",
 	"K626 Requiem 04 Dies Irae",
 	"Kevin MacLeod Monkeys Spinning Monkeys Royalty Free",
 	"KháCh MờI",
