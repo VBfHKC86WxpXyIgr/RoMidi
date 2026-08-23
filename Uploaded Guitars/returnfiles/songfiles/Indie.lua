@@ -17,6 +17,7 @@ return {
 	"Creep - Radiohead (Guitar)",
 	"Guitar 1 Teen Rebel LIVE V2",
 	"Guitar 2 Teen Rebel LIVE V2",
+	"Guitar 21 Motifs For Now Not Ever Baybeats",
 	"Guitar Alicia Viajes En El Tiempo",
 	"Guitar For Now Not Ever-Motifs",
 	"Guitar Lead Red In Summer Echoes DROP D",
