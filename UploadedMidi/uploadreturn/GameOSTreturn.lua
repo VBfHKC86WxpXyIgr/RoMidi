@@ -125,6 +125,7 @@ return {
 	"NieR - Song of the Ancients Devola",
 	"Oppa Toby Style - Homestuck S Collide OST 2 For Piano RWE",
 	"Oppa Toby Style Homestuck S Collide OST For Piano 1776388611729",
+	"Output",
 	"Peaches - Jack Black (from the Super Mario Bros. Movie)",
 	"Penumbra Phantasm LWP",
 	"PHOENIX LMS",
