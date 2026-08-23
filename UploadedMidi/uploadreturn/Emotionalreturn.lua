@@ -292,6 +292,7 @@ return {
 	"River Flows In You X Experience",
 	"Rosa Walton - I Really Want To Stay At Your House",
 	"RuminationBAANDIT (BEST HUMAN VERSION)",
+	"Sam Smith-Im Not The Only One",
 	"Sampai Jadi Debu - Fikram",
 	"Sampai Jadi Debu Placeholder",
 	"Samplab Kasih Putih - Glenn",
