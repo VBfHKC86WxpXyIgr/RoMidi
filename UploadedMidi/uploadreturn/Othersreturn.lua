@@ -362,6 +362,7 @@ return {
 	"Kokoronashi",
 	"Là Anh",
 	"La Beirut Fairuz",
+	"La Beirut Fairuz2",
 	"La Campanella",
 	"La Campanella 1838",
 	"La La Land - A Lovely Night(Birru) MIDI",
