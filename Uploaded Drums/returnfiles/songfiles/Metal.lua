@@ -333,6 +333,7 @@ return {
 	"Slipknot-Snuff-Anonymous-20210724225809-nonstop2k.com",
 	"So-Far-Away",
 	"Something In The Way - Nirvana",
+	"Spit Out The Bone - Metallica",
 	"Staind - Can't Believe [MIDIfind.com]",
 	"Staind - Ephiphany [MIDIfind.com]",
 	"Staind - Staind Fade [MIDIfind.com]",
