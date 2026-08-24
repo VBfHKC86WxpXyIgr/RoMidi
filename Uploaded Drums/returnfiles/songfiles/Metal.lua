@@ -106,6 +106,7 @@ return {
 	"Drum - Drums Fill and Solos Patterns [MIDIfind.com]",
 	"Drum - Heavy Metal Drums [MIDIfind.com]",
 	"Drum - Playing on Hi Hat With Two Hands [MIDIfind.com]",
+	"Drum Akatsuki Babymetal Live Wembley Arena 2016",
 	"Drum Awadama Fever BABYMETAL",
 	"Drum Awadama Fever LIVE BABYMETAL",
 	"Drum Gimme Chocolate BABYMETAL",
