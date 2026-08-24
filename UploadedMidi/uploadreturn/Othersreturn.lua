@@ -361,6 +361,7 @@ return {
 	"KOBO KANAERO - HELP!! Mhxa",
 	"Kokoronashi",
 	"Là Anh",
+	"La Beirut Fairuz",
 	"La Campanella",
 	"La Campanella 1838",
 	"La La Land - A Lovely Night(Birru) MIDI",
