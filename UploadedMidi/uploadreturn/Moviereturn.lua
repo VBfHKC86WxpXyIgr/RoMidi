@@ -45,6 +45,7 @@ return {
 	"Janam Janam",
 	"Jaws Theme",
 	"Je Te Laisserai Des Mots - Patrick Watson",
+	"Je Te Laisserai Des Mots (Ft Golden Brown) Piano Tutorial",
 	"JOHN.I'm still standing K",
 	"K6XIWC7S03.Mp3",
 	"Kara-Sevda-MüZikleri---Anlatamam---Piano-Tutorial--Medium----4K-720p-60F.Mp3",
