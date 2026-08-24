@@ -230,6 +230,7 @@ return {
 	"RUSH E SMBs Version Pre-Remaster",
 	"Rush Of Life (BEST VERSION)",
 	"SAMSUNG Over The Horizon 2021 (1)",
+	"Second Run (Piano Cover) - For Nwc (192k) (1)",
 	"Seluruh Nafas Ini Last Child 1780246231273",
 	"Sesi Potret- Enau",
 	"She Neva Knows - Justatee She Neva Knows",
