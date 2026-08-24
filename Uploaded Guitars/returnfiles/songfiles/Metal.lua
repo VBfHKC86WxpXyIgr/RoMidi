@@ -111,6 +111,7 @@ return {
 	"Guitar2-Kimi To Anime Ga Mitai-BABYMETAL",
 	"Han Som Reiste - Burzum",
 	"Happy Days - Don'T Guns (Guitar)",
+	"HARDWIRED",
 	"Haunted (The) - Silencer [MIDIfind.Com]",
 	"Helloween - Dr Stein (2) [MIDIfind.Com]",
 	"Helloween - Eagle Fly Free (4) [MIDIfind.Com]",
