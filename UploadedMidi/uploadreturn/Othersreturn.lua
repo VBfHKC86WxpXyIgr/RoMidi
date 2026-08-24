@@ -197,6 +197,7 @@ return {
 	"ĐIềU Em Mong đợI KhôNg PhảI Là TuyếT",
 	"Dilemma - Kelly Rowland, Nelly, Nelly Featuring Kelly Rowland (Piano-Vocal-Guitar)",
 	"độ KhôNg độ NàNg",
+	"đOạN TuyệT NàNg đI",
 	"ĐOảN XuâN Ca",
 	"Doll Dancing",
 	"đóM đóM Và Em",
