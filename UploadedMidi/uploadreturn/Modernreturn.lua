@@ -183,6 +183,7 @@ return {
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
 	"Pasilyo - Sunkissed Lola (Piano)",
 	"Phonecert (폰서트) - 10CM",
+	"Poster Boy - 2hollis",
 	"PUN - DAY ONE Piano Tutorial",
 	"Quando Bate Aquela Saudade - Rubel Piano",
 	"rapp snitch knishes",
