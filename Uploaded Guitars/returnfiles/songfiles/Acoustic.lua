@@ -84,6 +84,7 @@ return {
 	"JOJOs - RoundaboutBass",
 	"JOJOs - RoundaboutGuitar",
 	"Jojos Bizarre Adventure - Sono Chi No Sadame Short Version",
+	"JoJos Bizarre Adventure - Traitors Requiem",
 	"Jojos Bizzare Adventure - Stand Proud",
 	"Just The Two Of Us.",
 	"Justin Bieber - Beauty And A Beat WWW.MIDISFREE.COM.Mid",
