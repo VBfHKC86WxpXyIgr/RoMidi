@@ -259,6 +259,7 @@ return {
 	"Tradional Polka - SäKkijäRven By Trouble",
 	"Try",
 	"Tude Op No In Gsharp Minor (Advanced Mode)",
+	"Undertale - Megalovania",
 	"Usa-National-Anthem-The-Star-Spangled-Banner-Arr-Rachmaninoff",
 	"V4",
 	"V5",
