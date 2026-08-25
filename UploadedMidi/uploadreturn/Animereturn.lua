@@ -12,6 +12,7 @@ return {
 	"A Cruel Angel'S Thesis - Neon Genesis Evangelion OP",
 	"Ai ĐưA Em Về Take Me Back Home",
 	"Ai No Uta",
+	"Ainsi Bas La Vida- Indila",
 	"AIZO HalcyonMusic",
 	"Akuma no Ko (a child of evil) - Attack on Titan The Final Season Part 2 Ending",
 	"Alex Crichton - What If I Call (Lyrics)",
