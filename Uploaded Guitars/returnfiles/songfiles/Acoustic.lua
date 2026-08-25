@@ -100,6 +100,7 @@ return {
 	"Malcolm Todd - Roommates",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
 	"Michael Jackson - Smooth Criminal Acoustic Fingerstyle",
+	"Misc Covers-Holy By Mac Demarco-08-21-2026",
 	"Misc Covers-Is It Really You (Acoustic VER.) By Loathe-07-04-2026",
 	"MJMN - Rehab Session",
 	"Moderndog -",
