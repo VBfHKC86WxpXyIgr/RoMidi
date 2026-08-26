@@ -41,6 +41,7 @@ return {
 	"Carabao Nang Yam",
 	"Chainsmoker Cat - Opening FULL Nanmonee By Wasureranneyo",
 	"Chezile - Beanie",
+	"Chezile - Run Away",
 	"Chezile - Run Awaynobass",
 	"Chris Isaakwicked Game",
 	"Cinderella - Tattoo Colour",
