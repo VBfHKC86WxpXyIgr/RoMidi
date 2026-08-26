@@ -151,6 +151,7 @@ return {
 	"Smile Buffalo -",
 	"Solitude Is Bliss - Just One Thing",
 	"Solitude Is Bliss - Vintage Pic",
+	"Soundgarden - Black Hole Sun",
 	"Stone Metal Fire -",
 	"Sunroof - Nicky Youre, Dazy",
 	"Surf Curse - FreaksChorus",
