@@ -166,6 +166,7 @@ return {
 	"Sweden (Minecraft)",
 	"Swift Strike",
 	"tera-io-flamewall-camellia",
+	"Tetris BassBurst Solid",
 	"Tetris Theme, BLACK MIDI 50K NOTES",
 	"The Entertainer - Scott Joplin ",
 	"The Green Orbs - At the Fair (Piano Cover)",
