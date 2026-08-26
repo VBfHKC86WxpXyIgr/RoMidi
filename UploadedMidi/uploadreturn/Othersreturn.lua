@@ -457,6 +457,7 @@ return {
 	"NgườI YêU Bỏ Lỡ",
 	"NguyệN CầU đếN 50 NăM",
 	"NhấC MáY",
+	"NhấT TiếU Giang Hồ",
 	"Như NgàY HôM Qua",
 	"Như PhúT Ban đầU",
 	"NhữNg LờI HứA Bỏ QuêN Ost",
