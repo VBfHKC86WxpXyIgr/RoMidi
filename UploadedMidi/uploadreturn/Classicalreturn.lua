@@ -294,6 +294,7 @@ return {
 	"카트라이더 대저택 Bgm 피아노 청음연주 + 중급자용 악보 (Mansion Dance Battle Piano Cover) [문호준 인트로] - 지훈피아노 JH Piano (192k)",
 	"캐논-변주곡-최고난이도-편곡-피아노-커버--Pachelbel---Canon-Extreme-Piano-Cover",
 	"캐논-변주곡-최고난이도-편곡-피아노-커버--Pachelbel---Canon-Extreme-Piano-Cover (1)",
+	"테일즈위버 OST - Reminiscence - Yeon H (192k) (1)",
 	"테일즈위버-Talesweaver-Ost--Second-Run-Piano-Cover-피아노-커버",
 	"プロジェクト 34",
 	"魔理沙は大変なものを盗んでいきました",
