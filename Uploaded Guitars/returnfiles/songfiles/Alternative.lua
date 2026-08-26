@@ -37,6 +37,7 @@ return {
 	"I Cant Handle Change - Roar",
 	"In The End - Linkin Park",
 	"Is It Really You - Loathe",
+	"Jane",
 	"Jane! Ttest",
 	"Kaer Morhen From Witcher",
 	"LED ZEPPELIN.Stairway To Heaven KA",
