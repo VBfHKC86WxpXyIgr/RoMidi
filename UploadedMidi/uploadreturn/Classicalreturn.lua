@@ -194,6 +194,7 @@ return {
 	"operas",
 	"Otsukare Summer",
 	"Output",
+	"Pachelbel Canon",
 	"Panchiko - D E A T H M E T A L (WIP) (1)",
 	"Panzerlied",
 	"Pathetique 3",
