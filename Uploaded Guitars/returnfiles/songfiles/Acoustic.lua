@@ -162,6 +162,7 @@ return {
 	"The Beatles - Dont Let Me Down",
 	"The Beatles - Here Comes The Sun",
 	"The Beatles - Let It Be",
+	"The Cranberries - Zombie",
 	"The Cure - Boys Dont Cry-Electric Guitar",
 	"The Cure - Boys Dont Cry-Electric Guitar (1)",
 	"The Cure - Boys Dont CryF",
