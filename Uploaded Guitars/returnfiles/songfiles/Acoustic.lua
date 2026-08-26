@@ -101,6 +101,7 @@ return {
 	"Linkin Park - Numb Fingerstyle",
 	"Loso -",
 	"Loso - (1)",
+	"Lynyrd Skynyrd - Sweet Home Alabama",
 	"Mac Demarco - Freaking Out The Neighborhood",
 	"Mac Demarco - Freaking Out The Neighborhood (1)",
 	"Made In Thailand, Made In USA",
