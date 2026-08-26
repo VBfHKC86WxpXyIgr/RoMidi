@@ -57,6 +57,7 @@ return {
 	"Deep Purple - Smoke On The Water-Drum Kit",
 	"Deftones - Be Quiet And Drive Far AwayBass",
 	"Deftones - Be Quiet And Drive Far AwayGuitar",
+	"Deftones - My Own Summer Shove It",
 	"Dio - Holy Diver",
 	"Dire Straits - Sultans Of Swing",
 	"Do Re Mi",
