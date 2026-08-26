@@ -377,6 +377,7 @@ return {
 	"Lemon",
 	"Liana Flores - Rises The Moon",
 	"Liebesleid (Love'S Sorrow) - Kreisler",
+	"Liebestraum",
 	"LiebestraüM No 3 In A♭ Major (Dream Of Love)",
 	"Lightning Moment",
 	"Liszt Liebestraum No.3 (Full)",
