@@ -54,6 +54,7 @@ return {
 	"CUPSIZE - Poka-Poka 79503343",
 	"CUPSIZE - Ты любишь танцевать Vocals Backing Track",
 	"D4vd - Here With Me",
+	"Daft Punk - Something About Us",
 	"Deep Purple - Smoke On The Water-Drum Kit",
 	"Deftones - Be Quiet And Drive Far AwayBass",
 	"Deftones - Be Quiet And Drive Far AwayGuitar",
