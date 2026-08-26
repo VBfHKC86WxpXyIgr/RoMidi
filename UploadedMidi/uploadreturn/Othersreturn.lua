@@ -47,6 +47,7 @@ return {
 	"90 Memes",
 	"AA-Albert Einstein",
 	"AA-Isaac Newton",
+	"ABBA - The Winner Takes It All",
 	"Ablankurban",
 	"Abm-Yararara-Piano-Ver 2",
 	"AEROSMITH.Sweet Emotions",
