@@ -179,6 +179,7 @@ return {
 	"Olivia Rodrigo - Drivers License",
 	"Olivia Rodrigo - Vampire",
 	"Output",
+	"Pachelbel Canon In D (Fast Easy Piano Version)",
 	"Palagi-Tj-Monterde-Palagi",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
 	"Pasilyo - Sunkissed Lola (Piano)",
