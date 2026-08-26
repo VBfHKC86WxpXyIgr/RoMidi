@@ -278,6 +278,7 @@ return {
 	"GHEN",
 	"Giá Như",
 	"GiấC Mơ TrưA",
+	"Gigi D'Agostino - L 'Amour Toujours WWW.MIDISFREE.COM",
 	"Gitara - Parokya Ni Edgar Fingerstyle Guitar Lyrics",
 	"God Of War Ragnarok",
 	"GộI ĐầU",
