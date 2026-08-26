@@ -40,6 +40,7 @@ return {
 	"Carabao -",
 	"Carabao Nang Yam",
 	"Chainsmoker Cat - Opening FULL Nanmonee By Wasureranneyo",
+	"Chezile - Beanie",
 	"Chris Isaakwicked Game",
 	"Cinderella - Tattoo Colour",
 	"Clair-De-Lune-Debussy",
