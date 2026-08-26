@@ -133,6 +133,7 @@ return {
 	"PT Adamczyk Olga Jankowska Cyberpunk 2077 - Never Fade Away SAMURAI Cover Guitar Solo",
 	"Radiohead - No Surprises",
 	"RaunchyGuitar",
+	"Redbone - Come And Get Your Love 2",
 	"Ring-Around-The-Rosie",
 	"Roundabout- Bass Only",
 	"S.T.A.L.K.E.R - Guitar Music From Stalker (3) [MIDIfind.Com]",
