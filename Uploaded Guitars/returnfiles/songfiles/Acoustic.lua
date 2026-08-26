@@ -185,6 +185,7 @@ return {
 	"You Are My Dream",
 	"YTDown Instrumental.Mp3",
 	"YTDowncom YouTube What-Is-Love Media E8WfCAfom U 009 128k-AudioTrimmercom Converted By Jukeblocks",
+	"ZweetRoll -",
 	"กลับมา - 2 Days Ago Kids",
 	"ก่อน - Moderndog",
 	"ก้อนหินละเมอ - Soul After Six",
