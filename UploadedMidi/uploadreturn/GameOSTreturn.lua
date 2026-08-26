@@ -49,6 +49,7 @@ return {
 	"Deltarune - Field Of Hopes And Dreams - Urimegaconnor (1)",
 	"DELTARUNE - It’s TV Time!",
 	"Deltarune - THE WORLD REVOLVING",
+	"Deltarune Chapter 5 - Flower Man",
 	"Descend [PianoSolo]",
 	"Dialtone - MIDI",
 	"DJ Nate Theory Of Everything 3.Mid",
