@@ -169,6 +169,7 @@ return {
 	"The Cure - Boys Dont CryF",
 	"The Jimi Hendrix Experience - Purple Haze",
 	"The Neverminds - The Snow Will Catch Us Once Again",
+	"The Pillows - Beautiful Morning With You",
 	"The WORLD - Death Note",
 	"Thirty Seconds To Mars - The Kill Bury Me",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
