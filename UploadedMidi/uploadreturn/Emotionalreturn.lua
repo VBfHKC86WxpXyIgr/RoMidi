@@ -190,6 +190,7 @@ return {
 	"La Maritza - Sylvie Vartan By Trouble",
 	"LạC TrôI Piano - SơN TùNg M-TP.Mid",
 	"Lacrimosa (HUMAN BEST VERSION)",
+	"Lamour Toujours - Organ Version - 320 Kbps Trimmed By Jukeblocks Converted By Jukeblocks",
 	"Laufey - Promise",
 	"Laufey - Too little, too late",
 	"Les Childish Gambino Piano Solo 1784876806897",
