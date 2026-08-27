@@ -73,6 +73,7 @@ return {
 	"Cinta Tak Harus Memiliki - Fikram",
 	"Cintakan Membawamu Kembali - Dewa 19 - Fikram",
 	"Clair-De-Lune-Debussy(BEST VERSION)",
+	"CLOWNOFOBIA V2",
 	"Coldplay - Sparks",
 	"Composition-Autumn-Memories(HUMAN BEST VERSION)",
 	"Composition-Clown-Chase(HUMAN BEST VERSION)",
