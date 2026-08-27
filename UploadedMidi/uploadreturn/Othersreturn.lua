@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	" Erika  A German WW2 marching song",
+	"- Tattoo Colour คยผชาย คาราโอเกะ เปยโน [Tonx]",
 	"“My Ordinary Life” - The Living Tombstone ¦ Ippantekina",
 	"(˃⤙˂˶ )Hmph It's Not Like I Like You or anything mhxa",
 	"(˶ ｰ̀ ⤙ｰ́ ˶) It'SNot Like I Like You Or Anything Mhxa",
