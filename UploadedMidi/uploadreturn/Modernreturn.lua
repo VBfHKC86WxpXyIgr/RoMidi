@@ -98,6 +98,7 @@ return {
 	"Forever - The Little Dippers",
 	"Forsaken - Through Patches Of Violet (Hacklord LMS)",
 	"From The Start - Laufey",
+	"From The Start (Laufey) (MS)",
 	"FULL PIANO STILL DRE",
 	"GIMS - NINAO Official Lyrics Vido",
 	"Girlfriends - New Computers",
