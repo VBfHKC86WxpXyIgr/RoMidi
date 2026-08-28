@@ -203,6 +203,7 @@ return {
 	"Rush E Mobile",
 	"Sempurna By Andra And The Backbone",
 	"Shooting Stars - Piano Solo Arrangement",
+	"Should I Add More Instruments To This (MS - Prolly Fixed)",
 	"SHUCKS ENDING CUTCENE PIANO COVER",
 	"Someone Like You (Easy Piano)",
 	"Star Shopping Midi.Mid",
