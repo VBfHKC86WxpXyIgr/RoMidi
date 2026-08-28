@@ -652,6 +652,7 @@ return {
 	"Travis Scott - My Eyes",
 	"Treehouse - Alex G [PIANO]",
 	"TrốNg RỗNg",
+	"True LOVE - Glitchtale",
 	"TrướC Khi Em TồN TạI",
 	"Tuki",
 	"Tulus-Hati-Hati-Di-Jalan-Lead-Sheet",
