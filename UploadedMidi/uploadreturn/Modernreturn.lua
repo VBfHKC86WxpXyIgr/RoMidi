@@ -216,6 +216,7 @@ return {
 	"Star Shopping Midi.Mid",
 	"Stephanie - Nafeeisboujee",
 	"Stephen Sanchez - Until I Found You",
+	"Stranded Lullaby (MS)",
 	"Strawberry Guy - Mrs Magic (Strings Version)",
 	"Subaru'S Ringtone (From Re Zero Kara Hajimeru Isekai Seikatsu A Dog Of Flanders)",
 	"Sufjan Stevens - Mystery Of Love",
