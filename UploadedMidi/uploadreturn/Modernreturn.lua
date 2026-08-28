@@ -117,6 +117,7 @@ return {
 	"I Wonder - Kanye West",
 	"Im Not The Only One",
 	"Impostor Syndrome - Sydney Gish",
+	"Impostor Syndrome (Sidney Gish)",
 	"In Love - Low G (Piano)",
 	"In the end drum",
 	"iris-goo-goo-dolls",
