@@ -51,6 +51,7 @@ return {
 	"basic pitch transcription",
 	"Beanie",
 	"Beatles Let It Be",
+	"Beethoven Virus But It'S Insane (MS)",
 	"Beggin' – Måneskin Drum Sheet Music",
 	"Blood Theme (From Dexter) - Daniel J Licht (Piano Solo)",
 	"blue - yung kai",
