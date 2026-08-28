@@ -36,6 +36,7 @@ return {
 	"C418 - Blind Spots (From Minecraft Volume Beta) - Piano Tutorial",
 	"C418 - Mice on Venus",
 	"C418 - Subwoofer Lullaby",
+	"Caffeine Rush - Boksed",
 	"Calamity Mod OST DM DOKURO - UNIVERSAL COLLAPSE Piano Solo",
 	"Call Of Duty Black Ops Zombies",
 	"Cascade2",
