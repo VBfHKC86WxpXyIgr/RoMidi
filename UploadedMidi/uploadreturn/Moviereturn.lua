@@ -57,6 +57,7 @@ return {
 	"Love Story",
 	"Love Story X Golden Brown",
 	"Mia--Sebastians-Theme",
+	"Michael Jackson’S This Is It",
 	"MidiLeaks.RiverFlowsInYou",
 	"Multo - Cup Of Joe RNE",
 	"My heartPIANO",
