@@ -127,6 +127,7 @@ return {
 	"In the end drum",
 	"Into The Unknown (MS)",
 	"iris-goo-goo-dolls",
+	"Isle Unto Thyself (MS)",
 	"It Says Future Funk But Idk (MS)",
 	"Ivy - Frank Ocean",
 	"JAMIROQUAY.Virtual Insanity",
