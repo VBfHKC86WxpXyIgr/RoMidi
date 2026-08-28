@@ -166,6 +166,7 @@ return {
 	"Mala Vida Mala Fama",
 	"Marc Indigo - Boy For The Weekend",
 	"Massive - Drake",
+	"Merry Go Round Of Life (MS)",
 	"Mesmerizer (Midi)",
 	"Michael Jackson - Bad",
 	"Michael Jackson - Don’T Stop Till You Get Enough",
