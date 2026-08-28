@@ -142,6 +142,7 @@ return {
 	"Jerryc - Canon Rock Lead Guitar",
 	"JOPLIN.The entertainer",
 	"Julius-Fucik-Entry-Of-The-Gladiators-Piano-Version",
+	"Jurassic Park Trex - Rescue- Finale Ending Credits Suite",
 	"Kanye West - Runaway (EPIC) Dreaming Piano Cover( -NXgt5cAgS8 )",
 	"Kara Sevda - Anlatamam - Piyano( 6VpRprnc8os )",
 	"Katyusha",
