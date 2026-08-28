@@ -306,6 +306,7 @@ return {
 	"Slapshock - Direction [MIDIfind.com]",
 	"Slayer - Angel Of Death (2) [MIDIfind.Com]",
 	"Slayer - Angel Of Death (Drum)",
+	"Slayer - Raining Blood (Drum)",
 	"Slayer - Raining Blood [MIDIfind.Com]",
 	"Slayer - Raining Blood Altars Of Sacrifice Jesus Saves [MIDIfind.Com]",
 	"Slayer - Seasons In The Abyss (Drum)",
