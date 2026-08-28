@@ -76,6 +76,7 @@ return {
 	"Bad Apple Ft. Nomico Deblacked",
 	"Bad Apple!! (Full)",
 	"Bahce-Duvarindan-Astim-Fuataskn1",
+	"Baldi'S Basics (You'Re Mine) - DAGames",
 	"Bana Ellerini Ver",
 	"Bang Dream CRYCHIC - Haruhikage MHXA",
 	"BáNh Mì KhôNg",
