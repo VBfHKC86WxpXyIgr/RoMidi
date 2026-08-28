@@ -190,6 +190,7 @@ return {
 	"Undertale - SAVE the World",
 	"Undertale - Toby Fox",
 	"Undertale~PFFinale~123,000",
+	"Universal Collapse - Dm Dokuro",
 	"Uwa!! So Temperate♫ (UNDERTALE)",
 	"Valve HALF LIFE 2 OST (Www.Lightaudio.Ru)",
 	"Waterdrop (1)",
