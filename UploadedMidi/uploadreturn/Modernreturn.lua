@@ -109,6 +109,7 @@ return {
 	"Guzzx - Xingpei",
 	"Habang Buhay",
 	"Her - JVKE",
+	"Here Comes The Boy (Piano Fragment) (MS)",
 	"Hey There Delilah",
 	"Hillsong United - Oceans",
 	"Hillsong Worship - Broken Vessel (Amazing Grace)",
