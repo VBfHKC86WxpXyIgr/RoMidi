@@ -178,6 +178,7 @@ return {
 	"CôNg Tử VăN Thơ",
 	"Cot",
 	"Cradles Mhxa",
+	"Crash E",
 	"Cry For Me - Ironmouse Playable Ver",
 	"Cry For Me (Feat. Ami)",
 	"CùNg Anh",
