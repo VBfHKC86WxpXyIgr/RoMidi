@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"(緒なら) (MS) - If I Am With You",
 	"1 V2 Main Serong By The Changcuters",
 	"1'Darkest Child' In C Minor - Kevin MacLeod",
 	"1Across The Sea By Weezer",
