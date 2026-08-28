@@ -160,6 +160,7 @@ return {
 	"Love Story X Golden Brown (1)",
 	"LOVELI LORI - Love For You",
 	"lover girl - laufey",
+	"Lover Girl (Laufey - But Classical) (MS)",
 	"Made Sum Plans (Osamason)",
 	"Mala Vida Mala Fama",
 	"Marc Indigo - Boy For The Weekend",
