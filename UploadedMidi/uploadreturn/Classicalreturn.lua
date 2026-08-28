@@ -41,6 +41,7 @@ return {
 	"Babydoll",
 	"Bach 846",
 	"Bach-Toccata-And-Fugue-In-D-Minor-Piano-Solo(BEST VERSION)",
+	"Ballads At Sunset (By Alej)",
 	"Barber-Of-Seville-(Ouverture)",
 	"Beautiful In White & Canon In D - Shane Filan",
 	"Beethoven - Moonlight Sonata (1st Movement) ",
