@@ -52,6 +52,7 @@ return {
 	"Binary-Data-Iv-Alfonso-Peduto(BEST VERSION)",
 	"Binks Rum Binks Sake 1780241727588",
 	"Bogemian",
+	"Bohemian Rhapsody (Expert)",
 	"Boogie-Woogie-Blues",
 	"Brahms - Waltz In A-Flast Major Op",
 	"Brubeck Dave - Take Five [MIDIfind.Com]",
