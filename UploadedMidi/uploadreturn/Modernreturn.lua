@@ -88,6 +88,7 @@ return {
 	"Djo - End Of Beginning - Piano Tutorial With Sheet Music",
 	"Dr Dre - Still Dre",
 	"Dracula - Tame Impala",
+	"Dream Sweet In Sea Major (MS)",
 	"Elektronomia - Sky High",
 	"Elton John - I'm Still Standing (Expert)",
 	"End Of Beginning - Djo",
