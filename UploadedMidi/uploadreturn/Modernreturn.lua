@@ -230,6 +230,7 @@ return {
 	"Tek It - Cafune",
 	"The Greatest Showman - Rewrite The Stars Piano Cover With Strings (With PIANO SHEETS)",
 	"THE ITCHYWORMS - Di Na Muli ( Extended Solo ) NNTranscription",
+	"The Mind Electric (MS)",
 	"The One That Got Away X Clean - Katy Perry Taylor Swift",
 	"The+New+Periodic+Table+Song",
 	"TheFatRat+-+Windfall",
