@@ -680,6 +680,7 @@ return {
 	"Webber Lloyd - The Phantom Of The Opera [MIDIfind.Com]",
 	"Wellerman X Pirates Of The Caribbean",
 	"White Stripes (The) - Seven Nation Army [MIDIfind.Com]",
+	"WIGGLECORE",
 	"Winter Sonata",
 	"Woke Up In Japan By Friqtao",
 	"Xanh LụC",
