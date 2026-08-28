@@ -175,6 +175,7 @@ return {
 	"Mike Posner - I Took A Pill In Ibiza (SeeB Remix)",
 	"Mitski - My Love Mine All Mine",
 	"Mood - 24kGolden, Iann Dior",
+	"Moonlight Sonata M3 (MS)",
 	"Mr Sandman.Mid",
 	"mrs magic",
 	"Mundo By IV Of Spades",
