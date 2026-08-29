@@ -185,6 +185,7 @@ return {
 	"Stone Temple Pilots - Silvergun Superman [MIDIfind.Com]",
 	"Strokes (The) - Last Nite [MIDIfind.Com]",
 	"Strokes (The) - The End Has No End (7) [MIDIfind.Com]",
+	"Sudno - Molchat Doma",
 	"Symphony-Of-Destruction",
 	"System Of A Down - Toxicity [MIDIfind.Com]",
 	"TF2 Kazotsky Kick",
