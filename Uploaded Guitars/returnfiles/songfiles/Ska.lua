@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"AC DC - Thunderstruck - Opening Guitar Solo",
 	"As Time Flies - Tyrique Sayre (Piano Solo)",
 	"Baggy Trousers - Madness (Piano-Voice-Guitar)",
 	"Bass Little Girls OB",
