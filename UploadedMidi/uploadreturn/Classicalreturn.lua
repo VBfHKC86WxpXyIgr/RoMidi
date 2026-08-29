@@ -223,6 +223,7 @@ return {
 	"Running Up That Hill.Mid",
 	"Rush D",
 	"Rush D HSR!",
+	"Rush D Remake",
 	"Rush E",
 	"Rush E (1.2M Notes)",
 	"Rush E (Impossible) + Midi Download",
