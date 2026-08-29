@@ -3,6 +3,7 @@ return {
 	"As Time Flies - Tyrique Sayre (Piano Solo)",
 	"Baggy Trousers - Madness (Piano-Voice-Guitar)",
 	"Bass Little Girls OB",
+	"Black Hole Sun - Soundgarden",
 	"Guitar Lead Little Girls OB",
 	"Guitar Rtm Little Girls OB",
 	"HãY Trao Cho Anh",
