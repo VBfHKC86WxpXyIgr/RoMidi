@@ -5,6 +5,7 @@ return {
 	"Baggy Trousers - Madness (Piano-Voice-Guitar)",
 	"Bass Little Girls OB",
 	"Black Hole Sun - Soundgarden",
+	"Canon In D For Guitar Solo",
 	"Guitar Lead Little Girls OB",
 	"Guitar Rtm Little Girls OB",
 	"HãY Trao Cho Anh",
