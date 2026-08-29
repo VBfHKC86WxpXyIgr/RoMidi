@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"1Karma Police - Radiohead, Thomas Yorke (Piano Solo)",
+	"1La Foule, Edith Piaf, Piano-Chant",
 	"1Robert Miles - Children",
 	"1Stranded Lullaby (Piano)",
 	"1White Ball - Miracle Musical (ミラクルミュージカル) White Ball",
