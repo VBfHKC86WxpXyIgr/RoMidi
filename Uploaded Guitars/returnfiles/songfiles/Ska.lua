@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"1White Ball - Miracle Musical (ミラクルミュージカル) White Ball",
 	"AC DC - Thunderstruck - Opening Guitar Solo",
 	"As Time Flies - Tyrique Sayre (Piano Solo)",
 	"Baggy Trousers - Madness (Piano-Voice-Guitar)",
