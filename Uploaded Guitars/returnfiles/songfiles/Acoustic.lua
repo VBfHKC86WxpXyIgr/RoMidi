@@ -122,6 +122,7 @@ return {
 	"Mom Central",
 	"Mor Lum",
 	"Moving And Cut -",
+	"My Chemical Romance - The Ghost Of You",
 	"Never Shout Never - Your Biggest Fan Live KLICKAUD 1-AudioTrimmercom 1 Converted By Jukeblocks",
 	"Nirvana - Do Re Mi",
 	"Nirvana - Rape Me",
