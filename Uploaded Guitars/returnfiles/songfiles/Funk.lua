@@ -11,6 +11,7 @@ return {
 	"Event Horizon (Reach For The Sun And Burn! Burn! Burn!) - ULTRAKILL OST",
 	"Get Proto Art Of Guitar (2)",
 	"Get Proto Life Force (1)",
+	"Kino - Pachka Sigaret",
 	"Limp Bizkit - Take A Look Around [MIDIfind.Com]",
 	"Metallica-Enter-Sandman Midi",
 	"Motley Crue - Kickstart My Heart.Mid",
