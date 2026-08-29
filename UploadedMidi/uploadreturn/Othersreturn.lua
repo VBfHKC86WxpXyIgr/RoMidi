@@ -179,6 +179,7 @@ return {
 	"Cot",
 	"Cradles Mhxa",
 	"Crash E",
+	"CRASH E (1)",
 	"Cry For Me - Ironmouse Playable Ver",
 	"Cry For Me (Feat. Ami)",
 	"CùNg Anh",
