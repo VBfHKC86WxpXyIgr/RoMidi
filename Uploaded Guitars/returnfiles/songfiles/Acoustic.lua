@@ -160,6 +160,7 @@ return {
 	"Sunroof - Nicky Youre, Dazy",
 	"Surf Curse - FreaksChorus",
 	"Surf Curse - FreaksLead",
+	"Tame Impala - The Less I Know The Better",
 	"Tarot Feast 1780242551896",
 	"Tattoo Color - Guitar Cover Skill Zource",
 	"The Beatles - Dont Let Me Down",
