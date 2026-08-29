@@ -304,6 +304,7 @@ return {
 	"Haru Haru",
 	"Hasretinle Yandı GöNlüM",
 	"Hatsune Miku - Senbonzakura Mhxa",
+	"Hava-Nagilah-Hava",
 	"HãY Trao Cho Anh",
 	"HãY Trao Cho Anh 2",
 	"HãY Trao Cho Anh 3",
