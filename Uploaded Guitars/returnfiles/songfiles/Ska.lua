@@ -7,6 +7,7 @@ return {
 	"Guitar Lead Little Girls OB",
 	"Guitar Rtm Little Girls OB",
 	"HãY Trao Cho Anh",
+	"Hotel California - Eagles (Solo Guitar)",
 	"I Dont Wanna Be Me - Type O Negative",
 	"Let You Break My Heart Again - Laufey",
 	"Lonely Day - System Of A Down",
