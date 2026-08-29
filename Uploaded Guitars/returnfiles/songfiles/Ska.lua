@@ -6,6 +6,7 @@ return {
 	"Bass Little Girls OB",
 	"Black Hole Sun - Soundgarden",
 	"Canon In D For Guitar Solo",
+	"Floods Outro",
 	"Guitar Lead Little Girls OB",
 	"Guitar Rtm Little Girls OB",
 	"HãY Trao Cho Anh",
