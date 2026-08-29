@@ -6,5 +6,6 @@ return {
 	"Guitar Rtm Little Girls OB",
 	"HãY Trao Cho Anh",
 	"I Dont Wanna Be Me - Type O Negative",
+	"Let You Break My Heart Again - Laufey",
 	"Lonely Day - System Of A Down",
 }
