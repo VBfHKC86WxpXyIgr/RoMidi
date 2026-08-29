@@ -5,4 +5,5 @@ return {
 	"Guitar Lead Little Girls OB",
 	"Guitar Rtm Little Girls OB",
 	"HãY Trao Cho Anh",
+	"I Dont Wanna Be Me - Type O Negative",
 }
