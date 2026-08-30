@@ -15,6 +15,7 @@ return {
 	"About A Girl - Nirvana",
 	"AC DC - Back in Black.mid",
 	"ACDC - Back in Black (3) [MIDIfind.com]",
+	"Are You Dead Yet 5",
 	"Avenged Sevenfold - A Little Piece Of Heaven (Drum)",
 	"Avenged Sevenfold - Acid Rain [MIDIfind.com]",
 	"Avenged Sevenfold - Almost Easy",
