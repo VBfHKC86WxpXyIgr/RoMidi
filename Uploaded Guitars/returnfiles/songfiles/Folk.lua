@@ -21,5 +21,6 @@ return {
 	"Pachka Sigaret - Kino (Femboy'S Version)",
 	"Ragtime-Cowboy-Joe",
 	"S. Joplin - Maple Leaf Rag (1899)",
+	"Scott Joplin- The Ragtime Dance (1902) MIDI",
 	"The Entertainer - Scott Joplin",
 }
