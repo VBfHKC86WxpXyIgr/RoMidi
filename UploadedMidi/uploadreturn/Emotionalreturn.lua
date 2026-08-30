@@ -394,6 +394,7 @@ return {
 	"WARRIYO",
 	"Washing Machine Heart - Mitski",
 	"Wave to earth - Love",
+	"Welcome To Jamrock",
 	"Where's My Love – SYML",
 	"Wifi Skeleton - Nope Your Too Late I Already Died (Midi)",
 	"Wiz Khalifa - See You Again ft Charlie Puth Lyrics",
