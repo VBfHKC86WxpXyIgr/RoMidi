@@ -5,6 +5,7 @@ return {
 	"Blowin' In The Wind - Bob Dylan, Peter, Paul & Mary (Piano-Vocal-Guitar)",
 	"Bob Dylan - Like A Rolling Stone",
 	"Bob DylanBobDylan Like A Rolling Stone",
+	"DOOM - Theme E1M1",
 	"Dylan Bob - Like A Rolling Stone (2) [MIDIfind.Com]",
 	"Fallen Down But In Ragtime",
 	"Glitchtale Love - True LOVE",
