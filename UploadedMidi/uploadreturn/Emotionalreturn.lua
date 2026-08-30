@@ -193,6 +193,7 @@ return {
 	"LạC TrôI Piano - SơN TùNg M-TP.Mid",
 	"Lacrimosa (HUMAN BEST VERSION)",
 	"Lamour Toujours - Organ Version - 320 Kbps Trimmed By Jukeblocks Converted By Jukeblocks",
+	"Lana Del Rey - White Mustang (Lyrics) (Mp3cut.Net)",
 	"Lana Del Rey - White Mustang (Official Music Video)",
 	"Lana Del Rey-Diet Mountain Dew (The Flight... - SafeShare - Screencastify - January 5, 2026 9 34 PM",
 	"Laufey - Promise",
