@@ -159,6 +159,7 @@ return {
 	"Waterdrop",
 	"Wild Side - ALI (Beastars OP 1)",
 	"Yoshimasa Terui - IF I AM WITH YOU",
+	"You Can Become A Hero",
 	"You Say Run - My Hero Academia OST",
 	"YOUR NAME - SPARKLE Mhxa",
 	"Your Reality",
