@@ -639,6 +639,7 @@ return {
 	"There-S-No-One-At-All",
 	"ThiêN BồNg NguyêN SóI",
 	"ThiếU NiêN Hoa HồNg",
+	"Think! (Final Jeopardy! Think Music)",
 	"ThờI KhôNg Sai LệCh",
 	"ThứC GiấC",
 	"ThươNg Em Là đIềU Anh KhôNg Ngờ",
