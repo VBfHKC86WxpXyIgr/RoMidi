@@ -400,4 +400,5 @@ return {
 	"Your Love",
 	"ZAYN - Dusk Till Dawn Ft. Sia",
 	"Кино - Спокойная ночь [Midistock.Ru] (1).Mid",
+	"Лана Дель Рей - White Mustang",
 }
