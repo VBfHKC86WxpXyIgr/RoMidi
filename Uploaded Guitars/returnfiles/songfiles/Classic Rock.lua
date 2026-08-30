@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"(Q) Scorpions - Still Loving You",
 	"1Hey Jude Acoustic By The Beatles",
 	"ACDC - It'S A Long Way To The Top If You Wanna Rock'N'Roll [MIDIfind.Com]",
 	"AEROSMITH.Sweet Emotions",
