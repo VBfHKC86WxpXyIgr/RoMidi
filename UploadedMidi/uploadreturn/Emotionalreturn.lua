@@ -248,6 +248,7 @@ return {
 	"My-Love-Mine-All-Mine-Mitski-Arrangement(BEST VERSION)",
 	"Mystique(HUMAN BEST VERSION)",
 	"Nana - Endless Story",
+	"Nana - Nee Nana",
 	"Nana - Rose",
 	"Nana - Yearning",
 	"NANA-M",
