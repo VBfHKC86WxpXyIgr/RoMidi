@@ -251,6 +251,7 @@ return {
 	"Nana - Rose",
 	"Nana - Yearning",
 	"NANA-M",
+	"NANA.Darkman K",
 	"Như có Bác trong ngày Đại thắng impossible",
 	"Nightchanges by dc ; @jvkowi",
 	"No Surprised",
