@@ -136,6 +136,7 @@ return {
 	"Sayonara Cross Teck-07-04-2026",
 	"Scott Joplin'S The Entertainer MIDI FULL",
 	"Self Embodiment of Perfection (Mahito Theme)",
+	"Shadow Of Love Nana",
 	"SHIGATSU WA KIMI NO US ENDING -ORANGE MHXA",
 	"Shinzou wo Sasageyo HalcyonMusic",
 	"Shinzou-Wo-Sasageyo",
