@@ -46,6 +46,7 @@ return {
 	"Creed - One Last Breath [MIDIfind.Com]",
 	"Crybaby - Destroy Boys",
 	"Daft Punk - Robot Rock [MIDIfind.Com]",
+	"Dire Straits - Lady Writer (2) [MIDIfind.Com]",
 	"Dont Say Lazy",
 	"DragonForce - Through The Fire And Flames KLICKAUD Converted",
 	"Flamewall By Camellia",
