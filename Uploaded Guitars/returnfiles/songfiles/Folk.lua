@@ -20,5 +20,6 @@ return {
 	"Misc Covers-You'Ve Gotta Move-07-04-2026",
 	"Pachka Sigaret - Kino (Femboy'S Version)",
 	"Ragtime-Cowboy-Joe",
+	"S. Joplin - Maple Leaf Rag (1899)",
 	"The Entertainer - Scott Joplin",
 }
