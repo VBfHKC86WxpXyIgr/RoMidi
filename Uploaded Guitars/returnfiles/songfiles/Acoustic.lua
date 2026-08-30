@@ -88,6 +88,7 @@ return {
 	"Iqro - Raim Laode",
 	"Iqro - Raim Laode Guitar",
 	"Jane! - The Long Faces",
+	"Joji - SLOW DANCING IN THE DARK",
 	"Jojo - Steel Ball Run Johnny Joestar Theme",
 	"JOJOs - Roundabout-Electric Bass, Electric Bass",
 	"JOJOs - Roundabout-Electric Guitar, Electric Guitar",
