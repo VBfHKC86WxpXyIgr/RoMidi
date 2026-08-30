@@ -311,6 +311,7 @@ return {
 	"Sampai Jadi Debu - Fikram",
 	"Sampai Jadi Debu Placeholder",
 	"Samplab Kasih Putih - Glenn",
+	"Sayonara",
 	"Sayonara Cross Teck",
 	"Scherzo(HUMAN BEST VERSION)",
 	"Seasons In The Sun - Westlife (Piano-Voice)",
