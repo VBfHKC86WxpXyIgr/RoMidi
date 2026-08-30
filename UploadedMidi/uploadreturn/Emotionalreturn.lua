@@ -85,6 +85,7 @@ return {
 	"Cry for me impossible",
 	"D MD0251",
 	"D4vd Romantic Homicide piano midi",
+	"DDLC Sayonara",
 	"Death Bed - Powfu",
 	"DebraYume Moayad Aljabal - Floating In Reverie",
 	"December Avenue - Kung Di Rin Lang Ikaw",
