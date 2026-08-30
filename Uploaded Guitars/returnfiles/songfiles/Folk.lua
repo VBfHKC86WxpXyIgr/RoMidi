@@ -24,6 +24,7 @@ return {
 	"Ragtime-Cowboy-Joe",
 	"S. Joplin - Maple Leaf Rag (1899)",
 	"Scott Joplin- The Ragtime Dance (1902) MIDI",
+	"System Of A Down - Lonely Day [MIDIfind.Com]",
 	"Tetris But Ragtime",
 	"The Entertainer - Scott Joplin",
 }
