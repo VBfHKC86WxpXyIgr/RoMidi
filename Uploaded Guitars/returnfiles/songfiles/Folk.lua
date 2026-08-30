@@ -9,6 +9,7 @@ return {
 	"Glitchtale Love - True LOVE",
 	"House-Of-The-Rising-Sun-1.Mid",
 	"Huricane - Bob Dylan",
+	"Katyusha.Mid",
 	"Knockin'On Heaven'S Door - Bob Dylan",
 	"Like A Rolling Stone - Bob Dylan",
 	"Like A Rolling Stone - Bob Dylan (Piano-Vocal-Guitar)",
