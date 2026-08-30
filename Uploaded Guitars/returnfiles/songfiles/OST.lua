@@ -22,6 +22,7 @@ return {
 	"OFFICIAL Roblox Bakon Theme Song",
 	"Queen - Bohemian Rhapsody",
 	"Seek (Among Us) NEW",
+	"The Dragon Theme (Original) [Clean Cut]",
 	"The Legend Of Zelda Great Fairy Fountain (Piano Cover)",
 	"Vegeta Fights Frieza [Clean Cut]",
 	"Wonderful-Tonight-3",
