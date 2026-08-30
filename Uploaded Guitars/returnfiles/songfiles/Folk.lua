@@ -19,4 +19,5 @@ return {
 	"Misc Covers-Foggy Mountain Breakdown-07-04-2026",
 	"Misc Covers-You'Ve Gotta Move-07-04-2026",
 	"Pachka Sigaret - Kino (Femboy'S Version)",
+	"Ragtime-Cowboy-Joe",
 }
