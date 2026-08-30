@@ -322,6 +322,7 @@ return {
 	"Sinking Town   沈める街 - Yoeko Kurahashi",
 	"Smashing Pumpkins - 1979",
 	"Sonata No In D Major Ascension (BEST VERSION)",
+	"Spotidownloader.Com - Say Yes To Heaven - Lana Del Rey (1)",
 	"Stephen Sanchez - Until I Found You",
 	"Still With You - BTS Jungkook.Mid",
 	"Studio Ghibli LoFi Piano (HUMAN BEST VERSION)",
