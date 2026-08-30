@@ -158,6 +158,7 @@ return {
 	"Vickeblanka - Black Catcher Black Clover Opening 10 WT1",
 	"Waterdrop",
 	"Wild Side - ALI (Beastars OP 1)",
+	"Wish Olivia Lufkin Inspi Reira Trapnest Piano Sheet Music",
 	"Yoshimasa Terui - IF I AM WITH YOU",
 	"You Can Become A Hero",
 	"You Say Run - My Hero Academia OST",
