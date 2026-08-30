@@ -20,5 +20,6 @@ return {
 	"Queen - Bohemian Rhapsody",
 	"Seek (Among Us) NEW",
 	"The Legend Of Zelda Great Fairy Fountain (Piano Cover)",
+	"Vegeta Fights Frieza [Clean Cut]",
 	"Wonderful-Tonight-3",
 }
