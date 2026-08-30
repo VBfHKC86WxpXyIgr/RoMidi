@@ -9,6 +9,7 @@ return {
 	"Dire, Dire Docks (Super Mario 64)",
 	"Doom - E1M1 (GM MIDI)",
 	"Ella Baila Sola Eslabon Armado Y Peso Pluma",
+	"Gohan Fights Frieza [Clean Cut]",
 	"Grand Theft Auto San Andreas - Intro [MIDIfind.Com]",
 	"Metro Exodus - A New Home (Guitar Cover) [MIDIfind.Com]",
 	"Metro Exodus - Race Against Fate (Fingerstyle) [MIDIfind.Com]",
