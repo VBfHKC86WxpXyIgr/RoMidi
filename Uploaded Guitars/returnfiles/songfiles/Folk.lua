@@ -10,6 +10,7 @@ return {
 	"Glitchtale Love - True LOVE",
 	"House-Of-The-Rising-Sun-1.Mid",
 	"Huricane - Bob Dylan",
+	"Jazz In Paris",
 	"Kalinka.Mid",
 	"Katyusha.Mid",
 	"Knockin'On Heaven'S Door - Bob Dylan",
