@@ -71,6 +71,7 @@ return {
 	"Dumb Ways To Die",
 	"Dying Light - Horizon",
 	"Ed Sheeran Thinking Out Loud",
+	"Etran De LAr - Imouha",
 	"Etran De LAr - ImouhaBass",
 	"Etran De LAr - ImouhaGuitar",
 	"Evanescence - Bring Me To Life Live",
