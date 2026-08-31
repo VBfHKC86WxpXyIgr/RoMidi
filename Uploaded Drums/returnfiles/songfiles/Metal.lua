@@ -125,6 +125,7 @@ return {
 	"Faith No More - Ashes to Ashes [MIDIfind.com]",
 	"Faith No More - Caffeine [MIDIfind.com]",
 	"Faith No More - Collision [MIDIfind.com]",
+	"FallofTroyTheF.C.P.R.E.M.I.X",
 	"Fiction - Avenged Sevenfold   A7x",
 	"Floyd The Barber - Nirvana",
 	"Frances Farmer Will Have Her Revenge On Seattle",
