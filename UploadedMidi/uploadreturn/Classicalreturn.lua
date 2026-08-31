@@ -185,6 +185,7 @@ return {
 	"Moonlight-Sonata-Nightmare-Lionel-Yu-Moonlightsonatanightmaremid",
 	"MORGENSHTERN Ft. элджей - Cadillac",
 	"MỘT ĐỜI (14 Casper & Bon Nghiêm)",
+	"Mus Intro",
 	"Mus School",
 	"My Heart Will Go On - TITANIC - Sheet Music - 4K60p - Piano Cover - CANACANA",
 	"Mz 311 1",
