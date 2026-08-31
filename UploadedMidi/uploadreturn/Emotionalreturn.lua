@@ -247,6 +247,7 @@ return {
 	"Mrs Magic - Strawberry Guy (Piano Version)",
 	"Mrs Magic Strings Version (BEST DIRECT VERSION)",
 	"Mrs. GREEN APPLE - 青と夏 (Ao To Natsu)",
+	"Mu - Seapool",
 	"Multo - Cup of Joe RNE",
 	"My Chemical Romance - I Don'T Love You",
 	"My Heart - Fikram",
