@@ -8,6 +8,7 @@ return {
 	"Cause I Love You - Noo Phuoc Thinh Piano",
 	"ChúNg Ta KhôNg ThuộC Về Nhau",
 	"COME MY WAY",
+	"Come My Way Softer Version",
 	"CơN MưA Ngang Qua 2",
 	"CơN MưA Ngang Qua Remix",
 	"Flower Dance - DJ Okawari",
