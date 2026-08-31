@@ -123,6 +123,7 @@ return {
 	"Golden-Brown-X-Love-Story-Ilblu(BEST VERSION)",
 	"Golden-Hour-Full-Version",
 	"Green Day - Last Night On Earth",
+	"Hakdo - Waltz For The Dead Clown",
 	"happy",
 	"Happy",
 	"Harvey - Her'S",
