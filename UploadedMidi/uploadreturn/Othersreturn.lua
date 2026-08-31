@@ -387,6 +387,7 @@ return {
 	"Laufey - Let You Break My Heart Again (WIP)",
 	"Lemon",
 	"Liana Flores - Rises The Moon",
+	"Libet'S Delay",
 	"Liebesleid (Love'S Sorrow) - Kreisler",
 	"Liebestraum",
 	"LiebestraüM No 3 In A♭ Major (Dream Of Love)",
