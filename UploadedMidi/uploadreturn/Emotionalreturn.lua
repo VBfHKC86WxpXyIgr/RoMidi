@@ -191,6 +191,7 @@ return {
 	"Ku Ingin Pisah - Fikram",
 	"Kyu-Kurarin-Iyowa-Feat-(HUMAN BEST VERSION)",
 	"La Foule (BEST VERSION)",
+	"La Maritza",
 	"La Maritza - Sylvie Vartan By Trouble",
 	"LạC TrôI Piano - SơN TùNg M-TP.Mid",
 	"Lacrimosa (HUMAN BEST VERSION)",
