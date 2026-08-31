@@ -70,6 +70,7 @@ return {
 	"Cinderella (Instrumental)",
 	"Clair-De-Lune-Debussy",
 	"coffin nails   rapp snitch knishes",
+	"Colors And Electricity - Muship (MS)",
 	"Congratulations - Mac Miller (Final Project)",
 	"Convenience - Jaydes",
 	"Counting Stars by OneRepublic - Drums",
