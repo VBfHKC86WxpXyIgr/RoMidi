@@ -201,6 +201,7 @@ return {
 	"Weezer Keaton Crackower - Say It Aint So Band Arrangement",
 	"WILLIS - I Think I Like When It Rains",
 	"Winter Rain - Yented",
+	"Wisp - Once Then Well Be Free",
 	"Wonderless - Acoustic By Pierce The Veil",
 	"Xandulsbored - Stronger Than You Charas ResponseGenocide Remix",
 	"Yes - Roundabout Bass",
