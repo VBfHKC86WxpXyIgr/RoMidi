@@ -36,6 +36,7 @@ return {
 	"Alec Benjamin - Let Me Down Slowly",
 	"Alexander Rybak - Fairytale.Mid",
 	"Alien Stage - Karma",
+	"All For One Theme MHA",
 	"Anybody can find love (except you.) - Full Song",
 	"Anybody Can Find Love Except You (MEDIUM VERSION)",
 	"Aria-Math-C418-Arr-By-Chris-Fairmanminecraft-Creative(BEST VERSION)",
