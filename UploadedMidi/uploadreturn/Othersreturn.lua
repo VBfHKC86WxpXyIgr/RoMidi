@@ -393,6 +393,7 @@ return {
 	"Liszt Liebestraum No.3 (Full)",
 	"Liszt Liebestraume No 3",
 	"Lit My Own Worst Enemy.Midi",
+	"Longinus - Xi (Piano Solo Arrange) - W96844x7zb",
 	"Lou Deezi",
 	"Love Of My Life -Queen",
 	"Love Story X Golden Brown",
