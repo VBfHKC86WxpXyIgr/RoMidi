@@ -182,6 +182,7 @@ return {
 	"The Jimi Hendrix Experience - Purple Haze",
 	"The Neverminds - The Snow Will Catch Us Once Again",
 	"The Pillows - Beautiful Morning With You",
+	"The Police - Every Breath You Take",
 	"The Walters - I Love You So",
 	"The WORLD - Death Note",
 	"Thirty Seconds To Mars - The Kill Bury Me",
