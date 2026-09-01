@@ -78,6 +78,7 @@ return {
 	"Drum Teen Rebel LIVE",
 	"Drum The Haunted Youth Teen Rebel",
 	"Drum THY-Teen Rebel LIVE V2",
+	"Drum TR THY LIVE V3",
 	"Drum-Helena MCR",
 	"Dum For Now Not Ever Motifs Studio V2",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
