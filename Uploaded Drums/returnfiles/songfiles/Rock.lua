@@ -203,6 +203,7 @@ return {
 	"Radiohead - Karma Police [MIDIfind.Com]",
 	"Radiohead - Kid A [MIDIfind.Com]",
 	"Radiohead - Lucky [MIDIfind.Com]",
+	"Radiohead - No Surprises (2) [MIDIfind.Com]",
 	"Radiohead - No Surprises [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
 	"Radiohead - Subterranean Homesick Alien [MIDIfind.Com]",
