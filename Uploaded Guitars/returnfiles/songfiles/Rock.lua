@@ -96,6 +96,7 @@ return {
 	"My Chemical Romance - Na Na Na [MIDIfind.Com]",
 	"My Chemical Romance - Thank You For The Venom [MIDIfind Com]-20260818092349",
 	"My Chemical Romance - Thank You For The Venom [MIDIfind.Com]",
+	"My Chemical Romance - This Is How I Disappear",
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison (2) [MIDIfind.Com]",
 	"Never Meant - American Football",
 	"Nirvana - About A Girl (MTV Unplugged) [MIDIfind.Com]",
