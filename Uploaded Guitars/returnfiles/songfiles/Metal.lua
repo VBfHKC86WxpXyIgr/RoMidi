@@ -277,6 +277,7 @@ return {
 	"Pantera - Cemetery Gates (7) [MIDIfind.Com]",
 	"Pantera - Cowboys From Hell [MIDIfind.Com]",
 	"Pantera - Domination",
+	"Pantera - Domination (2) [MIDIfind.Com]",
 	"Pantera - Floods (3) [MIDIfind.Com]",
 	"Pantera - Floods [MIDIfind.Com]",
 	"Pantera - Fucking Hostile [MIDIfind.Com]",
