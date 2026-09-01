@@ -39,6 +39,7 @@ return {
 	"Guitar2 For Now Not Ever Motifs Studio V2",
 	"Guitar2 For Now Not Ever-Motifs",
 	"Guitar2 Teen Rebel",
+	"Guitar2 TR THY LIVE V3",
 	"Guitars 1 2 Teen Rebel THY",
 	"Guitars 1 2 Teen Rebel THY LIVE ROCK",
 	"Guns N' Roses - November Rain [MIDIfind.Com]",
