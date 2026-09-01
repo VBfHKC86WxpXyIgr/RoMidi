@@ -198,6 +198,7 @@ return {
 	"Queens Of The Stone Age - Song For The Deaf [MIDIfind.Com]",
 	"Radiohead - 15 Step [MIDIfind.Com]",
 	"Radiohead - 2+2=5 [MIDIfind.Com]",
+	"Radiohead - Airbag (2) [MIDIfind.Com]",
 	"Radiohead - Everything In Its Right Place [MIDIfind.Com]",
 	"Radiohead - Fake Plastic Trees [MIDIfind.Com]",
 	"Radiohead - Karma Police [MIDIfind.Com]",
