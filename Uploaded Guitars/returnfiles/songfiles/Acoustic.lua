@@ -17,6 +17,7 @@ return {
 	"Andra And The BackBone - Sempurna Lyre.Mid",
 	"Arranged By @KAyuna-Guitar - 夜に駆ける",
 	"Ba - Duvet - Rurouni1928s Instrumental Ver",
+	"Banes World - Drowsy",
 	"Basement - Are You The One",
 	"Batta - Chase",
 	"Batta - Chase-Jojo",
