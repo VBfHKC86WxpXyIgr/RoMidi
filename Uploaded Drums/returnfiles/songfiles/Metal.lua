@@ -271,6 +271,7 @@ return {
 	"Pantera - By Demons Be Driven [MIDIfind.Com]",
 	"Pantera - Cemetery Gates [MIDIfind.com]",
 	"Pantera - Cowboys From Hell [MIDIfind.Com]",
+	"Pantera - Domination [MIDIfind.Com]",
 	"Pantera - Fucking Hostile [MIDIfind.Com]",
 	"Pantera - Good Friends And A Bottle Of Pills",
 	"Pantera - Heresy [MIDIfind.Com]",
