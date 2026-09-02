@@ -280,6 +280,7 @@ return {
 	"Vangelis - La Petite Fille De La Mere [MIDIfind.Com]",
 	"Vierra-Rasa-Ini-Anonymous-20200323154206-Nonstop2k.Com",
 	"Virginio Aiello, On Piano - Van Gogh",
+	"Viva La Vida",
 	"Vivaldi-Winter-Rousseau-Version-Original(BEST VERSION)",
 	"Waldstein 1",
 	"Waltz Opus No In C Minor (BEST VERSION)",
