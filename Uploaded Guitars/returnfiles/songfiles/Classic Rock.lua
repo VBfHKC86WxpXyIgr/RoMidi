@@ -84,4 +84,5 @@ return {
 	"Van Halen - Eruption",
 	"Wake Me Up When September Ends - Green Day (Guitar Tab Play-Along)",
 	"แสงสุดท้าย (Saeng Sud Tye) - Bodyslam [Fingerstyle]",
+	"搖滾版卡農 Canon Rock 電吉他 Guitar",
 }
