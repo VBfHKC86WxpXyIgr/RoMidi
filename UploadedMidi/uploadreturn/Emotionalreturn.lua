@@ -239,6 +239,7 @@ return {
 	"Michael Jackson - Love Never Felt So Good",
 	"Michael Jackson - Man In The Mirror",
 	"Michael Jackson - Will You Be There (From Free Will)",
+	"Milo J - Milagrosa",
 	"Milo J - Rincon",
 	"Misty (BEST VERSION)",
 	"Misty Piano Solo (Beginner)",
