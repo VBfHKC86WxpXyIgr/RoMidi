@@ -29,6 +29,7 @@ return {
 	"81416 Take-Me-Back-Home",
 	"A Miserable Life",
 	"A Town With An Ocean (HUMAN BEST VERSION)",
+	"ABBA - The Winner Takes It All",
 	"ABBA-Chiquitita -Fikram",
 	"Abdul",
 	"Across The Sea - Weezer",
