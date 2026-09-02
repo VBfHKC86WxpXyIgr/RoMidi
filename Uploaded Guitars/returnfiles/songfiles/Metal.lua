@@ -166,6 +166,7 @@ return {
 	"Megadeth - Hanger 18",
 	"Megadeth - High Speed Dirt [MIDIfind.Com]",
 	"Megadeth - Holy Wars The Punishment Due",
+	"Megadeth - Holy Wars The Punishment Due [MIDIfind.Com]",
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
 	"Megadeth - Mechanix (3) [MIDIfind.Com]",
 	"Megadeth - Peace Sells [MIDIfind.Com]",
