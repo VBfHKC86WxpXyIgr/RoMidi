@@ -121,6 +121,7 @@ return {
 	"Malcolm Todd - Earrings For Band",
 	"Malcolm Todd - Roommates",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
+	"Metallica - Damage Inc",
 	"Metallica - Enter Sandman",
 	"Michael Jackson - Smooth Criminal Acoustic Fingerstyle",
 	"Misc Covers-Holy By Mac Demarco-08-21-2026",
