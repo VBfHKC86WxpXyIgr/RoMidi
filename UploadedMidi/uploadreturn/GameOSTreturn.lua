@@ -195,6 +195,7 @@ return {
 	"Undertale - Ruins [Piano]",
 	"Undertale - SAVE the World",
 	"Undertale - Toby Fox",
+	"Undertale To The Bone",
 	"Undertale~PFFinale~123,000",
 	"Universal Collapse - Dm Dokuro",
 	"Universal Collapse - DM DOKURO Wooper Universal Collapse",
