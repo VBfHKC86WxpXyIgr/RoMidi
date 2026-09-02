@@ -189,6 +189,7 @@ return {
 	"mrs magic",
 	"Mundo By IV Of Spades",
 	"NắNg Có Mang Em Về - Shartnuss, Tr. D, Phankeo (Piano)",
+	"New Person, Same Old Mistakes - Tame Impala (Intro)",
 	"Nice Boys (TEMPOREX) (MS)",
 	"Night Changes Piano Arr 1775503451731",
 	"NIGHT DANCER - Imase",
