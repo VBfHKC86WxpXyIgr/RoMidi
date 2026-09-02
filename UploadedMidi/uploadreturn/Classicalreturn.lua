@@ -128,6 +128,7 @@ return {
 	"Handel, Halvorsen - Passacaglia.Mid",
 	"Handel,Halvorsen Passacaglia",
 	"Harvey",
+	"Hasta La RaíZ",
 	"Hino Nacional Brasileiro Em F Maior(BEST VERSION)",
 	"Hit The Road Jack - Fikram",
 	"Human-Nature (1)",
