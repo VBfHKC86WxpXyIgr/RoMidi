@@ -181,6 +181,7 @@ return {
 	"Megadeth - Devils Island [MIDIfind.Com]",
 	"Megadeth - Holy Wars",
 	"Megadeth - Holy Wars The Punishment (Drum)",
+	"Megadeth - Holy Wars The Punishment Due [MIDIfind.Com]",
 	"Megadeth - Peace Sells [MIDIfind.Com]",
 	"Megadeth - Symphony Of Destruction [MIDIfind.Com]",
 	"Megadeth - The Conjuring [MIDIfind.Com]",
