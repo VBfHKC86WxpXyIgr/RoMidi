@@ -186,6 +186,7 @@ return {
 	"Town Talk",
 	"Triage At Dawn",
 	"TripleTrouble",
+	"ULTRAKILL - Mirror Rim Intro",
 	"Undertale - Asgore",
 	"Undertale - Ruins",
 	"Undertale - Ruins [Piano]",
