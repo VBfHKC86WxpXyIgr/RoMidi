@@ -147,6 +147,7 @@ return {
 	"Plastic Tree - Kuuchu Buranko-Electric Guitar",
 	"PT Adamczyk Olga Jankowska Cyberpunk 2077 - Never Fade Away SAMURAI Cover Guitar Solo",
 	"Radiohead - No Surprises",
+	"Rainbow - Catch The Rainbow",
 	"RaunchyGuitar",
 	"Redbone - Come And Get Your Love 2",
 	"Ring-Around-The-Rosie",
