@@ -154,6 +154,7 @@ return {
 	"Kinji - Windburn Live",
 	"Kota Ini Tak Sama Tanpamu - Nadhif Basalamah Tutorial Piano Pemula",
 	"L'Amour Toujours - Gigi D'Agostino (Organ Cover)",
+	"La Fiesta Comenzó V2",
 	"La La Land Epilogue Mid",
 	"La Maritza Piano Tutorial",
 	"Laufey - From The Start",
