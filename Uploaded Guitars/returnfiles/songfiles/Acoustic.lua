@@ -139,6 +139,7 @@ return {
 	"Novulent - Scars",
 	"Nujabes - Aruarian Dance",
 	"Nujabes MINMI - Shiki No Uta",
+	"Nujabes MINMI - Shiki No Uta (1)",
 	"Oasis - Married With Children",
 	"Paradox - Official MV",
 	"Paradox - Official MV-Drum Kit (1)",
