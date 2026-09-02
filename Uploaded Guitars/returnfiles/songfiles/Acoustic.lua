@@ -137,6 +137,7 @@ return {
 	"Nirvana - Rape Me",
 	"NONT TANONT - โต๊ะริม (Melt)",
 	"Novulent - Scars",
+	"Nujabes - Aruarian Dance",
 	"Nujabes MINMI - Shiki No Uta",
 	"Oasis - Married With Children",
 	"Paradox - Official MV",
