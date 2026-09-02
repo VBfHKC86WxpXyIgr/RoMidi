@@ -249,6 +249,7 @@ return {
 	"Second Run (Piano Cover) - For Nwc (192k) (1)",
 	"Seluruh Nafas Ini Last Child 1780246231273",
 	"Sesi Potret- Enau",
+	"Shche Ne Vmerla Ukrainy I Slava, I Volia - Ukrainian Anthem",
 	"She Neva Knows - Justatee She Neva Knows",
 	"Sonate No 14, “Moonlight” 3rd Movement",
 	"Sonate-No-14-Moonlight-3rd-Movement",
