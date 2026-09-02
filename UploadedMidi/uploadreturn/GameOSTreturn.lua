@@ -188,6 +188,7 @@ return {
 	"Triage At Dawn",
 	"TripleTrouble",
 	"ULTRAKILL - Mirror Rim Intro",
+	"ULTRAKILL - The World Looks Red [WIP]",
 	"Undertale - Asgore",
 	"Undertale - Ruins",
 	"Undertale - Ruins [Piano]",
