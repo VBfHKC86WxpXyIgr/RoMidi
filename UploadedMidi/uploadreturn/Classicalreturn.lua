@@ -158,6 +158,7 @@ return {
 	"Kuroshitsuji Book Of Circus OST (BEST VERSION)",
 	"La Campanella (BEST VERSION)",
 	"La Valse DAmlie Yann Tiersen (BEST VERSION)",
+	"La Vida Es Mejor Cantando",
 	"Lana Del Rey - White Mustang Lyrics Mp3cutnet Converted By Jukeblocks",
 	"Lana Del Rey-Diet Mountain Dew The Flight - SafeShare - Screencastify - January 5 2026 9 34 PM Trimmed By Jukeblocks Converted By Jukeblocks",
 	"Libertango(Piano Solo) - Astor Piazzolla",
