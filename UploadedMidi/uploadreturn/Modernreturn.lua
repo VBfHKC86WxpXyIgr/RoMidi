@@ -181,6 +181,7 @@ return {
 	"Michael Jackson - Thriller",
 	"Michael Jackson (They Don'T Care About Us) Complete",
 	"Mike Posner - I Took A Pill In Ibiza (SeeB Remix)",
+	"Miki Matsubara - Stay With Me.Mid",
 	"Mitski - My Love Mine All Mine",
 	"Mood - 24kGolden, Iann Dior",
 	"Moonlight Sonata M3 (MS)",
