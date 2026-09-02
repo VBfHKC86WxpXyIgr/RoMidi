@@ -171,6 +171,7 @@ return {
 	"Solitude Is Bliss - Just One Thing",
 	"Solitude Is Bliss - Vintage Pic",
 	"Soundgarden - Black Hole Sun",
+	"Stephen Sanchez - Until I Found You (1)",
 	"Stone Metal Fire -",
 	"Sunroof - Nicky Youre, Dazy",
 	"Surf Curse - FreaksChorus",
