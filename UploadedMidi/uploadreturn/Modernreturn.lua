@@ -206,6 +206,7 @@ return {
 	"Palagi-Tj-Monterde-Palagi",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
 	"Pasilyo - Sunkissed Lola (Piano)",
+	"Perfect - Ed Sheeran",
 	"Phonecert (폰서트) - 10CM",
 	"Plage Coquillage (MS)",
 	"Poster Boy - 2hollis",
