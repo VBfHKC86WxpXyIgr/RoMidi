@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"【FREE】Lucky",
 	"1Love - Wave To Earth (웨이브 투 어스) (Piano)",
 	"40mp-Feat-Hatsune-Miku-Time-Machine-20220817174134-Nonstop2k.Com",
 	"Bad Apple Full Version",
