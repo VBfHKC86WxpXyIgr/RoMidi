@@ -79,6 +79,7 @@ return {
 	"Firelake - Dirge For The Planet (S.T.A.L.K.E.R OST) [MIDIfind.Com]",
 	"Forwards",
 	"Forwards.Mp3",
+	"Ginger Root - LorettaGuitarUploadByGreed",
 	"Gotye - Somebody That I Used To Know (Ft. Kimbra)",
 	"Green Day - Good Riddance [MIDIfind.Com]",
 	"Gto - GTO Opening 1 Drivers High",
