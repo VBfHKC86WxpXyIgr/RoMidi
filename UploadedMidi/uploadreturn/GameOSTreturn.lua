@@ -83,6 +83,7 @@ return {
 	"Got-Main-Theme-Advanced",
 	"Great Fairy Fountain Theme",
 	"Great Fairy Fountain Theme (Legend Of Zelda)",
+	"Hammer Of Justice - Deltarune Chapter 3+4 - Toby Fox",
 	"Hatsune Miku - Senbonzakura",
 	"Hatsune Miku - Tell Your World",
 	"Heroes Main",
