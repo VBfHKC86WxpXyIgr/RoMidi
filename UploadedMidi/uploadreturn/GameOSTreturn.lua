@@ -91,6 +91,7 @@ return {
 	"Impact & Orbit1 - Stay",
 	"input 1777578189898 1",
 	"Jumper (Geometry Dash)",
+	"K Anime Project - Shiro 2",
 	"Kevin Macleod -  Cipher  (1)",
 	"Kevin Macleod - Amazing Plan (Duet).mid (1)",
 	"Kevin MacLeod - Call to Adventure (1)",
