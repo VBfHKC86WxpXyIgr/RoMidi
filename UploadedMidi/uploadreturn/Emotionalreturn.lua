@@ -96,6 +96,7 @@ return {
 	"Die-With-A-Smile",
 	"Do I Wanna Know Bass",
 	"Do I Wanna Know by Arctic Monkeys",
+	"Dragon Ball GT OP - Dan Dan Kokoro Hikareteku",
 	"Drowning-Love-(HUMAN BEST VERSION)",
 	"Duncan Laurence - Arcade",
 	"Duvet BoA (BEST VERSION)",
