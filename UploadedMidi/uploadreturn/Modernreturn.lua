@@ -104,6 +104,7 @@ return {
 	"Forsaken - Through Patches Of Violet (Hacklord LMS)",
 	"From The Start - Laufey",
 	"From The Start (Laufey) (MS)",
+	"Fujii Kaze - Shinunoga E-Wa - (藤井 風 - 死ぬのがいいわ)",
 	"Fujii Kaze - Shinunoga E-Wa.Mid",
 	"FULL PIANO STILL DRE",
 	"GIMS - NINAO Official Lyrics Vido",
