@@ -10,6 +10,7 @@ return {
 	"[Black MIDI] Bad Apple!! 1 Million Notes v3 (fixed piano)",
 	"[Black MIDI] The Classic Black Medley",
 	"[JvP] Electroman Adventures - Geometry Dash",
+	"[ULTRAKILL OST] Requiem.Mid",
 	"[UndertaleOST-100]Megalovania - Toby Fox",
 	"1Bakamitai",
 	"1Granny - Theme Song (Horror Mobile Game)",
