@@ -82,6 +82,7 @@ return {
 	"Got-Main-Theme-Advanced",
 	"Great Fairy Fountain Theme",
 	"Great Fairy Fountain Theme (Legend Of Zelda)",
+	"Hatsune Miku - Tell Your World",
 	"Heroes Main",
 	"Home - Were Finally Landing 65702210",
 	"Hyperfun.mp3",
