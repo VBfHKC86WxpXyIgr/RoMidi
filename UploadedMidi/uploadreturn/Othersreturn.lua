@@ -620,6 +620,7 @@ return {
 	"Take Me Hand",
 	"Take Me Hand Easy",
 	"Tan90°砸钢琴",
+	"Tau 2",
 	"Tau 2 Deblacked",
 	"Tau No Art",
 	"Tau The Song",
