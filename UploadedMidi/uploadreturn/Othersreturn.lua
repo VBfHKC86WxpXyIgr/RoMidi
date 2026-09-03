@@ -552,6 +552,7 @@ return {
 	"Rush E 3 Real",
 	"RUSH E 3 Whitout Anything Else",
 	"RUSH E 3 WITHOUT ANYTHING ELSE REAL",
+	"RUSH E 3!",
 	"Rush E 4",
 	"Rush E 4 No Lag",
 	"Rush E 4 Playable 88keys",
