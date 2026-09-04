@@ -261,6 +261,7 @@ return {
 	"FallofTroyTheF.C.P.R.E.M.I.X",
 	"Fasion - Dansez - COPYRIGHT FREE - CEM",
 	"Feather - Nujabes",
+	"Finale - Toby Fox -Undertale",
 	"Flow - Creo (Piano)",
 	"Flower Dance - DJ Okawari",
 	"Flower Dance + Windy Hill + 星茶会 + 夜、萤火虫和你 + Luv Letter",
