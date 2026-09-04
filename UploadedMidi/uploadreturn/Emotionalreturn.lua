@@ -38,6 +38,7 @@ return {
 	"Alexander Rybak - Fairytale.Mid",
 	"Alien Stage - Karma",
 	"All For One Theme MHA",
+	"Ambarsariya",
 	"Anybody can find love (except you.) - Full Song",
 	"Anybody Can Find Love Except You (MEDIUM VERSION)",
 	"Aria-Math-C418-Arr-By-Chris-Fairmanminecraft-Creative(BEST VERSION)",
