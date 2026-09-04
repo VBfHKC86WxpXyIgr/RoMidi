@@ -238,6 +238,7 @@ return {
 	"THE KINKS.You Really Got Me K",
 	"The Offspring - Come Out And Play (Drum V2)",
 	"The White Stripes- Seven Nation Army (Drum)",
+	"The-Great-Southern-Trendkill",
 	"Tom-Sawyer-3",
 	"Undone (The Sweater Song) - Weezer",
 	"Undone (The Sweater Song) - Weezer (Sleezy)",
