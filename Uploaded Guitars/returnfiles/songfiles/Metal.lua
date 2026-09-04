@@ -254,6 +254,7 @@ return {
 	"Midnight Queen (Acurate)",
 	"Midnight Queen (Solo) - Sarcofago",
 	"Monster - Skillet",
+	"Motorbreath Rhythm Only",
 	"Ms Salmonella - Lifelover",
 	"Necromancy - Bathory",
 	"Necrophagist - Stabwound [MIDIfind.Com]",
