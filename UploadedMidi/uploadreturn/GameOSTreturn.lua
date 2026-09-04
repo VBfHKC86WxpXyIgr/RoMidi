@@ -70,6 +70,7 @@ return {
 	"Finale - Toby Fox",
 	"finale-undertale",
 	"Five nights at Freddy's Song",
+	"Flower Man - DELTARUNE Chapter 5 - Toby Fox",
 	"FNAF",
 	"Gaster's Theme - Toby Fox",
 	"Genshin Impact Character Demo - Furina All The World'S A Stage",
