@@ -9,6 +9,7 @@ return {
 	"1Ma Cherie Guitar By Malice Mizer",
 	"1Reunion By Korea Girl",
 	"46792 Buko-",
+	"80d547ff Mxpheebz - The Beach Piano Cover ｜ Free Midi",
 	"Aerosmith - Dream On",
 	"Alex G - Mary",
 	"All In My Head Riff.Mid",
