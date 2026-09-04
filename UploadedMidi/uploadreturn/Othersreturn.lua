@@ -603,6 +603,7 @@ return {
 	"Sounds - Twitter",
 	"Sounds - Viber",
 	"Sounds - WhatsApp",
+	"Soy MáS Fuerte Que Tu (Fnafhs)",
 	"Stalemate (Grief) Piano Arr.",
 	"Stay With Me Exo",
 	"Strawberry Fields For Ever",
