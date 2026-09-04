@@ -56,6 +56,7 @@ return {
 	"My Chemical Romance - I Don'T Love You [MIDIfind.Com]",
 	"New Computers - Girlfriends",
 	"Nirvana - Sliver (5) [MIDIfind.Com]",
+	"Output 8c237ced ＂Nope You'Re Too Late I Already Died＂ By Wifiskeleton - Piano Tutorial",
 	"Pixies - Where Is My Mind (5) [MIDIfind.Com]",
 	"PTV - King For A Day",
 	"Queens Of The Stone Age - First It Giveth (3) [MIDIfind.Com]",
