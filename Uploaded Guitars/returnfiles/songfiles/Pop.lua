@@ -25,4 +25,5 @@ return {
 	"Take Me Hand",
 	"TháI BìNh Mồ HôI RơI",
 	"There-S-No-One-At-All",
+	"神のまにまに",
 }
