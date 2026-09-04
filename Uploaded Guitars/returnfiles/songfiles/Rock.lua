@@ -84,6 +84,7 @@ return {
 	"Megadeth - Peace Sells [MIDIfind.Com]",
 	"Megalo Box 2",
 	"Megalovania Undertale",
+	"Metallica - Master Of Puppets",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (Solo) [Sky]",
 	"Michael Jackson - Beat It",
