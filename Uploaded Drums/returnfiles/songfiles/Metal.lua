@@ -376,6 +376,7 @@ return {
 	"The Heretic Anthem - Slipknot",
 	"The Man Who Sold The World - Nirvana",
 	"The Stage - Avenged Sevenfold by Rgman",
+	"The-Great-Southern-Trendkill",
 	"Three Days Grace - Animal I Have Become [MIDIfind.Com]",
 	"Three Days Grace - Home [MIDIfind.Com]",
 	"Three Days Grace - I Hate Everything About You (4) [MIDIfind.Com]",
