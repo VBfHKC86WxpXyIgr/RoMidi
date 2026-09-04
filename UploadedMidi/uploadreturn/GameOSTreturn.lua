@@ -143,6 +143,7 @@ return {
 	"Penumbra Phantasm LWP",
 	"PHOENIX LMS",
 	"Pixelland by Kevin Macleod",
+	"PLEAD - Last Man Standing (C00lkidd Vs 007n7) Forsaken OST - Key After Key",
 	"Plead MIDI",
 	"Pokke Village - Monster Hunter 2nd",
 	"Promise R",
