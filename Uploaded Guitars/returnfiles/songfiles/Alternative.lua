@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"1Across The Sea By Weezer",
+	"1f6aeaf0 I Don'T Like Mirrors - I Miss Your Warm Hands Piano Cover",
 	"1Join Me In Death - HIM (Guitar)",
 	"1Join Me In Death By HIM",
 	"1Kagefumi (Accurate) By Hyakkei",
