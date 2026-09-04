@@ -77,6 +77,7 @@ return {
 	"DauðI Baldrs - Burzum",
 	"Death Pierce Me (Guitar)",
 	"Decalius Lonliness Solo",
+	"Decease The Police(Full Version)",
 	"Dethklok - Thunderhorse [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
