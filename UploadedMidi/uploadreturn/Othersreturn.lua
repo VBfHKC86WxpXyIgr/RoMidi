@@ -635,6 +635,7 @@ return {
 	"Tau 2 Super",
 	"Tau 2 Super (1)",
 	"Tau No Art",
+	"Tau Super",
 	"Tau The Song",
 	"Tay TráI Chỉ TrăNg",
 	"Tay TráI Chỉ TrăNg X LạC TrôI",
