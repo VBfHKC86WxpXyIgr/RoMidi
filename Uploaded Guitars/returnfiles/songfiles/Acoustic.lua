@@ -210,6 +210,7 @@ return {
 	"Van Halen - Aint Talkin Bout Love",
 	"Vanippop",
 	"Veil BassUploadByGreed",
+	"Veil LeadUploadByGreed",
 	"Veil RTMUploadByGreed",
 	"Voice - Bille Jean",
 	"Weezer Keaton Crackower - Say It Aint So Band Arrangement",
