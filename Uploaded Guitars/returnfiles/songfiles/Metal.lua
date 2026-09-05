@@ -202,6 +202,7 @@ return {
 	"Metallica - Fuel [MIDIfind.Com]",
 	"Metallica - Harvester Of Sorrow (2) [MIDIfind.Com]",
 	"Metallica - Harvester Of Sorrow [MIDIfind.Com]",
+	"Metallica - Helpless [MIDIfind.Com]",
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - Holier Than Thou [MIDIfind.Com]",
 	"Metallica - Jump In The Fire [MIDIfind.Com]",
