@@ -68,6 +68,7 @@ return {
 	"Do Re Mi - Nirvana",
 	"Do Re Mi (Teste1)",
 	"Docter Dance",
+	"Don'T Fear The Reaper Bass-Greed",
 	"Don'T Fear The Reaper Guitar2-Greed",
 	"Don'T Fear The Reaper GuitarRTM-Greed",
 	"Dorian Concept - 'Hide",
