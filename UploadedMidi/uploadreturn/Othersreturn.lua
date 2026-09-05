@@ -336,6 +336,7 @@ return {
 	"Impossible Piano - Caramelldansen 64,000 (EpreTroll)",
 	"IMPOSTOR SYNDROME",
 	"In Love - Low G (Piano)",
+	"In The Hall Of The Mountain King",
 	"Irida Cartoon V4",
 	"IRIDA EPICmp3 Remix Converted By Jukeblocks",
 	"Irida Opening Cutcene (1)",
