@@ -628,6 +628,7 @@ return {
 	"Tan90°砸钢琴",
 	"Tau",
 	"Tau 2",
+	"Tau 2 Black (1)",
 	"Tau 2 Deblacked",
 	"Tau 2 Super (1)",
 	"Tau No Art",
