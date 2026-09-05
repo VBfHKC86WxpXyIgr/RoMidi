@@ -180,6 +180,7 @@ return {
 	"Sunroof - Nicky Youre, Dazy",
 	"Sunshine-Of-Your-LoveBassUploadByGreed",
 	"Sunshine-Of-Your-LoveLeadUploadByGreed",
+	"Sunshine-Of-Your-LoveRTMUploadByGreed",
 	"Surf Curse - FreaksChorus",
 	"Surf Curse - FreaksLead",
 	"Tame Impala - The Less I Know The Better",
