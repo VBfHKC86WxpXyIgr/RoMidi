@@ -517,6 +517,7 @@ return {
 	"PhíA Sau MộT Cô GáI",
 	"Phonecert (폰서트) - 10CM",
 	"Pi 3.14 Song Playable",
+	"Pi Black (1)",
 	"Piano Gimme Chocolate BABYMETAL",
 	"Piano Man (Piano)",
 	"Piazzola Astor - Libertango [MIDIfind.Com]",
