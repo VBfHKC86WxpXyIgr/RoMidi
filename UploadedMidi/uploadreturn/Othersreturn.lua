@@ -565,6 +565,7 @@ return {
 	"RUSH E CLEANED",
 	"RUSH E MADE BY GROK",
 	"Rush E Normal Mhxa",
+	"Rush E Real",
 	"Rush E Without Anything Else",
 	"RUSH E WITHOUT ANYTHING ELSE",
 	"Rush E X Beethoven Viruss X Nu Pogodi",
