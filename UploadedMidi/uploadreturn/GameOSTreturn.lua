@@ -66,6 +66,7 @@ return {
 	"Event Horizon (1)",
 	"Fallen Down - Toby Fox",
 	"Fallen down (Reprise)",
+	"Field Of Memories - Stick War",
 	"Field of Memories - Waterflame",
 	"Finale - Toby Fox",
 	"finale-undertale",
