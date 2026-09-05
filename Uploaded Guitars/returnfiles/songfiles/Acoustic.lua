@@ -178,6 +178,7 @@ return {
 	"Stephen Sanchez - Until I Found You (1)",
 	"Stone Metal Fire -",
 	"Sunroof - Nicky Youre, Dazy",
+	"Sunshine-Of-Your-LoveBassUploadByGreed",
 	"Sunshine-Of-Your-LoveLeadUploadByGreed",
 	"Surf Curse - FreaksChorus",
 	"Surf Curse - FreaksLead",
