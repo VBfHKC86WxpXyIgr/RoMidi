@@ -114,6 +114,7 @@ return {
 	"Justin Bieber - Beauty And A Beat WWW.MIDISFREE.COM.Mid",
 	"Karen Aoki Daisuke Hasegawa - Great Days Jojos Bizarre Adventure Diamond Is Unbreakable Op3",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
+	"King Crimson - 21st Century Schizoid ManGreed",
 	"LArcenCiel - Drivers High",
 	"Led Zeppelin - Stairway To Heaven - Fingerstyle",
 	"Linked Horizon - Attack On Titan OpShingeki No Kyojin Op",
