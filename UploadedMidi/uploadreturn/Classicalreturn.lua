@@ -60,6 +60,7 @@ return {
 	"Bruno Mars - Risk It All",
 	"Burgmuller Etude Op No LOrage The Storm (BEST VERSION)",
 	"Campanella Busoni Chopin3",
+	"Canon In D - Wedding Version - For Solo Piano",
 	"Canon-In-D-Piano-Drums-Jpachelbel-Ftomatheus (2)",
 	"Carnival Animals 7 (C)Pajares",
 	"Celestial Opus (BEST V2 VERSION)",
