@@ -626,6 +626,7 @@ return {
 	"Take Me Hand",
 	"Take Me Hand Easy",
 	"Tan90°砸钢琴",
+	"Tau",
 	"Tau 2",
 	"Tau 2 Deblacked",
 	"Tau 2 Super (1)",
