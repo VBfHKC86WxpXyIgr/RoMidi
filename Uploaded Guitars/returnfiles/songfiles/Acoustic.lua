@@ -210,6 +210,7 @@ return {
 	"Van Halen - Aint Talkin Bout Love",
 	"Vanippop",
 	"Veil BassUploadByGreed",
+	"Veil LeadAndRTMUploadByGreed",
 	"Veil LeadUploadByGreed",
 	"Veil RTMUploadByGreed",
 	"Voice - Bille Jean",
