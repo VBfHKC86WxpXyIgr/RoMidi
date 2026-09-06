@@ -2,6 +2,7 @@
 return {
 	"1Bakamitai",
 	"1Buena Vida Mala Fama (King Nasir) - Crish Ramirez Playable",
+	"Hammer Smashed Face",
 	"Home - Were Finally Landing 65702210",
 	"Michael Jackson - Billie Jean",
 	"Misc Covers-Aruarian Dance - Simplified By Nujabes-07-04-2026",
