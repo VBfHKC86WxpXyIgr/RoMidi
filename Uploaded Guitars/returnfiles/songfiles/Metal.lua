@@ -16,6 +16,7 @@ return {
 	"A Miserable Life",
 	"A Miserable Life - Decalius",
 	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
+	"Alone-And-Cold.Mid",
 	"Angel Of Death - Slayer (Corrected To E Standard)",
 	"AngelOfDeath",
 	"Anthrax - Madhouse (4) [MIDIfind.Com]",
