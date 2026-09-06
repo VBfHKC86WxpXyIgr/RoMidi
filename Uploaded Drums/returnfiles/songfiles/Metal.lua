@@ -379,6 +379,7 @@ return {
 	"The Man Who Sold The World - Nirvana",
 	"The Stage - Avenged Sevenfold by Rgman",
 	"The-Great-Southern-Trendkill",
+	"The-Great-Southern-Trendkill.Drm 2026-09-06 06-40-25.Mid",
 	"Three Days Grace - Animal I Have Become [MIDIfind.Com]",
 	"Three Days Grace - Home [MIDIfind.Com]",
 	"Three Days Grace - I Hate Everything About You (4) [MIDIfind.Com]",
