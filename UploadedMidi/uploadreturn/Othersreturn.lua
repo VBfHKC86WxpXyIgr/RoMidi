@@ -404,6 +404,7 @@ return {
 	"Liszt Liebestraum No.3 (Full)",
 	"Liszt Liebestraume No 3",
 	"Lit My Own Worst Enemy.Midi",
+	"Lloraras - Oscar De Leon 2026-09-05 23-28-40",
 	"Longinus - Xi (Piano Solo Arrange) - W96844x7zb",
 	"Lou Deezi",
 	"Love Of My Life -Queen",
