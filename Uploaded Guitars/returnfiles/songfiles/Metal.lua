@@ -102,6 +102,7 @@ return {
 	"Fire Force Main Theme",
 	"Floods Outro",
 	"For-Whom-The-Bell-Tolls",
+	"Fucked With A Knife",
 	"Funeral Ceremony - Grausamkeit",
 	"Gojira - Flying Whales (OFFICIAL) [MIDIfind.Com]",
 	"Gotterkreig - Grausamkeit Gotterkreig (Only Melody, Without Ornaments) - Grausamkeit Gotterkreig",
