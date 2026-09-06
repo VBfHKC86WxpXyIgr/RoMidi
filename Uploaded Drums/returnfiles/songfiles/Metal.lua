@@ -114,6 +114,7 @@ return {
 	"Drum Gimme Chocolate BABYMETAL",
 	"Drum San Sebastian Sonata Arctica",
 	"Drum-Kimi To Anime Ga Mitai-BABYMETAL",
+	"Drums MIDI",
 	"Duality",
 	"Duality - Slipknot",
 	"Elena Siegman - 115",
