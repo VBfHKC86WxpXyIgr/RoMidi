@@ -116,6 +116,7 @@ return {
 	"Guitar2 Awadama Fever LIVE BABYMETAL",
 	"Guitar2 Gimme Chocolate BABYMETAL",
 	"Guitar2-Kimi To Anime Ga Mitai-BABYMETAL",
+	"Hammer Smashed Face (D Standard)",
 	"Han Som Reiste - Burzum",
 	"Happy Days - Don'T Guns (Guitar)",
 	"HARDWIRED",
