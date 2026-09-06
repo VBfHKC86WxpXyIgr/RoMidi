@@ -342,6 +342,7 @@ return {
 	"The Crying Orc - Burzum",
 	"The Laws Of Scourge - Sarcofago",
 	"The-Great-Southern-Trendkill",
+	"The-Painful-Truth.Mid",
 	"Three Days Grace - Animal I Have Become [MIDIfind.Com]",
 	"Three Days Grace - Home [MIDIfind.Com]",
 	"Three Days Grace - I Hate Everything About You (4) [MIDIfind.Com]",
