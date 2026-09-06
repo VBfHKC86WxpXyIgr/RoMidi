@@ -386,6 +386,7 @@ return {
 	"La La Land - A Lovely Night(Birru) MIDI",
 	"La La Land Epilogue Mid",
 	"La Maritza",
+	"La Rebeli N",
 	"Là Tự Em đA TìNh",
 	"LạC TrôI",
 	"LALALALA (락) (樂) - Stray Kids (스트레이 키즈)",
