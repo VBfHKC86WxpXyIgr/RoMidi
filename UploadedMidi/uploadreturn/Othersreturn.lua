@@ -387,6 +387,7 @@ return {
 	"La La Land Epilogue Mid",
 	"La Maritza",
 	"La Rebeli N",
+	"La Rebelion - Oscar De Leon",
 	"Là Tự Em đA TìNh",
 	"LạC TrôI",
 	"LALALALA (락) (樂) - Stray Kids (스트레이 키즈)",
