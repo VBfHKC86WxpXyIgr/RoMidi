@@ -301,6 +301,7 @@ return {
 	"Great Fairy Fountain But It'S A Little Much.",
 	"Great Fairy Fountain Theme",
 	"Hababam",
+	"Haha Song Cm Base",
 	"Halloween Piano Medley",
 	"HàNg NgàN HàNh VạN",
 	"HạNh PhúC MớI",
