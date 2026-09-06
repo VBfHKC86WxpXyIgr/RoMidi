@@ -48,6 +48,7 @@ return {
 	"In The End - Linkin Park",
 	"Is It Really You - Loathe",
 	"It'S Like I'M Not Even Here",
+	"Its Been So Long",
 	"Jane",
 	"Jane! Ttest",
 	"Kaer Morhen From Witcher",
