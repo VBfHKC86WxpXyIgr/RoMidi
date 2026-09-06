@@ -132,6 +132,7 @@ return {
 	"HIM - Your Sweet 666 [MIDIfind.Com]",
 	"I N R L - Sarcofago",
 	"Ilia Burzum",
+	"Inhumane Harvest",
 	"Jason Becker - Altitudes Solo",
 	"Judas Priest - A Touch Of Evil [MIDIfind.Com]",
 	"Judas Priest - Breaking The Law [MIDIfind.Com]",
