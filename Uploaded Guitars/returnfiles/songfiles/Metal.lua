@@ -61,6 +61,7 @@ return {
 	"Cacophony - Speed Metal Symphony (2) [MIDIfind.Com]",
 	"Cancertid - Lifelover",
 	"Candlemass - Solitude [MIDIfind.Com]",
+	"Chris Doesn'T Like Noisecore",
 	"Cockroaches.Mid",
 	"Converted-1783627408087",
 	"Crybaby - Destroy Boys",
