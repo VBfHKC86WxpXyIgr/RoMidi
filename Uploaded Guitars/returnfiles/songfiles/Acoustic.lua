@@ -133,6 +133,7 @@ return {
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
 	"Metallica - Damage Inc",
 	"Metallica - Damage IncBass6Greed",
+	"Metallica - Damage IncGuitar1Greed",
 	"Metallica - Damage IncGuitar2Greed",
 	"Metallica - Enter Sandman",
 	"Michael Jackson - Smooth Criminal Acoustic Fingerstyle",
