@@ -342,6 +342,7 @@ return {
 	"Slipknot - Sic [MIDIfind.Com]",
 	"Slipknot - The Heretic Anthem (4) [MIDIfind.Com]",
 	"Smoke On The Water - Deep Purple Smoke On The Water - Deep Purple",
+	"SoRdo",
 	"Spit Out The Bone - Metallica",
 	"Stabwound - Necrophagist Piano Arrangement (Sorta) Lyrics!!",
 	"Stitches",
