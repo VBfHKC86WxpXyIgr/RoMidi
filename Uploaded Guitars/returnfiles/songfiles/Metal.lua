@@ -374,6 +374,7 @@ return {
 	"VØJ & Narvent - Memory Reboot",
 	"War - Burzum",
 	"WASP - On Your Knees [MIDIfind.Com]",
+	"World-Of-Shit.Mid",
 	"Мастер - 2000 лет (Иуда) [MIDIfind.Com]",
 	"Мастер - Берегись [MIDIfind.Com]",
 	"Мастер - Мастер [MIDIfind.Com]",
