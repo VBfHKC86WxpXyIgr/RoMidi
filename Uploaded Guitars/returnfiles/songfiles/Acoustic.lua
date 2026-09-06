@@ -135,6 +135,7 @@ return {
 	"Metallica - Damage IncBass6Greed",
 	"Metallica - Damage IncGuitar1Greed",
 	"Metallica - Damage IncGuitar2Greed",
+	"Metallica - Damage IncVocalGreed",
 	"Metallica - Enter Sandman",
 	"Michael Jackson - Smooth Criminal Acoustic Fingerstyle",
 	"Misc Covers-Holy By Mac Demarco-08-21-2026",
