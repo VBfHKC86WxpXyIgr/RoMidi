@@ -13,6 +13,7 @@ return {
 	"Come My Way Softer Version",
 	"CơN MưA Ngang Qua 2",
 	"CơN MưA Ngang Qua Remix",
+	"E79ec40a Killswitch Lullaby - Flawed Mangoes - Piano Tutorial + MIDI",
 	"Flower Dance - DJ Okawari",
 	"Flower Dance Had",
 	"HãY Trao Cho Anh",
