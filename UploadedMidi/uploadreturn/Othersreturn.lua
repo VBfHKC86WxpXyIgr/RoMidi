@@ -619,6 +619,7 @@ return {
 	"Soy MáS Fuerte Que Tu (Fnafhs)",
 	"Stalemate (Grief) Piano Arr.",
 	"Stay With Me Exo",
+	"Stitches",
 	"Strawberry Fields For Ever",
 	"Studio Ghibli Piano",
 	"SUFFER WITH ME",
