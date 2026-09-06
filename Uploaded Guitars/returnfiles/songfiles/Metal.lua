@@ -15,6 +15,7 @@ return {
 	"505 - Arctic Monkeys",
 	"A Miserable Life",
 	"A Miserable Life - Decalius",
+	"A Skull Full Of Maggots",
 	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
 	"Alone-And-Cold.Mid",
 	"Angel Of Death - Slayer (Corrected To E Standard)",
