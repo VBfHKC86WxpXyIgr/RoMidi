@@ -60,6 +60,7 @@ return {
 	"Brain-Stew",
 	"BTS - House Of Cards",
 	"Burning Blue - Mariah The Scientist (Piano Solo)",
+	"Calvin Harris-Outside",
 	"Camellia - Flamewall",
 	"Careless-Whisper",
 	"Champagne Coast - Blood Orange",
