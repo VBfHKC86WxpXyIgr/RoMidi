@@ -29,6 +29,7 @@ return {
 	"Come-As-You-Are.Mid",
 	"Creep - Radiohead - Extremely Accurate (Full Band) G",
 	"CREEP U KLICKAUD",
+	"Decease The Police(Full Version)",
 	"Deftones My Own Summer Shove It.Gtr",
 	"DöNence( ARsi3SHma6c )",
 	"E488cc4d Hyakkei - Kagefumi Accurate Drums Backing Track 181610054",
