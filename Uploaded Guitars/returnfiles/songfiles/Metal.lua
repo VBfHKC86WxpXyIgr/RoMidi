@@ -338,6 +338,7 @@ return {
 	"Smoke On The Water - Deep Purple Smoke On The Water - Deep Purple",
 	"Spit Out The Bone - Metallica",
 	"Stabwound - Necrophagist Piano Arrangement (Sorta) Lyrics!!",
+	"Stitches",
 	"Symphony X - Sea Of Lies First Part",
 	"System Of A Down - B.Y.O.B. [MIDIfind.Com]",
 	"System Of A Down - Lonely Day [MIDIfind.Com]",
