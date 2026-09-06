@@ -51,6 +51,7 @@ return {
 	"Clair-De-Lune-Debussy",
 	"CLAIRE - FLY ME TO THE MOON Neon Genesis Evangelion",
 	"Clarion - Hello Juliet",
+	"Clarion - Hello JulietBassGreed",
 	"Clarion - Hello JulietGuitar1Greed",
 	"Clarion - Hello JulietGuitar2Greed",
 	"Come As You Are - Nirvana (Guitar Tab)",
