@@ -26,6 +26,7 @@ return {
 	"Californication.Mid",
 	"Chase Batta - JoJo'S Bizarre Adventure Part4 Diamond Is Unbreakable OP2",
 	"Chevelle - Comfortable Liar [MIDIfind.Com]",
+	"Come-As-You-Are.Mid",
 	"Creep - Radiohead - Extremely Accurate (Full Band) G",
 	"CREEP U KLICKAUD",
 	"Deftones My Own Summer Shove It.Gtr",
