@@ -51,6 +51,7 @@ return {
 	"Clair-De-Lune-Debussy",
 	"CLAIRE - FLY ME TO THE MOON Neon Genesis Evangelion",
 	"Clarion - Hello Juliet",
+	"Clarion - Hello JulietGuitar1Greed",
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Composed By Yu-Peng Chen Arranged By Devon Sebastian K - Liyue Harbor Song No. 4",
 	"Creed - One Last Breath",
