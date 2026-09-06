@@ -72,6 +72,7 @@ return {
 	"Avenged Sevenfold - A Little Piece Of Heaven (2) [MIDIfind.Com]",
 	"Azali - MECHANICAL GOD",
 	"Back Number",
+	"Backrooms",
 	"Bad Apple",
 	"Bad Apple 2 Player",
 	"Bad Apple Ft. Nomico Deblacked",
