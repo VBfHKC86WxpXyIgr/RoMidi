@@ -93,6 +93,7 @@ return {
 	"Fortunate Son - Creedance Clearwater Revival-Drum Kit, Drums",
 	"Franz Ferdinand - Take Me Out [MIDIfind.Com]",
 	"Girlfriend",
+	"Gorillaz - Feel Good Inc (Drum)",
 	"Green Day - American Eulogy [MIDIfind.Com]",
 	"Green Day - Basket Case (Drum)",
 	"Green Day - Basket Case [MIDIfind.Com]",
