@@ -246,6 +246,7 @@ return {
 	"Winter Rain - Yented",
 	"Wisp - Once Then Well Be Free",
 	"Wisp - Tangled Dreams",
+	"Without You Retrospect Guitar Greed",
 	"Wonderless - Acoustic By Pierce The Veil",
 	"Xandulsbored - Stronger Than You Charas ResponseGenocide Remix",
 	"Yes - Roundabout Bass",
