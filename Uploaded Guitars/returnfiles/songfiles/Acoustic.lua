@@ -136,6 +136,7 @@ return {
 	"Made In Thailand, Made In USA",
 	"Malcolm Todd - Earrings For Band",
 	"Malcolm Todd - Roommates",
+	"Maroon 5 - This LoveGuitar2 Greed",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
 	"Metallica - Damage Inc",
 	"Metallica - Damage IncBass6Greed",
