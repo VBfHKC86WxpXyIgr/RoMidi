@@ -197,6 +197,7 @@ return {
 	"Solitude Is Bliss - Vintage Pic",
 	"Soundgarden - Black Hole Sun",
 	"Stephen Sanchez - Until I Found You (1)",
+	"Steve Hansen - Fukashigi No Carte - SeiButa ED",
 	"Stone Metal Fire -",
 	"Sunroof - Nicky Youre, Dazy",
 	"Sunshine-Of-Your-LoveBassUploadByGreed",
