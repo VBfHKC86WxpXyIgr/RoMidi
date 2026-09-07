@@ -371,6 +371,7 @@ return {
 	"System Of A Down - Chic 'N' Stu (Drum)",
 	"System Of A Down - Chop Suey! (Drum)",
 	"System Of A Down - Chop Suey! [MIDIfind.Com]",
+	"System Of A Down - Fuck The System (Drum)",
 	"System Of A Down - I-E-A-I-A-I-O (Drum)",
 	"System Of A Down - Jet Pilot (Drum)",
 	"System Of A Down - Know (Drum)",
