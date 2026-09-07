@@ -100,6 +100,7 @@ return {
 	"Disasterpiece",
 	"Domination",
 	"DOOM - Theme E1M1",
+	"DragonForce - Through The Fire And Flames (Drum)",
 	"DragonForce - Through The Fire And Flames [MIDIfind.Com]",
 	"Dream Theater - The Dance Of Eternity",
 	"Dream Theater - The Dance Of Eternity (5) [MIDIfind.Com]",
