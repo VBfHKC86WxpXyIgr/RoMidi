@@ -215,6 +215,7 @@ return {
 	"The Jimi Hendrix Experience - Purple Haze",
 	"The Neverminds - The Snow Will Catch Us Once Again",
 	"The Pillows - Beautiful Morning With You",
+	"The Pillows - Beautiful Morning With YouLeadGreed",
 	"The Pillows - Beautiful Morning With YouRTM Greed",
 	"The Police - Every Breath You Take",
 	"The Walters - I Love You So",
