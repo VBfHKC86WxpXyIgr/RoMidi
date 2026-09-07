@@ -148,6 +148,7 @@ return {
 	"Moderndog -",
 	"Mom Central",
 	"Mor Lum",
+	"Mortal Kombat - Mortal Kombat Theme",
 	"Moving And Cut -",
 	"My Chemical Romance - The Ghost Of You",
 	"Never Shout Never - Your Biggest Fan Live KLICKAUD 1-AudioTrimmercom 1 Converted By Jukeblocks",
