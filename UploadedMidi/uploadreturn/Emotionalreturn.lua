@@ -282,6 +282,7 @@ return {
 	"Oceans & Engines",
 	"Ofelia (BEST VERSION)",
 	"Oliver Tree - Life Goes On",
+	"Omori Final Duet.Mid",
 	"On Bended Knee - Fikram",
 	"On-The-Nature-Of-Daylight(BEST VERSION)",
 	"One Direction - Night Changes",
