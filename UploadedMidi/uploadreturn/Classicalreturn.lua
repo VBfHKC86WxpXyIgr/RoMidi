@@ -62,6 +62,7 @@ return {
 	"Burgmuller Etude Op No LOrage The Storm (BEST VERSION)",
 	"Campanella Busoni Chopin3",
 	"Canon In D - Wedding Version - For Solo Piano",
+	"CANON In D By Johann Pachelbel - BreezePiano",
 	"Canon In Distracted",
 	"Canon-In-D-Piano-Drums-Jpachelbel-Ftomatheus (2)",
 	"Carnival Animals 7 (C)Pajares",
