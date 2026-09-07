@@ -542,6 +542,7 @@ return {
 	"Queen - Bohemian Rhapsody",
 	"Queen - We Are The Champions",
 	"QuêN",
+	"Quiero Sentir Tu ClíToris",
 	"Rachmaninov Concerto 2 2 (C)Galimberti",
 	"Radiohead - Kid A [MIDIfind.Com]",
 	"Radiohead - No Surprises",
