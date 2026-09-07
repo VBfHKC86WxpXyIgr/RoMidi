@@ -346,6 +346,7 @@ return {
 	"Spit Out The Bone - Metallica",
 	"Stabwound - Necrophagist Piano Arrangement (Sorta) Lyrics!!",
 	"Stitches",
+	"Surround Kill Devour",
 	"Symphony X - Sea Of Lies First Part",
 	"System Of A Down - B.Y.O.B. [MIDIfind.Com]",
 	"System Of A Down - Lonely Day [MIDIfind.Com]",
