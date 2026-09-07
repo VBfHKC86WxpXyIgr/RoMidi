@@ -308,6 +308,7 @@ return {
 	"Scorpions - No One Like You (2) [MIDIfind.Com]",
 	"Scorpions - Rock You Like A Hurricane [MIDIfind.Com]",
 	"Scream",
+	"Sepultura - Arise (Drum)",
 	"Sepultura - Ratamahatta (Drum)",
 	"Sepultura - Refuse Resist (Drum)",
 	"Sepultura - Roots Bloody Roots (3) [MIDIfind.Com]",
