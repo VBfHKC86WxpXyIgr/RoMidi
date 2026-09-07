@@ -125,6 +125,7 @@ return {
 	"Heroes Main",
 	"Hkmori - Anybody Can Find Love",
 	"Hkmori - Anybody Can Find Love (Except You.) [UNFINISHED] (Breakcore Drill 'N' Bass)",
+	"Hoobastank - The Reason (Drum)",
 	"Hot For Teacher",
 	"imagine-dragons-believer-drum-score",
 	"Jane! WIP",
