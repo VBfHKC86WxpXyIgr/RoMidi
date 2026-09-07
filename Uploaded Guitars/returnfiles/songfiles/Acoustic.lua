@@ -77,6 +77,7 @@ return {
 	"Don'T Fear The Reaper GuitarRTM-Greed",
 	"Dorian Concept - 'Hide",
 	"Dragonforce - Through The Fire And Flames-Bass GuitarGreed",
+	"Dragonforce - Through The Fire And FlamesLead Greed",
 	"Dragonforce - Through The Fire And FlamesRTM Greed",
 	"Dumb Ways To Die",
 	"Dying Light - Horizon",
