@@ -76,6 +76,7 @@ return {
 	"Don'T Fear The Reaper Guitar2-Greed",
 	"Don'T Fear The Reaper GuitarRTM-Greed",
 	"Dorian Concept - 'Hide",
+	"Dragonforce - Through The Fire And Flames-Bass GuitarGreed",
 	"Dumb Ways To Die",
 	"Dying Light - Horizon",
 	"Ed Sheeran Thinking Out Loud",
