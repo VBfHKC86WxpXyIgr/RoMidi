@@ -93,4 +93,5 @@ return {
 	"Where Is My Mind - Pixies",
 	"Wonderless",
 	"Wonderless2",
+	"ZuZ",
 }
