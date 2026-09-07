@@ -76,6 +76,7 @@ return {
 	"Don'T Fear The Reaper Guitar2-Greed",
 	"Don'T Fear The Reaper GuitarRTM-Greed",
 	"Dorian Concept - 'Hide",
+	"Dragonforce - Fury Of The StormRTM Greed",
 	"Dragonforce - Through The Fire And Flames-Bass GuitarGreed",
 	"Dragonforce - Through The Fire And FlamesLead Greed",
 	"Dragonforce - Through The Fire And FlamesRTM Greed",
