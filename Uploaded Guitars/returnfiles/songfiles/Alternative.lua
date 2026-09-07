@@ -75,6 +75,7 @@ return {
 	"Queens Of The Stone Age - Song For The Deaf [MIDIfind.Com]",
 	"Radiohead - My Iron Lung",
 	"Sayonara Cross Teck-07-04-2026",
+	"September - Sparky Deathcap Instrumental Loop - Cassie Jadenoler Trimmed By Jukeblocks Converted By Jukeblocks",
 	"Smashing Pumpkins - Mayonaise (2) [MIDIfind.Com]",
 	"Smashing Pumpkins - Mayonaise (3) [MIDIfind.Com]",
 	"Smashing Pumpkins - Mayonaise [MIDIfind.Com]",
