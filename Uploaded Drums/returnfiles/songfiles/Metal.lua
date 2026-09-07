@@ -60,6 +60,7 @@ return {
 	"Black-Hole-Sun",
 	"Blazed - Heavy Metal Balad [MIDIfind.com]",
 	"Blind",
+	"Blink-182 - Drum Solo (Rock)",
 	"Breed - Nirvana Drums",
 	"Bring Me The Horizon - Happy Song [MIDIfind.com]",
 	"Bring Me The Horizon - It Never Ends MIDIfind.Com",
