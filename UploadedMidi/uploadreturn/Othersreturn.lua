@@ -253,6 +253,7 @@ return {
 	"Eminem - Mockingbird",
 	"Ending Shucks",
 	"Endless Tears",
+	"Erased~",
 	"Erika",
 	"Erika.Mid",
 	"Estilo Horizonte Diamante X An Engimatic Encounter",
