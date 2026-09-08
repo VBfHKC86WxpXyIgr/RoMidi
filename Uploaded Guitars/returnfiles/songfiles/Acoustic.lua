@@ -78,6 +78,7 @@ return {
 	"Dorian Concept - 'Hide",
 	"Dragonforce - Fury Of The StormLEAD Greed",
 	"Dragonforce - Fury Of The StormRTM Greed",
+	"Dragonforce - Heroes Of Our TimeGuitar2 Greed",
 	"Dragonforce - Through The Fire And Flames-Bass GuitarGreed",
 	"Dragonforce - Through The Fire And FlamesLead Greed",
 	"Dragonforce - Through The Fire And FlamesRTM Greed",
