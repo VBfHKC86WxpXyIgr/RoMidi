@@ -37,6 +37,7 @@ return {
 	"Everlong By The Foo Fighters Piia",
 	"Flawed Mangoes - Killswitch Lullaby - Arrangement For Piano",
 	"Flawed Mangoes - Swimming - Arrangement For Piano",
+	"Freaks",
 	"Glistening-Absurdism Full Version-05-06-2026",
 	"Go Away - Weezer",
 	"Guiarra Lead Annabel Alesana",
