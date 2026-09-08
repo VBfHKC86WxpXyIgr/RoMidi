@@ -687,6 +687,7 @@ return {
 	"TìM Em [Tim Em] - Hngle (Piano)",
 	"Tinh Vệ",
 	"TìNh YêU MàU NắNg",
+	"TìNh YêU Trong MắT Em",
 	"TìNh YêU VĩNh ViêNhx KhôNg MấT đI",
 	"Tokyo Ghoul - Unravel (Fingerstyle) [MIDIfind.Com]",
 	"Ton 618",
