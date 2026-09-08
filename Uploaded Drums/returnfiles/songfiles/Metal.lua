@@ -122,6 +122,7 @@ return {
 	"Elena Siegman - 115",
 	"Event Reborn - Stillbirth [MIDIfind.Com]",
 	"Eyeless",
+	"Eyeless - Slipknot ( Drums )",
 	"Eyeless -Without Metronome Added",
 	"Eyeless Cadence",
 	"Faget",
