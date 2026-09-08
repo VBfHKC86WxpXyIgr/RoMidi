@@ -19,6 +19,7 @@ return {
 	"Ba - Duvet - Rurouni1928s Instrumental Ver",
 	"Banes World - Drowsy",
 	"Basement - Are You The One",
+	"Basic Pitch Transcription",
 	"Batta - Chase",
 	"Batta - Chase-Jojo",
 	"Batta - Chase-JojoDr",
