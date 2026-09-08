@@ -183,6 +183,7 @@ return {
 	"tera-io-flamewall-camellia",
 	"Tetris BassBurst Solid",
 	"Tetris Theme, BLACK MIDI 50K NOTES",
+	"The Battle Cats - Cosmos Battle 3",
 	"The Death Of Gods Will (MIDI)",
 	"The Entertainer - Scott Joplin ",
 	"The Green Orbs - At the Fair (Piano Cover)",
