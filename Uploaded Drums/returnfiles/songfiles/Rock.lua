@@ -80,6 +80,7 @@ return {
 	"Drum Teen Rebel LIVE",
 	"Drum The Haunted Youth Teen Rebel",
 	"Drum THY-Teen Rebel LIVE V2",
+	"Drum TR LIVE RW 2026",
 	"Drum TR THY LIVE V3",
 	"Drum-Helena MCR",
 	"Dum For Now Not Ever Motifs Studio V2",
