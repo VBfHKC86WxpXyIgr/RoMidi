@@ -293,6 +293,7 @@ return {
 	"พิจารณา (Consider) - Musketeers Ft Maiyarap",
 	"ไม่บอกเธอ - Bedroom Audio",
 	"ไม่มีเธอ",
+	"ไม่มีเธอ - RestrospectGuitar2 Greed",
 	"ยาพิษ - Bodyslam (1)",
 	"ร (W8) - GENE KASIDIT",
 	"รักแรกพบ Tattoo Colour",
