@@ -26,6 +26,7 @@ return {
 	"Guitar Rtm Red In Summer Echoes DROP D",
 	"Guitar Rtm Royel Otis-Oysters In My Pocket",
 	"Guitar Rtm Surf Curse Freaks",
+	"Guitar Tom TR LIVE RW 2026",
 	"Guitar1 2 Motifs For Now Not Ever Live Baybeats",
 	"Guitar1 2 THY-Teen Rebel LIVE V2",
 	"Guitar1 Alv Bye Melted Ice Cream",
