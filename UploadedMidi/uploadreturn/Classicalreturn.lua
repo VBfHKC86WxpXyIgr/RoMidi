@@ -298,6 +298,7 @@ return {
 	"Waldstein 1",
 	"Waltz Opus No In C Minor (BEST VERSION)",
 	"Waltz Opus No In D Major Minute Waltz (BEST VERSION)",
+	"Waves (BEST VERSION)",
 	"Wedding-Day-at-Troldhaugen",
 	"Whenjohnnycomesmarchinghome",
 	"Woke Up In Japan By Friqtao",
