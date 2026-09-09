@@ -268,6 +268,7 @@ return {
 	"Still Life - By Kane Pixels",
 	"Stisnalar Kaideyi Bozmaz( WiqiITXCrTg )",
 	"Stranger Things - Main Theme",
+	"Succession (BEST VERSION)",
 	"Summer",
 	"Symphony 9 4 (C)Cvikl",
 	"Take-Me-Out-To-The-Ballgame",
