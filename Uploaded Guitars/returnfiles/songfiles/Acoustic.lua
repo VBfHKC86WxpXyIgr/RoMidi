@@ -191,6 +191,7 @@ return {
 	"Silly Fools -",
 	"Silly Fools - - Silly Fools Lyrics Audio",
 	"Silly Fools - Kid Hord(1)",
+	"Silly Fools -About Love Guitar1 Greed",
 	"Silly Fools -About Love Guitar2 Greed",
 	"Silly Fools -Cant Fight",
 	"Silly Fools -JeejaLead Greed",
