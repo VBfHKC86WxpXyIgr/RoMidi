@@ -184,6 +184,7 @@ return {
 	"Media Preview Over The Horizon 2021",
 	"Meganeko - Beethoven - Moonlight Sonata 3rd Movement",
 	"Mephisto-Waltz-Nr-1",
+	"Merry Go Round (BEST VERSION HARD!)",
 	"Merry-Go-Round of Life  Animenz",
 	"Michael Jackson Billie Jeann",
 	"MIDI File - Bruno Mars - Risk It All (Easy)",
