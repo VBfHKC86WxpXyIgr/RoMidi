@@ -192,6 +192,7 @@ return {
 	"Silly Fools - - Silly Fools Lyrics Audio",
 	"Silly Fools - Kid Hord(1)",
 	"Silly Fools -Cant Fight",
+	"Silly Fools -JeejaLead Greed",
 	"Silly Fools -JeejaRTM Greed",
 	"Sleeping Sheep -Payu",
 	"Slot Machine -",
