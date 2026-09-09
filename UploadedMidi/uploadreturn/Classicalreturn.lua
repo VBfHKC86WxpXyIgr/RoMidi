@@ -128,6 +128,7 @@ return {
 	"Government Funding (Kane Pixels)",
 	"GOZALO - Ariis",
 	"Grieg - Morning Mood - Fikram",
+	"GymnopdieFantasie(BEST VERSION)",
 	"GymnopéDie No",
 	"Hakucyou",
 	"Handel, Halvorsen - Passacaglia",
