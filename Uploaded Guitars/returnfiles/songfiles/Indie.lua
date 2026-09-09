@@ -20,6 +20,7 @@ return {
 	"Guitar 21 Motifs For Now Not Ever Baybeats",
 	"Guitar Alicia Viajes En El Tiempo",
 	"Guitar For Now Not Ever-Motifs",
+	"Guitar Joachim TR LIVE RW 2026",
 	"Guitar Lead Red In Summer Echoes DROP D",
 	"Guitar Lead Royel Otis-Oysters In My Pocket",
 	"Guitar Lead Surf Curse Freaks",
