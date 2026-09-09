@@ -31,6 +31,7 @@ return {
 	"Guitar1 2 Motifs For Now Not Ever Live Baybeats",
 	"Guitar1 2 THY-Teen Rebel LIVE V2",
 	"Guitar1 Alv Bye Melted Ice Cream",
+	"Guitar1 Alwaysaimissyou Tbp",
 	"Guitar1 Eidolon Hibou",
 	"Guitar1 For Now Not Ever Motifs Studio",
 	"Guitar1 For Now Not Ever Motifs Studio V2",
