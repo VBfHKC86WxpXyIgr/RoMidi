@@ -194,6 +194,7 @@ return {
 	"Silly Fools -Cant Fight",
 	"Silly Fools -JeejaLead Greed",
 	"Silly Fools -JeejaRTM Greed",
+	"Silly Fools -Ya Bok Wa Rak Guitar1 Greed",
 	"Silly Fools -Ya Bok Wa Rak Guitar2 Greed",
 	"Sleeping Sheep -Payu",
 	"Slot Machine -",
