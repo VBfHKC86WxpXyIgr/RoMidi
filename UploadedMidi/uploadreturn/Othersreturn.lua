@@ -550,6 +550,7 @@ return {
 	"Queen - We Are The Champions",
 	"QuêN",
 	"Quiero Sentir Tu ClíToris",
+	"Rachmaninoff - Piano Concerto No.2 2nd Movement - Climax (Cleaned Up And Finished Rennxyz'S Verision)",
 	"Rachmaninov Concerto 2 2 (C)Galimberti",
 	"Radiohead - Kid A [MIDIfind.Com]",
 	"Radiohead - No Surprises",
