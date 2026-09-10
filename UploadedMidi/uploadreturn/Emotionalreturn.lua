@@ -76,6 +76,7 @@ return {
 	"Chubina (1)",
 	"Cinta Tak Harus Memiliki - Fikram",
 	"Cintakan Membawamu Kembali - Dewa 19 - Fikram",
+	"Ckay - Love Nwantiti",
 	"Clair-De-Lune-Debussy(BEST VERSION)",
 	"CLOWNOFOBIA V2",
 	"Coldplay - Sparks",
