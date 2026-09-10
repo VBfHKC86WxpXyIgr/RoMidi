@@ -426,6 +426,7 @@ return {
 	"Love Story X Golden Brown",
 	"Lucid Dreams",
 	"Lullaby",
+	"Lyin' 2 Me - Among Us Song 2026-09-10 15-39-14",
 	"Magbalik",
 	"MãI MãI BêN Nhau",
 	"MAKING MY WAY",
