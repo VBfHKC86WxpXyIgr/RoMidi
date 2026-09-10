@@ -273,6 +273,7 @@ return {
 	"Stranger Things - Main Theme",
 	"Succession (BEST VERSION)",
 	"Summer",
+	"SunKissed Lola - Pasilyo (Official Lyric Video)",
 	"Symphony 9 4 (C)Cvikl",
 	"Take-Me-Out-To-The-Ballgame",
 	"Tarot Feast 1780242551896",
