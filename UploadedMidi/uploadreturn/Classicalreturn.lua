@@ -104,6 +104,7 @@ return {
 	"Evgeny Grinko - Valse( VYCOg-YglNM )",
 	"EvGeny Grinko-Valse",
 	"Fantaisie-Impromptu JAZZ Version",
+	"Fantasie-Impromptu-In-C-Sharp-Opus-66",
 	"Fasion - Dansez - COPYRIGHT FREE - CEM",
 	"Flamewall",
 	"Flower-Rocket-Piano-Cover-신나게-터뜨려보자고",
