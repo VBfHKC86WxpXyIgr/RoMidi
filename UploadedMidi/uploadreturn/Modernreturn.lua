@@ -156,6 +156,7 @@ return {
 	"Kendrick Lamar - Meet The Grahams",
 	"KhôNg BuôNg - Hngle (Piano)",
 	"Kinji - Windburn Live",
+	"Kloufrens - Bad Bunny",
 	"Kota Ini Tak Sama Tanpamu - Nadhif Basalamah Tutorial Piano Pemula",
 	"L'Amour Toujours - Gigi D'Agostino (Organ Cover)",
 	"La Fiesta Comenzó V2",
