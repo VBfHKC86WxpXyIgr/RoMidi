@@ -640,6 +640,7 @@ return {
 	"Stalemate (Grief) Piano Arr.",
 	"Stay With Me Exo",
 	"Stitches",
+	"Stranglers (The) - Golden Brown [MIDIfind.Com]",
 	"Strawberry Fields For Ever",
 	"Studio Ghibli Piano",
 	"SUFFER WITH ME",
