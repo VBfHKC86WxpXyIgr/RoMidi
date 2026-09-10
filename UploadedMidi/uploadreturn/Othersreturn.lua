@@ -647,6 +647,7 @@ return {
 	"Studio Ghibli Piano",
 	"SUFFER WITH ME",
 	"Sukidakara",
+	"SunKissed Lola - Pasilyo (Official Lyric Video)",
 	"Sunkissed Lola - Pasilyo Mhxa",
 	"Sunlight Sonata 3rd",
 	"Super Hero",
