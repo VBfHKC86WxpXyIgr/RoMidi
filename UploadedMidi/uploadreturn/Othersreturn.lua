@@ -523,6 +523,7 @@ return {
 	"Paparazzi - Lady Gaga",
 	"Parokya Ni Edgar - Pangarap Lang Kita",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
+	"Patrick Watson - Je Te Laisserai Des Mots",
 	"Payphone",
 	"PEARL JAM.Even Flow",
 	"Persona - Color Your Night Mhxa",
