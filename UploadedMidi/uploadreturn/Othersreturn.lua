@@ -284,6 +284,7 @@ return {
 	"Flowering Night",
 	"Forever Alone",
 	"Forgive Me",
+	"Frank Sinatra - Fly Me To The Moon",
 	"Frank Sinatra - My Way But Improvising In Chopin Style - (Arr. Birru) (Live Midi) (1)",
 	"FREAKS",
 	"Friqtao Huye",
