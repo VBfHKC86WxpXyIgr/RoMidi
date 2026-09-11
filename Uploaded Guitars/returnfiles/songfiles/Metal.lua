@@ -172,6 +172,7 @@ return {
 	"Malmsteen Yngwie - Blitzkrieg [MIDIfind.Com]",
 	"Malmsteen Yngwie - Eclipse [MIDIfind.Com]",
 	"Malmsteen Yngwie - Trilogy Suite Opus 5 (2) [MIDIfind.Com]",
+	"Mayhem - Freezing Moon [MIDIfind.Com]",
 	"Megadeth - Devils Island [MIDIfind.Com]",
 	"Megadeth - Hanger 18",
 	"Megadeth - High Speed Dirt [MIDIfind.Com]",
