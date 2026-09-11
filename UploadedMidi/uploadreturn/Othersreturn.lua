@@ -55,6 +55,7 @@ return {
 	"ABBA - The Winner Takes It All",
 	"Ablankurban",
 	"Abm-Yararara-Piano-Ver 2",
+	"Adopt Me - Day Theme",
 	"AEROSMITH.Sweet Emotions",
 	"Afton Family Impossible Piano Full",
 	"Ahmet Kaya - Nerden Bileceksiniz - Piano Tutorial By VN",
