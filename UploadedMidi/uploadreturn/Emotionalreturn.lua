@@ -60,6 +60,7 @@ return {
 	"Beabadoobee - Glue Song (Ft. Clairo)",
 	"Beatles (The) - Eleanor Rigby (2) [MIDIfind.Com]",
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
+	"Bedrott",
 	"Blooming-Afternoon-Mitsukiy(HUMAN BEST VERSION HARD)",
 	"Blue Jeans",
 	"Bunda By Melly Goeslaw - Fikram",
