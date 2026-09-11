@@ -555,6 +555,7 @@ return {
 	"Pop Goes The Weasel",
 	"Porque - Maldita Piano Cover By Gerard Chua",
 	"Powfu - Death Bed (Dustbunny Edits)",
+	"Prayer - Kendrick Lamar WIP",
 	"PvZ-Loonboon.Mid 1612468846906.Mid",
 	"Queen - Bohemian Rhapsody",
 	"Queen - We Are The Champions",
