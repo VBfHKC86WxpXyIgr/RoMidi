@@ -13,6 +13,7 @@ return {
 	"Aerosmith - Dream On",
 	"Alex G - Mary",
 	"All In My Head Riff.Mid",
+	"An Italian Magician Be Like",
 	"Audioslave - Like A Stone [MIDIfind.Com]",
 	"Basic Pitch Transcription",
 	"Basic Pitch Transcription (1)",
