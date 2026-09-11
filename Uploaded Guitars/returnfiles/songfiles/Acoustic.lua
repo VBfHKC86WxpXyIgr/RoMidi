@@ -12,6 +12,7 @@ return {
 	"About You By The 1780242398856",
 	"ACDC - Dirty Deeds Done Dirt Cheap",
 	"ACDC - Thunderstruck",
+	"Acoustic",
 	"Acrophobia - Penguin Villa",
 	"American Football - Never Meant (1)",
 	"Andra And The BackBone - Sempurna Lyre.Mid",
