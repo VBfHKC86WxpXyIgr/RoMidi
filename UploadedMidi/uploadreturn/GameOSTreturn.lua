@@ -128,6 +128,7 @@ return {
 	"Mili - Fly, My Wings",
 	"Mili - Gone Angels",
 	"Mili - Hero",
+	"Mili - SAIKAI",
 	"Mili - Through Patches of Violet",
 	"Minecraft OST Aria Math (Advanced)",
 	"Monster Hunter Freedom 2 - Pokke Village (2)",
