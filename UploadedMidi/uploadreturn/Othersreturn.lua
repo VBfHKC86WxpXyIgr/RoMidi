@@ -205,6 +205,7 @@ return {
 	"đáY BiểN",
 	"Dễ Thay đổI",
 	"Để TôI ÔM Em BằNg Giai ĐIệU NàY X Có HẹN VớI Thanh XuâN",
+	"Dead Silence Theme",
 	"Deftones My Own Summer Shove It.Midi",
 	"Derbeder - Ferdi Tayfur",
 	"Despacito",
