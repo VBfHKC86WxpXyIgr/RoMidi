@@ -62,6 +62,7 @@ return {
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
 	"Bedrott",
 	"Blooming-Afternoon-Mitsukiy(HUMAN BEST VERSION HARD)",
+	"Blue",
 	"Blue Jeans",
 	"Bunda By Melly Goeslaw - Fikram",
 	"Buttercup - Jack Stauber",
