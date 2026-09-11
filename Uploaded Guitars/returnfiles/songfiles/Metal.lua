@@ -267,6 +267,7 @@ return {
 	"Monster - Skillet",
 	"Motorbreath Rhythm Only",
 	"Ms Salmonella - Lifelover",
+	"My Meds Aren'T Working",
 	"Necromancy - Bathory",
 	"Necrophagist - Stabwound [MIDIfind.Com]",
 	"Nightmare - Sarcorfago",
