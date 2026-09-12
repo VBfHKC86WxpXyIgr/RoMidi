@@ -96,6 +96,7 @@ return {
 	"WelcometotheBlackParade",
 	"Where Is My Mind",
 	"Where Is My Mind - Pixies",
+	"Why",
 	"Wonderless",
 	"Wonderless2",
 	"ZuZ",
