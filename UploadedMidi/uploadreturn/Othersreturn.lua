@@ -662,6 +662,7 @@ return {
 	"Superhero Mo Converted By Jukeblocks",
 	"SuýT NữA Thì",
 	"Sweet Boy - Malcom Todd WIP",
+	"Swing Lynn",
 	"Sword Art Online Gun Gale",
 	"Sword Art Online II Opening 1 - IGNITE",
 	"TáI Sinh",
