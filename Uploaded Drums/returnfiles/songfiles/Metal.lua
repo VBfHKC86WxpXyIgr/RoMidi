@@ -215,6 +215,7 @@ return {
 	"Metallica - Harvester Of Sorrow (2) [MIDIfind.Com]",
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - Last Caress (2) [MIDIfind.Com]",
+	"Metallica - Lux ÆTerna (Songparts.Com)",
 	"Metallica - Master Of Puppets (22) [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (23) [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (Drum)",
