@@ -62,6 +62,7 @@ return {
 	"Made In Thailland 2",
 	"Mary Alex G",
 	"MAYONAISE",
+	"Meowsic",
 	"Mudhoney - Suck You Dry [MIDIfind.Com]",
 	"Mudhoney - Touch Me I'M Sick [MIDIfind.Com]",
 	"My Chemical Romance - I Don'T Love You [MIDIfind.Com]",
