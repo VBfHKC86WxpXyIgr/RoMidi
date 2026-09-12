@@ -125,6 +125,7 @@ return {
 	"Floating-In-Reverie-Moayad-Aljabal(MEDIUM VERSION)",
 	"Flower-Dance(BEST VERSION)",
 	"Fly Away",
+	"FNAF 3",
 	"FOREVER",
 	"Forever",
 	"Frank Sinatra - My Way By Trouble",
