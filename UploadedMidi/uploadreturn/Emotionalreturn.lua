@@ -305,6 +305,7 @@ return {
 	"Past Lives - Borns",
 	"Piano San Sebastian Sonata Arctica",
 	"Piano-Practice-Frustration(ANTI-AUTO VERSION)",
+	"Pluton Projector (Wip 1)",
 	"Pokemon BlackWhite - An Unwavering Heart",
 	"Poppies Lane Memoryy By Slank",
 	"Primaverakiss-(BEST VERSION)",
