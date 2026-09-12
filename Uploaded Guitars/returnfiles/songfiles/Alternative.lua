@@ -49,6 +49,7 @@ return {
 	"Guitar2 Helena MCR",
 	"I Cant Handle Change - Roar",
 	"In The End - Linkin Park",
+	"Insomniac",
 	"Is It Really You - Loathe",
 	"It'S Like I'M Not Even Here",
 	"Its Been So Long",
