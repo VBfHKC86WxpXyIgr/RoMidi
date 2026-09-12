@@ -613,6 +613,7 @@ return {
 	"Santilavadenz - Solune X Valune X Alune Mhxa",
 	"Sarangi Mareul Deutjianha",
 	"Sau LưNg Anh Có Ai KìA",
+	"School Rooftop",
 	"Scott Joplin - The Entertainer",
 	"Screen Recording 2026-08-01 124646",
 	"Screen-20260606-110846 06062026",
