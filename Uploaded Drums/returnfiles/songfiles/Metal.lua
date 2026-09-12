@@ -300,6 +300,7 @@ return {
 	"Powerslave",
 	"Primer 55 - My Girl [MIDIfind.com]",
 	"PrisonSong",
+	"Quo Vadis - I Believe [MIDIfind.Com]",
 	"Rage Against the Machine - Bullet in the Head [MIDIfind.com]",
 	"Rage Against The Machine - Bulls On Parade (2) [MIDIfind.Com]",
 	"Rage Against the Machine - Down on the Street [MIDIfind.com]",
