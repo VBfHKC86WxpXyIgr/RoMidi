@@ -245,6 +245,7 @@ return {
 	"Meaningful Love(BEST VERSION)",
 	"Melukis Senja - Budi Doremi -Fikram",
 	"Menamakanmu Cinta - Fikram",
+	"Meowsic",
 	"Merry Go Round Of Life Howls Moving Castle (MEDIUM VERSION)",
 	"Merry Go Round Of Life Tiktok Version Howls Moving Castle (HUMAN BEST VERSION)",
 	"Michael Jackson - Earth Song",
