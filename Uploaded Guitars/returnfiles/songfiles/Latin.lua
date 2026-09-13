@@ -6,6 +6,7 @@ return {
 	"La Resaka By Supermerk2",
 	"Misc Covers-Beretta By El De Las R'S.-07-04-2026",
 	"Misc Covers-La Cheyenne By El De Las R’S-07-04-2026",
+	"Misc Covers-Negro Y Azul (The Heisenberg Song) By Breaking Bad-09-13-2026",
 	"Tristeza Y TraicióN-Danny Lux-06-29-2026",
 	"We-Will-Rock-You",
 }
