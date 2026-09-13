@@ -416,6 +416,7 @@ return {
 	"V2",
 	"V3",
 	"VALZ DARK",
+	"Velune Santilavadenz",
 	"Victors Solo (HUMAN BEST VERSION)",
 	"Việt Nam I love impossible",
 	"Vina Panduwinata - Kumpul Bocah",
