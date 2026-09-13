@@ -19,5 +19,6 @@ return {
 	"I Dont Wanna Be Me - Type O Negative",
 	"Let You Break My Heart Again - Laufey",
 	"Lonely Day - System Of A Down",
+	"Night Boat To Cairo - Madness",
 	"When You Sleep - My Bloody Valentine",
 }
