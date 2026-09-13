@@ -320,6 +320,7 @@ return {
 	"Great Fairy Fountain (Piano Etude)",
 	"Great Fairy Fountain But It'S A Little Much.",
 	"Great Fairy Fountain Theme",
+	"Grisly Reminder",
 	"Hababam",
 	"Haha Song Cm Base",
 	"Halloween Piano Medley",
