@@ -173,6 +173,7 @@ return {
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
 	"Korn - Falling Away From Me [MIDIfind.Com]",
 	"Korn - Freak On A Leash [MIDIfind.Com]",
+	"Korn - Good God (Drum)",
 	"Korn - Got The Life (Drum)",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
 	"Limp Bizkit - Break Stuff (Drum)",
