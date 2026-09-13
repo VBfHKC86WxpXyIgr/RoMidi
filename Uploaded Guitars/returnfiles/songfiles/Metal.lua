@@ -184,6 +184,7 @@ return {
 	"Megadeth - Peace Sells [MIDIfind.Com]",
 	"Megadeth - Symphony Of Destruction [MIDIfind.Com]",
 	"Megadeth - The Conjuring [MIDIfind.Com]",
+	"Megadeth - Tornado Of Souls (2) [MIDIfind.Com]",
 	"Megadeth - Tornado Of Souls (Solo) [MIDIfind.Com]",
 	"Megadeth - Tornado Of Souls [MIDIfind.Com]",
 	"Megadeth-Rust In Peace Polaris",
