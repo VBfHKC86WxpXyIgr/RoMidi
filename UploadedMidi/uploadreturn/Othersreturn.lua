@@ -676,6 +676,7 @@ return {
 	"TáI Sinh",
 	"Take Me Hand",
 	"Take Me Hand Easy",
+	"Tan90°",
 	"Tan90°砸钢琴",
 	"Tau",
 	"Tau 2",
