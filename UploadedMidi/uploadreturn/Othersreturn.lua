@@ -411,6 +411,7 @@ return {
 	"La Rebeli N",
 	"La Rebelion - Oscar De Leon",
 	"Là Tự Em đA TìNh",
+	"La-Cucaracha",
 	"LạC TrôI",
 	"LALALALA (락) (樂) - Stray Kids (스트레이 키즈)",
 	"LàM NgườI LuôN YêU Em",
