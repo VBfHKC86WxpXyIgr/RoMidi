@@ -736,6 +736,7 @@ return {
 	"TrạM Khí TưởNg",
 	"Travis Scott - My Eyes",
 	"Treehouse - Alex G [PIANO]",
+	"TROLOLO",
 	"TrốNg RỗNg",
 	"True LOVE - Glitchtale",
 	"TrướC Khi Em TồN TạI",
