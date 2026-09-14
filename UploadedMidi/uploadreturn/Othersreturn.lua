@@ -769,6 +769,7 @@ return {
 	"Wellerman X Pirates Of The Caribbean",
 	"White Stripes (The) - Seven Nation Army [MIDIfind.Com]",
 	"WIGGLECORE",
+	"WII CHANNEL THEME",
 	"Winter Sonata",
 	"Woke Up In Japan By Friqtao",
 	"Xanh LụC",
