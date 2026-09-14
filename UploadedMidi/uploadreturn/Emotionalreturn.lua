@@ -207,6 +207,7 @@ return {
 	"Kosma Joseph - Autumn Leaves [MIDIfind.Com]",
 	"Ku Ingin Pisah - Fikram",
 	"Kyu-Kurarin-Iyowa-Feat-(HUMAN BEST VERSION)",
+	"La Boheme - Charles Aznavour",
 	"La Foule (BEST VERSION)",
 	"La Maritza",
 	"La Maritza - Sylvie Vartan By Trouble",
