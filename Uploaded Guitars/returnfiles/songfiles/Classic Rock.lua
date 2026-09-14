@@ -30,6 +30,7 @@ return {
 	"Canned Heat - Going Up The Country",
 	"Cant Stop - Red Hot Chili Peppers",
 	"Children",
+	"Come As You Are - Nirvana (Guitar Tab)",
 	"Ctgther",
 	"Do You Wanna Know A Secret",
 	"DrMetal",
