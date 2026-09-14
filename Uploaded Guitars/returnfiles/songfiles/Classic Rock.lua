@@ -78,6 +78,7 @@ return {
 	"THE BEATLES.Helter Skelter",
 	"THE BEATLES.Michelle K",
 	"THE BEATLES.Something K",
+	"The Fall Of Troy - Fcpremix (Ver 4 By AmpleSteak).Mid",
 	"THE KINKS.You Really Got Me K",
 	"Three Days Grace - Painkiller",
 	"Through The Fire And Flames - DragonForce (Complete, Virtuoso Version)",
