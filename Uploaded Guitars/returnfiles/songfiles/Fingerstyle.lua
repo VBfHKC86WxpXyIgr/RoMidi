@@ -18,6 +18,7 @@ return {
 	"PNE - Gitara (Fingerstyle)",
 	"Sempurna - Guitar - Fikram",
 	"Smells Like Teen Spirit",
+	"Tenacious D The Pick Of Destiny - Kickapoo",
 	"THE EAGLES.Hotel California K",
 	"Virgoun - Surat Cinta Untuk Starla - Guitar - Fikram",
 	"Ween-Ocean Man (Piano Arrangement) [50 FOLLOWER SPECIAL]",
