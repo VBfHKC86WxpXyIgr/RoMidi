@@ -9,6 +9,7 @@ return {
 	"(REUPLOAD) Kevin MacLeod - Olde Timey",
 	"[Black MIDI] Bad Apple!! 1 Million Notes v3 (fixed piano)",
 	"[Black MIDI] The Classic Black Medley",
+	"[COMPLETE] Your Reality (Doki Doki Literature Club Credits)",
 	"[JvP] Electroman Adventures - Geometry Dash",
 	"[ULTRAKILL OST] Requiem.Mid",
 	"[UndertaleOST-100]Megalovania - Toby Fox",
