@@ -18,6 +18,7 @@ return {
 	"Earth Song - Michael Jackson (Easy Piano)",
 	"Flower Dance - DJ Okawari",
 	"Flower Dance Had",
+	"Good Looking - Suki Waterhouse",
 	"HãY Trao Cho Anh",
 	"Ii",
 	"KhôNg PhảI Là DạNg VừA đâU Ost",
