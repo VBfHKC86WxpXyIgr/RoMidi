@@ -145,6 +145,7 @@ return {
 	"Mac Demarco - Freaking Out The Neighborhood [MIDIfind.Com]",
 	"Me-Aaron Kitcher Double Kicks-04-17-2025",
 	"Megadeth - Peace Sells [MIDIfind.Com]",
+	"Metallica Enter Sandman",
 	"My Chemical Romance - Give Em Hell Kid [MIDIfind.Com]",
 	"My Chemical Romance - I'M Not Okay I Promise [MIDIfind.Com]",
 	"My Chemical Romance - Na Na Na [MIDIfind.Com]",
