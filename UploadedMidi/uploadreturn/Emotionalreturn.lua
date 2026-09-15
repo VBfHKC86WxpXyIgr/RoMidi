@@ -63,6 +63,7 @@ return {
 	"Bedrott",
 	"Blooming-Afternoon-Mitsukiy(HUMAN BEST VERSION HARD)",
 	"Blue",
+	"Blue Hair - TV Girl",
 	"Blue Jeans",
 	"Bunda By Melly Goeslaw - Fikram",
 	"Buttercup - Jack Stauber",
