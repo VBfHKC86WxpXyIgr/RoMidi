@@ -2,6 +2,7 @@
 return {
 	"1Caravan (From 'Whiplash')",
 	"1Is It Really You - Sleep Token, Loathe",
+	"Black Hole Sun - Soundgardenn",
 	"Break By Alex G",
 	"Holiday By Weezer-07-06-2026",
 	"Lucy~ By Corbon Amodio",
