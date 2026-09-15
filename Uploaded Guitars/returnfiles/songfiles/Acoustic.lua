@@ -15,6 +15,7 @@ return {
 	"Acoustic",
 	"Acrophobia - Penguin Villa",
 	"Ado - UnravelGreedGuitar1",
+	"Ado - UnravelGreedGuitar2",
 	"American Football - Never Meant (1)",
 	"Andra And The BackBone - Sempurna Lyre.Mid",
 	"Arranged By @KAyuna-Guitar - 夜に駆ける",
