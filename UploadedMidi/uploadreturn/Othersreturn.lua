@@ -282,6 +282,7 @@ return {
 	"FallofTroyTheF.C.P.R.E.M.I.X",
 	"Fasion - Dansez - COPYRIGHT FREE - CEM",
 	"Feather - Nujabes",
+	"Fede Ft. Vecinos - NO SOMOS LOBOS",
 	"Finale - Toby Fox -Undertale",
 	"Floods Outro",
 	"Flow - Creo (Piano)",
