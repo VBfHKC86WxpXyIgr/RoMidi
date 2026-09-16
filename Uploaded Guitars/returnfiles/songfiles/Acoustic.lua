@@ -195,6 +195,7 @@ return {
 	"Rehash - Back To StrangersGreed Guitar1",
 	"Rehash - Back To StrangersGreed Guitar2",
 	"Ring-Around-The-Rosie",
+	"Ronnie James Dio - Dream OnGuitar1",
 	"Roundabout- Bass Only",
 	"S.T.A.L.K.E.R - Guitar Music From Stalker (3) [MIDIfind.Com]",
 	"Sailor (1)",
