@@ -266,6 +266,7 @@ return {
 	"Shche Ne Vmerla Ukrainy I Slava, I Volia - Ukrainian Anthem",
 	"She Neva Knows - Justatee She Neva Knows",
 	"Shostakovich - Waltz No.2",
+	"Sonate 30 (C)Hisamori",
 	"Sonate No 14, “Moonlight” 3rd Movement",
 	"Sonate-No-14-Moonlight-3rd-Movement",
 	"ssstik.io 1777299650774",
