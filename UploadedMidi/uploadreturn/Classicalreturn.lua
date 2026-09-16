@@ -289,6 +289,7 @@ return {
 	"Ticking",
 	"Timbaland - The Way I Are Instrumental (1)",
 	"Timeline-Solo-Piano-Plum-Timeline-Solo-Ver",
+	"Timeline-Solo-Piano-Plum-Timeline-Solo-Ver (1)",
 	"Titik Nadir Piano",
 	"Tonight",
 	"Tradional Polka - SäKkijäRven By Trouble",
