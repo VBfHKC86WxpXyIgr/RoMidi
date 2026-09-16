@@ -46,6 +46,7 @@ return {
 	"BoysDontCry",
 	"BreakStuff",
 	"Bush - Machinehead (Drum)",
+	"Bush - Swallowed (Drum)",
 	"Canned Heat - Going Up The Country",
 	"Carnifex-Slit Wrist Savior-07-27-2026",
 	"CKY - 96 Quite Bitter Beings (Drum)",
