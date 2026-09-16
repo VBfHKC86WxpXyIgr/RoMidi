@@ -391,6 +391,7 @@ return {
 	"Its Raining Tacos.Mid",
 	"Jackson Five I Want You Back",
 	"Jamiroquai Virtual Insanity",
+	"Jazz In Paris",
 	"Jeff The Killer Theme",
 	"JEFF THE KILLER THEME",
 	"Jeopardy Theme - Misc Television Jeopardy",
