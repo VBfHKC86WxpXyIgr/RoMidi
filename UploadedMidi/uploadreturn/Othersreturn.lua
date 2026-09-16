@@ -72,6 +72,7 @@ return {
 	"An Italian Magician Be Like",
 	"ấN NúT Thả GiấC Mơ",
 	"Anh Cứ đI đI",
+	"áNh NắNg CủA Anh",
 	"ANH SAI RỒI",
 	"Anh Sai RồI X BìNh YêN NơI ĐâU",
 	"áNh Sang Tan Vỡ Trong MàN đêM",
