@@ -205,6 +205,7 @@ return {
 	"DạO BướC HongKong 1999",
 	"ĐảO KhôNg NgườI",
 	"ĐảO NghịCh",
+	"đàO NươNg",
 	"đáY BiểN",
 	"Dễ Thay đổI",
 	"Để TôI ÔM Em BằNg Giai ĐIệU NàY X Có HẹN VớI Thanh XuâN",
