@@ -159,6 +159,7 @@ return {
 	"Metallica - Damage IncVocalGreed",
 	"Metallica - Enter Sandman",
 	"Michael Jackson - Smooth Criminal Acoustic Fingerstyle",
+	"Mika Nakashima - Kiss Of Death Darling In The FranXX OPGreed Guitar1",
 	"Mika Nakashima - Kiss Of Death Darling In The FranXX OPGreed Guitar2",
 	"Misc Covers-Holy By Mac Demarco-08-21-2026",
 	"Misc Covers-Is It Really You (Acoustic VER.) By Loathe-07-04-2026",
