@@ -101,6 +101,7 @@ return {
 	"KISS OF DEATH（Produced By HYDE）(延音)",
 	"Kobayashi San Chi No Maid Dragon ED - Ishukan Communication (TV Size) - ShinkoNetCavy",
 	"Kokoronashi",
+	"Kura Kura (Animenz Arr) [Yougensaki Remake] (WIP)",
 	"Kyoko Kirigiri - Thick Of HiT Thick Of It X Thomas The Tank Engine",
 	"Light'S Theme - Death Note",
 	"Maid In Dragon",
