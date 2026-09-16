@@ -94,6 +94,7 @@ return {
 	"Death Waltz.Mid",
 	"Debra Lady Gaga - Shallow",
 	"Drowning Love Tuxedo.Fx",
+	"Edith Piaf La Foule",
 	"Edwin McCain - I'Ll Be (Lyrics) 1766801457953",
 	"Edwin McCain - I'Ll Be (Lyrics) 1766801457953 (1)",
 	"Endless-Rain-Piano-Cover",
