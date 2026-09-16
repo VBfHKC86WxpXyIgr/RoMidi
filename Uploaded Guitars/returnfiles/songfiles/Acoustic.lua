@@ -5,6 +5,7 @@ return {
 	"- Jintara Poonlarp I Tao NgoiOfficial MV",
 	"- Jintara Poonlarp I Tao NgoiOfficial MVBass",
 	"- Jintara Poonlarp I Tao NgoiOfficial MVGuitar",
+	"- Oxt - Clattanoia Overlord OpGuitar2 Greed",
 	"- SILLY FOOLS OFFICIAL MV",
 	"- So Cool",
 	"44269 Gitara",
