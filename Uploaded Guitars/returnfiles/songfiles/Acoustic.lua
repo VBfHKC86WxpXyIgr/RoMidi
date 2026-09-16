@@ -184,6 +184,7 @@ return {
 	"Rainbow - Catch The Rainbow",
 	"RaunchyGuitar",
 	"Redbone - Come And Get Your Love 2",
+	"Rehash - Back To StrangersGreed Guitar1",
 	"Rehash - Back To StrangersGreed Guitar2",
 	"Ring-Around-The-Rosie",
 	"Roundabout- Bass Only",
