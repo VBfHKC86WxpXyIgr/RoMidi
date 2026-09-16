@@ -184,6 +184,7 @@ return {
 	"Rainbow - Catch The Rainbow",
 	"RaunchyGuitar",
 	"Redbone - Come And Get Your Love 2",
+	"Rehash - Back To StrangersGreed Guitar2",
 	"Ring-Around-The-Rosie",
 	"Roundabout- Bass Only",
 	"S.T.A.L.K.E.R - Guitar Music From Stalker (3) [MIDIfind.Com]",
