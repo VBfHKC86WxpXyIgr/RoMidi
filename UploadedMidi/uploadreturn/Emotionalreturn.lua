@@ -197,6 +197,7 @@ return {
 	"Kaikai-Kitan-Jujutsu-Kaisen-Opeve-Piano(BEST VERSION)",
 	"Kalapastangan - Fitterkarma",
 	"Kanye West -God Is",
+	"Kara Sevda (BEST VERSION)",
 	"Kasih Putih - Fredly",
 	"Kasih Tak Sampai - Padi - Fikram",
 	"KATSEYE - Gnarly",
