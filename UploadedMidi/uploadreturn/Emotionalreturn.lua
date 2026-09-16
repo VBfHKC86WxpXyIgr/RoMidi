@@ -152,6 +152,7 @@ return {
 	"I Broke A String Making This (HUMAN BEST VERSION)",
 	"I Cant Handle Change - Roar",
 	"I Deserve To Bleed - Suchi Soucy",
+	"I Hate Sundays(BEST VERSION)",
 	"I Love You So - The Watters",
 	"I Miss You (Bogoshipda) - Kim Bum Soo 2 - Fikram",
 	"I Miss You Kim Bum Soo - Fikram",
