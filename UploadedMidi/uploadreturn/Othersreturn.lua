@@ -476,6 +476,7 @@ return {
 	"Moonlight Sonata X Torrent",
 	"Moonlignt Sonata 3rd X Rush E",
 	"Moonstellar",
+	"Mortal Kombat 2 - Theme",
 	"Moszkowski - Piano Concerto No. 2 [Op. 59, 2nd Mvt]",
 	"Moszkowski - Piano Concerto No. 2 [Op. 59, 2nd Mvt] (1)",
 	"MộT đườNg Nở Hoa",
