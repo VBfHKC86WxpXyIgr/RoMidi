@@ -396,6 +396,7 @@ return {
 	"The Sound Of Rain (BigRicePiano).Mid",
 	"The Stranglers - Golden Brown 2",
 	"The Swan Lake Suite (HUMAN BEST VERSION)",
+	"The World We Knew(BEST VERSION)",
 	"TheFatRat - Fly Away. Black MIDI.Mid",
 	"This Is What Autumn Feels Like - Jvke",
 	"Through-Patches(HUMAN BEST VERSION)",
