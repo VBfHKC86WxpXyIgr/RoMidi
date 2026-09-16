@@ -45,6 +45,7 @@ return {
 	"Arranged By Dara S. - Should I Add More Instruments To This",
 	"As The World Caves In - Matt Maltese",
 	"Attack On Titan Season 3 - Red Swan.Mid",
+	"AUD MB1411",
 	"Aura Monster Subaru (Jjs Version)",
 	"Bad Habit - Steve Lacy",
 	"BAILE INoLVIDABLE - Bad Bunny",
