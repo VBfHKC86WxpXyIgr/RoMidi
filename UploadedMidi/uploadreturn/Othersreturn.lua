@@ -312,6 +312,7 @@ return {
 	"GạT đI NướC MắT 2",
 	"GạT đI NướC MắT 3",
 	"Gdzie Jest Bialy Wegorz (Zejscie)",
+	"Geometry Dash - Defeated Circles",
 	"Ghé Qua",
 	"GHEN",
 	"Giá Như",
