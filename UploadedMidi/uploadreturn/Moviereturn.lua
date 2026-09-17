@@ -91,4 +91,5 @@ return {
 	"Yann Tiersen - La NoyéE",
 	"You'Ve Got A Friend In Me - Toy Story",
 	"Ариэль - В Краю Магнолий (Акустика) [MIDIfind.Com]",
+	"कौन तुझे Kaun Tujhe",
 }
