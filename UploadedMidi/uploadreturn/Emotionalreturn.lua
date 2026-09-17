@@ -68,6 +68,7 @@ return {
 	"Blue Jeans",
 	"Bunda By Melly Goeslaw - Fikram",
 	"Bunii - Amnesia Mp3pm Converted By Jukeblocks",
+	"Bunii - So Good Mp3pm Converted By Jukeblocks",
 	"Bunii - Uncool (Mp3.Pm) (1)",
 	"Buttercup - Jack Stauber",
 	"Can You Hear The Music(BEST V2 VERSION)",
