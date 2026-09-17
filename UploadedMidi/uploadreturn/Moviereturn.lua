@@ -7,6 +7,7 @@ return {
 	"Accomplished",
 	"Alan Walker - Alone",
 	"Alan Walker Faded",
+	"Animotion Obsession",
 	"Anlatamam - Kara Sevda [Demon]",
 	"APT",
 	"Bad Style",
