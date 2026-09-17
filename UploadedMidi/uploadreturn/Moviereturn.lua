@@ -82,6 +82,7 @@ return {
 	"The One Who’S Running The Show - TADC THE AMAZING DIGITAL CIRCUS",
 	"The Ring Theme",
 	"The Simpsons Main Theme  Danny Elfman MLX",
+	"This Is It",
 	"Tiersen Yann - La Valse D Amelie (Piano Version) [MIDIfind.Com]",
 	"Titibo-Tibo For Piano Solo",
 	"Tony Ann - Now We Are Free - Gladiator Theme",
