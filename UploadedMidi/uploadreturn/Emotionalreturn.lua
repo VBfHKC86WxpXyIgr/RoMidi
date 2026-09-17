@@ -199,6 +199,7 @@ return {
 	"Just The Two Of Us (BEST HUMAN VERSION)",
 	"Just The Two Of Us Solo (BEST MEDIUM VERSION)",
 	"Justin-Bieber-Ghost-Anonymous-20220216213352-nonstop2k.com",
+	"JVKE - Golden Hour Lyrics 320 Kbps Trimmed By Jukeblocks 1 Converted By Jukeblocks",
 	"Kaikai-Kitan-Jujutsu-Kaisen-Opeve-Piano(BEST VERSION)",
 	"Kalapastangan - Fitterkarma",
 	"Kanye West -God Is",
