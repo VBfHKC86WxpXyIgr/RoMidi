@@ -28,6 +28,7 @@ return {
 	"Ed Sheeran - Shape Of You",
 	"Every Breath You Take - The Police (1)",
 	"Game Of Thrones Main Theme",
+	"Gehra Hua Final Midi",
 	"Get Proto",
 	"Golden Brown - The Stranglers - Piano (1)",
 	"Got-Main-Theme-Advanced",
