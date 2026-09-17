@@ -190,6 +190,7 @@ return {
 	"The Battle Cats - Cosmos Battle 3",
 	"The Death Of Gods Will (MIDI)",
 	"The Entertainer - Scott Joplin ",
+	"The Fire Is Gone (ULTRAKILL)",
 	"The Green Orbs - At the Fair (Piano Cover)",
 	"The Green Orbs - Claudio The Worm (Duet)",
 	"The Green Orbs - Old MacDonald Instrumental (Happy)",
