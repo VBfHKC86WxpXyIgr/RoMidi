@@ -38,6 +38,7 @@ return {
 	"Alexander Rybak - Fairytale.Mid",
 	"Alien Stage - Karma",
 	"All For One Theme MHA",
+	"Allesia Cara - Here (Mp3.Pm)",
 	"Ambarsariya",
 	"Anybody can find love (except you.) - Full Song",
 	"Anybody Can Find Love Except You (MEDIUM VERSION)",
