@@ -169,6 +169,7 @@ return {
 	"Yoshimasa Terui - IF I AM WITH YOU",
 	"You Can Become A Hero",
 	"You Say Run - My Hero Academia OST",
+	"Your Lie In April - Orange",
 	"YOUR NAME - SPARKLE Mhxa",
 	"Your Reality",
 	"센과 치히로의 행방불명 OST Always With Me By (Pianicast) Mhxa",
