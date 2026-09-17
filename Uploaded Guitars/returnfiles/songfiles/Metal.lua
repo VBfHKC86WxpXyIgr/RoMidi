@@ -98,6 +98,7 @@ return {
 	"DragonForce - Valley Of The Damned Demo [MIDIfind.Com] (1)",
 	"Eldoraudio-Destroy Boys - Crybaby Guitar Solo 1",
 	"Electric Wizard - We Hate You [MIDIfind.Com]",
+	"EnterSandman",
 	"Eruption - Van Halen",
 	"Eyes Of A Homeless Dog - Psychonaut 4",
 	"Fire Force Main Theme",
