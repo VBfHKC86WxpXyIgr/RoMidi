@@ -423,6 +423,7 @@ return {
 	"Type O Negative",
 	"Udaarian - Satinder Sartaaj (1)",
 	"Udaarian+-+Satinder+Sartaaj+(1)",
+	"Umamusume Pretty Derby - A Little Prayer - Rice Shower Manaka Iwami - Piano Cover",
 	"Unslept - Miraidempa",
 	"Unslept By Miraidempa",
 	"Ussr Troublem",
