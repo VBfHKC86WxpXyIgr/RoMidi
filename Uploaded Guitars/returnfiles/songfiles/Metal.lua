@@ -53,6 +53,7 @@ return {
 	"Blackened Isolated Solo By Chicoplatr",
 	"Blitzkrieg Bop - Ramones",
 	"Bullet For My Valentine - Tears Don'T Fall (2) [MIDIfind.Com]",
+	"Bullet For My Valentine - Tears Don'T Fall [MIDIfind.Com]",
 	"Burzum - Det Som En Gang Var [MIDIfind.Com]",
 	"Burzum - Dunkelheit Burzum [MIDIfind.Com]",
 	"Burzum - Ea Lord Of The Depths [MIDIfind.Com]",
