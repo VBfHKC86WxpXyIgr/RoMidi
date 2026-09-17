@@ -58,6 +58,7 @@ return {
 	"Lily",
 	"Looping In The Rooms",
 	"Looping In The Rooms - Rusino",
+	"Love Is In The Air, Pt. 1 - Rock Burwell",
 	"Love Story",
 	"Love Story X Golden Brown",
 	"Mia--Sebastians-Theme",
