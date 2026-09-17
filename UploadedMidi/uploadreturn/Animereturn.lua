@@ -46,6 +46,7 @@ return {
 	"ChainsawMan Reze Arc OST - In The Pool Mhxa",
 	"Chaos-Construct",
 	"Chasing Kou - Oboreru Knife (Drowning Love)",
+	"Crayon Shin-Chan OP3「Ora Wa Ninkimono」",
 	"Cry Baby - Tokyo Revengers OP Mhxa",
 	"Dan Dan Kokoro Hikareteku (From Dragon Ball GT) Ver 2",
 	"Darling In The Night Seven Shadows The Eminence In Shadow ED TV Ver",
