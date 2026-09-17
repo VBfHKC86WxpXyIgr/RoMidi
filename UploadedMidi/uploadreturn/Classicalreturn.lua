@@ -335,6 +335,7 @@ return {
 	"테일즈위버 OST - Reminiscence - Yeon H (192k) (1)",
 	"테일즈위버-Ost---Second-Run-최고난이도-피아노-편곡--Second-Run-Extreme-Piano-Cover",
 	"테일즈위버-Talesweaver-Ost--Second-Run-Piano-Cover-피아노-커버",
+	"ピアノ楽譜Montagem-Hikari--Bellyjayソロ中級朝の光の中で (1)",
 	"プロジェクト 34",
 	"钢琴曲Blue Bossa",
 	"魔理沙は大変なものを盗んでいきました",
