@@ -266,6 +266,7 @@ return {
 	"Misty (BEST VERSION)",
 	"Misty Piano Solo (Beginner)",
 	"Moayad Aljabal - Finding Myself",
+	"Monsieur Perine - Nuestra CancióN",
 	"Moonlight - XXXTentacion",
 	"Moonlight On The River Mac DeMarco",
 	"Morning Mood",
