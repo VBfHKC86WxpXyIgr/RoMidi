@@ -226,6 +226,7 @@ return {
 	"Lana Del Rey - White Mustang (Lyrics) (Mp3cut.Net)",
 	"Lana Del Rey - White Mustang (Official Music Video)",
 	"Lana Del Rey-Diet Mountain Dew (The Flight... - SafeShare - Screencastify - January 5, 2026 9 34 PM",
+	"Late Night Drive Home - Stress Relief Mp3pm Trimmed By Jukeblocks Converted By Jukeblocks",
 	"Laufey - Promise",
 	"Laufey - Too little, too late",
 	"Les Childish Gambino Piano Solo 1784876806897",
