@@ -140,6 +140,7 @@ return {
 	"Isle Unto Thyself (MS)",
 	"It Says Future Funk But Idk (MS)",
 	"Ivy - Frank Ocean",
+	"Já Que Me Ensinou A Beber (ÁUdio Oficial)",
 	"JAMIROQUAY.Virtual Insanity",
 	"Je-Te-Laisserai-Des-Mots-Patrick-Watson",
 	"John Legend - All Of Me - Pianoitall.Mid",
