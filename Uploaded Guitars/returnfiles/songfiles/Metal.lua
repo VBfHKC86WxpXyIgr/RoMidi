@@ -36,6 +36,7 @@ return {
 	"Avenged Sevenfold - Seize The Day Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - So Far Away [MIDIfind.Com]",
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
+	"Avenged Sevenfold - Unholy Confessions [MIDIfind.Com]",
 	"Bass Awadama Fever BABYMETAL",
 	"Bass Awadama Fever LIVE BABYMETAL",
 	"Bass Gimme Chocolate BABYMETAL",
