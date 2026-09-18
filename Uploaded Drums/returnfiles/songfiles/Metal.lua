@@ -83,6 +83,7 @@ return {
 	"Cryptopsy - Depths You'Ve Fallen (Drums)",
 	"Cryptopsy - Graves Of The Fathers (Drums)",
 	"Cryptopsy - Mutant Christ (Drums)",
+	"Cryptopsy - Phobophile [MIDIfind.Com]",
 	"Cryptopsy - Slit Your Guts (Drums)",
 	"Daft Punk - Robot Rock [MIDIfind.Com]",
 	"Danger line (W.I.P)",
