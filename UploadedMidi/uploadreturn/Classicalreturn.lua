@@ -225,6 +225,7 @@ return {
 	"Panzerlied",
 	"Pathetique 3",
 	"Pedih Last Child 1780246257149",
+	"Pelangi - HiVi! -Fikram",
 	"Piano",
 	"Piano Cover - - Nice Piano Sheets 192k Converted By Jukeblocks",
 	"Pirates of the Caribbean - He's a Pirate (1)",
