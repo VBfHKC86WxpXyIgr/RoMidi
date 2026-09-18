@@ -156,6 +156,7 @@ return {
 	"JOPLIN.The entertainer",
 	"Julius-Fucik-Entry-Of-The-Gladiators-Piano-Version",
 	"Jurassic Park Trex - Rescue- Finale Ending Credits Suite",
+	"Just Give Me A Reason - P!Nk Ft",
 	"Just The Two Of Us (MS)",
 	"Kangen - Dewa 19 - Fikram Trimmed 0.00s-300",
 	"Kanye West - Runaway (EPIC) Dreaming Piano Cover( -NXgt5cAgS8 )",
