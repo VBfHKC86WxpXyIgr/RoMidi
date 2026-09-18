@@ -52,6 +52,7 @@ return {
 	"Black Sabbath - Paranoid [MIDIfind.Com]",
 	"Blackened Isolated Solo By Chicoplatr",
 	"Blitzkrieg Bop - Ramones",
+	"Buckethead - Soothsayer [MIDIfind.Com]",
 	"Bullet For My Valentine - Tears Don'T Fall (2) [MIDIfind.Com]",
 	"Bullet For My Valentine - Tears Don'T Fall [MIDIfind.Com]",
 	"Burzum - Det Som En Gang Var [MIDIfind.Com]",
