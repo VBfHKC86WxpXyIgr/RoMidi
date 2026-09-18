@@ -69,6 +69,7 @@ return {
 	"Fallen down (Reprise)",
 	"Field Of Memories - Stick War",
 	"Field of Memories - Waterflame",
+	"Field Of Memories - Waterflame",
 	"Finale - Toby Fox",
 	"finale-undertale",
 	"Five nights at Freddy's Song",
