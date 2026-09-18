@@ -326,6 +326,7 @@ return {
 	"Gitara - Parokya Ni Edgar Fingerstyle Guitar Lyrics",
 	"God Of War Ragnarok",
 	"GộI ĐầU",
+	"Gojira-Flying Whales Official",
 	"Golden Brown - The Stranglers",
 	"Golden Hour - JVKE (Updated Ver.)",
 	"Golden Hour 2 Player",
