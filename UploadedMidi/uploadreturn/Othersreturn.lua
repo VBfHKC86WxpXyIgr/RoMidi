@@ -441,6 +441,7 @@ return {
 	"LàM Vợ Anh Nhé",
 	"Laufey - Let You Break My Heart Again (WIP)",
 	"Lemon",
+	"Let The World Burn (Piano Version)",
 	"Liana Flores - Rises The Moon",
 	"Libet'S Delay",
 	"Liebesleid (Love'S Sorrow) - Kreisler",
