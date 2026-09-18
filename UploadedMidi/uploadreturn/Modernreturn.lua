@@ -178,6 +178,7 @@ return {
 	"LOVELI LORI - Love For You",
 	"lover girl - laufey",
 	"Lover Girl (Laufey - But Classical) (MS)",
+	"Lux Aeterna -- Requiem For A Dream",
 	"Made Sum Plans (Osamason)",
 	"Mala Vida Mala Fama",
 	"Marc Indigo - Boy For The Weekend",
