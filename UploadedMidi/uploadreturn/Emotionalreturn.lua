@@ -112,6 +112,7 @@ return {
 	"DUET (OMORI)",
 	"Duncan Laurence - Arcade",
 	"Duvet BoA (BEST VERSION)",
+	"Echoes James Malikey(BEST VERSION)",
 	"El Beeper",
 	"Eldoraudio-AhaTik suara asli - Aditya 85d49cc5-bfd8-4ffb-98ba-899efdcd37c7",
 	"Elton John - I'm still standing",
