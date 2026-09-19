@@ -447,6 +447,7 @@ return {
 	"LàM NgườI LuôN YêU Em",
 	"LàM Vợ Anh Nhé",
 	"Laufey - Let You Break My Heart Again (WIP)",
+	"Lệ Anh VẫN RơI",
 	"Lemon",
 	"Let The World Burn (Piano Version)",
 	"Liana Flores - Rises The Moon",
