@@ -127,6 +127,7 @@ return {
 	"Faded",
 	"FantaisieImpromptu (BEST VERSION)",
 	"Feeling Good (BEST VERSION)",
+	"Finitude Gabriel Albu(BEST VERSION)",
 	"Floating In Reverie Moayad Aljabal - Fikram",
 	"Floating-In-Reverie-Moayad-Aljabal(MEDIUM VERSION)",
 	"Flower-Dance(BEST VERSION)",
