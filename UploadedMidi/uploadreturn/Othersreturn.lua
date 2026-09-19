@@ -265,6 +265,7 @@ return {
 	"Em Cua NgàY HôM Qua",
 	"Em CủA NgàY HôM Qua 2",
 	"Em CủA NgàY HôM Qua 3",
+	"Em đã BiếT",
 	"Em đừNg đI",
 	"Em đừNg đI Em PhảI đI",
 	"EM GÁI MƯA",
