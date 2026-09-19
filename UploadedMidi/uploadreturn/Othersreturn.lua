@@ -774,6 +774,7 @@ return {
 	"Treehouse - Alex G [PIANO]",
 	"TROLOLO",
 	"TrốNg RỗNg",
+	"Trú MưA",
 	"True LOVE - Glitchtale",
 	"TrướC Khi Em TồN TạI",
 	"Tuki",
