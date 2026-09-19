@@ -197,6 +197,7 @@ return {
 	"Strokes (The) - The End Has No End (7) [MIDIfind.Com]",
 	"Sudno - Molchat Doma",
 	"Sudno - Molchat Doma (Femboy'S Version)",
+	"Sweet Child O' Mine (Guitars&Bass&Vocals)",
 	"Symphony-Of-Destruction",
 	"System Of A Down - Toxicity [MIDIfind.Com]",
 	"TF2 Kazotsky Kick",
