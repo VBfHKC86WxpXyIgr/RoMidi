@@ -171,6 +171,7 @@ return {
 	"Kota Ini Tak Sama Tanpamu - Piano",
 	"Kuroshitsuji Book Of Circus OST (BEST VERSION)",
 	"L’Amore Dice Ciao",
+	"L’Amore Dice Ciao (Original)",
 	"La Campanella (BEST VERSION)",
 	"La Valse DAmlie Yann Tiersen (BEST VERSION)",
 	"La Vida Es Mejor Cantando",
