@@ -64,6 +64,7 @@ return {
 	"Guitar2 Alesana Annabel DROP D",
 	"Guitar2 Remember Of Today Pergi Hilang",
 	"Guitarra Lead Annabel Alesana",
+	"Guns N Roses - Sweet Child O' Mine (Bass Only)",
 	"Heart Shaped Box - Nirvana",
 	"Hendrix Jimi - All Along The Watchower [MIDIfind.Com]",
 	"Hendrix Jimi - Foxey Lady [MIDIfind.Com]",
