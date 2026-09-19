@@ -335,6 +335,7 @@ return {
 	"Руки вверх - 18 мне уже [MIDIfind.Com]",
 	"بروحي فتاة.",
 	"กลัวว่าฉันจะไม่เสียใจ (Fear) – PURPEECH",
+	"ไม่บอกเธอ - Bedroom Audio",
 	"ร(Wait)",
 	"거리에서Sung-Si-Kyung---On-The-Street-Piano-Ver",
 	"공산당이-없으면-새-중국-없다",
