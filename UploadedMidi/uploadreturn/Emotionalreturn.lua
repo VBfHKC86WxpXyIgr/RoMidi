@@ -321,6 +321,7 @@ return {
 	"Panchiko - UNTITLED ACOUSTIC SONG - REMASTER Mp3pm Converted By Jukeblocks",
 	"Parfum D'Etoiles - Ichika Aoba",
 	"Parfum Dtoiles (BEST VERSION)",
+	"Passion - Gabriel Albu(BEST VERSION)",
 	"Past Lives - Borns",
 	"Piano San Sebastian Sonata Arctica",
 	"Piano-Practice-Frustration(ANTI-AUTO VERSION)",
