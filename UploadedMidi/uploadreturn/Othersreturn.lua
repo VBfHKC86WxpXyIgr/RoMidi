@@ -179,6 +179,7 @@ return {
 	"Có ChàNg Trai ViếT LêN CâY",
 	"Có ChúT NgọT NgàO",
 	"Cô GáI M52",
+	"Cô GáI NgàY HôM Qua",
 	"Có HẹN VớI Thanh XuâN",
 	"Cô ThắM KhôNg Về",
 	"Có Thể,KhôNg",
