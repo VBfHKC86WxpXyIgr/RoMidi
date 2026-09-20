@@ -334,6 +334,7 @@ return {
 	"GiấC Mơ TrưA",
 	"Gigi D'Agostino - L 'Amour Toujours WWW.MIDISFREE.COM",
 	"Gitara - Parokya Ni Edgar Fingerstyle Guitar Lyrics",
+	"Glorious Crown - Xi",
 	"God Of War Ragnarok",
 	"GộI ĐầU",
 	"Gojira-Flying Whales Official",
