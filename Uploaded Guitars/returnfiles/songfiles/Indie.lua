@@ -15,6 +15,7 @@ return {
 	"Bass THY-Teen Rebel LIVE V2",
 	"Boys Don'T Cry - The Cure (Piano Arrangement)",
 	"Brubeck Dave - Take Five [MIDIfind.Com]",
+	"Cannot Get Over You",
 	"Creep - Radiohead (Guitar)",
 	"Guitar 1 Teen Rebel LIVE V2",
 	"Guitar 2 Teen Rebel LIVE V2",
