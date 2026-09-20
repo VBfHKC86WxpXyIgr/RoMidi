@@ -63,6 +63,7 @@ return {
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Composed By Yu-Peng Chen Arranged By Devon Sebastian K - Liyue Harbor Song No. 4",
 	"Creed - One Last Breath",
+	"Crystal Dolphin",
 	"CUPSIZE - Poka-Poka 79503343",
 	"CUPSIZE - Ты любишь танцевать Vocals Backing Track",
 	"D4vd - Here With Me",
