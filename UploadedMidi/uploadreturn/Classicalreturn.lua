@@ -323,6 +323,7 @@ return {
 	"Waves (BEST VERSION)",
 	"Wedding-Day-at-Troldhaugen",
 	"Whenjohnnycomesmarchinghome",
+	"William Tell Overture - Finale - Gioachino Rossini",
 	"Woke Up In Japan By Friqtao",
 	"Yankeedoodle",
 	"Yeni-Qukeru-Yoru-Ni-Kakeru-Racing-Into-The-Night(BEST VERSION)",
