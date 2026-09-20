@@ -191,6 +191,7 @@ return {
 	"tera-io-flamewall-camellia",
 	"Tetris BassBurst Solid",
 	"Tetris Theme, BLACK MIDI 50K NOTES",
+	"The AMAZING Digital Circus - Main Theme - Gooseworx",
 	"The Battle Cats - Cosmos Battle 3",
 	"The Death Of Gods Will (MIDI)",
 	"The Entertainer - Scott Joplin ",
