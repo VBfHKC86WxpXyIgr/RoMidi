@@ -177,6 +177,7 @@ return {
 	"Stationsquare-Ts",
 	"Stereo madness",
 	"Stereo Madness - ForeverBound",
+	"Stevie Wonder - Isn'T She Lovely",
 	"Stronger Than You - Undertale",
 	"Subwoofer Lullaby (Minecraft)",
 	"Summer Smile - Silent Partner No Copyright Music-303964052",
