@@ -80,6 +80,7 @@ return {
 	"áNh Sang Tan Vỡ Trong MàN đêM",
 	"AnlamazdıN...",
 	"Anybody Can Find Love (Except You) [Glitch Cat Remix]",
+	"Are You Lost Park Bird 1789890422373",
 	"Asgore Runs Over Dess",
 	"Avenged Sevenfold - A Little Piece Of Heaven (2) [MIDIfind.Com]",
 	"Azali - MECHANICAL GOD",
