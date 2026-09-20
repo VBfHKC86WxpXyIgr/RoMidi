@@ -186,6 +186,7 @@ return {
 	"Super Smash Bros Brawl- Menu Theme",
 	"Sweden (Minecraft)",
 	"Swift Strike",
+	"Tenebre Rosso Sangue But Set Up For Midi Piano",
 	"tera-io-flamewall-camellia",
 	"Tetris BassBurst Solid",
 	"Tetris Theme, BLACK MIDI 50K NOTES",
