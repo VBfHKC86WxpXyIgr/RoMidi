@@ -444,6 +444,7 @@ return {
 	"Là Tự Em đA TìNh",
 	"La-Cucaracha",
 	"LạC TrôI",
+	"Lacie - Yuki Kajiura",
 	"LALALALA (락) (樂) - Stray Kids (스트레이 키즈)",
 	"LàM NgườI LuôN YêU Em",
 	"LàM Vợ Anh Nhé",
