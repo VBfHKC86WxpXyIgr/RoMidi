@@ -8,6 +8,7 @@ return {
 	"(Anybody Can Find Love Except You) Need Drums Mhxa",
 	"[Audio] Sashley - XD MEME ~ Collab - Danidanijr & Orangepaprika 67",
 	"[Black MIDI] RUSH E CURSED REMIX",
+	"[DPSP] Aragami - Xi",
 	"[TwTwTw]Blue Zenith",
 	"【黑乐谱】千年幻想乡 ~ History Of The Moon",
 	"【黑乐谱】圆周率",
