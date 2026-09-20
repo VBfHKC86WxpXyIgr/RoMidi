@@ -340,6 +340,7 @@ return {
 	"Golden Hour - JVKE (Updated Ver.)",
 	"Golden Hour 2 Player",
 	"Golden Hour 2 Player Super",
+	"Golden Hour X Interstellar",
 	"Golden Hour X Runaway X Interstellar",
 	"Grave",
 	"Gravity Falls - Made Me Realize",
