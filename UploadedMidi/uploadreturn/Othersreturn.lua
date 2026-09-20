@@ -125,6 +125,7 @@ return {
 	"BóNg Lá RơI",
 	"Brooklyn Baby - Lana Del Rey",
 	"Brooklyn Blood Pop - SYKO",
+	"Buck Owens Made In Japan",
 	"Buena Vida Mala Fama (King Nasir) Crish Ramirez",
 	"Bunny-Girl-Senpai-Ed-Mai-Sakurajiama",
 	"BướC-Qua-MùA-Cô-ĐơN",
