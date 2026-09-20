@@ -32,6 +32,7 @@ return {
 	"Gehra Hua Final Midi",
 	"Get Proto",
 	"Golden Brown - The Stranglers - Piano (1)",
+	"Golden-Brown",
 	"Got-Main-Theme-Advanced",
 	"Government Funding (Kane Pixels)",
 	"Gravity Falls",
