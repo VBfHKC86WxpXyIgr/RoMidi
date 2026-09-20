@@ -418,6 +418,7 @@ return {
 	"Kali Uchis - All I Can Say Piano Tutorial Trimmed By Jukeblocks Converted By Jukeblocks",
 	"Kara Sevda - Anlatamam Piano Tutorial (Dizi MüZiğI, Toygar IşıKlı)",
 	"Kevin MacLeod Monkeys Spinning Monkeys Royalty Free",
+	"Kevin MacLeod Scheming Weasel",
 	"KháCh MờI",
 	"KhôNg BiếT PhảI LàM Sao",
 	"KhôNg BuôNg - Hngle (Piano)",
