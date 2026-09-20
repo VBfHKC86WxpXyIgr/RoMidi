@@ -67,6 +67,7 @@ return {
 	"ÁI ThươNg",
 	"Ai♡Scream Mhxa",
 	"AKASAKI - Bunny Girl Mhxa",
+	"Akasha - Xi",
 	"Akaza'S Love Theme",
 	"ALL MY FELLAS [ Remastered & Finished ]",
 	"âM ThầM BêN Em 2",
