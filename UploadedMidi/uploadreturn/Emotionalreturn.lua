@@ -140,6 +140,7 @@ return {
 	"Freaks – Surf Curse Freaks",
 	"Gigi D'Agostino - L 'Amour Toujours WWW.MIDISFREE.COM",
 	"Glimpse Of Us(BEST VERSION 1)",
+	"Glimpse Of Us(BEST VERSION 2)",
 	"Golden-Brown-X-Love-Story-Ilblu(BEST VERSION)",
 	"Golden-Hour-Full-Version",
 	"Grandmas House Jaithep Raroengjai How To Make Millions Before Grandma Dies Piano Solo",
