@@ -35,6 +35,7 @@ return {
 	"Green Dayst Jimmy",
 	"Hybrid Moments - The Misfits (Vocal)",
 	"I Hate Myself And Want To Die (Drums + Guitar)",
+	"I-Void Destroyer",
 	"Jesus Doesn'T Want Me For A Sunbeam - Nirvana (Piano-Vocal-Guitar)",
 	"Joy Division - Love Will Tear Us Apart [MIDIfind.Com]",
 	"Lake Of Fire - Nirvana (Piano-Vocal-Guitar)",
