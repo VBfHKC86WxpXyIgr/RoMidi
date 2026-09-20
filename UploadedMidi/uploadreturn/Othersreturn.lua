@@ -293,6 +293,7 @@ return {
 	"Fake Love X Flower Dance",
 	"Fake Love X Suzume X BóNg Lá RơI",
 	"FallofTroyTheF.C.P.R.E.M.I.X",
+	"FAR FROM ANY ROAD Handsome Family 1789889837401",
 	"Fasion - Dansez - COPYRIGHT FREE - CEM",
 	"Feather - Nujabes",
 	"Fede Ft. Vecinos - Hermanos De Verdad",
