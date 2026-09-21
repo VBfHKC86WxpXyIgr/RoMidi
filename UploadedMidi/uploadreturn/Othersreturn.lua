@@ -462,6 +462,7 @@ return {
 	"Laufey - Let You Break My Heart Again (WIP)",
 	"Lệ Anh VẫN RơI",
 	"Le Temps De L Amour 1789889895436",
+	"Le Temps De L Amour Complet 1789978120222",
 	"Lemon",
 	"Lemon Tree Piano Lemon Tree Ok 1789901703567",
 	"Let The World Burn (Piano Version)",
