@@ -613,6 +613,7 @@ return {
 	"Porque - Maldita Piano Cover By Gerard Chua",
 	"Powfu - Death Bed (Dustbunny Edits)",
 	"Prayer - Kendrick Lamar WIP",
+	"Pumped Up Kicks 1789901520399",
 	"PvZ-Loonboon.Mid 1612468846906.Mid",
 	"Queen - Bohemian Rhapsody",
 	"Queen - We Are The Champions",
