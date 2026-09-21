@@ -103,6 +103,7 @@ return {
 	"DebraYume Moayad Aljabal - Floating In Reverie",
 	"December Avenue - Kung Di Rin Lang Ikaw",
 	"Delight Me - Lukewarm Tears",
+	"Die With A Smile",
 	"Die-With-A-Smile",
 	"Do I Wanna Know Bass",
 	"Do I Wanna Know by Arctic Monkeys",
