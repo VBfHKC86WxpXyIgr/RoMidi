@@ -87,6 +87,7 @@ return {
 	"It'S Not Like I Like You!! Static-P & Amree Piano Arrangement",
 	"itterasshai-attack-on-titan-ss4-ed-ai-higuchi",
 	"JBA - Giorno'S Theme Mhxa",
+	"JoJo-S-Bizarre-Adventure-Golden-Wind-OST-Giorno-S-Theme-Il-Vento-D-Oro-Main-Theme-Anonymous-20211215202255-Nonstop2k.Com",
 	"Jojo's Bizarre Adventure Part 2   Battle Tendency OP - Bloody Stream",
 	"Josuke's theme Diamond Is Unbreakable in piano(COMPLETE)",
 	"Jotaro'S Theme By JJBA",
