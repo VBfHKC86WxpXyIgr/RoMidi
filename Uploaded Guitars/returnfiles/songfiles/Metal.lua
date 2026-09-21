@@ -16,6 +16,7 @@ return {
 	"A Miserable Life",
 	"A Miserable Life - Decalius",
 	"A Skull Full Of Maggots",
+	"ACDC - Back In Black (3) [MIDIfind.Com]",
 	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
 	"Alone-And-Cold.Mid",
 	"Angel Of Death - Slayer (Corrected To E Standard)",
