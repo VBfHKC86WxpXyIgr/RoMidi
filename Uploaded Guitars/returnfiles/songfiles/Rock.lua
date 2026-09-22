@@ -19,6 +19,7 @@ return {
 	"American Football - Never Meant",
 	"Animals (The) - The House Of The Rising Sun [MIDIfind.Com]",
 	"Annabel-Alesana-Lead Guitar",
+	"Another-One-Bites-The-Dust- Tabo Version",
 	"Arctic Monkeys - Crying Lightning [MIDIfind.Com]",
 	"Arctic Monkeys - Do I Wanna Know",
 	"Arctic Monkeys - Do I Wanna Know Tabo Version",
