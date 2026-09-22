@@ -20,6 +20,7 @@ return {
 	"Animals (The) - The House Of The Rising Sun [MIDIfind.Com]",
 	"Annabel-Alesana-Lead Guitar",
 	"Arctic Monkeys - Crying Lightning [MIDIfind.Com]",
+	"Arctic Monkeys - Do I Wanna Know",
 	"AUD DW0234",
 	"Avenged Sevenfold - Afterlife [Sky]",
 	"Avenged Sevenfold - Almost Easy [Sky]",
