@@ -49,6 +49,7 @@ return {
 	"Dire Straits - Lady Writer (2) [MIDIfind.Com]",
 	"Dont Say Lazy",
 	"DragonForce - Through The Fire And Flames KLICKAUD Converted",
+	"Fastest-Thing-Alive-Full-Version",
 	"Flamewall By Camellia",
 	"Flying Through The Sky (Ram Ranch)",
 	"Foo Fighters - My Hero [MIDIfind.Com]",
