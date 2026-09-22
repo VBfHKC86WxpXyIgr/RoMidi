@@ -138,6 +138,7 @@ return {
 	"Nirvana - Something In The Way",
 	"Nirvana - Verse Chorus Verse (2) [MIDIfind.Com]",
 	"Nirvana - You Know You'Re Right [MIDIfind.Com]",
+	"NIRVANA.The Man Who Sold The World Tabo Version",
 	"Oasis - Cigarettes Alcohol [MIDIfind.Com]",
 	"Oasis - Don'T Look Back In Anger",
 	"Oasis - Shakermaker",
