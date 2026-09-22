@@ -21,6 +21,7 @@ return {
 	"Annabel-Alesana-Lead Guitar",
 	"Arctic Monkeys - Crying Lightning [MIDIfind.Com]",
 	"Arctic Monkeys - Do I Wanna Know",
+	"Arctic Monkeys - Do I Wanna Know Tabo Version",
 	"AUD DW0234",
 	"Avenged Sevenfold - Afterlife [Sky]",
 	"Avenged Sevenfold - Almost Easy [Sky]",
