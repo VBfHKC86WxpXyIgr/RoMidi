@@ -372,6 +372,7 @@ return {
 	"Styx - Heavy Metal Poisoning [MIDIfind.com]",
 	"Sugar",
 	"Suicide Silence - You Only Llive Once [MIDIfind.Com]",
+	"Super Speed Drum",
 	"System Of A Down - 36 (Drum)",
 	"System Of A Down - Aerials [MIDIfind.Com]",
 	"System Of A Down - ATWA (Drum)",
