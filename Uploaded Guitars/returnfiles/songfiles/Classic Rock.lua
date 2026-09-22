@@ -56,6 +56,7 @@ return {
 	"Metallica+-+Master+Of+Puppets+(Guitars+Only)",
 	"MICHAEL JACKSON - Come Together",
 	"Molotov - Frijolero",
+	"Mr. Big-Just Take My Heart-07-26-2026",
 	"My Hero - Foo Fighters",
 	"My Hero - Foo Fighters (1)",
 	"Norwegian-Wood-1",
