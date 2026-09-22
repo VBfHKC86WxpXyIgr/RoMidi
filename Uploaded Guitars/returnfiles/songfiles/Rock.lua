@@ -188,6 +188,7 @@ return {
 	"Skillet - Monster [MIDIfind.Com]",
 	"Snow (Hey Oh!)",
 	"Soda Stereo - De Musica Ligera [MIDIfind.Com]",
+	"Soda Stereo - Musica Ligera Karaoplay.Com 1",
 	"Soda Stereo - Tratame Suavemente [MIDIfind.Com]",
 	"Soundgarden - Spoonman [MIDIfind.Com]",
 	"Still-Loving-You",
