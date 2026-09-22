@@ -229,6 +229,7 @@ return {
 	"LạC TrôI Piano - SơN TùNg M-TP.Mid",
 	"Lacrimosa (HUMAN BEST VERSION)",
 	"Lamour Toujours - Organ Version - 320 Kbps Trimmed By Jukeblocks Converted By Jukeblocks",
+	"Lana Del Ray - Music To Watch Boys To Mp3pm Trimmed By Jukeblocks Converted By Jukeblocks",
 	"Lana Del Ray - White Mustang Mp3pm Converted By Jukeblocks",
 	"Lana Del Rey - White Mustang (Lyrics) (Mp3cut.Net)",
 	"Lana Del Rey - White Mustang (Official Music Video)",
