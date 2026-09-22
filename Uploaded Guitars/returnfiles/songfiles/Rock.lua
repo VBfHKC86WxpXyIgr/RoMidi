@@ -44,6 +44,7 @@ return {
 	"Come As You Are (Unplugged) - Nirvana Guitar",
 	"Come As You Are Nirvana Bass",
 	"Come As You Are Nirvana Guitar",
+	"Come As You Are Tabo Version",
 	"Creed - One Last Breath [MIDIfind.Com]",
 	"Crybaby - Destroy Boys",
 	"Daft Punk - Robot Rock [MIDIfind.Com]",
