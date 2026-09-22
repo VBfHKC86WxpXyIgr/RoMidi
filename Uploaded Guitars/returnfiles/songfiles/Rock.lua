@@ -77,6 +77,7 @@ return {
 	"Hendrix Jimi - Hey Joe [MIDIfind.Com]",
 	"Hendrix Jimi - Machine Gun Live At Fillmore East [MIDIfind.Com]",
 	"Hendrix Jimi - The Star Spangled Banner [MIDIfind.Com]",
+	"Heroes Del Silencio - Entre Dos Tierras Tabo Version",
 	"Heroes Main",
 	"Highway-To-Hell Tabo Version",
 	"Hoobastank - The Reason (2) [MIDIfind.Com]",
