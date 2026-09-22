@@ -84,6 +84,7 @@ return {
 	"Linkin Park - Given Up [MIDIfind.Com]",
 	"Living Colorcult Of Personality",
 	"Lonesome Town - Ricky Nelson",
+	"Los Prisioneros - Tren Al Sur",
 	"Mamas And The Papas - California Dreamin (Acoustic) [MIDIfind.Com]",
 	"Megadeth - Peace Sells [MIDIfind.Com]",
 	"Megalo Box 2",
