@@ -284,6 +284,7 @@ return {
 	"Eminem - Mockingbird",
 	"Ending Shucks",
 	"Endless Tears",
+	"Erased Max Pro Trimmed By Jukeblocks 1 Converted By Jukeblocks",
 	"Erased~",
 	"Erika",
 	"Erika.Mid",
