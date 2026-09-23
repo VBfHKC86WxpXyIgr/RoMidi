@@ -289,6 +289,7 @@ return {
 	"Wonder If You Care",
 	"Wonderless - Acoustic By Pierce The Veil",
 	"Xandulsbored - Stronger Than You Charas ResponseGenocide Remix",
+	"Yapid2 Greed Guitar1",
 	"Yapid2 Greed Guitar2",
 	"Yes - Roundabout Bass",
 	"You Are My Dream",
