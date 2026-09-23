@@ -656,6 +656,7 @@ return {
 	"RUSH E 2 - Sheet Music Boss",
 	"RUSH E 2 CLEANED",
 	"Rush E 2 Playable 1.6",
+	"Rush E 3 (Playable)",
 	"RUSH E 3 NO ART",
 	"Rush E 3 Real",
 	"RUSH E 3 Whitout Anything Else",
