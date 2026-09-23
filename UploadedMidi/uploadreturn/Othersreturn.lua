@@ -534,6 +534,7 @@ return {
 	"MùA Hạ ThoáNg Qua",
 	"MừNg HụT",
 	"MuộN RồI Mà Sao CòN",
+	"Muse - Hysteria [MIDIfind.Com]",
 	"Music Using Only Sounds From Windows XP & 98 ~ SomethingUnreal - Blacked By KF2015",
 	"Music Using Only Sounds From Windows XP & 98 ~ SomethingUnreal - Blacked By KF2015 (1)",
 	"MüSlüM GüRses Unutamadim",
