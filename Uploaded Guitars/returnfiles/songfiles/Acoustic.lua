@@ -168,6 +168,7 @@ return {
 	"Moderndog -",
 	"Moderndog -Bussaba Guitar1 Greed",
 	"Moderndog -Bussaba Guitar2 Greed",
+	"ModernDog -Gorn Guitar1 Greed",
 	"ModernDog -Gorn Guitar2 Greed",
 	"Mom Central",
 	"Mor Lum",
