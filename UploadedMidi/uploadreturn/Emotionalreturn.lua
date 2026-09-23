@@ -473,6 +473,7 @@ return {
 	"XXXTENTACION - SAD!",
 	"XXXTentacion - Sad!",
 	"Yiruma - Maybe - Fikram",
+	"You'Re A Mean One Mr Grinch (Jazz BEST VERSION HARD)",
 	"Young-Girl-A maybe more difficult",
 	"Your Love",
 	"Zach Templar - Missin Something Mp3pm Converted By Jukeblocks",
