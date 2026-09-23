@@ -6,6 +6,7 @@ return {
 	"Gdzie Jest Bialy Wegorz (Zejscie)",
 	"Hammer Smashed Face",
 	"Home - Were Finally Landing 65702210",
+	"Jingle-Bells-Guitar-Glenn-Jarrett",
 	"Michael Jackson - Billie Jean",
 	"Misc Covers-Aruarian Dance - Simplified By Nujabes-07-04-2026",
 	"Misc Covers-Ripped Pants By Spongebob Squarepants And The Losers-07-04-2026",
