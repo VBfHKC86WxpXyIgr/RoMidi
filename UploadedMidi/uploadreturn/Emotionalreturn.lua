@@ -414,6 +414,7 @@ return {
 	"Test Seumur Hidup Kan Ku Habiskan By Harum Manis",
 	"Thằng điên impossible",
 	"Thằng điên normal",
+	"That'S Life - Frank Sinatra(BEST VERSION)",
 	"The Dance We Waited For - Moayad Aljabal",
 	"The Entertainer (Jazz Best Version)",
 	"The FatRat - Unity",
