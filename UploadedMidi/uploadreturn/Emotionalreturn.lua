@@ -399,6 +399,7 @@ return {
 	"Sweater Weather- The Neighbourhood-- 2.0",
 	"Sweetly-Lord-Kael(BEST VERSION)",
 	"Tai sinh",
+	"Take Five (BEST VERSION HARD)",
 	"Tally Hall- Hidden in the Sand ",
 	"Tango-Flamenco(HUMAN BEST VERSION)",
 	"Tap 011 - Bunda WWW.MIDISFREE.COM",
