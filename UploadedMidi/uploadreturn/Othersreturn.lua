@@ -753,6 +753,7 @@ return {
 	"Tau 2 Super (1)",
 	"Tau 2.5.9",
 	"Tau No Art",
+	"TAU Playable Not Done Lololol",
 	"Tau Super",
 	"Tau The Song",
 	"Tay TráI Chỉ TrăNg",
