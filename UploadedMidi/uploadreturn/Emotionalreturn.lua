@@ -410,6 +410,7 @@ return {
 	"Thằng điên impossible",
 	"Thằng điên normal",
 	"The Dance We Waited For - Moayad Aljabal",
+	"The Entertainer (Jazz Best Version)",
 	"The FatRat - Unity",
 	"The Greatest Showman - A Million Dreams",
 	"The Haunted Youth-Teen Rebel-08-02-2026",
