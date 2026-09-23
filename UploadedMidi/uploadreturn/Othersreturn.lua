@@ -750,6 +750,7 @@ return {
 	"Tau 2 Deblacked",
 	"Tau 2 Super",
 	"Tau 2 Super (1)",
+	"Tau 2.5.9",
 	"Tau No Art",
 	"Tau Super",
 	"Tau The Song",
