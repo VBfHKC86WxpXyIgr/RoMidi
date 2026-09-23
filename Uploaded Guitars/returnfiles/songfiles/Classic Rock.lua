@@ -36,6 +36,7 @@ return {
 	"DrMetal",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Fall Of Troy (The) - F.C.P.R.E.M.I.X",
+	"Fastest-Thing-Alive-Full-Version (1)",
 	"Fingerstyle",
 	"Foo Fighters - Everlong [MIDIfind.Com]",
 	"GOAT - Polyphia G O A T - Copy Mscz",
