@@ -9,6 +9,7 @@ return {
 	"Dire, Dire Docks (Super Mario 64)",
 	"Doom - E1M1 (GM MIDI)",
 	"Ella Baila Sola Eslabon Armado Y Peso Pluma",
+	"Fastest-Thing-Alive-Full-Version (2)",
 	"Ginyu Force Theme - [Faulconer Productions]",
 	"Gohan Fights Frieza [Clean Cut]",
 	"Gotenks Is Born - [Faulconer Productions]",
