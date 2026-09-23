@@ -279,6 +279,7 @@ return {
 	"Michael Jackson - Man In The Mirror",
 	"Michael Jackson - Will You Be There (From Free Will)",
 	"Milo J - Milagrosa",
+	"MILO J - PARAISO (Video Oficial)",
 	"Milo J - Rincon",
 	"Misty (BEST VERSION)",
 	"Misty Piano Solo (Beginner)",
