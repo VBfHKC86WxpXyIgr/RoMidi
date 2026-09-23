@@ -67,6 +67,7 @@ return {
 	"Bedrott",
 	"Blooming-Afternoon-Mitsukiy(HUMAN BEST VERSION HARD)",
 	"Blue",
+	"Blue Bossa - Kenny Dorham(BEST VERSION)",
 	"Blue Hair - TV Girl",
 	"Blue Jeans",
 	"Bunda By Melly Goeslaw - Fikram",
