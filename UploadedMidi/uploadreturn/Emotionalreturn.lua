@@ -282,6 +282,7 @@ return {
 	"Moments Olexandr Ignatov(BEST VERSION)",
 	"Monsieur Perine - Nuestra CancióN",
 	"Moon River (BEST HARD VERSION)",
+	"MOON RIVER(BEST VERSION)",
 	"Moonlight - XXXTentacion",
 	"Moonlight On The River Mac DeMarco",
 	"Morning Mood",
