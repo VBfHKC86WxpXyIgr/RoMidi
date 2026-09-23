@@ -400,6 +400,7 @@ return {
 	"Sweetly-Lord-Kael(BEST VERSION)",
 	"Tai sinh",
 	"Take Five (BEST VERSION HARD)",
+	"Take Five (BEST VERSION)",
 	"Tally Hall- Hidden in the Sand ",
 	"Tango-Flamenco(HUMAN BEST VERSION)",
 	"Tap 011 - Bunda WWW.MIDISFREE.COM",
