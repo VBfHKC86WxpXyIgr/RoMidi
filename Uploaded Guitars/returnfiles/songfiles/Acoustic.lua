@@ -166,6 +166,7 @@ return {
 	"Misc Covers-Is It Really You (Acoustic VER.) By Loathe-07-04-2026",
 	"MJMN - Rehab Session",
 	"Moderndog -",
+	"Moderndog -Bussaba Guitar2 Greed",
 	"Mom Central",
 	"Mor Lum",
 	"Mortal Kombat - Mortal Kombat Theme",
