@@ -136,6 +136,7 @@ return {
 	"Floating-In-Reverie-Moayad-Aljabal(MEDIUM VERSION)",
 	"Flower-Dance(BEST VERSION)",
 	"Fly Away",
+	"Fly Me To The Moon (Jazz BEST VERSION)",
 	"FNAF 3",
 	"FOREVER",
 	"Forever",
