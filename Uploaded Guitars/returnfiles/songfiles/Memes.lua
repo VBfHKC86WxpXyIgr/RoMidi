@@ -6,6 +6,7 @@ return {
 	"Christmas Carols - Jingle Bells",
 	"Gdzie Jest Bialy Wegorz (Zejscie)",
 	"Hammer Smashed Face",
+	"Happy-Birthday-To-You-4",
 	"Home - Were Finally Landing 65702210",
 	"Jingle-Bells-Guitar-Glenn-Jarrett",
 	"Michael Jackson - Billie Jean",
