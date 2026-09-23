@@ -673,6 +673,7 @@ return {
 	"Rush E X Beethoven Viruss X Nu Pogodi",
 	"Rush E X Interstellar",
 	"RUSH E ZOTMIDIs Ver WIP",
+	"Rush E3nolag",
 	"RUSH N",
 	"Rush Piggies 2",
 	"Ryannah J. - 'THIS NA MALAMBING' Ft. Nateman (Lyrics Video)",
