@@ -69,6 +69,7 @@ return {
 	"Playing God - Polyphia Playing God Tab",
 	"Queen - Bohemian Rhapsody",
 	"Queen - Bohemian Rhapsody Complete [MIDIfind.Com]",
+	"Red Hot Chili Peppers - Snow Hey Oh [MIDIfind.Com]",
 	"Santana Carlos - Smooth [MIDIfind.Com]",
 	"Shiki No Uta (1)",
 	"Soundgarden - Outshined [MIDIfind.Com]",
