@@ -281,6 +281,7 @@ return {
 	"Moayad Aljabal - Finding Myself",
 	"Moments Olexandr Ignatov(BEST VERSION)",
 	"Monsieur Perine - Nuestra CancióN",
+	"Moon River (BEST HARD VERSION)",
 	"Moonlight - XXXTentacion",
 	"Moonlight On The River Mac DeMarco",
 	"Morning Mood",
