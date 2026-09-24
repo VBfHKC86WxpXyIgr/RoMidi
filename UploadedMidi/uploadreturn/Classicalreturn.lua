@@ -257,6 +257,7 @@ return {
 	"Rush D HSR!",
 	"Rush D Remake",
 	"Rush E",
+	"Rush E - Sheet Music Boss (VIRTUOSO)(EPIC)｜Dreaming Piano Cover",
 	"Rush E (1.2M Notes)",
 	"Rush E (Impossible) + Midi Download",
 	"RUSH E (Loud)",
