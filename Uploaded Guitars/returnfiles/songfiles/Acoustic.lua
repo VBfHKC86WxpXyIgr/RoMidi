@@ -56,6 +56,7 @@ return {
 	"Chezile - Run Awaynobass",
 	"Chris Isaakwicked Game",
 	"Cigarettes After Sex - Cry Greed Guitar1",
+	"Cigarettes After Sex - Cry Greed Guitar2",
 	"Cinderella - Tattoo Colour",
 	"Clair-De-Lune-Debussy",
 	"CLAIRE - FLY ME TO THE MOON Neon Genesis Evangelion",
