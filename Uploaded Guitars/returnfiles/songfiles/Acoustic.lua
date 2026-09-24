@@ -237,6 +237,7 @@ return {
 	"Smile Buffalo -",
 	"Solitude Is Bliss - Just One Thing",
 	"Solitude Is Bliss - Vintage Pic",
+	"Somsran LOSO Greed Guitar1",
 	"Soundgarden - Black Hole Sun",
 	"Stephen Sanchez - Until I Found You (1)",
 	"Steve Hansen - Fukashigi No Carte - SeiButa ED",
