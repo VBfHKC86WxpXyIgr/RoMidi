@@ -266,6 +266,7 @@ return {
 	"The Pillows - Beautiful Morning With YouRTM Greed",
 	"The Police - Every Breath You Take",
 	"The Trooper Greed Guitar1",
+	"The Trooper Greed Guitar2",
 	"The Walters - I Love You So",
 	"The WORLD - Death Note",
 	"Thirty Seconds To Mars - The Kill Bury Me",
