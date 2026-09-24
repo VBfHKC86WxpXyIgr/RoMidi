@@ -257,6 +257,7 @@ return {
 	"The+New+Periodic+Table+Song",
 	"TheFatRat+-+Windfall",
 	"This Is What Falling In Love Feels Like - JVKE For Piano-1",
+	"Tiptoe Through The Tulips - Joe Burke",
 	"Titibo-Tibo For Piano Solo",
 	"Tom And Jerry Theme Tune",
 	"Tones And I - Dance Monkey (Midi By Carlo Prato) (Www.Cprato.Com)",
