@@ -45,6 +45,7 @@ return {
 	"Blur - Song 2 [MIDIfind.Com]",
 	"BoysDontCry",
 	"BreakStuff",
+	"Broke (1)",
 	"Bush - Machinehead (Drum)",
 	"Bush - Swallowed (Drum)",
 	"Canned Heat - Going Up The Country",
