@@ -98,6 +98,7 @@ return {
 	"Edith Piaf La Foule",
 	"Edwin McCain - I'Ll Be (Lyrics) 1766801457953",
 	"Edwin McCain - I'Ll Be (Lyrics) 1766801457953 (1)",
+	"El Chavo Del Ocho Opening - Piano Tutorial With SHEET MUSIC & MIDI",
 	"Endless-Rain-Piano-Cover",
 	"Etude In A Minor Op76 No.2(BEST ADVANCED VERSION)",
 	"Etude Op. 10 No. 2 Chromatique - Frederic Chopin (Finished)",
