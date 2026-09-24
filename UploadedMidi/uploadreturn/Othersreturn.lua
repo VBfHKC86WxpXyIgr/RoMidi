@@ -511,6 +511,7 @@ return {
 	"Michael Jackson - Dirty Diana",
 	"Mihriban",
 	"MìNh CướI Nhau đI",
+	"Misery. - Pupsies",
 	"Miss You - Oliver Tree & Robin Schulz",
 	"Mơ",
 	"Moira Dela Torre - Titibo-Tibo Mhxa",
