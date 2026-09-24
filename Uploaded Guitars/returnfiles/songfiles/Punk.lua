@@ -21,6 +21,7 @@ return {
 	"Green Day - Extraordinary Girl [MIDIfind.Com]",
 	"Green Day - Give Me Novacaine [MIDIfind.Com]",
 	"Green Day - Holiday [MIDIfind.Com]",
+	"Green Day - Holiday Bass",
 	"Green Day - Holiday Billie Part",
 	"Green Day - Holiday Jason White",
 	"Green Day - Homecoming [MIDIfind.Com]",
