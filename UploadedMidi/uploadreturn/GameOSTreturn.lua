@@ -179,6 +179,7 @@ return {
 	"Stereo madness",
 	"Stereo Madness - ForeverBound",
 	"Stevie Wonder - Isn'T She Lovely",
+	"Stick War Legacy Theme - Field Of Memories HARD LEVEL Piano Synthesia",
 	"Stronger Than You - Undertale",
 	"Subwoofer Lullaby (Minecraft)",
 	"Summer Smile - Silent Partner No Copyright Music-303964052",
