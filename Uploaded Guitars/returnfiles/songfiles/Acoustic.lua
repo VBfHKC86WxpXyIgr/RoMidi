@@ -237,6 +237,7 @@ return {
 	"Smile Buffalo -",
 	"Solitude Is Bliss - Just One Thing",
 	"Solitude Is Bliss - Vintage Pic",
+	"Somsarn LOSO KEYG Greed Guitar1",
 	"Somsran LOSO Greed Guitar1",
 	"Somsran LOSO Greed Guitar2",
 	"Soundgarden - Black Hole Sun",
