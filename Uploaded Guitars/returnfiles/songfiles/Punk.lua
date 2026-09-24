@@ -22,6 +22,7 @@ return {
 	"Green Day - Give Me Novacaine [MIDIfind.Com]",
 	"Green Day - Holiday [MIDIfind.Com]",
 	"Green Day - Holiday Billie Part",
+	"Green Day - Holiday Jason White",
 	"Green Day - Homecoming [MIDIfind.Com]",
 	"Green Day - Jesus Of Suburbia (2) [MIDIfind.Com]",
 	"Green Day - Last Night On Earth",
