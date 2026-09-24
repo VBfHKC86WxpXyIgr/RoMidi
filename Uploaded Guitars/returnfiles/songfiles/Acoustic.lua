@@ -302,6 +302,7 @@ return {
 	"Yes - Roundabout Bass",
 	"You Are My Dream",
 	"YOU ARE MY DREAM GREED Guitar1",
+	"YOU ARE MY DREAM GREED Guitar2",
 	"YTDown Instrumental.Mp3",
 	"YTDowncom YouTube What-Is-Love Media E8WfCAfom U 009 128k-AudioTrimmercom Converted By Jukeblocks",
 	"ZweetRoll -",
