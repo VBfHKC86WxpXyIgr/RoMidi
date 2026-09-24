@@ -175,6 +175,7 @@ return {
 	"Mortal Kombat - Mortal Kombat Theme",
 	"Moving And Cut -",
 	"MUSKTEERS -Tale Guitar1 Greed",
+	"MUSKTEERS -Tale Guitar2 Greed",
 	"My Chemical Romance - The Ghost Of You",
 	"Never Shout Never - Your Biggest Fan Live KLICKAUD 1-AudioTrimmercom 1 Converted By Jukeblocks",
 	"Nirvana - Do Re Mi",
