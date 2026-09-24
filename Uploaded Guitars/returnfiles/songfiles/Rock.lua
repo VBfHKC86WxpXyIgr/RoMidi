@@ -65,6 +65,7 @@ return {
 	"Franz Ferdinand - Take Me Out (2) [MIDIfind.Com]",
 	"Free Bird - Lynyrd Skynyrd",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
+	"Green Day - Holiday (Songparts.Com)",
 	"Guitar Lead My Hero FF",
 	"Guitar1 Remember Of Today Pergi Hilang",
 	"Guitar2 Alesana Annabel DROP D",
