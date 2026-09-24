@@ -70,6 +70,7 @@ return {
 	"Field Of Memories - Stick War",
 	"Field of Memories - Waterflame",
 	"Field Of Memories - Waterflame",
+	"Field Of Memories 2",
 	"Finale - Toby Fox",
 	"finale-undertale",
 	"Five nights at Freddy's Song",
