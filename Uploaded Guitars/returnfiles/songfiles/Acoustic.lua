@@ -248,6 +248,7 @@ return {
 	"The Beatles - Here Comes The Sun",
 	"The Beatles - Let It Be",
 	"The Cranberries - Zombie",
+	"The Cranberries - ZombieGreed Guitar1",
 	"The Cranberries - ZombieGreed Guitar2",
 	"The Cure - Boys Dont Cry-Electric Guitar",
 	"The Cure - Boys Dont Cry-Electric Guitar (1)",
