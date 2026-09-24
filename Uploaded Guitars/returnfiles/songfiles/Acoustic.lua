@@ -132,6 +132,7 @@ return {
 	"Jojos Bizarre Adventure - Sono Chi No Sadame Short Version",
 	"JoJos Bizarre Adventure - Traitors Requiem",
 	"Jojos Bizzare Adventure - Stand Proud",
+	"Just One Thing Solitude Is Bliss Greed Guitar2 44",
 	"Just The Two Of Us.",
 	"Justin Bieber - Beauty And A Beat WWW.MIDISFREE.COM.Mid",
 	"Karen Aoki Daisuke Hasegawa - Great Days Jojos Bizarre Adventure Diamond Is Unbreakable Op3",
