@@ -84,6 +84,7 @@ return {
 	"AnlamazdıN...",
 	"Anybody Can Find Love (Except You) [Glitch Cat Remix]",
 	"Are You Lost Park Bird 1789890422373",
+	"Aria Math From Minecraft - C418 [PIANO TUTORIAL]",
 	"Asgore Runs Over Dess",
 	"Avenged Sevenfold - A Little Piece Of Heaven (2) [MIDIfind.Com]",
 	"Azali - MECHANICAL GOD",
