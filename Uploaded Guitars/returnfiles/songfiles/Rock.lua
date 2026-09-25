@@ -115,6 +115,7 @@ return {
 	"My Chemical Romance - This Is How I Disappear",
 	"My Chemical Romance - This Is How I Disappearr",
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison (2) [MIDIfind.Com]",
+	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison Ray Toro",
 	"Never Meant - American Football",
 	"Nirvana - About A Girl (MTV Unplugged) [MIDIfind.Com]",
 	"Nirvana - All Apologies [MIDIfind.Com]",
