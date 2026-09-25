@@ -783,6 +783,7 @@ return {
 	"The Last Of Us - Gustavo Santaolalla (Piano Solo)",
 	"The Odyssey - Odysseus (EPIC Piano Cover)",
 	"The Perfect Girl",
+	"The Shop From Pikuniku",
 	"The-Entertainer-Jazz-Arrangement",
 	"The-Ocean-Waves-Ost-I-Can-Hear-The-Sea-Shigeru-Nagata-Studio-Ghiblis-The-Ocean-Waves",
 	"There-S-No-One-At-All",
