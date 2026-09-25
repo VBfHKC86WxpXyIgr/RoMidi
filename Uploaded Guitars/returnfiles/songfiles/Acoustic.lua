@@ -112,6 +112,7 @@ return {
 	"Grave",
 	"Greed Gurenge Guitar1",
 	"Greed Gurenge Guitar2",
+	"Greed Master Of Puppets Guitar1",
 	"Greed Master Of Puppets Guitar2",
 	"Green Day - Good Riddance [MIDIfind.Com]",
 	"Gto - GTO Opening 1 Drivers High",
