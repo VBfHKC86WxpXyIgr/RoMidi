@@ -210,6 +210,7 @@ return {
 	"Plastic Tree - Kuuchu Buranko-Electric Guitar",
 	"PT Adamczyk Olga Jankowska Cyberpunk 2077 - Never Fade Away SAMURAI Cover Guitar Solo",
 	"Radiohead - No Surprises",
+	"Radiohead - Weird Fishes Arpeggi Greed Guitar1",
 	"Radiohead - Weird Fishes Arpeggi Greed Guitar2",
 	"Rainbow - Catch The Rainbow",
 	"RaunchyGuitar",
