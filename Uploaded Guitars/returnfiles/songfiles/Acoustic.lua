@@ -264,6 +264,7 @@ return {
 	"Sunshine-Of-Your-LoveLeadUploadByGreed",
 	"Sunshine-Of-Your-LoveRTMUploadByGreed",
 	"Superheaven - Youngest Daughter Greed Guitar1",
+	"Superheaven - Youngest Daughter Greed Guitar2",
 	"Surf Curse - FreaksChorus",
 	"Surf Curse - FreaksLead",
 	"Tame Impala - The Less I Know The Better",
