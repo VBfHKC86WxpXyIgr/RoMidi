@@ -69,6 +69,7 @@ return {
 	"Full Theme By JoJo Steel Ball Run",
 	"FullMetal Alchemist - Again Brotherhood OP1 Mhxa",
 	"Giornos Theme",
+	"Go-Shiina-The-Song-Of-Kamado-Tanjiro-Ft-Nami-Nakagawa-Anonymous-20191222165421-Nonstop2k.Com 2",
 	"Gojos 0.2 Second Domain Expansion Theme (By AI From SUN VPS136) (But It Repeats)",
 	"Gooby This Gooby Tha5",
 	"GOZALO - Ariis",
