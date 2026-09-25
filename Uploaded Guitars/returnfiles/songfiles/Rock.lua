@@ -112,6 +112,7 @@ return {
 	"My Chemical Romance - Thank You For The Venom [MIDIfind Com]-20260818092349",
 	"My Chemical Romance - Thank You For The Venom [MIDIfind.Com]",
 	"My Chemical Romance - Thank You For The Venom Bass",
+	"My Chemical Romance - Thank You For The Venom Frank Iero",
 	"My Chemical Romance - Thank You For The Venom Ray Toro",
 	"My Chemical Romance - This Is How I Disappear",
 	"My Chemical Romance - This Is How I Disappearr",
