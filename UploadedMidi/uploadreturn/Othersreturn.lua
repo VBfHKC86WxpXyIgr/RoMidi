@@ -295,6 +295,7 @@ return {
 	"Ethan Bortnick - Cut My Fingers Off Mhxa",
 	"Every Living Breathing Moment",
 	"Every Living Breathing Moment Grant Steller",
+	"Everything'S Gonna Be Okay (Pikuniku) - Calum Bowen",
 	"Evil Morty Meme Theme",
 	"Evil Morty Meme Theme (1)",
 	"F-L-Y - スペクトラム] (FLY By Spectrum)",
