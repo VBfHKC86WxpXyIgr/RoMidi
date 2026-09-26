@@ -151,6 +151,7 @@ return {
 	"Nirvana - Rape Me [MIDIfind.Com]",
 	"Nirvana - Sappy",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
+	"Nirvana - Scentless Apprentice Guitar",
 	"Nirvana - Seasons In The Sun [MIDIfind.Com]",
 	"Nirvana - Serve The Servants (5) [MIDIfind.Com]",
 	"Nirvana - Serve The Servants [MIDIfind.Com]",
