@@ -267,6 +267,7 @@ return {
 	"Rush E 3",
 	"Rush E but its as difficult as humanly possible",
 	"RUSH E FINAL",
+	"Rush E Real",
 	"RUSH E SMBs Version Pre-Remaster",
 	"Rush Of Life (BEST VERSION)",
 	"Sampai Jadi Debu - Banda Neira -Fikram",
