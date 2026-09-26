@@ -201,6 +201,7 @@ return {
 	"Metallica - Anesthesia Pulling Teeth With Wah Sound",
 	"Metallica - Battery [MIDIfind.Com]",
 	"Metallica - Blackened [MIDIfind.Com]",
+	"Metallica - Blackened James Hetfield",
 	"Metallica - Blackened Reversed (Intro) [MIDIfind.Com]",
 	"Metallica - Blackened Solo Tutorial By Chris Zoupa [MIDIfind.Com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
