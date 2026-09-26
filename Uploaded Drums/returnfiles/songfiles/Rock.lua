@@ -168,6 +168,7 @@ return {
 	"Nirvana - Breed (2) [MIDIfind.Com]",
 	"Nirvana - Come As You Are",
 	"Nirvana - Dive (Drums)",
+	"Nirvana - Drain You",
 	"Nirvana - Drain You (2) [MIDIfind.Com]",
 	"Nirvana - Drain You [MIDIfind.Com]",
 	"Nirvana - Dumb [MIDIfind.Com]",
