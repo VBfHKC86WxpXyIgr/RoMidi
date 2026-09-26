@@ -28,6 +28,7 @@ return {
 	"Avenged Sevenfold - Afterlife [Sky]",
 	"Avenged Sevenfold - Almost Easy [Sky]",
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
+	"Back In Black Tabo Version 2",
 	"Back In Black Tabo Version Fix",
 	"Bass Annabel Alesana Drop D",
 	"Bass My Hero FF",
