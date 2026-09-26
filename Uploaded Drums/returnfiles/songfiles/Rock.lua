@@ -183,6 +183,7 @@ return {
 	"Nirvana - Old Age [MIDIfind.Com]",
 	"Nirvana - On A Plain (2) [MIDIfind.Com]",
 	"Nirvana - Opinion [MIDIfind.Com]",
+	"Nirvana - Polly",
 	"Nirvana - Rape Me [MIDIfind.Com]",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
 	"Nirvana - School",
