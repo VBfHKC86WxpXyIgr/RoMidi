@@ -208,6 +208,7 @@ return {
 	"Pearl Jam - Black (2) [MIDIfind.Com]",
 	"PEARL JAM.Even Flow",
 	"Phyllomedusa-Pulverize That Hoe-07-27-2026",
+	"Pierce The Veil - Bulls In The Bronx (Songparts.Com)",
 	"Pink Floyd - Comfortably Numb [MIDIfind.Com]",
 	"Pixies - Where Is My Mind (Drum)",
 	"Queens Of The Stone Age - First It Giveth (3) [MIDIfind.Com]",
