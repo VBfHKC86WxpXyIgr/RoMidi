@@ -151,6 +151,7 @@ return {
 	"shock-attack-on-titan-ed6",
 	"Sincerely - Violet Evergarden OP Mhxa",
 	"Sono Chi No Sadame - Jojo's Bizarre Adventure",
+	"SPIN",
 	"Spirited Away - Inochi No Namae - The Name Of Life.Mid",
 	"Starless Night Nana OLIVIA",
 	"Steel Ball Run",
