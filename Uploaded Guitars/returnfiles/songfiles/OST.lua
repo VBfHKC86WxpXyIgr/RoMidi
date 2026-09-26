@@ -21,6 +21,7 @@ return {
 	"Misc Covers-Full Theme By JoJo Steel Ball Run-07-04-2026",
 	"Misc Covers-Jotaro'S Theme By JJBA-07-04-2026",
 	"NAZARETH.Love Hurt",
+	"Nine Thou (Grant Mohrman Superstars Remix)",
 	"OFFICIAL Roblox Bakon Theme Song",
 	"Queen - Bohemian Rhapsody",
 	"Seek (Among Us) NEW",
