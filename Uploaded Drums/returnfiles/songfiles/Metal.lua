@@ -210,6 +210,7 @@ return {
 	"Metallica - Blackened [MIDIfind.Com]",
 	"Metallica - Blackened Reversed (Intro) [MIDIfind.Com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
+	"Metallica - Creeping Death Drums",
 	"Metallica - Disposable Heroes [MIDIfind.Com]",
 	"Metallica - Dyers Eve [MIDIfind.Com]",
 	"Metallica - Fade To Black [MIDIfind.Com]",
