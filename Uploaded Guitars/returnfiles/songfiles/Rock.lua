@@ -2,6 +2,7 @@
 return {
 	"21 Guns - Green Day (Piano-Vocal-Guitar)",
 	"7 Souls",
+	"AC DC - Back In Black Tabo Version",
 	"ACDC - Thats The Way I Wanna Rock'N'Roll [MIDIfind.Com]",
 	"ACDC - Thunderstruck [MIDIfind.Com]",
 	"ACDC.Highway To Hell K",
