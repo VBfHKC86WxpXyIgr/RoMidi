@@ -130,6 +130,7 @@ return {
 	"Nirvana - Drain You (2) [MIDIfind.Com]",
 	"Nirvana - Drain You [MIDIfind.Com]",
 	"Nirvana - Dumb [MIDIfind.Com]",
+	"Nirvana - Endless Nameless Guitar",
 	"Nirvana - Heart Shaped Box [MIDIfind.Com]",
 	"Nirvana - In Bloom (2) [MIDIfind.Com]",
 	"Nirvana - In Bloom [MIDIfind.Com]",
