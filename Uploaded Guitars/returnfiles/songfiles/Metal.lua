@@ -260,6 +260,7 @@ return {
 	"Metallica - Sad But True [MIDIfind.Com]",
 	"Metallica - Seek And Destroy",
 	"Metallica - Seek And Destroy [MIDIfind.Com]",
+	"Metallica - Seek And Destroy Cliff Burton Bass",
 	"Metallica - Seek And Destroy Kirk Hammett",
 	"Metallica - Some Kind Of Monster [MIDIfind.Com]",
 	"Metallica - Spit Out The Bone",
