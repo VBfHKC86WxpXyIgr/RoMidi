@@ -187,6 +187,7 @@ return {
 	"Nirvana - Opinion [MIDIfind.Com]",
 	"Nirvana - Polly",
 	"Nirvana - Rape Me [MIDIfind.Com]",
+	"Nirvana - Scentless Apprentice",
 	"Nirvana - Scentless Apprentice (3) [MIDIfind.Com]",
 	"Nirvana - School",
 	"Nirvana - Seasons In The Sun [MIDIfind.Com]",
