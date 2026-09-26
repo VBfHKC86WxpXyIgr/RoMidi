@@ -234,6 +234,7 @@ return {
 	"Metallica - One [MIDIfind.Com]",
 	"Metallica - Phantom Lord [MIDIfind.Com]",
 	"Metallica - Ride The Lightning (11) [MIDIfind.Com]",
+	"Metallica - Ride The Lightning Drums",
 	"Metallica - Sad But True (2) [MIDIfind.Com]",
 	"Metallica - Seek And Destroy (Drum)",
 	"Metallica - Seek And Destroy [MIDIfind.Com]",
