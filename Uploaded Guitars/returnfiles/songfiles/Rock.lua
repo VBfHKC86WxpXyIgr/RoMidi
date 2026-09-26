@@ -122,6 +122,7 @@ return {
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison Ray Toro",
 	"Never Meant - American Football",
 	"Nirvana - About A Girl (MTV Unplugged) [MIDIfind.Com]",
+	"Nirvana - About A Girl Guitar",
 	"Nirvana - All Apologies [MIDIfind.Com]",
 	"Nirvana - Aneurysm [MIDIfind.Com]",
 	"Nirvana - Been A Son (2) [MIDIfind.Com]",
