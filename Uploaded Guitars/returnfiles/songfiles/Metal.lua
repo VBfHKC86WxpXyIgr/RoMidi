@@ -206,6 +206,7 @@ return {
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
 	"Metallica - Creeping Death (Solo) [MIDIfind.Com]",
 	"Metallica - Creeping Death James Hetfield",
+	"Metallica - Creeping Death Kirk Hammett",
 	"Metallica - Damage Inc [MIDIfind.Com]",
 	"Metallica - Disposable Heroes [MIDIfind.Com]",
 	"Metallica - Dyers Eve [MIDIfind.Com]",
