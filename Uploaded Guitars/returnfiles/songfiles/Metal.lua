@@ -278,6 +278,7 @@ return {
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Metallica - Wherever I May Roam [MIDIfind.Com]",
 	"Metallica - Whiplash [MIDIfind.Com]",
+	"Metallica Seek And Destroy James Hetfield",
 	"Metallica Spit Out The Bone",
 	"Michael Jackson - Thriller",
 	"Midnight Queen - Sarcofago",
