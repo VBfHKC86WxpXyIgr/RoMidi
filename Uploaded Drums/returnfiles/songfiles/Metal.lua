@@ -207,6 +207,7 @@ return {
 	"Metallica - And Justice For All [MIDIfind.Com]",
 	"Metallica - Battery (2) [MIDIfind.com]",
 	"Metallica - Battery [MIDIfind.Com]",
+	"Metallica - Blackened",
 	"Metallica - Blackened [MIDIfind.Com]",
 	"Metallica - Blackened Reversed (Intro) [MIDIfind.Com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
