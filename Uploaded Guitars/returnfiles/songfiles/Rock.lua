@@ -169,6 +169,7 @@ return {
 	"Pearl Jam - Even Flow (3) [MIDIfind.Com]",
 	"Pearl Jam - Even Flow [MIDIfind.Com]",
 	"PEARL JAM.Even Flow",
+	"Pierce The Veil - Bulls In The Bronx Bass",
 	"Pierce The Veil - Bulls In The Bronx Lead",
 	"Pierce The Veil - Bulls In The Bronx Rhythm",
 	"Queen - Bohemian Rhapsody (Guitar Solo) [MIDIfind.Com]",
