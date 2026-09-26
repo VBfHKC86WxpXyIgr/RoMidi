@@ -6,6 +6,7 @@ return {
 	"[FULL] Dystopia - The Iceblade Sorcerer Shall Rule The World OP - Piano Arrangement",
 	"【FREE】Lucky",
 	"@Brunomars - Locked Out Of Heaven (Lyrics) 1777128424549",
+	"1440-Jojos-Bizarre-Adventure-Awaken-Pilla-Makoto-V1",
 	"1JoJo Vento Aureo OP 2 Traitor'S Requiem (Uragirimono No Requiem)",
 	"1Jotaro'S Theme From Jojo'S Bizarre Adventures Stardust Crusaders",
 	"1Red Swan - Attack On Titan Season 3 Opening",
