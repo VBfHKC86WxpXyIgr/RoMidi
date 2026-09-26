@@ -205,6 +205,7 @@ return {
 	"Metallica - Blackened Solo Tutorial By Chris Zoupa [MIDIfind.Com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
 	"Metallica - Creeping Death (Solo) [MIDIfind.Com]",
+	"Metallica - Creeping Death Cliff Burton Bass",
 	"Metallica - Creeping Death James Hetfield",
 	"Metallica - Creeping Death Kirk Hammett",
 	"Metallica - Damage Inc [MIDIfind.Com]",
