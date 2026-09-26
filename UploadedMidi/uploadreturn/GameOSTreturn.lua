@@ -64,6 +64,7 @@ return {
 	"Eldoraudio-The Green Orbs - After School Jamboree  Happy   1 ",
 	"Eldoraudio-The-Builder chosic.com ",
 	"Eldoraudio-Wallpaper chosic.com ",
+	"Escalator Jam",
 	"Event Horizon (1)",
 	"Fallen Down - Toby Fox",
 	"Fallen down (Reprise)",
