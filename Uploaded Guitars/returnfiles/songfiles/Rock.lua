@@ -131,6 +131,7 @@ return {
 	"Nirvana - Breed (2) [MIDIfind.Com]",
 	"Nirvana - Drain You (2) [MIDIfind.Com]",
 	"Nirvana - Drain You [MIDIfind.Com]",
+	"Nirvana - Drain You Bass",
 	"Nirvana - Drain You Guitar",
 	"Nirvana - Dumb [MIDIfind.Com]",
 	"Nirvana - Endless Nameless Bass",
