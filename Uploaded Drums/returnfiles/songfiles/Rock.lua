@@ -231,6 +231,7 @@ return {
 	"Radiohead - Subterranean Homesick Alien [MIDIfind.Com]",
 	"Radiohead - The Bends (2) [MIDIfind.Com]",
 	"Radiohead - Weird Fishes Arpeggi",
+	"Ramones - Blitzkrieg Bop (Drum)",
 	"Red Hot Chili Peppers - Californication (Drum)",
 	"Rollin",
 	"Rush - YYZ (Drum)",
