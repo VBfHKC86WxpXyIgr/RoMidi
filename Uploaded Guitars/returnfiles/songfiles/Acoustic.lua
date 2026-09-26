@@ -151,6 +151,7 @@ return {
 	"Kidhord Bodyslam Greed Guitar2 26",
 	"King Crimson - 21st Century Schizoid ManGreed",
 	"Kroi - JOJO SPIN Greed Bass",
+	"Kroi - JOJO SPIN Greed Guitar1",
 	"LArcenCiel - Drivers High",
 	"Led Zeppelin - Stairway To Heaven - Fingerstyle",
 	"Linked Horizon - Attack On Titan OpShingeki No Kyojin Op",
