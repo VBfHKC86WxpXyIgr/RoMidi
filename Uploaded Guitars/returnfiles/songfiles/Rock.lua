@@ -170,6 +170,7 @@ return {
 	"Pearl Jam - Even Flow [MIDIfind.Com]",
 	"PEARL JAM.Even Flow",
 	"Pierce The Veil - Bulls In The Bronx Lead",
+	"Pierce The Veil - Bulls In The Bronx Rhythm",
 	"Queen - Bohemian Rhapsody (Guitar Solo) [MIDIfind.Com]",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
 	"Radiohead - 15 Step [MIDIfind.Com]",
