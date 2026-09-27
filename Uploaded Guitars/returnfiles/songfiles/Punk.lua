@@ -15,6 +15,7 @@ return {
 	"Green Day - Are We The Waiting [MIDIfind.Com]",
 	"Green Day - Basket Case [MIDIfind.Com]",
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
+	"Green Day - Boulevard Of Broken Dreams Bass",
 	"Green Day - Boulevard Of Broken Dreams Billie",
 	"Green Day - Boulevard Of Broken Dreams Jason White",
 	"Green Day - Brain Stew [MIDIfind.Com]",
