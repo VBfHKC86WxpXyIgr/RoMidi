@@ -116,6 +116,7 @@ return {
 	"Green Day - Holiday (Songparts.Com)",
 	"Green Day - Jesus Of Suburbia (2) [MIDIfind.Com]",
 	"Green Day - Letterbomb [MIDIfind.Com]",
+	"Green Day - Longview",
 	"Green Day - Longview (Drum)",
 	"Green Day - Longview [MIDIfind.Com]",
 	"Green Day - No One Knows [MIDIfind.Com]",
