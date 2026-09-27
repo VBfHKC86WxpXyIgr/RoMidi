@@ -224,6 +224,7 @@ return {
 	"Metallica - Fade To Black Solo Guitar Kelly Valleau [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire [MIDIfind.Com]",
+	"Metallica - For Whom The Bell Toll Kirk Hammett",
 	"Metallica - For Whom The Bell Tolls [MIDIfind.Com]",
 	"Metallica - For Whom The Bell Tolls James Hetfield",
 	"Metallica - Frayed Ends Of Sanity [MIDIfind.Com]",
