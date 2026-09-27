@@ -43,6 +43,7 @@ return {
 	"Green Day - Welcome To Paradise Lead",
 	"Green Day - Welcome To Paradise Rhythm",
 	"Green Day - Whatsername [MIDIfind.Com]",
+	"Green Day - Whatsername Billie",
 	"Green Day - When I Come Around [MIDIfind.Com]",
 	"Green Dayst Jimmy",
 	"Hybrid Moments - The Misfits (Vocal)",
