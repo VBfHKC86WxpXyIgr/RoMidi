@@ -55,6 +55,7 @@ return {
 	"Daft Punk - Robot Rock [MIDIfind.Com]",
 	"Dire Straits - Lady Writer (2) [MIDIfind.Com]",
 	"Dont Say Lazy",
+	"Dragon Ball Super- Goku Black'S Fan Made Theme",
 	"DragonForce - Through The Fire And Flames KLICKAUD Converted",
 	"EnterSandman Tabo Version",
 	"Fastest-Thing-Alive-Full-Version",
