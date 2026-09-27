@@ -20,6 +20,7 @@ return {
 	"Arctic Monkeys - Crying Lightning [MIDIfind.Com]",
 	"Arctic Monkeys - Do I Wanna Know [MIDIfind.com]",
 	"Arctic Monkeys - R U Mine [MIDIfind.com]",
+	"Arr. Johanna Schipperijn - 7 Nation Army",
 	"Audioslave - Like A Stone [MIDIfind.Com]",
 	"Avenged Sevenfold - Bat Country [MIDIfind.Com]",
 	"Avenged Sevenfold - Dear God [MIDIfind.Com]",
