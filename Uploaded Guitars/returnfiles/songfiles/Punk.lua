@@ -40,6 +40,7 @@ return {
 	"Green Day - Stray Heart [MIDIfind.Com]",
 	"Green Day - Welcome To Paradise [MIDIfind.Com]",
 	"Green Day - Welcome To Paradise Lead",
+	"Green Day - Welcome To Paradise Rhythm",
 	"Green Day - Whatsername [MIDIfind.Com]",
 	"Green Day - When I Come Around [MIDIfind.Com]",
 	"Green Dayst Jimmy",
