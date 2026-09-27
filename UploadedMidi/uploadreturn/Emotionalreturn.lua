@@ -78,6 +78,7 @@ return {
 	"Can You Hear The Music(BEST V2 VERSION)",
 	"Can-You-Hear-The-Music-Ludwig-Goransson-From-Oppenheimer(BEST VERSION)",
 	"Can-You-Hear-The-Music((BEST V3 VERSION)",
+	"Candyman - It Was Always You Helen",
 	"Carol Of The BellsPiano(BEST VERSION)",
 	"Chamber Of Reflection",
 	"CHAOS CONSTRUCT (HUMAN BEST VERSION)",
