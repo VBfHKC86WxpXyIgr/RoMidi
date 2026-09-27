@@ -129,6 +129,7 @@ return {
 	"Green Day - Welcome To Paradise",
 	"Green Day - Welcome To Paradise (Drum)",
 	"Green Day - Welcome To Paradise [MIDIfind.Com]",
+	"Green Day - Whatsername",
 	"Green Day - Whatsername [MIDIfind.Com]",
 	"Green Day - When I Come Around [MIDIfind.Com]",
 	"Green Dayst Jimmy",
