@@ -226,6 +226,7 @@ return {
 	"Metallica - Fight Fire With Fire [MIDIfind.Com]",
 	"Metallica - For Whom The Bell Toll Kirk Hammett",
 	"Metallica - For Whom The Bell Tolls [MIDIfind.Com]",
+	"Metallica - For Whom The Bell Tolls Cliff Burton Bass",
 	"Metallica - For Whom The Bell Tolls James Hetfield",
 	"Metallica - Frayed Ends Of Sanity [MIDIfind.Com]",
 	"Metallica - Fuel (2) [MIDIfind.Com]",
