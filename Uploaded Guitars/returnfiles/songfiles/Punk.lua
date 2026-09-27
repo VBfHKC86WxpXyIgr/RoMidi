@@ -39,6 +39,7 @@ return {
 	"Green Day - She'S A Rebel [MIDIfind.Com]",
 	"Green Day - Stray Heart [MIDIfind.Com]",
 	"Green Day - Welcome To Paradise [MIDIfind.Com]",
+	"Green Day - Welcome To Paradise Bass",
 	"Green Day - Welcome To Paradise Lead",
 	"Green Day - Welcome To Paradise Rhythm",
 	"Green Day - Whatsername [MIDIfind.Com]",
