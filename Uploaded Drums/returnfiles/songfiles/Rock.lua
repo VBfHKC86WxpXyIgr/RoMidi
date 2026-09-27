@@ -126,6 +126,7 @@ return {
 	"Green Day - She'S A Rebel [MIDIfind.Com]",
 	"Green Day - Stray Heart [MIDIfind.Com]",
 	"Green Day - Wake Me Up When September Ends (Drum)",
+	"Green Day - Welcome To Paradise",
 	"Green Day - Welcome To Paradise (Drum)",
 	"Green Day - Welcome To Paradise [MIDIfind.Com]",
 	"Green Day - Whatsername [MIDIfind.Com]",
