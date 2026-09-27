@@ -16,6 +16,7 @@ return {
 	"Green Day - Basket Case [MIDIfind.Com]",
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
 	"Green Day - Boulevard Of Broken Dreams Billie",
+	"Green Day - Boulevard Of Broken Dreams Jason White",
 	"Green Day - Brain Stew [MIDIfind.Com]",
 	"Green Day - Burnout [MIDIfind.Com]",
 	"Green Day - Cigarettes And Valentines [MIDIfind.Com]",
