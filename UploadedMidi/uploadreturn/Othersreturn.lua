@@ -324,6 +324,7 @@ return {
 	"Flower Dance Had",
 	"Flowering Night",
 	"Fly A Letter To The Wind",
+	"Fnaf - Join Us For A Bite",
 	"FNF Taimuresu - Maevings Taimuresu",
 	"Fnf Thearchy - Seven2030291",
 	"For The Delta",
