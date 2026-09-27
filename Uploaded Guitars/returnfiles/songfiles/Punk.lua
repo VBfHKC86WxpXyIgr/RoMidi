@@ -43,6 +43,7 @@ return {
 	"Green Day - Welcome To Paradise Lead",
 	"Green Day - Welcome To Paradise Rhythm",
 	"Green Day - Whatsername [MIDIfind.Com]",
+	"Green Day - Whatsername Bass",
 	"Green Day - Whatsername Billie",
 	"Green Day - Whatsername Jason White",
 	"Green Day - When I Come Around [MIDIfind.Com]",
