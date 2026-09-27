@@ -29,6 +29,7 @@ return {
 	"Green Day - Last Night On Earth",
 	"Green Day - Letterbomb [MIDIfind.Com]",
 	"Green Day - Longview [MIDIfind.Com]",
+	"Green Day - Longview Bass",
 	"Green Day - Longview Guitar",
 	"Green Day - No One Knows [MIDIfind.Com]",
 	"Green Day - One Eyed Bastard (SPOTISAVER)",
