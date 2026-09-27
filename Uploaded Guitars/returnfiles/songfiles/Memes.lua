@@ -9,6 +9,7 @@ return {
 	"Hammer Smashed Face",
 	"Happy-Birthday-To-You-4",
 	"Home - Were Finally Landing 65702210",
+	"It'S Just A Burning Memory Fingerstyle",
 	"Jingle-Bells-Guitar-Glenn-Jarrett",
 	"Michael Jackson - Billie Jean",
 	"Misc Covers-Aruarian Dance - Simplified By Nujabes-07-04-2026",
