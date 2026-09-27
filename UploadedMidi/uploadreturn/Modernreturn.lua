@@ -180,6 +180,7 @@ return {
 	"Lover Girl (Laufey - But Classical) (MS)",
 	"Lux Aeterna -- Requiem For A Dream",
 	"Made Sum Plans (Osamason)",
+	"Magnetic ILLIT",
 	"Mala Vida Mala Fama",
 	"Marc Indigo - Boy For The Weekend",
 	"Massive - Drake",
