@@ -212,6 +212,7 @@ return {
 	"Title Theme (The Legend Of Zelda Ocarina Of Time)",
 	"Toby-Fox-BIG-SHOT-Anonymous-20211024150741-Nonstop2k.Com",
 	"Toby-Fox-Camellia-Flower-Man-35070-Nonstop2k.Com",
+	"Torre De Abrazos De Troll 1,2,3 Theme",
 	"Touhou - BAD APPLE NORMAL Mhxa",
 	"Town Talk",
 	"Triage At Dawn",
