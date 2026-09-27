@@ -53,6 +53,7 @@ return {
 	"Creed - One Last Breath [MIDIfind.Com]",
 	"Crybaby - Destroy Boys",
 	"Daft Punk - Robot Rock [MIDIfind.Com]",
+	"Dbs-Broly-Theme-Dragon-Ball-Fighterz",
 	"Dire Straits - Lady Writer (2) [MIDIfind.Com]",
 	"Dont Say Lazy",
 	"Dragon Ball Super- Goku Black'S Fan Made Theme",
