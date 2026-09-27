@@ -4,6 +4,7 @@ return {
 	"1Buena Vida Mala Fama (King Nasir) - Crish Ramirez Playable",
 	"Arabian",
 	"Christmas Carols - Jingle Bells",
+	"Dragon Ball Super OST Ultra Instinct Goku 【 ドラゴンボール超】身勝手の極意 孫悟空のテーマ",
 	"Gdzie Jest Bialy Wegorz (Zejscie)",
 	"Hammer Smashed Face",
 	"Happy-Birthday-To-You-4",
