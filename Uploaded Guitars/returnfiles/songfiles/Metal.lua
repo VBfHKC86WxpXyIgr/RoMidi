@@ -247,6 +247,7 @@ return {
 	"Metallica - Master Of Puppets (17) [MIDIfind.Com]",
 	"Metallica - Master Of Puppets (23) [MIDIfind.Com]",
 	"Metallica - Master Of Puppets [MIDIfind.Com]",
+	"Metallica - Master Of Puppets Cliff Burton Bass",
 	"Metallica - Master Of Puppets James Hetfield",
 	"Metallica - Master Of Puppets Kirk Hammett",
 	"Metallica - Metal Militia [MIDIfind.Com]",
