@@ -216,6 +216,7 @@ return {
 	"Metallica - Dyers Eve [MIDIfind.Com]",
 	"Metallica - Fade To Black [MIDIfind.Com]",
 	"Metallica - Fade To Black Drums",
+	"Metallica - Fight Fire With Fire",
 	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - For Whom The Bell Tolls",
 	"Metallica - For Whom The Bell Tolls [MIDIfind.Com]",
