@@ -355,6 +355,7 @@ return {
 	"Glorious Crown - Xi",
 	"God Of War Ragnarok",
 	"GộI ĐầU",
+	"GọI TêN Em",
 	"Gojira-Flying Whales Official",
 	"Golden Brown - The Stranglers",
 	"Golden Hour - JVKE (Updated Ver.)",
