@@ -28,5 +28,6 @@ return {
 	"The Dragon Theme (Original) [Clean Cut]",
 	"The Legend Of Zelda Great Fairy Fountain (Piano Cover)",
 	"Vegeta Fights Frieza [Clean Cut]",
+	"What I'M Made Of",
 	"Wonderful-Tonight-3",
 }
