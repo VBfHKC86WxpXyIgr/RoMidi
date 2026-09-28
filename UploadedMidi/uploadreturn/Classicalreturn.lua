@@ -266,6 +266,7 @@ return {
 	"Rush E 2 Real Black MIDI!! HSR",
 	"Rush E 3",
 	"Rush E but its as difficult as humanly possible",
+	"Rush E Easy",
 	"RUSH E FINAL",
 	"Rush E Real",
 	"RUSH E SMBs Version Pre-Remaster",
