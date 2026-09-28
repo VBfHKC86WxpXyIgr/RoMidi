@@ -224,6 +224,7 @@ return {
 	"Metallica - Fade To Black Solo Guitar Kelly Valleau [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire (7) [MIDIfind.Com]",
 	"Metallica - Fight Fire With Fire [MIDIfind.Com]",
+	"Metallica - Fight Fire With Fire Cliff Burton Bass",
 	"Metallica - Fight Fire With Fire James Hetfield",
 	"Metallica - Fight Fire With Fire Kirk Hammett",
 	"Metallica - For Whom The Bell Toll Kirk Hammett",
