@@ -39,6 +39,7 @@ return {
 	"Alan-Walker-The-Spectre-Anonymous-20200425083142-Nonstop2k.Com",
 	"ALL MY FELLAS 8FR",
 	"Ang Huling El Bimbo",
+	"Animal",
 	"Ao No Sumika (JJK T2 OP)",
 	"Arctic Monkeys Arr. Lucky Piano - No. 1 Party Anthem (1)",
 	"Ariana Grande, Justin Bieber - Stuck With U",
