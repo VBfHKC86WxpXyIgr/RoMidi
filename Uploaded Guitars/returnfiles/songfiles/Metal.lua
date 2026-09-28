@@ -248,6 +248,7 @@ return {
 	"Metallica - Master Of Puppets (23) [MIDIfind.Com]",
 	"Metallica - Master Of Puppets [MIDIfind.Com]",
 	"Metallica - Master Of Puppets James Hetfield",
+	"Metallica - Master Of Puppets Kirk Hammett",
 	"Metallica - Metal Militia [MIDIfind.Com]",
 	"Metallica - Motorbreath (2) [MIDIfind.Com]",
 	"Metallica - Motorbreath [MIDIfind.Com]",
