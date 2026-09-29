@@ -306,6 +306,7 @@ return {
 	"Everything'S Gonna Be Okay (Pikuniku) - Calum Bowen",
 	"Evil Morty Meme Theme",
 	"Evil Morty Meme Theme (1)",
+	"Eyestalk",
 	"F-L-Y - スペクトラム] (FLY By Spectrum)",
 	"F・L・Y - スペクトラム (Spectrum)",
 	"Fade To Black Piano Ig",
