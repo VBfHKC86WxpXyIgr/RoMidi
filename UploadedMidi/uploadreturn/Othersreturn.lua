@@ -258,6 +258,7 @@ return {
 	"Dont Touch My Pizza",
 	"DONT+TOUCH+MY+PIZZA",
 	"DONTSTOPMENOW",
+	"Dozers Domain - Grace OST",
 	"Drowning Love - Chasing Kou Mhxa",
 	"Dù Cho TậN Thế",
 	"DueñOs Del Swing 2026-09-06 19-27-31",
