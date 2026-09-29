@@ -532,6 +532,7 @@ return {
 	"Michael Jackson - Human Nature WWW.MIDISFREE.COM",
 	"Mihriban",
 	"MìNh CướI Nhau đI",
+	"Mini-Loop Silent Night Spokoynaya Noch (Kino); Fall From The Sky Pt.2 (Slowed) (RomancePlanet)",
 	"Misery",
 	"Misery. - Pupsies",
 	"Miss You - Oliver Tree & Robin Schulz",
