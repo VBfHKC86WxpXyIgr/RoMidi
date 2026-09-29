@@ -841,6 +841,7 @@ return {
 	"Uh Uh -- Thundercat",
 	"UN OWEN WAS HER 2 Player",
 	"ƯớC Mơ CủA Mẹ",
+	"Upast (Discipline)",
 	"Uzunince",
 	"Valentine Chờ",
 	"VâY Giữ",
