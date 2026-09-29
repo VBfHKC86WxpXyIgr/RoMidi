@@ -503,6 +503,7 @@ return {
 	"Love Me",
 	"Love Of My Life -Queen",
 	"Love Story X Golden Brown",
+	"Love Story X Golden Brown (1) (1)",
 	"Lucid Dreams",
 	"Lullaby",
 	"Lyin' 2 Me - Among Us Song 2026-09-10 15-39-14",
