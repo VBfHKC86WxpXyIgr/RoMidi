@@ -8,6 +8,7 @@ return {
 	"D CR0057",
 	"Daft Punk - Get Lucky [MIDIfind.Com]",
 	"Daft+Punk+-+Get+Lucky+(Slowed+++Reverb) 128k",
+	"Doja Cat - Say So Bass [MIDIfind.Com]",
 	"Event Horizon (Reach For The Sun And Burn! Burn! Burn!) - ULTRAKILL OST",
 	"Get Proto Art Of Guitar (2)",
 	"Get Proto Life Force (1)",
