@@ -182,6 +182,7 @@ return {
 	"ChúNg Ta KhôNg ThuộC Về Nhau",
 	"ChúNg Ta KhôNg ThuộC Về Nhau 2",
 	"ChuyệN ĐôI Ta X VếT MưA",
+	"Claire De Lune",
 	"Clownofobia V2",
 	"CLOWNOFOBIA🤡🔪",
 	"Club Misterio - DEEP WEB",
