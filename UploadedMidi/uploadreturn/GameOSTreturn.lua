@@ -221,6 +221,7 @@ return {
 	"ULTRAKILL - Mirror Rim Intro",
 	"ULTRAKILL - The World Looks Red [WIP]",
 	"Undertale - Asgore",
+	"Undertale - Death By Glamour.Mid",
 	"Undertale - Ruins",
 	"Undertale - Ruins [Piano]",
 	"Undertale - SAVE the World",
