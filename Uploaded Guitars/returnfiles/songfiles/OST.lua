@@ -29,5 +29,6 @@ return {
 	"The Legend Of Zelda Great Fairy Fountain (Piano Cover)",
 	"Vegeta Fights Frieza [Clean Cut]",
 	"What I'M Made Of",
+	"What I'M Made Of… (2026 AI Version) (1)",
 	"Wonderful-Tonight-3",
 }
