@@ -49,6 +49,7 @@ return {
 	"50 Megadeth RIFFS",
 	"50 Metallica RIFFS",
 	"50 Nirvana RIFFS",
+	"5469 - D2s1",
 	"60375 Purnama-Merindu-",
 	"6K 6666666Notes [0.8K]",
 	"7 Weeks & 3 Days",
