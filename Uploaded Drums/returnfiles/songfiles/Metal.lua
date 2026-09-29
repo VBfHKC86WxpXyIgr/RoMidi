@@ -189,6 +189,7 @@ return {
 	"Linkin Park - One Step Closer [MIDIfind.Com]",
 	"Linkin Park - Papercut [MIDIfind.Com]",
 	"Lithium - Nirvana Drums And Leadsheet",
+	"Lorna Shore - Oblivion (Songparts.Com)",
 	"Master of Puppets",
 	"Megadeth - Devils Island [MIDIfind.Com]",
 	"Megadeth - Holy Wars",
