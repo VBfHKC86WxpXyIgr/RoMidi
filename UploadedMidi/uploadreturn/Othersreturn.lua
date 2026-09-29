@@ -112,6 +112,7 @@ return {
 	"Beatles (The) - Strawberry Fields Forever [MIDIfind.Com]",
 	"Beautiful In White",
 	"Because I Miss You",
+	"Bedrott - Duskydemise",
 	"Beethoven - Virus Mhxa",
 	"Beethoven Symphony No 5 (1st Movement) Piano Solo",
 	"Beethoven Virus",
