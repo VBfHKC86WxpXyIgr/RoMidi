@@ -167,6 +167,7 @@ return {
 	"ChẳNg PhảI TìNh đầU Sao đAu đếN Thế",
 	"ChàNg Trai NăM ấY Ost",
 	"Charlies Inferno",
+	"Charlies Inferno Remix WIP",
 	"ChạY Ngay đI",
 	"Cheri Cheri Lady",
 	"ChịU đựNg đủ RồI",
