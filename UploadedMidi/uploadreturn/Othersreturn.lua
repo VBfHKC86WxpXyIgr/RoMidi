@@ -681,6 +681,7 @@ return {
 	"Robert Miles - Children (Piano Version)",
 	"Robleis - Una Noche Mas",
 	"RồI Ta Sẽ NgắM PháO Hoa CùNg Nhau",
+	"Roi Videoclub (1)",
 	"Rosalina In The Observatory 3 - Super Mario Galaxy 2",
 	"RPReplay Final1783229073.Mp3",
 	"Rude Buster - Deltarune (PIANO SOLO)",
