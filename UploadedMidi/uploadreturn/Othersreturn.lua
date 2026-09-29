@@ -684,6 +684,7 @@ return {
 	"RồI Ta Sẽ NgắM PháO Hoa CùNg Nhau",
 	"Roi Videoclub",
 	"Roi Videoclub (1)",
+	"Roi X Did I Tell U That I Miss U",
 	"Rosalina In The Observatory 3 - Super Mario Galaxy 2",
 	"RPReplay Final1783229073.Mp3",
 	"Rude Buster - Deltarune (PIANO SOLO)",
