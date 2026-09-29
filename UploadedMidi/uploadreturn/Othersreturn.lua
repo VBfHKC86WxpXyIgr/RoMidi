@@ -818,6 +818,7 @@ return {
 	"The Girl From Ipanema (Garota De Ipanema) - Antonio Carlos Jobim, Vinicius De Moraes (Piano Solo)",
 	"The Grand Finale - Piano Solo - Mario And Luigi Bowser039s Inside Story",
 	"The Last Of Us - Gustavo Santaolalla (Piano Solo)",
+	"The Long Faces - Jane!",
 	"The Odyssey - Odysseus (EPIC Piano Cover)",
 	"The Perfect Girl",
 	"The Shop From Pikuniku",
