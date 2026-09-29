@@ -426,6 +426,7 @@ return {
 	"Venom - Prime Evil [MIDIfind.Com]",
 	"Venom - Welcome To Hell [MIDIfind.Com]",
 	"Venom - Witching Hour [MIDIfind.Com]",
+	"Vincent - Raining Blood (1)",
 	"VØJ & Narvent - Memory Reboot",
 	"War - Burzum",
 	"WASP - On Your Knees [MIDIfind.Com]",
