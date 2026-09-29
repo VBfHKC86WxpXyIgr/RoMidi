@@ -82,6 +82,7 @@ return {
 	"Chpn Op35 3",
 	"Christina Perri - A Thousand Years (Piano Cover)",
 	"Classical-Music-Mashup(BEST VERSION)",
+	"Coldplay Clocks Piano Kvneir",
 	"Counting stars",
 	"Creep - Radiohead",
 	"Czardas",
