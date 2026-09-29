@@ -131,6 +131,7 @@ return {
 	"Output",
 	"Path Of The Wind - Totoro OST Mhxa",
 	"pf solo",
+	"PIANO - Hakari Dance Theme「Admiring You」Private Pure Love Train - Jujutsu Kaisen (1)",
 	"popipo - Hatsune miku - midi by tutogamer2a - WIP",
 	"Promise Neverland - Isabella'S Lullaby Mhxa",
 	"Radiohead - No Surprises",
