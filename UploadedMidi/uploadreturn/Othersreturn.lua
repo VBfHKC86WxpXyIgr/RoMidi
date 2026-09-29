@@ -215,6 +215,7 @@ return {
 	"Cradles Mhxa",
 	"Crash E",
 	"CRASH E (1)",
+	"Credit Song For My Death-Vivivivivivi",
 	"Cry For Me - Ironmouse Playable Ver",
 	"Cry For Me (Feat. Ami)",
 	"Crystal Dolphin",
