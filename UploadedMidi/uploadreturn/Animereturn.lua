@@ -149,6 +149,7 @@ return {
 	"Shinzou wo Sasageyo HalcyonMusic",
 	"Shinzou-Wo-Sasageyo",
 	"shock-attack-on-titan-ed6",
+	"Silhouette By KANA-BOON Opening 16 Kvneir",
 	"Sincerely - Violet Evergarden OP Mhxa",
 	"Sono Chi No Sadame - Jojo's Bizarre Adventure",
 	"SPIN",
