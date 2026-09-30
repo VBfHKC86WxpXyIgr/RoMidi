@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"21 Guns - Green Day (Green Day) 21 Guns",
+	"3 Doors Down - Kryptonite (Drum)",
 	"4 Non Blondes - What'S Up (Drum)",
 	"505",
 	"ACDC - It'S A Long Way To The Top If You Wanna Rock'N'Roll [MIDIfind.Com]",
