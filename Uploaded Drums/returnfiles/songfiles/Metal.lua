@@ -142,6 +142,7 @@ return {
 	"FreakOnALeash",
 	"Gentley",
 	"Girlfriends - New Computers",
+	"Gojira - Stranded (Songparts.Com)",
 	"GoodGod",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Guns N' Roses - Sweet Child O' Mine [MIDIfind.com]",
