@@ -26,6 +26,7 @@ return {
 	"Basement - Are You The One",
 	"Basic Pitch Transcription",
 	"Batta - Chase",
+	"Batta - Chase ByGreed Guitar2",
 	"Batta - Chase-Jojo",
 	"Batta - Chase-JojoDr",
 	"Beabadoobee - The Way Things Go",
