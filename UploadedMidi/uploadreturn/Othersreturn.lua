@@ -779,6 +779,7 @@ return {
 	"Studio Ghibli Piano",
 	"SUFFER WITH ME",
 	"Sukidakara",
+	"Sunflower - Post Malone & Swae Lee",
 	"SunKissed Lola - Pasilyo (Official Lyric Video)",
 	"Sunkissed Lola - Pasilyo Mhxa",
 	"Sunlight Sonata 3rd",
