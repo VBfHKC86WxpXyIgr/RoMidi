@@ -324,6 +324,7 @@ return {
 	"V4",
 	"V5",
 	"Vangelis - La Petite Fille De La Mere [MIDIfind.Com]",
+	"Vierra - Seandainya Kvneir",
 	"Vierra-Rasa-Ini-Anonymous-20200323154206-Nonstop2k.Com",
 	"Virginio Aiello, On Piano - Van Gogh",
 	"Viva La Vida",
