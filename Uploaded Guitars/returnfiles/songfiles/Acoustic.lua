@@ -38,6 +38,7 @@ return {
 	"Black Sabbath - NIB Bass",
 	"Black Sabbath - NIB Guitar",
 	"Black Sabbath - Paranoid Greed Guitar1",
+	"Black Sabbath - Paranoid Greed Guitar2",
 	"Black Sabbath - Paranoid Greed Guitar3 11",
 	"Bleach - Ranbu No Melody (OP 13)",
 	"Boa - Duvet Arranged",
