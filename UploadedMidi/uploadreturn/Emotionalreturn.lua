@@ -368,6 +368,7 @@ return {
 	"Restles By Me",
 	"Restless By Untitled",
 	"Restless X Unslept X I Love You So X Nope You'Re Too Late I Already Died",
+	"RêVerie Claude Debussy (BEST VERSION)",
 	"RickRoll",
 	"Risk It All  Bruno Mars 1776838404638",
 	"River Flows In You",
