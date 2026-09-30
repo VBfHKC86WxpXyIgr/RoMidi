@@ -40,6 +40,7 @@ return {
 	"Fingerstyle",
 	"Foo Fighters - Everlong [MIDIfind.Com]",
 	"GOAT - Polyphia G O A T - Copy Mscz",
+	"Goo Goo Dolls-Iris",
 	"Guns N Roses - Sweet Child O Mine",
 	"Hava Nagila A Z Idelsohn",
 	"Hendrix Jimi - Voodoo Child Slight Return Woodstock [MIDIfind.Com]",
