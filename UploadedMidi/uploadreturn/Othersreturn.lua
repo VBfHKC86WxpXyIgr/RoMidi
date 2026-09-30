@@ -835,6 +835,7 @@ return {
 	"ThiếU NiêN Hoa HồNg",
 	"Think! (Final Jeopardy! Think Music)",
 	"ThờI KhôNg Sai LệCh",
+	"Thu CuốI",
 	"ThứC GiấC",
 	"ThươNg Em Là đIềU Anh KhôNg Ngờ",
 	"Tidal Wave Piano Ver Og By Symphoniac IT0",
