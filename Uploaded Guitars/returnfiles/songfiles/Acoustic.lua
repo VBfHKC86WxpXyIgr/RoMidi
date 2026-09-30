@@ -37,6 +37,7 @@ return {
 	"Binks Rum Binks Sake 1780241727588",
 	"Black Sabbath - NIB Bass",
 	"Black Sabbath - NIB Guitar",
+	"Black Sabbath - Paranoid Greed Guitar1",
 	"Black Sabbath - Paranoid Greed Guitar3 11",
 	"Bleach - Ranbu No Melody (OP 13)",
 	"Boa - Duvet Arranged",
