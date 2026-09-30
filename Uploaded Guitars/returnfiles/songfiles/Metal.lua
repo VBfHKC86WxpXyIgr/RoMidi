@@ -240,6 +240,7 @@ return {
 	"Metallica - Helpless [MIDIfind.Com]",
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - Holier Than Thou [MIDIfind.Com]",
+	"Metallica - If Darkness Had A S0N",
 	"Metallica - If Darkness Had A Son James Hetfield",
 	"Metallica - If Darkness Had A Son Kirk Hammett",
 	"Metallica - If Darkness Had A Son Rob Trujillo Bass",
