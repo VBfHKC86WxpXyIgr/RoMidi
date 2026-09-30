@@ -57,6 +57,7 @@ return {
 	"Buckethead - Soothsayer [MIDIfind.Com]",
 	"Bullet For My Valentine - Tears Don'T Fall (2) [MIDIfind.Com]",
 	"Bullet For My Valentine - Tears Don'T Fall [MIDIfind.Com]",
+	"Burried Alive",
 	"Burzum - Det Som En Gang Var [MIDIfind.Com]",
 	"Burzum - Dunkelheit Burzum [MIDIfind.Com]",
 	"Burzum - Ea Lord Of The Depths [MIDIfind.Com]",
