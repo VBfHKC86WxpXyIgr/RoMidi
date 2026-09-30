@@ -364,6 +364,7 @@ return {
 	"Rebzyyx - I'M So Fucked Up Please Help Me",
 	"Recuerdame - Coco Disney",
 	"Reflections - Gabriel Albu(BEST VERSION)",
+	"Reminiscence Johannes BornlöF(BEST VERSION)",
 	"Restles By Me",
 	"Restless By Untitled",
 	"Restless X Unslept X I Love You So X Nope You'Re Too Late I Already Died",
