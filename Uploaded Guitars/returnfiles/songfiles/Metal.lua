@@ -242,6 +242,7 @@ return {
 	"Metallica - Holier Than Thou [MIDIfind.Com]",
 	"Metallica - If Darkness Had A Son James Hetfield",
 	"Metallica - If Darkness Had A Son Kirk Hammett",
+	"Metallica - If Darkness Had A Son Rob Trujillo Bass",
 	"Metallica - Jump In The Fire [MIDIfind.Com]",
 	"Metallica - Last Caress (2) [MIDIfind.Com]",
 	"Metallica - Leper Messiah [MIDIfind.Com]",
