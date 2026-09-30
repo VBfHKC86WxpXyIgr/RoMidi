@@ -142,6 +142,7 @@ return {
 	"FreakOnALeash",
 	"Gentley",
 	"Girlfriends - New Computers",
+	"Gojira - Flying Whales (Songparts.Com)",
 	"Gojira - Stranded (Songparts.Com)",
 	"GoodGod",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
