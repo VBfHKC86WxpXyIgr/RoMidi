@@ -226,6 +226,7 @@ return {
 	"Metallica - Fuel (2) [MIDIfind.Com]",
 	"Metallica - Harvester Of Sorrow (2) [MIDIfind.Com]",
 	"Metallica - Hit The Lights [MIDIfind.Com]",
+	"Metallica - If Darkness Had A Son",
 	"Metallica - Last Caress (2) [MIDIfind.Com]",
 	"Metallica - Lux ÆTerna (Songparts.Com)",
 	"Metallica - Master Of Puppets",
