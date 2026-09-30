@@ -240,6 +240,7 @@ return {
 	"Metallica - Helpless [MIDIfind.Com]",
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - Holier Than Thou [MIDIfind.Com]",
+	"Metallica - If Darkness Had A Son James Hetfield",
 	"Metallica - Jump In The Fire [MIDIfind.Com]",
 	"Metallica - Last Caress (2) [MIDIfind.Com]",
 	"Metallica - Leper Messiah [MIDIfind.Com]",
