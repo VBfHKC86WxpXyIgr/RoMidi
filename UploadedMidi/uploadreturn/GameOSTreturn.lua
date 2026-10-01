@@ -233,6 +233,7 @@ return {
 	"Uwa!! So Temperate♫ (UNDERTALE)",
 	"Valve HALF LIFE 2 OST (Www.Lightaudio.Ru)",
 	"War Without Reason MIDI (1)",
+	"War Without Reason ULTRAKILL 7-4 By Strix",
 	"Waterdrop (1)",
 	"Waterdrop-The Nonexistence Of You And Me OST",
 	"Wet Hands (Minecraft)",
