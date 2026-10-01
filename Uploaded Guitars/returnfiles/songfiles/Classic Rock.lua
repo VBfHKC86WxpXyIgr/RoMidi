@@ -34,6 +34,7 @@ return {
 	"Ctgther",
 	"Do You Wanna Know A Secret",
 	"DrMetal",
+	"Duskydemise - Bedrott",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Fall Of Troy (The) - F.C.P.R.E.M.I.X",
 	"Fastest-Thing-Alive-Full-Version (1)",
