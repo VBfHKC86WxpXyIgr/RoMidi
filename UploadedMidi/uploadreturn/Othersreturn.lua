@@ -830,6 +830,7 @@ return {
 	"The Long Faces - Jane!",
 	"The Odyssey - Odysseus (EPIC Piano Cover)",
 	"The Perfect Girl",
+	"The Rare Occasions - Notion",
 	"The Shop From Pikuniku",
 	"The-Entertainer-Jazz-Arrangement",
 	"The-Ocean-Waves-Ost-I-Can-Hear-The-Sea-Shigeru-Nagata-Studio-Ghiblis-The-Ocean-Waves",
