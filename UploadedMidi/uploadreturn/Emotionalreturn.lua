@@ -155,6 +155,7 @@ return {
 	"Glimpse Of Us(BEST VERSION 2)",
 	"Golden-Brown-X-Love-Story-Ilblu(BEST VERSION)",
 	"Golden-Hour-Full-Version",
+	"Good Days SZA(BEST VERSION)",
 	"Grandmas House Jaithep Raroengjai How To Make Millions Before Grandma Dies Piano Solo",
 	"Green Day - Last Night On Earth",
 	"Hakdo - Waltz For The Dead Clown",
