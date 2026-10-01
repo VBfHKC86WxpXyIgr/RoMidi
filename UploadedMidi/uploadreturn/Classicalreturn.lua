@@ -22,6 +22,7 @@ return {
 	"49641 CC-Red-Alert-Soviet-March",
 	"56336a Polonaise Op 53 (Nc)Smythe",
 	"93772 Imposter-Syndrome-",
+	"A-Whiter-Shade-Of-Pale-Procol-Harum",
 	"ABBA - The Winner Takes it All",
 	"About You By The 1780242398856",
 	"Acha Septriasa - Sampai Menutup Mata -Fikram",
