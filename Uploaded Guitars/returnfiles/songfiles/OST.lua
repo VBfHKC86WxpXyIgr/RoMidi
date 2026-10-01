@@ -29,6 +29,7 @@ return {
 	"Sonic-Drive (1)",
 	"The Dragon Theme (Original) [Clean Cut]",
 	"The Legend Of Zelda Great Fairy Fountain (Piano Cover)",
+	"ULTRAKILL - War Without Reason",
 	"Vegeta Fights Frieza [Clean Cut]",
 	"War Without Reason ULTRAKILL 7-4 By Strix",
 	"What I'M Made Of",
