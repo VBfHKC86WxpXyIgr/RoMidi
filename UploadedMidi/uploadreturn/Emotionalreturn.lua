@@ -64,6 +64,7 @@ return {
 	"Ballade No Opus In G Minor (BEST VERSION)",
 	"Basic Pitch Transcription",
 	"Beabadoobee - Glue Song (Ft. Clairo)",
+	"Beanie Chezile Arranged For Piano(BEST VERSION)",
 	"Beatles (The) - Eleanor Rigby (2) [MIDIfind.Com]",
 	"Beatles (The) - While My Guitar Gently Weeps (2) [MIDIfind.Com]",
 	"Bedrott",
