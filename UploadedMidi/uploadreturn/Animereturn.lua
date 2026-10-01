@@ -110,6 +110,7 @@ return {
 	"Kokoronashi",
 	"Kura Kura (Animenz Arr) [Yougensaki Remake] (WIP)",
 	"Kyoko Kirigiri - Thick Of HiT Thick Of It X Thomas The Tank Engine",
+	"Last Surprise",
 	"Light'S Theme - Death Note",
 	"Maid In Dragon",
 	"Manazashi Wa Hikari Tatsuya Kitani The Fragrant Flower Blooms With Dignity OP 1784992924078",
