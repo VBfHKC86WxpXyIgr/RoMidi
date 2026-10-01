@@ -30,6 +30,7 @@ return {
 	"The Dragon Theme (Original) [Clean Cut]",
 	"The Legend Of Zelda Great Fairy Fountain (Piano Cover)",
 	"Vegeta Fights Frieza [Clean Cut]",
+	"War Without Reason ULTRAKILL 7-4 By Strix",
 	"What I'M Made Of",
 	"What I'M Made Of… (2026 AI Version) (1)",
 	"Wonderful-Tonight-3",
