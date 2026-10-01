@@ -18,6 +18,7 @@ return {
 	"Cannot Get Over You",
 	"Creep - Radiohead (Guitar)",
 	"Dust",
+	"Foo Fighters - Everlong",
 	"Guitar 1 Teen Rebel LIVE V2",
 	"Guitar 2 Teen Rebel LIVE V2",
 	"Guitar 21 Motifs For Now Not Ever Baybeats",
