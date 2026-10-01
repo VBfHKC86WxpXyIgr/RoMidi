@@ -104,6 +104,7 @@ return {
 	"Basic Pitch Transcription",
 	"Basic Pitch Transcription (1)",
 	"Be The Sky",
+	"Beach House - Space Song - Piano Tutorial + SHEETS",
 	"Beat It",
 	"Beatles (The) - For No One (2) [MIDIfind.Com]",
 	"Beatles (The) - For No One [MIDIfind.Com]",
