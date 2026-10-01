@@ -15,6 +15,7 @@ return {
 	"Gohan Fights Frieza [Clean Cut]",
 	"Gotenks Is Born - [Faulconer Productions]",
 	"Grand Theft Auto San Andreas - Intro [MIDIfind.Com]",
+	"Josh Hawke - Seisyun Complex",
 	"Metro Exodus - A New Home (Guitar Cover) [MIDIfind.Com]",
 	"Metro Exodus - Race Against Fate (Fingerstyle) [MIDIfind.Com]",
 	"Metro Exodus - Theme From The Main Menu.Gtr",
