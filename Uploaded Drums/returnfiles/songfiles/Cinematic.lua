@@ -1,3 +1,5 @@
+-- Auto-updated by the Cloudflare Worker on upload/delete
 return {
-    "Pornhub intro"
+	"Pornhub intro",
+	"Whiplash - Caravan Drum Intro (V3)",
 }
