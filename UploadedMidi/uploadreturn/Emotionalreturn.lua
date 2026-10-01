@@ -52,6 +52,7 @@ return {
 	"Arrival Of The Birds The Cinematic Orchestra (BEST VERSION)",
 	"Arvo Part - Spiegel Im Spiegel [MIDIfind.Com]",
 	"As The World Caves In - Matt Maltese (1)",
+	"AURORA - Runaway",
 	"Avenged Sevenfold - M I A [MIDIfind.com]",
 	"Avenged Sevenfold - M.i.a.   WWW.MIDISFREE.COM",
 	"Avenged Sevenfold — Warmness on the Soul [MIDIfind.com]",
