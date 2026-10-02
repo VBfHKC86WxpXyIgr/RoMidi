@@ -163,6 +163,7 @@ return {
 	"My Chemical Romance - I'M Not Okay I Promise [MIDIfind.Com]",
 	"My Chemical Romance - Na Na Na [MIDIfind.Com]",
 	"My Chemical Romance - Thank You For The Venom [MIDIfind.Com]",
+	"My Chemical Romance - The Sharpest Lives",
 	"My Chemical Romance - This Is How I Disappear",
 	"My Chemical Romance - This Is How I Disappearr",
 	"My Chemical Romance - Welcome To The Black Parade (Drum)",
