@@ -124,6 +124,7 @@ return {
 	"My Chemical Romance - Thank You For The Venom Bass",
 	"My Chemical Romance - Thank You For The Venom Frank Iero",
 	"My Chemical Romance - Thank You For The Venom Ray Toro",
+	"My Chemical Romance - The Sharpest Lives Ray Toro",
 	"My Chemical Romance - This Is How I Disappear",
 	"My Chemical Romance - This Is How I Disappear Frank Iero",
 	"My Chemical Romance - This Is How I Disappear Mikey Way Bass",
