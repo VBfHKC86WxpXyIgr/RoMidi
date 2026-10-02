@@ -327,6 +327,7 @@ return {
 	"Osbourne Ozzy - No More Tears [MIDIfind.Com]",
 	"Osbourne Ozzy - Perry Mason [MIDIfind.Com]",
 	"Osbourne Ozzy - Walk On Water [MIDIfind.Com]",
+	"Output",
 	"Ozzy Osbourne-Crazy Train",
 	"Pantera - 10'S [MIDIfind.Com]",
 	"Pantera - 5 Minutes Alone [MIDIfind.Com]",
