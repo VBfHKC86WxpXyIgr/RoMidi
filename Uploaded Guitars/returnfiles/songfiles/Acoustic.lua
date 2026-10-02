@@ -217,6 +217,7 @@ return {
 	"Output 11ec2b83 Creep - Radiohead (Piano Cover)",
 	"Output Ca3c81c5 Its Snowing Like Its The End Of The World",
 	"Panchiko - Until I Know Greed Guitar1",
+	"Panchiko - Until I Know Greed Guitar2",
 	"Paradox - Official MV",
 	"Paradox - Official MV-Drum Kit (1)",
 	"Penny Royal Tea - Approaching Nirvana (Piano-Vocal-Guitar)",
