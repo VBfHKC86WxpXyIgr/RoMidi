@@ -16,5 +16,6 @@ return {
 	"Sarah By Alex G",
 	"Sayonara Cross Teck-07-04-2026",
 	"Smashing Pumpkins - 1979",
+	"Vai Steve - For The Love Of God (5) [MIDIfind.Com]",
 	"Wonderless - Pierce The Veil",
 }
