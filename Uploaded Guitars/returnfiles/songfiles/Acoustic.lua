@@ -163,6 +163,7 @@ return {
 	"Kroi - JOJO SPIN Greed Bass",
 	"Kroi - JOJO SPIN Greed Guitar1",
 	"Kroi - JOJO SPIN Greed Guitar2",
+	"Lama-Lama - Bernadya ｜ Piano",
 	"LArcenCiel - Drivers High",
 	"Led Zeppelin - Stairway To Heaven - Fingerstyle",
 	"Linked Horizon - Attack On Titan OpShingeki No Kyojin Op",
