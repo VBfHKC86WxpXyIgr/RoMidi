@@ -111,6 +111,7 @@ return {
 	"Michael%20Jackson%20-%20Beat%20It",
 	"Misc Covers-Steel Ball Run Teaser Trailer",
 	"Muse - Hysteria [MIDIfind.Com]",
+	"My Chemical Romance - Dead! Mikey Way Bass",
 	"My Chemical Romance - Dead! Ray Toro",
 	"My Chemical Romance - Demolition Lovers (Songparts.Com)",
 	"My Chemical Romance - Drowning Lessons Frank Iero",
