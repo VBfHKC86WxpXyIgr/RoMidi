@@ -127,6 +127,7 @@ return {
 	"May This Moment Last Forever Midi",
 	"MEGALOVANIA - Toby Fox",
 	"MeGaLoVania Piano",
+	"Memories Of Kindness - Mitsukiyo",
 	"Metal Crusher",
 	"Metro Exodus - Race Against Fate (Fingerstyle) [MIDIfind.Com]",
 	"Mice on Venus (Minecraft)",
