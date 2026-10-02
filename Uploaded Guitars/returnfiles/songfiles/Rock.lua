@@ -124,6 +124,7 @@ return {
 	"My Chemical Romance - Thank You For The Venom Ray Toro",
 	"My Chemical Romance - This Is How I Disappear",
 	"My Chemical Romance - This Is How I Disappear Frank Iero",
+	"My Chemical Romance - This Is How I Disappear Mikey Way Bass",
 	"My Chemical Romance - This Is How I Disappear Ray Toro",
 	"My Chemical Romance - This Is How I Disappearr",
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison (2) [MIDIfind.Com]",
