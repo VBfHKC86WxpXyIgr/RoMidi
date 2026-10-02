@@ -116,6 +116,7 @@ return {
 	"My Chemical Romance - Drowning Lessons Mikey Way Bass",
 	"My Chemical Romance - Drowning Lessons Ray Toro",
 	"My Chemical Romance - Give Em Hell Kid [MIDIfind.Com]",
+	"My Chemical Romance - Helena Frank Iero",
 	"My Chemical Romance - Na Na Na [MIDIfind.Com]",
 	"My Chemical Romance - Thank You For The Venom [MIDIfind Com]-20260818092349",
 	"My Chemical Romance - Thank You For The Venom [MIDIfind.Com]",
