@@ -131,6 +131,7 @@ return {
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison Frank Iero",
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison Mikey Way Bass",
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison Ray Toro",
+	"My Chemical Romance -Helena Ray Toro",
 	"Never Meant - American Football",
 	"Nirvana - About A Girl (MTV Unplugged) [MIDIfind.Com]",
 	"Nirvana - About A Girl Bass",
