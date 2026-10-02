@@ -99,6 +99,7 @@ return {
 	"Dragonforce - Through The Fire And Flames-Bass GuitarGreed",
 	"Dragonforce - Through The Fire And FlamesLead Greed",
 	"Dragonforce - Through The Fire And FlamesRTM Greed",
+	"Drama Stream -Long Lai Greed Guitar1",
 	"Dumb Ways To Die",
 	"Dying Light - Horizon",
 	"Ed Sheeran Thinking Out Loud",
