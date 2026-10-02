@@ -113,6 +113,7 @@ return {
 	"Muse - Hysteria [MIDIfind.Com]",
 	"My Chemical Romance - Demolition Lovers (Songparts.Com)",
 	"My Chemical Romance - Drowning Lessons Frank Iero",
+	"My Chemical Romance - Drowning Lessons Mikey Way Bass",
 	"My Chemical Romance - Drowning Lessons Ray Toro",
 	"My Chemical Romance - Give Em Hell Kid [MIDIfind.Com]",
 	"My Chemical Romance - Na Na Na [MIDIfind.Com]",
