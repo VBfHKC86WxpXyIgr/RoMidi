@@ -117,6 +117,7 @@ return {
 	"Beethoven - Virus Mhxa",
 	"Beethoven Symphony No 5 (1st Movement) Piano Solo",
 	"Beethoven Virus",
+	"Beethoven Virus - Musical Basics But It'S Super INSANE!",
 	"Beethoven Virus 2 Player",
 	"Believer",
 	"Bellaciao",
