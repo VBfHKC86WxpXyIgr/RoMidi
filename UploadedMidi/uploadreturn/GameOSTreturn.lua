@@ -192,6 +192,7 @@ return {
 	"Super Smash Bros Brawl- Menu Theme",
 	"Sweden (Minecraft)",
 	"Swift Strike",
+	"Target For Love - Lee Jin Ah & Mitsukiyo",
 	"Tenebre Rosso Sangue But Set Up For Midi Piano",
 	"tera-io-flamewall-camellia",
 	"Tetris BassBurst Solid",
