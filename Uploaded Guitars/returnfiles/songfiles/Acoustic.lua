@@ -206,6 +206,7 @@ return {
 	"MUSKTEERS -Tale Guitar2 Greed",
 	"My Chemical Romance - The Ghost Of You",
 	"Never Shout Never - Your Biggest Fan Live KLICKAUD 1-AudioTrimmercom 1 Converted By Jukeblocks",
+	"Nirvana - Come As You Are Greed Guitar1",
 	"Nirvana - Do Re Mi",
 	"Nirvana - Rape Me",
 	"NONT TANONT - โต๊ะริม (Melt)",
