@@ -4,6 +4,7 @@ return {
 	"1Is It Really You - Sleep Token, Loathe",
 	"Black Hole Sun - Soundgardenn",
 	"Break By Alex G",
+	"Gilbert Paul - Guitar Sequences [MIDIfind.Com]",
 	"Holiday By Weezer-07-06-2026",
 	"Lucy~ By Corbon Amodio",
 	"Misc Covers-Loneliness By Decalius-07-04-2026",
