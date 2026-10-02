@@ -157,6 +157,7 @@ return {
 	"Metallica Enter Sandman",
 	"Muse - Hysteria [MIDIfind.Com]",
 	"My Chemical Romance - Demolition Lovers (Songparts.Com)",
+	"My Chemical Romance - Drowning Lessons",
 	"My Chemical Romance - Give Em Hell Kid [MIDIfind.Com]",
 	"My Chemical Romance - I'M Not Okay I Promise [MIDIfind.Com]",
 	"My Chemical Romance - Na Na Na [MIDIfind.Com]",
