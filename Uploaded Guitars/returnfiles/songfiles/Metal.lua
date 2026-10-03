@@ -395,6 +395,7 @@ return {
 	"Smoke On The Water - Deep Purple Smoke On The Water - Deep Purple",
 	"SoRdo",
 	"Spit Out The Bone - Metallica",
+	"Spit Out The Bone - Robert Trujillo Bass",
 	"Stabwound - Necrophagist Piano Arrangement (Sorta) Lyrics!!",
 	"Stitches",
 	"Surround Kill Devour",
