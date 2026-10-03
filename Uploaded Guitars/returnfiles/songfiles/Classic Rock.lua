@@ -33,6 +33,7 @@ return {
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Ctgther",
 	"Do You Wanna Know A Secret",
+	"Down In A Hole",
 	"DrMetal",
 	"Duskydemise - Bedrott",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
