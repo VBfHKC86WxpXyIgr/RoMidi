@@ -89,6 +89,7 @@ return {
 	"Asgore Runs Over Dess",
 	"Avenged Sevenfold - A Little Piece Of Heaven (2) [MIDIfind.Com]",
 	"Azali - MECHANICAL GOD",
+	"ａᄉ 0 з н ａE ш ь ༂ぼくもリンゴジュース𓂃ඈ好きじゃない༲",
 	"Back Number",
 	"Backrooms",
 	"Bad Apple",
