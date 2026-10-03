@@ -518,6 +518,7 @@ return {
 	"Lit My Own Worst Enemy.Midi",
 	"Lloraras - Oscar De Leon 2026-09-05 23-28-40",
 	"Longinus - Xi (Piano Solo Arrange) - W96844x7zb",
+	"Loso",
 	"Lou Deezi",
 	"Love Is In The Air, Pt. 1",
 	"Love Me",
