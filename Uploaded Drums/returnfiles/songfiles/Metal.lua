@@ -261,6 +261,7 @@ return {
 	"Metallica - Trapped Under Ice [MIDIfind.Com]",
 	"Metallica - Welcome Home Sanatarium [MIDIfind.Com]",
 	"Metallica - Wherever I May Roam [MIDIfind.Com]",
+	"Metallica - Whiplash (Songparts.Com)",
 	"Metallica - Whiplash [MIDIfind.Com]",
 	"Metallica - Whiskey In The Jar [MIDIfind.Com]",
 	"Metallica-Enter-Sandman midi",
