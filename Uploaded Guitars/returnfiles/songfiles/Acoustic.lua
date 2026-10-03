@@ -319,6 +319,7 @@ return {
 	"Thirty Seconds To Mars - The Kill Bury Me",
 	"Three Man Down - ถ้าเธอรักฉันจริง",
 	"Tip Toe - HYBS",
+	"Titanium- David Guetta",
 	"Title Fight - Where Am I",
 	"Toe - Goodbye Rasgueo",
 	"Torete - Moira Dela Torre Love You To The Stars And Back (Lyrics) 1786923671826",
