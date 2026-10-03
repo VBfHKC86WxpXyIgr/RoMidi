@@ -299,6 +299,7 @@ return {
 	"Painkiller",
 	"Pantera - 5 Minutes Alone [MIDIfind.Com]",
 	"Pantera - A New Level [MIDIfind.Com]",
+	"Pantera - Becoming (Songparts.Com)",
 	"Pantera - Becoming [MIDIfind.com]",
 	"Pantera - Becoming [MIDIfind.Com]",
 	"Pantera - By Demons Be Driven [MIDIfind.Com]",
