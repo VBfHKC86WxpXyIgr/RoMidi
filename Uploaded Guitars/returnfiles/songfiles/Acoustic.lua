@@ -171,6 +171,7 @@ return {
 	"Linkin Park - Numb Fingerstyle",
 	"Loso -",
 	"Loso - (1)",
+	"Lost Sky - Dreams.Mid",
 	"Luiz Bonf - The Shade Of The Mango Tree Greed Guitar1",
 	"Luiz Bonf - The Shade Of The Mango Tree Greed Guitar2",
 	"Lynyrd Skynyrd - Sweet Home Alabama",
