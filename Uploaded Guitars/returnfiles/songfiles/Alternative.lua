@@ -16,6 +16,7 @@ return {
 	"All In My Head Riff.Mid",
 	"An Italian Magician Be Like",
 	"Audioslave - Like A Stone [MIDIfind.Com]",
+	"ａᄉ 0 з н ａE ш ь ༂ぼくもリンゴジュース𓂃ඈ好きじゃない༲",
 	"Basic Pitch Transcription",
 	"Basic Pitch Transcription (1)",
 	"Basic Pitch Transcription (4)",
