@@ -127,6 +127,7 @@ return {
 	"Elton John - I'm still standing",
 	"Emerald Park-At The Mall-06-13-2026",
 	"Emilia, TINI - La Original Instrumental Piano Tutorial Partitura Karaoke MIDI",
+	"Enjambre - Intruso(Piano Tutorial)",
 	"Erika",
 	"Ethereal - Txmy",
 	"Ethereal Full Score(BEST V2 VERSION)",
