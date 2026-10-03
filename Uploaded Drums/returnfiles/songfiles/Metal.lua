@@ -211,6 +211,7 @@ return {
 	"Metallica - Battery (2) [MIDIfind.com]",
 	"Metallica - Battery [MIDIfind.Com]",
 	"Metallica - Blackened",
+	"Metallica - Blackened (Songparts.Com)",
 	"Metallica - Blackened [MIDIfind.Com]",
 	"Metallica - Blackened Reversed (Intro) [MIDIfind.Com]",
 	"Metallica - Creeping Death (2) [MIDIfind.Com]",
