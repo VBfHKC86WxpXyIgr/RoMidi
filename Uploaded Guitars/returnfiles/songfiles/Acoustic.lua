@@ -230,6 +230,7 @@ return {
 	"Paradox - Official MV-Drum Kit (1)",
 	"Penny Royal Tea - Approaching Nirvana (Piano-Vocal-Guitar)",
 	"Pirates Of The Caribbean - He'S A Pirate (3)",
+	"Pitbull-Timber Feat Kesha",
 	"Pixies - Where Is My Mind",
 	"Plastic Tree - Kuuchu Buranko-Electric Guitar",
 	"PT Adamczyk Olga Jankowska Cyberpunk 2077 - Never Fade Away SAMURAI Cover Guitar Solo",
