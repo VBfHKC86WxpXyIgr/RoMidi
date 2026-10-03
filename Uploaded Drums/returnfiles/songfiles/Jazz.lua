@@ -6,6 +6,7 @@ return {
 	"B.B King - The Thrill Is Gone [MIDIfind.Com]",
 	"Caravan (From Whiplash ) For Drums",
 	"Caravan(1)",
+	"Shape Of You",
 	"Vaughan Stevie Ray - Pride And Joy [MIDIfind.Com]",
 	"Whiplash - Caravan",
 	"Whiplash - Hank Levy (Drums Transcription Of The Whiplash Movie Version)",
