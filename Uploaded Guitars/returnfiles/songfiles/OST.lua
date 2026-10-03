@@ -24,6 +24,7 @@ return {
 	"NAZARETH.Love Hurt",
 	"Nine Thou (Grant Mohrman Superstars Remix)",
 	"OFFICIAL Roblox Bakon Theme Song",
+	"Pink Floyd - Comfortably Numb",
 	"Queen - Bohemian Rhapsody",
 	"Seek (Among Us) NEW",
 	"Sonic-Drive (1)",
