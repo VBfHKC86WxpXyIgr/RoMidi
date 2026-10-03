@@ -110,6 +110,7 @@ return {
 	"EnterSandman",
 	"Eruption - Van Halen",
 	"Eyes Of A Homeless Dog - Psychonaut 4",
+	"Fade-Into-Obscurity-Solo",
 	"Fire Force Main Theme",
 	"Floods Outro",
 	"For-Whom-The-Bell-Tolls",
