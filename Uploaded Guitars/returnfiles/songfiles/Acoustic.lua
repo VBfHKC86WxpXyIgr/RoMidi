@@ -309,6 +309,7 @@ return {
 	"The Jimi Hendrix Experience - Purple Haze",
 	"The Long Faces - Jane Greed Guitar1",
 	"The Long Faces - Jane Greed Guitar2",
+	"The Man Who Can'T Be Moved",
 	"The Neverminds - The Snow Will Catch Us Once Again",
 	"The Pillows - Beautiful Morning With You",
 	"The Pillows - Beautiful Morning With YouLeadGreed",
