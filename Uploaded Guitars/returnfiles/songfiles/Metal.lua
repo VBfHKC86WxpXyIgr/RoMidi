@@ -390,6 +390,7 @@ return {
 	"Slipknot - Before I Forget [MIDIfind.Com]",
 	"Slipknot - Duality [MIDIfind.Com]",
 	"Slipknot - Sic [MIDIfind.Com]",
+	"Slipknot - Snuff",
 	"Slipknot - The Heretic Anthem (4) [MIDIfind.Com]",
 	"Smoke On The Water - Deep Purple Smoke On The Water - Deep Purple",
 	"SoRdo",
