@@ -254,6 +254,7 @@ return {
 	"Say It Aint So Weezer Greed Guitar2",
 	"SenbonSakura LEAD Greed",
 	"SenbonSakura RTM Greed",
+	"Shape Of You",
 	"SHINING",
 	"Silly Fools -",
 	"Silly Fools - - Silly Fools Lyrics Audio",
