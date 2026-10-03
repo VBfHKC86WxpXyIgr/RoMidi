@@ -181,6 +181,7 @@ return {
 	"Maroon 5 - This LoveGuitar1 Greed",
 	"Maroon 5 - This LoveGuitar2 Greed",
 	"Mayonnaise - Synestheisa [MIDIfind.Com]",
+	"METALHAWK - Smell Like Teen Spirit Greed Guitar2",
 	"Metallica - Damage Inc",
 	"Metallica - Damage IncBass6Greed",
 	"Metallica - Damage IncGuitar1Greed",
