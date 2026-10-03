@@ -70,6 +70,7 @@ return {
 	"Chris Doesn'T Like Noisecore",
 	"Cockroaches.Mid",
 	"Converted-1783627408087",
+	"Cowboys From Hell",
 	"Crybaby - Destroy Boys",
 	"Cryptopsy - Back To The Worms (Guitar)",
 	"Cryptopsy - Benedictine Convulsions (Guitar)",
