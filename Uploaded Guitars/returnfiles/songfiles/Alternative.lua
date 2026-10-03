@@ -105,4 +105,5 @@ return {
 	"Wonderless",
 	"Wonderless2",
 	"ZuZ",
+	"くびをつるほうほう",
 }
