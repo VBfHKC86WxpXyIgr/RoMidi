@@ -23,6 +23,7 @@ return {
 	"Linkin Park - One Step Closer [MIDIfind.Com]",
 	"Linkin Park - Papercut [MIDIfind.Com]",
 	"Metallica - So What [MIDIfind.Com]",
+	"One More Light",
 	"Psychosocial - Slipknot",
 	"Slipknot - Eyeless (2) [MIDIfind.Com]",
 	"Static-X - I'M With Stupid [MIDIfind.Com]",
