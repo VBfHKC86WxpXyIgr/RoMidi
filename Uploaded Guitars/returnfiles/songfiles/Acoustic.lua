@@ -26,6 +26,7 @@ return {
 	"Banes World - Drowsy",
 	"Basement - Are You The One",
 	"Basic Pitch Transcription",
+	"Basshunter - Dota (Full)",
 	"Batta - Chase",
 	"Batta - Chase ByGreed Guitar1",
 	"Batta - Chase ByGreed Guitar2",
