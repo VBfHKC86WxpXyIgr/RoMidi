@@ -228,6 +228,7 @@ return {
 	"Metallica - Frayed Ends Of Sanity [MIDIfind.Com]",
 	"Metallica - Fuel (2) [MIDIfind.Com]",
 	"Metallica - Harvester Of Sorrow (2) [MIDIfind.Com]",
+	"Metallica - Hate Train (Songparts.Com)",
 	"Metallica - Hit The Lights [MIDIfind.Com]",
 	"Metallica - If Darkness Had A Son",
 	"Metallica - Last Caress (2) [MIDIfind.Com]",
