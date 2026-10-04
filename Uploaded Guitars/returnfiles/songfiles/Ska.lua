@@ -26,5 +26,6 @@ return {
 	"Night Boat To Cairo - Madness",
 	"Silent-Night-Guitar-Arrangement",
 	"When You Sleep - My Bloody Valentine",
+	"X - Sadame (Guitar Version)",
 	"Yung Kai - Blue - Solo - Ravel Falskhern",
 }
