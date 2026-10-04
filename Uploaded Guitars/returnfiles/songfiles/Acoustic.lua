@@ -77,6 +77,7 @@ return {
 	"Clarion - Hello JulietGuitar2Greed",
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Composed By Yu-Peng Chen Arranged By Devon Sebastian K - Liyue Harbor Song No. 4",
+	"Computer - All In My Head Greed Guitar1",
 	"Computer - All In My Head Greed Guitar2",
 	"Creed - One Last Breath",
 	"Crystal Dolphin",
