@@ -384,6 +384,7 @@ return {
 	"Rammstein - Du Hast [MIDIfind.Com]",
 	"Rammstein - Sonne [MIDIfind.Com]",
 	"Repentless",
+	"Repulsive-In-Its-Splendid-Beauty-E-Standard",
 	"Roses On Bathory S Blood Bath",
 	"Satanic Lust - Sarcofago",
 	"Serrana Solo",
