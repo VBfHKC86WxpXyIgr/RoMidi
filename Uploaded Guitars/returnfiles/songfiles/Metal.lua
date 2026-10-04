@@ -95,6 +95,7 @@ return {
 	"Death Pierce Me (Guitar)",
 	"Decalius Lonliness Solo",
 	"Decease The Police(Full Version)",
+	"Delusions-Of-Saviour",
 	"Dethklok - Thunderhorse [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
