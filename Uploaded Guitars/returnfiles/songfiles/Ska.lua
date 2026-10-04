@@ -15,6 +15,7 @@ return {
 	"Floods Outro",
 	"Guitar Lead Little Girls OB",
 	"Guitar Rtm Little Girls OB",
+	"Guitar-Waltz",
 	"HãY Trao Cho Anh",
 	"Hotel California - Eagles (Solo Guitar)",
 	"I Dont Wanna Be Me - Type O Negative",
