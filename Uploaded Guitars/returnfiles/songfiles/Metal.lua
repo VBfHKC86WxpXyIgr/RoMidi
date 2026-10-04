@@ -320,6 +320,7 @@ return {
 	"Ms Salmonella - Lifelover",
 	"Muse - Hysteria [MIDIfind.Com]",
 	"My Meds Aren'T Working",
+	"My Name Is Mud - 4 String (Full Arrangement)",
 	"Necromancy - Bathory",
 	"Necrophagist - Stabwound [MIDIfind.Com]",
 	"Nightmare - Sarcorfago",
