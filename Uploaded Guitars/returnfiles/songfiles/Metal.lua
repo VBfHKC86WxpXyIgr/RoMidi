@@ -377,6 +377,7 @@ return {
 	"People = Shit - Slipknot",
 	"Phobophile",
 	"Piece-By-Piece",
+	"Pneuma",
 	"Psychonaut 4 - Drop By Drop [MIDIfind.Com]",
 	"Psychonaut 4 - Lethargic Dialogue [MIDIfind.Com]",
 	"Psychonaut 4 - Nackskott [MIDIfind.Com]",
