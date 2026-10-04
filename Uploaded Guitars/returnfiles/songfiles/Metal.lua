@@ -322,6 +322,7 @@ return {
 	"Muse - Hysteria [MIDIfind.Com]",
 	"My Meds Aren'T Working",
 	"My Name Is Mud - 4 String (Full Arrangement)",
+	"My Own Summer (Shove It)",
 	"Necromancy - Bathory",
 	"Necrophagist - Stabwound [MIDIfind.Com]",
 	"Nightmare - Sarcorfago",
