@@ -122,6 +122,7 @@ return {
 	"Fire Force Main Theme",
 	"Floods Outro",
 	"For-Whom-The-Bell-Tolls",
+	"Forgotten",
 	"Fucked With A Knife",
 	"Funeral Ceremony - Grausamkeit",
 	"Gojira - Flying Whales (OFFICIAL) [MIDIfind.Com]",
