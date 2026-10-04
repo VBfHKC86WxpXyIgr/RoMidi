@@ -19,6 +19,7 @@ return {
 	"HãY Trao Cho Anh",
 	"Hotel California - Eagles (Solo Guitar)",
 	"I Dont Wanna Be Me - Type O Negative",
+	"Johnny-Guitar-2",
 	"Let You Break My Heart Again - Laufey",
 	"Lonely Day - System Of A Down",
 	"Night Boat To Cairo - Madness",
