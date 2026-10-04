@@ -121,6 +121,7 @@ return {
 	"Fade-Into-Obscurity",
 	"Fade-Into-Obscurity-Solo",
 	"Fire Force Main Theme",
+	"Floods - Solo",
 	"Floods Outro",
 	"For-Whom-The-Bell-Tolls",
 	"Forgotten",
