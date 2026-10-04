@@ -22,6 +22,7 @@ return {
 	"American Football - Never Meant (1)",
 	"Andra And The BackBone - Sempurna Lyre.Mid",
 	"Arranged By @KAyuna-Guitar - 夜に駆ける",
+	"Avenged Sevenfold - Unholy Confessions Greed Guitar2",
 	"Ba - Duvet - Rurouni1928s Instrumental Ver",
 	"Banes World - Drowsy",
 	"Basement - Are You The One",
