@@ -53,6 +53,7 @@ return {
 	"Becker Jason - Altitudes (2) [MIDIfind.Com]",
 	"Becker Jason - Serrana (2) [MIDIfind.Com] (1)",
 	"Beggin-Maneskin.Mid (1)",
+	"Bigger-Than-The-Devil",
 	"Black Magic - Slayer",
 	"Black Sabbath - Black Sabbath [MIDIfind.Com]",
 	"Black Sabbath - Paranoid [MIDIfind.Com]",
