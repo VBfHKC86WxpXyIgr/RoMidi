@@ -48,6 +48,7 @@ return {
 	"Bathory - A Fine Day To Die [MIDIfind.Com]",
 	"Bathory - Necromansy [MIDIfind.Com]",
 	"Bathory - Song To Hall Up High",
+	"Be Quiet And Drive (Far Away)",
 	"Be Quiet And Drive (Far Away) Drop C",
 	"Becker Jason - Altitudes (2) [MIDIfind.Com]",
 	"Becker Jason - Serrana (2) [MIDIfind.Com] (1)",
