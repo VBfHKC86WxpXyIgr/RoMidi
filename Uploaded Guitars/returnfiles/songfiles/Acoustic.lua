@@ -165,6 +165,7 @@ return {
 	"Kidhord Bodyslam Greed Guitar1",
 	"Kidhord Bodyslam Greed Guitar2 26",
 	"Killswitch Engage - My Curse Greed Guitar1",
+	"Killswitch Engage - My Curse Greed Guitar2",
 	"King Crimson - 21st Century Schizoid ManGreed",
 	"Kroi - JOJO SPIN Greed Bass",
 	"Kroi - JOJO SPIN Greed Guitar1",
