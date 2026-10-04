@@ -76,6 +76,7 @@ return {
 	"Chopin - Waltz In A Minor By Trouble",
 	"Chopin – Nocturne Op.9 No.2",
 	"chopin ballade 4 (c)lubetsky",
+	"Chopin Waltz Op 64 ImprovisationSECRET(BEST VERSION)",
 	"Chopin Winter Wind Etude",
 	"Chopin-Etude-Op10-No4",
 	"Chpn Op23",
