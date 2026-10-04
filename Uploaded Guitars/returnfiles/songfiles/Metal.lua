@@ -39,6 +39,7 @@ return {
 	"Avenged Sevenfold - So Far Away [MIDIfind.Com]",
 	"Avenged Sevenfold - This Means War (Guitar Solo) [MIDIfind.Com]",
 	"Avenged Sevenfold - Unholy Confessions [MIDIfind.Com]",
+	"B.Y.O.B",
 	"Bass Awadama Fever BABYMETAL",
 	"Bass Awadama Fever LIVE BABYMETAL",
 	"Bass Gimme Chocolate BABYMETAL",
