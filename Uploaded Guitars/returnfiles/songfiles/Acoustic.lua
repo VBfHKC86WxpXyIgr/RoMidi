@@ -65,6 +65,7 @@ return {
 	"Chezile - Beanie",
 	"Chezile - Run Away",
 	"Chezile - Run Awaynobass",
+	"Chouchou Merged Syrups - Greed Guitar1",
 	"Chouchou Merged Syrups - Greed Guitar2",
 	"Chris Isaakwicked Game",
 	"Cigarettes After Sex - Cry Greed Guitar1",
