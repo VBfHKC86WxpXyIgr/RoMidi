@@ -135,6 +135,7 @@ return {
 	"Greed Master Of Puppets Guitar2",
 	"Green Day - Good Riddance [MIDIfind.Com]",
 	"Gto - GTO Opening 1 Drivers High",
+	"Guns N Roses - Sweet Child O Mine Greed Guitar2",
 	"Hers - Harvey",
 	"Hers - What Once Was",
 	"Hill Billy Jim -[AudioTrimmer",
