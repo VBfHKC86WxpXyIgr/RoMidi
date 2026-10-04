@@ -260,6 +260,7 @@ return {
 	"Metallica - The Four Horseman [MIDIfind.Com]",
 	"Metallica - The Frayed Ends Of Sanity (Songparts.Com)",
 	"Metallica - The Shortest Straw (Songparts.Com)",
+	"Metallica - The Struggle Within (Songparts.Com)",
 	"Metallica - The Struggle Within [MIDIfind.Com]",
 	"Metallica - The Thing That Should Not Be (3) [MIDIfind.Com]",
 	"Metallica - The Unforgiven [MIDIfind.Com]",
