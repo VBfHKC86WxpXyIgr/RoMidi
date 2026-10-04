@@ -507,6 +507,7 @@ return {
 	"Le Temps De L Amour Complet 1789978120222",
 	"Lemon",
 	"Lemon Tree Piano Lemon Tree Ok 1789901703567",
+	"Les Choristes- Vois Sur Ton Chemin",
 	"Let The World Burn (Piano Version)",
 	"Liana Flores - Rises The Moon",
 	"Libet'S Delay",
