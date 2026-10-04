@@ -327,6 +327,7 @@ return {
 	"My Own Summer (Shove It)",
 	"Necromancy - Bathory",
 	"Necrophagist - Stabwound [MIDIfind.Com]",
+	"Neo",
 	"Nightmare - Sarcorfago",
 	"Nightmare (Accurate) - Sarcofago",
 	"Nightmare Sarcofago Parte1",
