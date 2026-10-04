@@ -551,6 +551,7 @@ return {
 	"Memes",
 	"Merry Go Round Of Life - Tiktok Version (Howl'S Moving Castle)",
 	"Metallica - Blackened (Songparts.Com)",
+	"Metallica - Disposable Heroes (Songparts.Com)",
 	"Metallica - Nothing Else Matters (Piano Cover) [MIDIfind.Com]",
 	"Michael Jackson - Dirty Diana",
 	"Michael Jackson - Human Nature WWW.MIDISFREE.COM",
