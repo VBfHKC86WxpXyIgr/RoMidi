@@ -153,6 +153,7 @@ return {
 	"Iqro - Raim Laode",
 	"Iqro - Raim Laode Guitar",
 	"Jane! - The Long Faces",
+	"Jane! The Long Faces",
 	"Jindie - She Makes Me Wanna Die",
 	"Joji - SLOW DANCING IN THE DARK",
 	"Jojo - Steel Ball Run Johnny Joestar Theme",
