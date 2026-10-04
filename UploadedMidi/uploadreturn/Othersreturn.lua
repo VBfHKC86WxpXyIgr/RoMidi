@@ -553,6 +553,7 @@ return {
 	"Metallica - Blackened (Songparts.Com)",
 	"Metallica - Disposable Heroes (Songparts.Com)",
 	"Metallica - Nothing Else Matters (Piano Cover) [MIDIfind.Com]",
+	"Metallica - Spit Out The Bone (Songparts.Com)",
 	"Michael Jackson - Dirty Diana",
 	"Michael Jackson - Human Nature WWW.MIDISFREE.COM",
 	"Mihriban",
