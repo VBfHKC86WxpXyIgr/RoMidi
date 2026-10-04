@@ -313,6 +313,7 @@ return {
 	"Metallica Seek And Destroy James Hetfield",
 	"Metallica Spit Out The Bone",
 	"Michael Jackson - Thriller",
+	"Michael-In-Reign",
 	"Midnight Queen - Sarcofago",
 	"Midnight Queen - SarcóFago (IníCio)",
 	"Midnight Queen (Acurate)",
