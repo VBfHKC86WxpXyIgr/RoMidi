@@ -399,6 +399,7 @@ return {
 	"Spit Out The Bone - Metallica",
 	"Spit Out The Bone - Robert Trujillo Bass",
 	"Stabwound - Necrophagist Piano Arrangement (Sorta) Lyrics!!",
+	"Stabwound Solo Guitarr, E Standard",
 	"Stitches",
 	"Surround Kill Devour",
 	"Sweating Bullets",
