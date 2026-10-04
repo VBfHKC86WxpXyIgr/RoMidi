@@ -556,6 +556,7 @@ return {
 	"Metallica - Spit Out The Bone (Songparts.Com)",
 	"Metallica - The Call Of Ktulu (Songparts.Com)",
 	"Metallica - The Frayed Ends Of Sanity (Songparts.Com)",
+	"Metallica - To Live Is To Die (Songparts.Com)",
 	"Michael Jackson - Dirty Diana",
 	"Michael Jackson - Human Nature WWW.MIDISFREE.COM",
 	"Mihriban",
