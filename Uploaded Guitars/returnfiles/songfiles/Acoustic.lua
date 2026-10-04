@@ -254,6 +254,7 @@ return {
 	"Samurai - Never Fade Away",
 	"Say It Aint So Weezer Greed Guitar1",
 	"Say It Aint So Weezer Greed Guitar2",
+	"Seisyun-Complex Greed Guitar2",
 	"SenbonSakura LEAD Greed",
 	"SenbonSakura RTM Greed",
 	"Shape Of You",
