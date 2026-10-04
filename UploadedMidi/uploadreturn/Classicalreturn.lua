@@ -243,6 +243,7 @@ return {
 	"Pelangi - HiVi! -Fikram",
 	"Piano",
 	"Piano Cover - - Nice Piano Sheets 192k Converted By Jukeblocks",
+	"Piano Improvisation By Tom Brier(BEST VERSION)",
 	"Pirates of the Caribbean - He's a Pirate (1)",
 	"Pirates Of The Caribbean - He'S A Pirate (Piano Version)",
 	"Posso Até NãO Te Da Flores - MC Ryan SP, MC Jacaré E MC Meno K Piano",
