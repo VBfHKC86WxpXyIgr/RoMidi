@@ -23,6 +23,7 @@ return {
 	"Let You Break My Heart Again - Laufey",
 	"Lonely Day - System Of A Down",
 	"Night Boat To Cairo - Madness",
+	"Silent-Night-Guitar-Arrangement",
 	"When You Sleep - My Bloody Valentine",
 	"Yung Kai - Blue - Solo - Ravel Falskhern",
 }
