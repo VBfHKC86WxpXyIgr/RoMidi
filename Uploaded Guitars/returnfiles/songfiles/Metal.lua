@@ -397,6 +397,7 @@ return {
 	"Repulsive-In-Its-Splendid-Beauty-E-Standard",
 	"Roses On Bathory S Blood Bath",
 	"Satanic Lust - Sarcofago",
+	"Schism",
 	"Serrana Solo",
 	"Silencer - Death Pierce Me [MIDIfind.Com]",
 	"Silencer - Sterile Nails And Thunderbowels [MIDIfind.Com]",
