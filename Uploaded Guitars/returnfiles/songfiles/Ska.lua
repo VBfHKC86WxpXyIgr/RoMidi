@@ -22,4 +22,5 @@ return {
 	"Lonely Day - System Of A Down",
 	"Night Boat To Cairo - Madness",
 	"When You Sleep - My Bloody Valentine",
+	"Yung Kai - Blue - Solo - Ravel Falskhern",
 }
