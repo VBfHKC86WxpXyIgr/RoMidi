@@ -10,6 +10,7 @@ return {
 	"[Black MIDI] RUSH E CURSED REMIX",
 	"[DPSP] Aragami - Xi",
 	"[TwTwTw]Blue Zenith",
+	"【黑乐谱】Voyage 2",
 	"【黑乐谱】千年幻想乡 ~ History Of The Moon",
 	"【黑乐谱】圆周率",
 	"【黑乐谱】拉赫玛尼诺夫第二钢琴协奏曲 第二乐章[CC钢琴侧链]",
