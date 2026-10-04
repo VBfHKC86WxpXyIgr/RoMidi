@@ -73,6 +73,7 @@ return {
 	"Cancertid - Lifelover",
 	"Candlemass - Solitude [MIDIfind.Com]",
 	"Cemetary Gates",
+	"Cemetery-Gates",
 	"Chris Doesn'T Like Noisecore",
 	"Cockroaches.Mid",
 	"Converted-1783627408087",
