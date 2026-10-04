@@ -155,6 +155,7 @@ return {
 	"Just One Thing Solitude Is Bliss Greed Guitar2 44",
 	"Just The Two Of Us.",
 	"Justin Bieber - Beauty And A Beat WWW.MIDISFREE.COM.Mid",
+	"KANA-BOON - Silhouette Greed Guitar1",
 	"KANA-BOON - Silhouette Greed Guitar2",
 	"Karen Aoki Daisuke Hasegawa - Great Days Jojos Bizarre Adventure Diamond Is Unbreakable Op3",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
