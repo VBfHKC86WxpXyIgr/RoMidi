@@ -84,6 +84,7 @@ return {
 	"Deep Purple - Smoke On The Water-Drum Kit",
 	"Deftones - Be Quiet And Drive Far AwayBass",
 	"Deftones - Be Quiet And Drive Far AwayGuitar",
+	"Deftones - My Own Summer Greed Guitar1",
 	"Deftones - My Own Summer Greed Guitar2 15",
 	"Deftones - My Own Summer Shove It",
 	"Dio - Holy Diver",
