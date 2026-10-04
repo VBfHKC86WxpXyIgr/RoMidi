@@ -240,6 +240,7 @@ return {
 	"Panchiko - Until I Know Greed Guitar2",
 	"Paradox - Official MV",
 	"Paradox - Official MV-Drum Kit (1)",
+	"Paramore - Ignorance Greed Guitar2",
 	"Penny Royal Tea - Approaching Nirvana (Piano-Vocal-Guitar)",
 	"Pirates Of The Caribbean - He'S A Pirate (3)",
 	"Pitbull-Timber Feat Kesha",
