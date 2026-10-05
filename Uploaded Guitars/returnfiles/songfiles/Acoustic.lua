@@ -330,6 +330,7 @@ return {
 	"Surf Curse - FreaksLead",
 	"System Of A Down - Toxicity Greed Bass",
 	"System Of A Down - Toxicity Greed Guitar1",
+	"System Of A Down - Toxicity Greed Guitar2",
 	"Tame Impala - The Less I Know The Better",
 	"Tarot Feast 1780242551896",
 	"Tattoo Color - Guitar Cover Skill Zource",
