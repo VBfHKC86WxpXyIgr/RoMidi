@@ -11,6 +11,7 @@ return {
 	"Bass Little Girls OB",
 	"Black Hole Sun - Soundgarden",
 	"Canon In D For Guitar Solo",
+	"Celine Dion - My Heart Will Go On - Solo - Ravel Falskhern",
 	"Converted Sound Midi",
 	"Floods Outro",
 	"Guitar Lead Little Girls OB",
