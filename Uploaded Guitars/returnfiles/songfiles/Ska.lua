@@ -27,6 +27,7 @@ return {
 	"Ruth B - Dandelions.",
 	"Shawn Mendes - Stitches - Solo - Ravel Falskhern",
 	"Silent-Night-Guitar-Arrangement",
+	"Slay The Princess, Brandon Boone - The Princess - Quartet - Sechesin",
 	"When You Sleep - My Bloody Valentine",
 	"X - Sadame (Guitar Version)",
 	"Yung Kai - Blue - Solo - Ravel Falskhern",
