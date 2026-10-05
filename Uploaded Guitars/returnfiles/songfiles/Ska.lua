@@ -24,6 +24,7 @@ return {
 	"Let You Break My Heart Again - Laufey",
 	"Lonely Day - System Of A Down",
 	"Night Boat To Cairo - Madness",
+	"Ruth B - Dandelions.",
 	"Silent-Night-Guitar-Arrangement",
 	"When You Sleep - My Bloody Valentine",
 	"X - Sadame (Guitar Version)",
