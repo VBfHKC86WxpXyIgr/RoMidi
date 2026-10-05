@@ -191,6 +191,7 @@ return {
 	"Linked Horizon - Attack On Titan OpShingeki No Kyojin Op",
 	"Linkin Park - Linkin Park - Faint Greed Bass",
 	"Linkin Park - Linkin Park - Faint Greed Guitar1",
+	"Linkin Park - Linkin Park - Faint Greed Guitar2",
 	"Linkin Park - Lying From You Greed Bass",
 	"Linkin Park - Lying From You Greed Guitar1",
 	"Linkin Park - Lying From You Greed Vocal",
