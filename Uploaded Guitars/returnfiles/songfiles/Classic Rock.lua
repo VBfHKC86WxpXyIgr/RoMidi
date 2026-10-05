@@ -37,6 +37,7 @@ return {
 	"DrMetal",
 	"Duskydemise - Bedrott",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
+	"F.C.P.R.E.M.I.X. The Fall Of Troy Guitar Hero III Legends Of Rock",
 	"Fall Of Troy (The) - F.C.P.R.E.M.I.X",
 	"Fastest-Thing-Alive-Full-Version (1)",
 	"Fingerstyle",
