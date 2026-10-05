@@ -166,6 +166,7 @@ return {
 	"My Chemical Romance - Thank You For The Venom [MIDIfind.Com]",
 	"My Chemical Romance - The Sharpest Lives",
 	"My Chemical Romance - This Is How I Disappear",
+	"My Chemical Romance - This Is How I Disappear Drums",
 	"My Chemical Romance - This Is How I Disappearr",
 	"My Chemical Romance - Welcome To The Black Parade (Drum)",
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison (2) [MIDIfind.Com]",
