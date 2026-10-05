@@ -90,6 +90,7 @@ return {
 	"Dum For Now Not Ever Motifs Studio V2",
 	"Eagles (The) - Hotel California (3) [MIDIfind.Com]",
 	"Endless Nameless - Nirvana (Drums)",
+	"F.C.P.R.E.M.I.X. The Fall Of Troy Guitar Hero III Legends Of Rock",
 	"Faith",
 	"Foo Fighters - Everlong",
 	"Foo Fighters - Everlong (Drum)",
