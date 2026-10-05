@@ -30,6 +30,7 @@ return {
 	"Shawn Mendes - Stitches - Solo - Ravel Falskhern",
 	"Silent-Night-Guitar-Arrangement",
 	"Slay The Princess, Brandon Boone - The Princess - Quartet - Sechesin",
+	"Vanessa Carlton - A Thousand Miles - Solo - Ravel Falskhern",
 	"Vibe Tracks (LIMO) - Nice To You - Octet - SnowTheBard",
 	"When You Sleep - My Bloody Valentine",
 	"X - Sadame (Guitar Version)",
