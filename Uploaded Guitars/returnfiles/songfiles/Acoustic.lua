@@ -190,6 +190,7 @@ return {
 	"Led Zeppelin - Stairway To Heaven - Fingerstyle",
 	"Linked Horizon - Attack On Titan OpShingeki No Kyojin Op",
 	"Linkin Park - Numb Fingerstyle",
+	"Linkin Park - Somewhere I Belong Greed Bass",
 	"Loso -",
 	"Loso - (1)",
 	"Lost Sky - Dreams.Mid",
