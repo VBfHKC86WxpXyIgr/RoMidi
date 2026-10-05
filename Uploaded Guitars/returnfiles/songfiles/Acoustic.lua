@@ -328,6 +328,7 @@ return {
 	"Superheaven - Youngest Daughter Greed Guitar2",
 	"Surf Curse - FreaksChorus",
 	"Surf Curse - FreaksLead",
+	"System Of A Down - Toxicity Greed Guitar1",
 	"Tame Impala - The Less I Know The Better",
 	"Tarot Feast 1780242551896",
 	"Tattoo Color - Guitar Cover Skill Zource",
