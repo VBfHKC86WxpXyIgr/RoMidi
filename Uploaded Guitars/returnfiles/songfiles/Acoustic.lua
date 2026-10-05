@@ -189,6 +189,7 @@ return {
 	"LArcenCiel - Drivers High",
 	"Led Zeppelin - Stairway To Heaven - Fingerstyle",
 	"Linked Horizon - Attack On Titan OpShingeki No Kyojin Op",
+	"Linkin Park - Lying From You Greed Guitar1",
 	"Linkin Park - Numb Fingerstyle",
 	"Linkin Park - Somewhere I Belong Greed Bass",
 	"Linkin Park - Somewhere I Belong Greed Guitar1",
