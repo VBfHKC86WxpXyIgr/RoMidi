@@ -24,6 +24,7 @@ return {
 	"Let You Break My Heart Again - Laufey",
 	"Lonely Day - System Of A Down",
 	"Night Boat To Cairo - Madness",
+	"One Direction - What Makes You Beautiful - Solo - Ravel Falskhern",
 	"Ruth B - Dandelions.",
 	"Shawn Mendes - Stitches - Solo - Ravel Falskhern",
 	"Silent-Night-Guitar-Arrangement",
