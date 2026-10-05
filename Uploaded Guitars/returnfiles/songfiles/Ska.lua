@@ -28,6 +28,7 @@ return {
 	"Shawn Mendes - Stitches - Solo - Ravel Falskhern",
 	"Silent-Night-Guitar-Arrangement",
 	"Slay The Princess, Brandon Boone - The Princess - Quartet - Sechesin",
+	"Vibe Tracks (LIMO) - Nice To You - Octet - SnowTheBard",
 	"When You Sleep - My Bloody Valentine",
 	"X - Sadame (Guitar Version)",
 	"Yung Kai - Blue - Solo - Ravel Falskhern",
