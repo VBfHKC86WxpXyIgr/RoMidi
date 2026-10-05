@@ -25,6 +25,7 @@ return {
 	"Lonely Day - System Of A Down",
 	"Night Boat To Cairo - Madness",
 	"Ruth B - Dandelions.",
+	"Shawn Mendes - Stitches - Solo - Ravel Falskhern",
 	"Silent-Night-Guitar-Arrangement",
 	"When You Sleep - My Bloody Valentine",
 	"X - Sadame (Guitar Version)",
