@@ -191,6 +191,7 @@ return {
 	"Linked Horizon - Attack On Titan OpShingeki No Kyojin Op",
 	"Linkin Park - Numb Fingerstyle",
 	"Linkin Park - Somewhere I Belong Greed Bass",
+	"Linkin Park - Somewhere I Belong Greed Guitar2",
 	"Loso -",
 	"Loso - (1)",
 	"Lost Sky - Dreams.Mid",
