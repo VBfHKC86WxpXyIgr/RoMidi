@@ -179,6 +179,7 @@ return {
 	"Killswitch Engage - My Curse Greed Guitar2",
 	"King Crimson - 21st Century Schizoid ManGreed",
 	"Korn Blind Greeed Guitar1",
+	"Korn Blind Greeed Guitar2",
 	"Kroi - JOJO SPIN Greed Bass",
 	"Kroi - JOJO SPIN Greed Guitar1",
 	"Kroi - JOJO SPIN Greed Guitar2",
