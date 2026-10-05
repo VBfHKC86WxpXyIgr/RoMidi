@@ -180,6 +180,7 @@ return {
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
 	"Nirvana - Something In The Way",
+	"Nirvana - Territorial Pissings Guitar",
 	"Nirvana - Verse Chorus Verse (2) [MIDIfind.Com]",
 	"Nirvana - You Know You'Re Right [MIDIfind.Com]",
 	"NIRVANA.The Man Who Sold The World Tabo Version",
