@@ -229,6 +229,7 @@ return {
 	"Radiohead - Lucky [MIDIfind.Com]",
 	"Radiohead - Motion Picture Soundtrack [MIDIfind.Com]",
 	"Radiohead - My Iron Lung Jonny Greenwood",
+	"Radiohead - My Iron Lung Thom Yorke",
 	"Radiohead - No Surprises (2) [MIDIfind.Com]",
 	"Radiohead - No Surprises [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
