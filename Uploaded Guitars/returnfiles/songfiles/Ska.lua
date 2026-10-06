@@ -28,6 +28,7 @@ return {
 	"Lonely Day - System Of A Down",
 	"Night Boat To Cairo - Madness",
 	"One Direction - What Makes You Beautiful - Solo - Ravel Falskhern",
+	"Post Malone Ft. Ty Dolla $Ign - Psycho - Solo - Ravel Falskhern",
 	"Ruth B - Dandelions.",
 	"Shawn Mendes - Stitches - Solo - Ravel Falskhern",
 	"Silent-Night-Guitar-Arrangement",
