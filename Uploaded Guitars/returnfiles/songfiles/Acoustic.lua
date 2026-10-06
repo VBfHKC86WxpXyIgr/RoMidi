@@ -1,6 +1,7 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
 	"-",
+	"- Bodyslam -Love",
 	"- EBOLAFull",
 	"- Jintara Poonlarp I Tao NgoiOfficial MV",
 	"- Jintara Poonlarp I Tao NgoiOfficial MVBass",
