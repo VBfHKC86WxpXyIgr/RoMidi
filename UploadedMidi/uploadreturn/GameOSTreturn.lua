@@ -169,6 +169,7 @@ return {
 	"Samplab Screen Recording 202 (1)",
 	"sans. - Toby Fox",
 	"Saviour Of The Waking World Piano",
+	"Scarlet Forest (DELTARUNE Piano Collections, Vol. 1) - (Arr Trevor Alan Gomes) By Toby Fox",
 	"Schoolhouse Trouble Playable",
 	"Scizzle Aquatic Ambience Piano Tutorial Solo Arrangement",
 	"Shiawase Vip",
