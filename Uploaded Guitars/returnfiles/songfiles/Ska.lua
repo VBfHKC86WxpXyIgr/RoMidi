@@ -24,6 +24,7 @@ return {
 	"I Dont Wanna Be Me - Type O Negative",
 	"Johnny-Guitar-1",
 	"Johnny-Guitar-2",
+	"Justin Bieber - Sorry - Solo - Ravel Falskhern",
 	"Kendrick Lamar - Luther - Solo - Ravel Falskhern",
 	"Let You Break My Heart Again - Laufey",
 	"Lonely Day - System Of A Down",
