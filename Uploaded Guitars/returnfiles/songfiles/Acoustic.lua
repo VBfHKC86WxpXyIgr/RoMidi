@@ -174,6 +174,7 @@ return {
 	"KANA-BOON - Silhouette Greed Guitar2",
 	"Karen Aoki Daisuke Hasegawa - Great Days Jojos Bizarre Adventure Diamond Is Unbreakable Op3",
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
+	"Kessoku Band - Seisyun Complex Greed",
 	"Kevin Sherwood Elena Siegman - 115",
 	"Kidhord Bodyslam Greed Guitar1",
 	"Kidhord Bodyslam Greed Guitar2 26",
