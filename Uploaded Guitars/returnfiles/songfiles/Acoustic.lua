@@ -56,6 +56,7 @@ return {
 	"Bodyslam - (1)",
 	"Bodyslam -FUULL",
 	"Bodyslam -Got Love",
+	"Bodyslam -Small Boat",
 	"Bodyslam -Yapid",
 	"Buddy Holly - Weezer",
 	"Californication Greed Guitar1",
