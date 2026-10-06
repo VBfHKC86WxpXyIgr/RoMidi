@@ -285,6 +285,7 @@ return {
 	"Panchiko - Until I Know Greed Guitar2",
 	"Paradox - Official MV",
 	"Paradox - Official MV-Drum Kit (1)",
+	"Paramore - Ignorance Greed",
 	"Paramore - Ignorance Greed Guitar1",
 	"Paramore - Ignorance Greed Guitar2",
 	"Penny Royal Tea - Approaching Nirvana (Piano-Vocal-Guitar)",
