@@ -31,6 +31,7 @@ return {
 	"Let You Break My Heart Again - Laufey",
 	"Lonely Day - System Of A Down",
 	"Lukas Graham - 7 Years - Solo - Ravel Falskhern",
+	"Marshmello Ft. Bastille - Happier - Solo - Ravel Falskhern",
 	"Night Boat To Cairo - Madness",
 	"One Direction - What Makes You Beautiful - Solo - Ravel Falskhern",
 	"Post Malone Ft. Ty Dolla $Ign - Psycho - Solo - Ravel Falskhern",
