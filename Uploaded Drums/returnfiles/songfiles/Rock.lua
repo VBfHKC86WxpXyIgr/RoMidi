@@ -209,6 +209,7 @@ return {
 	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Sliver (5) [MIDIfind.Com]",
 	"Nirvana - Smells Like Teen Spirit",
+	"Nirvana - Smells Like Teen Spirit Live At Reading 1992 Drums",
 	"Nirvana - Territorial Pissings",
 	"Nirvana - Verse Chorus Verse (2) [MIDIfind.Com]",
 	"NIRVANA.Smells Like Teen Spirit K",
