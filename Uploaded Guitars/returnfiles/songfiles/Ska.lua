@@ -18,6 +18,7 @@ return {
 	"Celine Dion - My Heart Will Go On - Solo - Ravel Falskhern",
 	"Christina Perri - A Thousand Years - Solo - Debra VanHouten",
 	"Converted Sound Midi",
+	"Demon Slayer - Nezuko Theme - Solo - Nozomi Tenma",
 	"Demon Slayer - The Mugen Train - Tanjiro'S Dream - Solo - Nozomi Tenma",
 	"Floods Outro",
 	"Guitar Lead Little Girls OB",
