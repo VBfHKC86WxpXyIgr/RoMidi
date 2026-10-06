@@ -96,6 +96,7 @@ return {
 	"Tum Hi Ho (Aashiqui 2)",
 	"Two Birds - Regina Spektor",
 	"Vai Steve - For The Love Of God (5) [MIDIfind.Com]",
+	"X - Sadame (Guitar Version)",
 	"Yann Tiersen - La NoyéE",
 	"You'Ve Got A Friend In Me - Toy Story",
 	"Zack Tabudlo - Pano - Solo - Ravel Falskhern",
