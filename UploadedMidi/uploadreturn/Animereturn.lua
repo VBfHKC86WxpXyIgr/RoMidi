@@ -3,6 +3,7 @@ return {
 	"- Miss Kobayashis Dragon Maid Op Arr. Phyxinon",
 	"[Black MIDI] The Classic Black Medley",
 	"[COMPLETE] Bloody Stream (JoJo'S Bizarre Adventure)",
+	"[DDLC] Poem Panic! [Piano Arrangement]",
 	"[FULL] Dystopia - The Iceblade Sorcerer Shall Rule The World OP - Piano Arrangement",
 	"【FREE】Lucky",
 	"@Brunomars - Locked Out Of Heaven (Lyrics) 1777128424549",
