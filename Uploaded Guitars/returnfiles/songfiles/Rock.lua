@@ -112,6 +112,7 @@ return {
 	"Misc Covers-Steel Ball Run Teaser Trailer",
 	"Muse - Hysteria [MIDIfind.Com]",
 	"My Chemical Romance - Bury Me In Black Frank Iero",
+	"My Chemical Romance - Bury Me In Black Ray Toro",
 	"My Chemical Romance - Dead! Frank Iero",
 	"My Chemical Romance - Dead! Mikey Way Bass",
 	"My Chemical Romance - Dead! Ray Toro",
