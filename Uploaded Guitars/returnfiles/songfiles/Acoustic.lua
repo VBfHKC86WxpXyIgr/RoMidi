@@ -272,6 +272,7 @@ return {
 	"Nujabes MINMI - Shiki No Uta",
 	"Nujabes MINMI - Shiki No Uta (1)",
 	"O Zonedragostea Din Tei",
+	"Oasis - Champagne Supernova Live",
 	"Oasis - Married With Children",
 	"Originale Liedermacher Midi",
 	"Output 11ec2b83 Creep - Radiohead (Piano Cover)",
