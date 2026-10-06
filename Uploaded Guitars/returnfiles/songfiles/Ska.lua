@@ -51,6 +51,7 @@ return {
 	"Shawn Mendes - Stitches - Solo - Ravel Falskhern",
 	"Shawn Mendes - There'S Nothing Holdin' Me Back - Solo - Ravel Falskhern",
 	"Shawn Mendes - Treat You Better - Solo - Ravel Falskhern",
+	"Sia - Snowman - Octet - SnowTheBard",
 	"Silent-Night-Guitar-Arrangement",
 	"Slay The Princess, Brandon Boone - The Princess - Quartet - Sechesin",
 	"Somewhere On Musescore. Dumb Me Didn'T Favorite Which Version. - Naruto - Sadness And Sorrow - Solo - Klaus Lightsbane",
