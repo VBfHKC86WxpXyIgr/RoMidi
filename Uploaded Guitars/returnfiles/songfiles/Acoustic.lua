@@ -55,6 +55,7 @@ return {
 	"Bocchi The Rock - Seisyun Complex",
 	"Bodyslam - (1)",
 	"Bodyslam -FUULL",
+	"Bodyslam -Got Love",
 	"Bodyslam -Yapid",
 	"Buddy Holly - Weezer",
 	"Californication Greed Guitar1",
