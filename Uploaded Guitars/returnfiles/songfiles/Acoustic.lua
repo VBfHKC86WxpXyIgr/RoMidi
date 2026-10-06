@@ -327,6 +327,7 @@ return {
 	"Silly Fools - Kid Hord(1)",
 	"Silly Fools - Still Water LEAD Greed",
 	"Silly Fools - Still Water RTM Greed",
+	"Silly Fools -About Love",
 	"Silly Fools -About Love Guitar1 Greed",
 	"Silly Fools -About Love Guitar2 Greed",
 	"Silly Fools -Cant Fight",
