@@ -413,6 +413,7 @@ return {
 	"YOU ARE MY DREAM GREED Guitar2",
 	"YTDown Instrumental.Mp3",
 	"YTDowncom YouTube What-Is-Love Media E8WfCAfom U 009 128k-AudioTrimmercom Converted By Jukeblocks",
+	"Zeal -",
 	"ZweetRoll -",
 	"กลับมา - 2 Days Ago Kids",
 	"ก่อน - Moderndog",
