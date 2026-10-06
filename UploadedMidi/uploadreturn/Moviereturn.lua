@@ -94,6 +94,7 @@ return {
 	"Tony Ann - Now We Are Free - Gladiator Theme",
 	"Tum Hi Ho (Aashiqui 2)",
 	"Two Birds - Regina Spektor",
+	"Vai Steve - For The Love Of God (5) [MIDIfind.Com]",
 	"Yann Tiersen - La NoyéE",
 	"You'Ve Got A Friend In Me - Toy Story",
 	"Ариэль - В Краю Магнолий (Акустика) [MIDIfind.Com]",
