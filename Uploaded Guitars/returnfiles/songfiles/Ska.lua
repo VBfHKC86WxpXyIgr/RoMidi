@@ -11,6 +11,7 @@ return {
 	"Bass Little Girls OB",
 	"Bazzi - Mine - Solo - Ravel Falskhern",
 	"Black Hole Sun - Soundgarden",
+	"Bruno Mars Ft. Lady Gaga - Die With A Smile - Solo - Ravel Falskhern",
 	"Canon In D For Guitar Solo",
 	"Celine Dion - My Heart Will Go On - Solo - Ravel Falskhern",
 	"Converted Sound Midi",
