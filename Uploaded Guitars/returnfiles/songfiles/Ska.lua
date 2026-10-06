@@ -11,6 +11,7 @@ return {
 	"Baggy Trousers - Madness (Piano-Voice-Guitar)",
 	"Bass Little Girls OB",
 	"Bazzi - Mine - Solo - Ravel Falskhern",
+	"Billie Eilish - Wildflower - Solo - Skynyrd Fraefolgwyn",
 	"Black Hole Sun - Soundgarden",
 	"Bruno Mars Ft. Lady Gaga - Die With A Smile - Solo - Ravel Falskhern",
 	"Camila Cabello And Shawn Mendes - SeñOrita - Solo - Ravel Falskhern",
