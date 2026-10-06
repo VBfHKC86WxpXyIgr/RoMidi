@@ -335,6 +335,7 @@ return {
 	"Silly Fools -JeejaRTM Greed",
 	"Silly Fools -Wat Jai LEAD Greed",
 	"Silly Fools -Wat Jai RTM Greed",
+	"Silly Fools -Ya Bok Wa Rak",
 	"Silly Fools -Ya Bok Wa Rak Guitar1 Greed",
 	"Silly Fools -Ya Bok Wa Rak Guitar2 Greed",
 	"Siraph -Greed",
