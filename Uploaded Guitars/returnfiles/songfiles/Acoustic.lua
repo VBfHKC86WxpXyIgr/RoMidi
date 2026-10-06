@@ -361,6 +361,7 @@ return {
 	"Sunshine-Of-Your-LoveBassUploadByGreed",
 	"Sunshine-Of-Your-LoveLeadUploadByGreed",
 	"Sunshine-Of-Your-LoveRTMUploadByGreed",
+	"Superheaven - Youngest Dau Ghter Greed",
 	"Superheaven - Youngest Daughter Greed Guitar1",
 	"Superheaven - Youngest Daughter Greed Guitar2",
 	"Surf Curse - FreaksChorus",
