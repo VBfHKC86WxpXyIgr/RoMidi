@@ -34,6 +34,7 @@ return {
 	"Guitar Rtm Little Girls OB",
 	"Guitar-Waltz",
 	"Gym Class Hero - Stereo Hearts - Solo - Ravel Falskhern",
+	"Harry Potter - Hedwig'S Theme - Octet - Kino Geno",
 	"HãY Trao Cho Anh",
 	"Hotel California - Eagles (Solo Guitar)",
 	"I Dont Wanna Be Me - Type O Negative",
