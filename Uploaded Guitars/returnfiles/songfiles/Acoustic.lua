@@ -33,6 +33,7 @@ return {
 	"Banes World - Drowsy",
 	"Basement - Are You The One",
 	"Basic Pitch Transcription",
+	"Bass Guitar Lessons - Guns N Roses - Sweet Child O Mine Greed",
 	"Basshunter - Dota (Full)",
 	"Batta - Chase",
 	"Batta - Chase ByGreed Guitar1",
