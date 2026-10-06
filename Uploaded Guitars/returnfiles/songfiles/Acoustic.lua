@@ -248,6 +248,7 @@ return {
 	"Mor Lum",
 	"Mortal Kombat - Mortal Kombat Theme",
 	"Moving And Cut -",
+	"MUSKTEERS -Tale",
 	"MUSKTEERS -Tale Guitar1 Greed",
 	"MUSKTEERS -Tale Guitar2 Greed",
 	"My Chemical Romance - The Ghost Of You",
