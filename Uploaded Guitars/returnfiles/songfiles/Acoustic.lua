@@ -22,6 +22,7 @@ return {
 	"American Football - Never Meant (1)",
 	"Andra And The BackBone - Sempurna Lyre.Mid",
 	"Arranged By @KAyuna-Guitar - 夜に駆ける",
+	"Asleep Tomorrow - Scream Aim FireGreed",
 	"Asleep Tomorrow - Scream Aim FireGreed Guitar1",
 	"Asleep Tomorrow - Scream Aim FireGreed Guitar2",
 	"Avenged Sevenfold - Unholy Confessions Greed Guitar1",
