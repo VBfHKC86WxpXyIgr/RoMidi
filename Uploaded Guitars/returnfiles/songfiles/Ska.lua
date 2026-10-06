@@ -34,6 +34,7 @@ return {
 	"Justin Bieber - Love Yourself - Solo - Ravel Falskhern",
 	"Justin Bieber - Sorry - Solo - Ravel Falskhern",
 	"JVKE - Golden Hour - Trio - KenTIP",
+	"Kate Bush Stranger Things Season 4 - Running Up That Hill - Octet - SnowTheBard",
 	"Kendrick Lamar - Luther - Solo - Ravel Falskhern",
 	"Let You Break My Heart Again - Laufey",
 	"Lonely Day - System Of A Down",
