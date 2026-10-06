@@ -27,6 +27,7 @@ return {
 	"Demon Slayer- Kamado Tanjiro No Uta - Solo - Zephyr Lathillion",
 	"Doraemon Original Soundtrack (Full Version) - Doraemon'S Theme (Doraemon No Uta) - Solo - C' Lynn",
 	"Dusk Till Dawn - Zayn Ft. Sia - Solo - Thymm Rayne",
+	"Ellie Goulding - Love Me Like You Do - Solo - Ravel Falskhern",
 	"Floods Outro",
 	"Guitar Lead Little Girls OB",
 	"Guitar Rtm Little Girls OB",
