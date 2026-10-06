@@ -117,6 +117,7 @@ return {
 	"Dragon Ball GT OP - Dan Dan Kokoro Hikareteku",
 	"Drowning Piano Tude Arrangement",
 	"Drowning-Love-(HUMAN BEST VERSION)",
+	"DUET - OMORI OST (Piano Tutorial)",
 	"DUET (OMORI)",
 	"Duncan Laurence - Arcade",
 	"Duvet BoA (BEST VERSION)",
