@@ -12,6 +12,7 @@ return {
 	"Bass Little Girls OB",
 	"Bazzi - Mine - Solo - Ravel Falskhern",
 	"Billie Eilish - Bad Guy - Octet - Thymm Rayne",
+	"Billie Eilish - Bad Guy - Octet - Thymm Rayne 2",
 	"Billie Eilish - Wildflower - Solo - Skynyrd Fraefolgwyn",
 	"Black Hole Sun - Soundgarden",
 	"Bruno Mars Ft. Lady Gaga - Die With A Smile - Solo - Ravel Falskhern",
