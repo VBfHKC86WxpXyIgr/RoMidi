@@ -10,6 +10,7 @@ return {
 	"Animotion Obsession",
 	"Anlatamam - Kara Sevda [Demon]",
 	"APT",
+	"Ariana Grande - 7 Rings - Solo - Klaus Lightsbane",
 	"Bad Style",
 	"Basic Pitch Transcription",
 	"Billie Eilish - WILDFLOWER (In The Key Of A Major).30-Sec-Sample.MIDISTAX.COM",
