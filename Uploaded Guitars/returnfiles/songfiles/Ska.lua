@@ -15,6 +15,7 @@ return {
 	"Camila Cabello And Shawn Mendes - SeñOrita - Solo - Ravel Falskhern",
 	"Canon In D For Guitar Solo",
 	"Celine Dion - My Heart Will Go On - Solo - Ravel Falskhern",
+	"Christina Perri - A Thousand Years - Solo - Debra VanHouten",
 	"Converted Sound Midi",
 	"Floods Outro",
 	"Guitar Lead Little Girls OB",
