@@ -22,6 +22,7 @@ return {
 	"Demon Slayer - Nezuko Theme - Solo - Nozomi Tenma",
 	"Demon Slayer - The Mugen Train - Tanjiro'S Dream - Solo - Nozomi Tenma",
 	"Demon Slayer- Kamado Tanjiro No Uta - Solo - Zephyr Lathillion",
+	"Doraemon Original Soundtrack (Full Version) - Doraemon'S Theme (Doraemon No Uta) - Solo - C' Lynn",
 	"Floods Outro",
 	"Guitar Lead Little Girls OB",
 	"Guitar Rtm Little Girls OB",
