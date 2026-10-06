@@ -245,6 +245,7 @@ return {
 	"Radiohead - Kid A [MIDIfind.Com]",
 	"Radiohead - Let Down [MIDIfind.Com]",
 	"Radiohead - Lucky [MIDIfind.Com]",
+	"Radiohead - My Iron Lung Drums",
 	"Radiohead - No Surprises (2) [MIDIfind.Com]",
 	"Radiohead - No Surprises [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
