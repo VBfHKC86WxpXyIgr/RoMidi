@@ -16,6 +16,7 @@ return {
 	"Billie Eilish - Wildflower - Solo - Skynyrd Fraefolgwyn",
 	"Black Hole Sun - Soundgarden",
 	"Bruno Mars Ft. Lady Gaga - Die With A Smile - Solo - Ravel Falskhern",
+	"Camila Cabello - Havana - Solo - Ravel Falskhern",
 	"Camila Cabello And Shawn Mendes - SeñOrita - Solo - Ravel Falskhern",
 	"Canon In D For Guitar Solo",
 	"Celine Dion - My Heart Will Go On - Solo - Ravel Falskhern",
