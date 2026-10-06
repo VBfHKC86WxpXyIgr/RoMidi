@@ -34,6 +34,7 @@ return {
 	"Lonely Day - System Of A Down",
 	"Lukas Graham - 7 Years - Solo - Ravel Falskhern",
 	"Marshmello Ft. Bastille - Happier - Solo - Ravel Falskhern",
+	"MusicNotes Sheet Music - Doja Cat - Say So - Solo - Shiro Astral",
 	"Night Boat To Cairo - Madness",
 	"One Direction - What Makes You Beautiful - Solo - Ravel Falskhern",
 	"Passenger - Let Her Go - Solo - Ravel Falskhern",
