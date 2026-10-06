@@ -29,6 +29,7 @@ return {
 	"Dusk Till Dawn - Zayn Ft. Sia - Solo - Thymm Rayne",
 	"Ellie Goulding - Love Me Like You Do - Solo - Ravel Falskhern",
 	"Floods Outro",
+	"Frozen - Do You Want To Build A Snowman - Solo - Ravel Falskhern",
 	"Guitar Lead Little Girls OB",
 	"Guitar Rtm Little Girls OB",
 	"Guitar-Waltz",
