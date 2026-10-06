@@ -249,6 +249,7 @@ return {
 	"Radiohead - No Surprises (2) [MIDIfind.Com]",
 	"Radiohead - No Surprises [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
+	"Radiohead - Paranoid Android Drums",
 	"Radiohead - Subterranean Homesick Alien [MIDIfind.Com]",
 	"Radiohead - The Bends (2) [MIDIfind.Com]",
 	"Radiohead - Weird Fishes Arpeggi",
