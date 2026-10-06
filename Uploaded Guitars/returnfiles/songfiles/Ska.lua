@@ -53,6 +53,7 @@ return {
 	"Night Boat To Cairo - Madness",
 	"Olivia Rodrigo - Vampire - Quartet - Skynyrd Fraefolgwyn",
 	"One Direction - What Makes You Beautiful - Solo - Ravel Falskhern",
+	"OneRepublic - Counting Stars - Solo - Ravel Falskhern",
 	"Passenger - Let Her Go - Solo - Ravel Falskhern",
 	"Post Malone Ft. Ty Dolla $Ign - Psycho - Solo - Ravel Falskhern",
 	"Ruth B - Dandelions.",
