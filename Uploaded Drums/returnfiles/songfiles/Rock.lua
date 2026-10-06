@@ -157,6 +157,7 @@ return {
 	"Megadeth - Peace Sells [MIDIfind.Com]",
 	"Metallica Enter Sandman",
 	"Muse - Hysteria [MIDIfind.Com]",
+	"My Chemical Romance - Bury Me In Black",
 	"My Chemical Romance - Dead!",
 	"My Chemical Romance - Demolition Lovers (Songparts.Com)",
 	"My Chemical Romance - Drowning Lessons",
