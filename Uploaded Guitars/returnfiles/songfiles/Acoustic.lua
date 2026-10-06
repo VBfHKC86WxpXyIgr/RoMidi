@@ -181,6 +181,7 @@ return {
 	"Kembali Pulang Suara Kayu Ft Feby Putri BY SurrealFlux 1780242827893",
 	"Kessoku Band - Seisyun Complex Greed",
 	"Kevin Sherwood Elena Siegman - 115",
+	"Kidhord",
 	"Kidhord Bodyslam Greed Guitar1",
 	"Kidhord Bodyslam Greed Guitar2 26",
 	"Killswitch Engage - My Curse Greed Guitar1",
