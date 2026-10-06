@@ -6,6 +6,7 @@ return {
 	"- Jintara Poonlarp I Tao NgoiOfficial MV",
 	"- Jintara Poonlarp I Tao NgoiOfficial MVBass",
 	"- Jintara Poonlarp I Tao NgoiOfficial MVGuitar",
+	"- LOMOSONIC X BOMB AT TRACK Medley Halloween",
 	"- Oxt - Clattanoia Overlord OpGuitar1 Greed",
 	"- Oxt - Clattanoia Overlord OpGuitar2 Greed",
 	"- SILLY FOOLS OFFICIAL MV",
