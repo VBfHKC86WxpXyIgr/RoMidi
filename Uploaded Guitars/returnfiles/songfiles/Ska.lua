@@ -6,6 +6,7 @@ return {
 	"1Stranded Lullaby (Piano)",
 	"1White Ball - Miracle Musical (ミラクルミュージカル) White Ball",
 	"AC DC - Thunderstruck - Opening Guitar Solo",
+	"Ariana Grande - 7 Rings - Solo - Klaus Lightsbane",
 	"As Time Flies - Tyrique Sayre (Piano Solo)",
 	"Baggy Trousers - Madness (Piano-Voice-Guitar)",
 	"Bass Little Girls OB",
