@@ -98,6 +98,7 @@ return {
 	"Vai Steve - For The Love Of God (5) [MIDIfind.Com]",
 	"Yann Tiersen - La NoyéE",
 	"You'Ve Got A Friend In Me - Toy Story",
+	"Zack Tabudlo - Pano - Solo - Ravel Falskhern",
 	"Ариэль - В Краю Магнолий (Акустика) [MIDIfind.Com]",
 	"कौन तुझे Kaun Tujhe",
 }
