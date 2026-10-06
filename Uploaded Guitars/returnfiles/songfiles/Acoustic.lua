@@ -69,6 +69,7 @@ return {
 	"Chouchou Merged Syrups - Greed Guitar1",
 	"Chouchou Merged Syrups - Greed Guitar2",
 	"Chris Isaakwicked Game",
+	"Cigarettes After Sex - Cry",
 	"Cigarettes After Sex - Cry Greed Guitar1",
 	"Cigarettes After Sex - Cry Greed Guitar2",
 	"Cinderella - Tattoo Colour",
