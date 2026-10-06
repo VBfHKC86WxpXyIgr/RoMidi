@@ -183,6 +183,7 @@ return {
 	"Korn - Freak On A Leash Greed Guitar2",
 	"Korn Blind Greeed Guitar1",
 	"Korn Blind Greeed Guitar2",
+	"Kroi - JOJO SPIN",
 	"Kroi - JOJO SPIN Greed Bass",
 	"Kroi - JOJO SPIN Greed Guitar1",
 	"Kroi - JOJO SPIN Greed Guitar2",
