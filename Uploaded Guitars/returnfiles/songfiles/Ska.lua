@@ -28,6 +28,7 @@ return {
 	"I Dont Wanna Be Me - Type O Negative",
 	"Johnny-Guitar-1",
 	"Johnny-Guitar-2",
+	"Justin Bieber - Love Yourself - Solo - Ravel Falskhern",
 	"Justin Bieber - Sorry - Solo - Ravel Falskhern",
 	"JVKE - Golden Hour - Trio - KenTIP",
 	"Kendrick Lamar - Luther - Solo - Ravel Falskhern",
