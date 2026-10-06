@@ -235,6 +235,7 @@ return {
 	"Radiohead - No Surprises (2) [MIDIfind.Com]",
 	"Radiohead - No Surprises [MIDIfind.Com]",
 	"Radiohead - Paranoid Android [MIDIfind.Com]",
+	"Radiohead - Paranoid Android Ed O Brien",
 	"Radiohead - Paranoid Android Jonny Greenwood",
 	"Radiohead - Paranoid Android Thom Yorke",
 	"Radiohead - Subterranean Homesick Alien [MIDIfind.Com]",
