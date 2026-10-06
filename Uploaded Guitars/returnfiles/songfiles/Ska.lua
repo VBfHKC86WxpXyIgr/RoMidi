@@ -39,6 +39,7 @@ return {
 	"Post Malone Ft. Ty Dolla $Ign - Psycho - Solo - Ravel Falskhern",
 	"Ruth B - Dandelions.",
 	"Shawn Mendes - Stitches - Solo - Ravel Falskhern",
+	"Shawn Mendes - There'S Nothing Holdin' Me Back - Solo - Ravel Falskhern",
 	"Silent-Night-Guitar-Arrangement",
 	"Slay The Princess, Brandon Boone - The Princess - Quartet - Sechesin",
 	"The Chainsmokers - Closer - Solo - Ravel Falskhern",
