@@ -9,6 +9,7 @@ return {
 	"As Time Flies - Tyrique Sayre (Piano Solo)",
 	"Baggy Trousers - Madness (Piano-Voice-Guitar)",
 	"Bass Little Girls OB",
+	"Bazzi - Mine - Solo - Ravel Falskhern",
 	"Black Hole Sun - Soundgarden",
 	"Canon In D For Guitar Solo",
 	"Celine Dion - My Heart Will Go On - Solo - Ravel Falskhern",
