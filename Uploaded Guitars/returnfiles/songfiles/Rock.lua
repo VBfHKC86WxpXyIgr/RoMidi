@@ -185,6 +185,7 @@ return {
 	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
+	"Nirvana - Smells Like Teen Spirit Live At Reading 1992 Guitar",
 	"Nirvana - Something In The Way",
 	"Nirvana - Territorial Pissings Bass",
 	"Nirvana - Territorial Pissings Guitar",
