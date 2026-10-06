@@ -37,6 +37,7 @@ return {
 	"Lukas Graham - 7 Years - Solo - Ravel Falskhern",
 	"Marshmello Ft. Bastille - Happier - Solo - Ravel Falskhern",
 	"MusicNotes Sheet Music - Doja Cat - Say So - Solo - Shiro Astral",
+	"Naruto - Sadness And Sorrow - Octet - SnowTheBard",
 	"Night Boat To Cairo - Madness",
 	"Olivia Rodrigo - Vampire - Quartet - Skynyrd Fraefolgwyn",
 	"One Direction - What Makes You Beautiful - Solo - Ravel Falskhern",
