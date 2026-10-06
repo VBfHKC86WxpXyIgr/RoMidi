@@ -411,6 +411,7 @@ return {
 	"Yapid2 Greed Guitar2",
 	"Yes - Roundabout Bass",
 	"You Are My Dream",
+	"YOU ARE MY DREAM GREED",
 	"YOU ARE MY DREAM GREED Guitar1",
 	"YOU ARE MY DREAM GREED Guitar2",
 	"YTDown Instrumental.Mp3",
