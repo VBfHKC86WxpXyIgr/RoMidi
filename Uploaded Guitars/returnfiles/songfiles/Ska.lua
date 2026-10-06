@@ -17,6 +17,7 @@ return {
 	"Guitar Lead Little Girls OB",
 	"Guitar Rtm Little Girls OB",
 	"Guitar-Waltz",
+	"Gym Class Hero - Stereo Hearts - Solo - Ravel Falskhern",
 	"HãY Trao Cho Anh",
 	"Hotel California - Eagles (Solo Guitar)",
 	"I Dont Wanna Be Me - Type O Negative",
