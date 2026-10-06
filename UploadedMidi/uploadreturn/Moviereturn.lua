@@ -80,6 +80,7 @@ return {
 	"Ravyn Lenae - Love Me Not",
 	"Requiem For A Dream - Main Theme - EASY",
 	"Shakira, Burna Boy - DAI DAI",
+	"Shawn Mendes - Stitches - Solo - Ravel Falskhern",
 	"Squid Game musique",
 	"Squid Game slow",
 	"succession-piano-version-7",
