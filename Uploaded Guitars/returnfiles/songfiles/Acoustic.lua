@@ -160,6 +160,7 @@ return {
 	"Hillbilly Jim Promo [1985-04-20] 320k",
 	"Hokuto No Ken - You Wa Shock Full Version 2",
 	"Holy-Diver",
+	"HOUSECALL - Mystery Girl Full",
 	"HYBS - Ride",
 	"I Just Threw Out The Love Of My Dreams - Weezer",
 	"Iqro - Raim Laode",
