@@ -49,6 +49,7 @@ return {
 	"Shawn Mendes - Treat You Better - Solo - Ravel Falskhern",
 	"Silent-Night-Guitar-Arrangement",
 	"Slay The Princess, Brandon Boone - The Princess - Quartet - Sechesin",
+	"Somewhere On Musescore. Dumb Me Didn'T Favorite Which Version. - Naruto - Sadness And Sorrow - Solo - Klaus Lightsbane",
 	"The Chainsmokers - Closer - Solo - Ravel Falskhern",
 	"Vanessa Carlton - A Thousand Miles - Solo - Ravel Falskhern",
 	"Vibe Tracks (LIMO) - Nice To You - Octet - SnowTheBard",
