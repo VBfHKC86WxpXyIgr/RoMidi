@@ -100,6 +100,7 @@ return {
 	"This Is It",
 	"Tiersen Yann - La Valse D Amelie (Piano Version) [MIDIfind.Com]",
 	"Titibo-Tibo For Piano Solo",
+	"Tones And I - Dance Monkey (Midi By Carlo Prato) (Www.Cprato.Com)",
 	"Tony Ann - Now We Are Free - Gladiator Theme",
 	"Tum Hi Ho (Aashiqui 2)",
 	"Two Birds - Regina Spektor",
