@@ -71,6 +71,7 @@ return {
 	"Love Is In The Air, Pt. 1 - Rock Burwell",
 	"Love Story",
 	"Love Story X Golden Brown",
+	"Lukas Graham - 7 Years - Solo - Ravel Falskhern",
 	"Mia--Sebastians-Theme",
 	"Michael Jackson’S This Is It",
 	"MidiLeaks.RiverFlowsInYou",
