@@ -145,6 +145,7 @@ return {
 	"Killers - Mr Brightside (Drum)",
 	"Killers - Mr Brightside [MIDIfind.Com]",
 	"Korn - Embrace",
+	"Kurt Cobain - And I Love Her Drums",
 	"LastResort",
 	"Leech",
 	"Linkin Park - Given Up [MIDIfind.Com]",
