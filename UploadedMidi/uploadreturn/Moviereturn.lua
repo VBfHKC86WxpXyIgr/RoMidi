@@ -19,6 +19,7 @@ return {
 	"Blinding Lights",
 	"Bohemian Rhapsody - Queen",
 	"Bohemian Rhapsody - Queen (Piano Solo)",
+	"Buckethead - Soothsayer [MIDIfind.Com]",
 	"Candyman Theme Song - It Was Always You Helen",
 	"Carol Of The Bells With Style",
 	"Carter Burwell - Bella'S Lullaby [MIDIfind.Com] 2",
