@@ -170,6 +170,7 @@ return {
 	"Nirvana - In Bloom Rhythm Guitar",
 	"Nirvana - Lithium (3) [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
+	"Nirvana - Lounge Act Bass",
 	"Nirvana - Lounge Act Guitar",
 	"Nirvana - Mexican Seafood [MIDIfind.Com]",
 	"Nirvana - Milk It [MIDIfind.Com]",
