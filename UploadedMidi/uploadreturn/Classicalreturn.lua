@@ -188,6 +188,7 @@ return {
 	"La Vida Es Mejor Cantando",
 	"Lana Del Rey - White Mustang Lyrics Mp3cutnet Converted By Jukeblocks",
 	"Lana Del Rey-Diet Mountain Dew The Flight - SafeShare - Screencastify - January 5 2026 9 34 PM Trimmed By Jukeblocks Converted By Jukeblocks",
+	"Letter From A Friend",
 	"Libertango(Piano Solo) - Astor Piazzolla",
 	"Libet'S Delay",
 	"Libet'S Delay The Caretaker Libet(BEST VERSION)",
