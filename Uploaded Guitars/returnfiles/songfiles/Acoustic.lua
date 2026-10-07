@@ -11,6 +11,7 @@ return {
 	"- Oxt - Clattanoia Overlord OpGuitar2 Greed",
 	"- SILLY FOOLS OFFICIAL MV",
 	"- So Cool",
+	"-Not Afraid SILLY FOOLS OFFICIAL MV",
 	"44269 Gitara",
 	"62977 GITARA",
 	"80d547ff Mxpheebz - The Beach Piano Cover ｜ Free Midi",
