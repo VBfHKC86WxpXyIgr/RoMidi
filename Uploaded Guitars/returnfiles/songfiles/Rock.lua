@@ -193,6 +193,7 @@ return {
 	"Nirvana - Something In The Way",
 	"Nirvana - Territorial Pissings Bass",
 	"Nirvana - Territorial Pissings Guitar",
+	"Nirvana - The Man Who Sold The World Bass",
 	"Nirvana - The Man Who Sold The World Lead Guitar",
 	"Nirvana - Verse Chorus Verse (2) [MIDIfind.Com]",
 	"Nirvana - You Know You'Re Right [MIDIfind.Com]",
