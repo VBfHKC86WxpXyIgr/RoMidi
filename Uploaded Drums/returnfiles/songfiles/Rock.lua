@@ -268,6 +268,7 @@ return {
 	"Santana Carlos - Smooth [MIDIfind.Com]",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
 	"Silverchair - Freak (Drum)",
+	"Silverchair - Slave (Drum)",
 	"Skillet - Monster [MIDIfind.Com]",
 	"Smells Like Teen Spirit - Drums",
 	"Soundgarden - Outshined WWW.MIDISFREE.COM",
