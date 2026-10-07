@@ -164,6 +164,7 @@ return {
 	"Guns N Roses - Sweet Child O Mine Greed Guitar2",
 	"Hers - Harvey",
 	"Hers - What Once Was",
+	"HEY - SILLY FOOLS",
 	"Hill Billy Jim -[AudioTrimmer",
 	"Hill Billy Jim (1)",
 	"Hillbilly Jim Promo [1985-04-20] 320k",
