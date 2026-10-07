@@ -135,6 +135,7 @@ return {
 	"Ed Sheeran Thinking Out Loud",
 	"Electric Neon Lamp - PAWINEE Greed Guitar1",
 	"Electric Neon Lamp - PAWINEE Greed Guitar2",
+	"Eslabon Armado - Jugaste Y Sufri -",
 	"Eslabon Armado Peso Pluma - Ella Baila Sola Greed Guitar1",
 	"Eslabon Armado Peso Pluma - Ella Baila Sola Greed Guitar2",
 	"Etran De LAr - Imouha",
