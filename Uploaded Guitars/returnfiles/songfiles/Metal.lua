@@ -126,6 +126,7 @@ return {
 	"Floods Outro",
 	"For-Whom-The-Bell-Tolls",
 	"Forgotten",
+	"Fuck-Your-Life",
 	"Fucked With A Knife",
 	"Funeral Ceremony - Grausamkeit",
 	"Gojira - Flying Whales (OFFICIAL) [MIDIfind.Com]",
