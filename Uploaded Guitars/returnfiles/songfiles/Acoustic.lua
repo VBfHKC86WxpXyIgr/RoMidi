@@ -327,6 +327,7 @@ return {
 	"Silly Fools - - Silly Fools Lyrics Audio",
 	"Silly Fools - (1)Tired",
 	"Silly Fools - Kid Hord(1)",
+	"Silly Fools - Not Afraid",
 	"Silly Fools - Still Water LEAD Greed",
 	"Silly Fools - Still Water RTM Greed",
 	"Silly Fools - Tired FULL",
