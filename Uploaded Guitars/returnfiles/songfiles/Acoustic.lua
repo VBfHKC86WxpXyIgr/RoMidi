@@ -210,6 +210,7 @@ return {
 	"Kroi - JOJO SPIN Greed Bass",
 	"Kroi - JOJO SPIN Greed Guitar1",
 	"Kroi - JOJO SPIN Greed Guitar2",
+	"Kurt Cobain - And I Love Her Bass",
 	"Kurt Cobain - And I Love Her Guitar",
 	"Lama-Lama - Bernadya ｜ Piano",
 	"LArcenCiel - Drivers High",
