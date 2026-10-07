@@ -165,6 +165,7 @@ return {
 	"Nirvana - Heart Shaped Box [MIDIfind.Com]",
 	"Nirvana - In Bloom (2) [MIDIfind.Com]",
 	"Nirvana - In Bloom [MIDIfind.Com]",
+	"Nirvana - In Bloom Lead Guitar",
 	"Nirvana - Lithium (3) [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Mexican Seafood [MIDIfind.Com]",
