@@ -189,6 +189,7 @@ return {
 	"Nirvana - Serve The Servants [MIDIfind.Com]",
 	"Nirvana - Serve The Servants Bass",
 	"Nirvana - Serve The Servants Lead Guitar",
+	"Nirvana - Serve The Servants Rhythm Guitar",
 	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
