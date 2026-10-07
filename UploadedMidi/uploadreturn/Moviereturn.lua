@@ -108,6 +108,7 @@ return {
 	"Tum Hi Ho (Aashiqui 2)",
 	"Two Birds - Regina Spektor",
 	"Vai Steve - For The Love Of God (5) [MIDIfind.Com]",
+	"Vanessa Carlton - A Thousand Miles - Solo - Ravel Falskhern",
 	"X - Sadame (Guitar Version)",
 	"Yann Tiersen - La NoyéE",
 	"You'Ve Got A Friend In Me - Toy Story",
