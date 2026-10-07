@@ -180,6 +180,7 @@ return {
 	"Jane! - The Long Faces",
 	"Jane! The Long Faces",
 	"Jindie - She Makes Me Wanna Die",
+	"John Petrucci - Purple Rain Cover",
 	"Joji - SLOW DANCING IN THE DARK",
 	"Jojo - Steel Ball Run Johnny Joestar Theme",
 	"JOJOs - Roundabout-Electric Bass, Electric Bass",
