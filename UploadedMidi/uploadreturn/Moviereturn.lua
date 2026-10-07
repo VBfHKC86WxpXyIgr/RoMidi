@@ -26,6 +26,7 @@ return {
 	"Cigarettes After Sex - Apocalypse (Ending) V2",
 	"Còn gì đẹp hơn impossible",
 	"Cornfield Chase",
+	"Crayon Shin-Chan OP3「Ora Wa Ninkimono」",
 	"Dạo Bước HongKong 1999",
 	"Davy Jones Theme (Pirates Of The Caribbean)",
 	"Doja Cat - Say So Bass [MIDIfind.Com]",
