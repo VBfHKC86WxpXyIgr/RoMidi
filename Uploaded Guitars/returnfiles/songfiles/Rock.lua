@@ -167,6 +167,7 @@ return {
 	"Nirvana - In Bloom [MIDIfind.Com]",
 	"Nirvana - In Bloom Bass",
 	"Nirvana - In Bloom Lead Guitar",
+	"Nirvana - In Bloom Rhythm Guitar",
 	"Nirvana - Lithium (3) [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
 	"Nirvana - Mexican Seafood [MIDIfind.Com]",
