@@ -46,6 +46,7 @@ return {
 	"Beabadoobee - The Way Things Go",
 	"Beabadoobee-The Perfect Pair-05-27-2023-Acoustic Guitar",
 	"Bedroom Audio -",
+	"Bedroom Audio - OstHormones Dont Tell You",
 	"Bedroom Audio - รกมอสอง [Official Music Video]",
 	"Bertaut - Guitar",
 	"Big Ass - By Nack",
