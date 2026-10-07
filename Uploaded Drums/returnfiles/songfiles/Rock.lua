@@ -195,6 +195,7 @@ return {
 	"Nirvana - In Bloom Drums",
 	"Nirvana - Lithium (3) [MIDIfind.Com]",
 	"Nirvana - Lounge Act [MIDIfind.Com]",
+	"Nirvana - Lounge Act Drums",
 	"Nirvana - Mexican Seafood [MIDIfind.Com]",
 	"Nirvana - Mr. Moustache",
 	"Nirvana - Nirvana Lithium Live MTV Vma 1992 [MIDIfind.Com]",
