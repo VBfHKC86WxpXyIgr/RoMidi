@@ -267,6 +267,7 @@ return {
 	"Sadfasdf-Epic Cool Massive Like Ninjas Lowtaper Fade Meme Drum Solo-01-09-2025",
 	"Santana Carlos - Smooth [MIDIfind.Com]",
 	"Sex Pistols - Anarchy In The UK (2) [MIDIfind.Com]",
+	"Silverchair - Freak (Drum)",
 	"Skillet - Monster [MIDIfind.Com]",
 	"Smells Like Teen Spirit - Drums",
 	"Soundgarden - Outshined WWW.MIDISFREE.COM",
