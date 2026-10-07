@@ -134,6 +134,7 @@ return {
 	"Dumb Ways To Die",
 	"Dying Light - Horizon",
 	"Ed Sheeran Thinking Out Loud",
+	"Electric Neon Lamp - PAWINEE Greed",
 	"Electric Neon Lamp - PAWINEE Greed Guitar1",
 	"Electric Neon Lamp - PAWINEE Greed Guitar2",
 	"Eslabon Armado - Jugaste Y Sufri -",
