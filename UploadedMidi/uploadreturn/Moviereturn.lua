@@ -84,6 +84,7 @@ return {
 	"Oppenheimer-Can-You-Hear-The-Music-Music-By-Ludwig-Goransson-Arrangement-By-Akmigone",
 	"Pirates of the Caribbean - He's a Pirate (3)",
 	"Ravyn Lenae - Love Me Not",
+	"Red Hot Chili Peppers - Snow Hey Oh [MIDIfind.Com]",
 	"Requiem For A Dream - Main Theme - EASY",
 	"Shakira, Burna Boy - DAI DAI",
 	"Shawn Mendes - Stitches - Solo - Ravel Falskhern",
