@@ -191,6 +191,7 @@ return {
 	"Jojos Bizzare Adventure - Stand Proud",
 	"Just One Thing Solitude Is Bliss Greed Guitar1",
 	"Just One Thing Solitude Is Bliss Greed Guitar2 44",
+	"Just The Two Of Us",
 	"Just The Two Of Us.",
 	"Justin Bieber - Beauty And A Beat WWW.MIDISFREE.COM.Mid",
 	"KANA-BOON - Silhouette Greed",
