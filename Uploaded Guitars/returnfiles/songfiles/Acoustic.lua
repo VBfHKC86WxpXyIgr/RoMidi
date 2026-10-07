@@ -77,6 +77,7 @@ return {
 	"Carabao -",
 	"Carabao Nang Yam",
 	"Chainsmoker Cat - Opening FULL Nanmonee By Wasureranneyo",
+	"Chamber Of Reflection - Mac DeMarco",
 	"Chezile - Beanie",
 	"Chezile - Run Away",
 	"Chezile - Run Awaynobass",
