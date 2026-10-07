@@ -187,6 +187,7 @@ return {
 	"Nirvana - Seasons In The Sun [MIDIfind.Com]",
 	"Nirvana - Serve The Servants (5) [MIDIfind.Com]",
 	"Nirvana - Serve The Servants [MIDIfind.Com]",
+	"Nirvana - Serve The Servants Bass",
 	"Nirvana - Sliver (2) [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com]",
 	"Nirvana - Smell Like Teen Spirit [MIDIfind.Com] (1)",
