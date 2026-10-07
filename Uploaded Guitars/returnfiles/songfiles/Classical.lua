@@ -9,4 +9,5 @@ return {
 	"FrankSinatra My Way",
 	"Mangu - Guitar",
 	"Someone Like You (Easy Piano)",
+	"The Great Strategy By Badliz KSB",
 }
