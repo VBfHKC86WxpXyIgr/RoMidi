@@ -114,6 +114,7 @@ return {
 	"Deftones - My Own Summer Shove It",
 	"Dio - Holy Diver",
 	"Dire Straits - Sultans Of Swing",
+	"Djo - End Of Beginning",
 	"Do Re Mi",
 	"Do Re Mi - Nirvana",
 	"Do Re Mi (Teste1)",
