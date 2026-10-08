@@ -356,6 +356,7 @@ return {
 	"SHINING",
 	"Silly Fools -",
 	"Silly Fools - - Silly Fools Lyrics Audio",
+	"Silly Fools - - Silly Fools Lyrics Audio NamLie",
 	"Silly Fools - (1)Tired",
 	"Silly Fools - Boreddd",
 	"Silly Fools - Kid Hord(1)",
