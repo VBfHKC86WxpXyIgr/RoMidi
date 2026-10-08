@@ -6,6 +6,7 @@ return {
 	"Aaj Ki Raat (Stree 2) Midi",
 	"Aashiqui - The Love Theme",
 	"Accomplished",
+	"Again - Your Lie In April 2",
 	"Alan Walker - Alone",
 	"Alan Walker Faded",
 	"Animotion Obsession",
