@@ -92,6 +92,7 @@ return {
 	"Czardas(BEST VERSION)",
 	"D CR2417",
 	"D ML 4202",
+	"DANCE OF THE SUGAR PLUM FAIRY - Piano Tutorial",
 	"Dangerously-피아노-커버--Charlie-Puth---Dangerously-Extreme-Piano-Cover",
 	"Danse Macabre 40 (C)Yogore",
 	"Dạo Bước HongKong 1999",
