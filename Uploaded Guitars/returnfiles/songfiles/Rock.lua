@@ -124,6 +124,7 @@ return {
 	"My Chemical Romance - Give Em Hell Kid [MIDIfind.Com]",
 	"My Chemical Romance - Helena Frank Iero",
 	"My Chemical Romance - Helena Mikey Way Bass",
+	"My Chemical Romance - Honey This Mirror Isn'T Big Enough For The Two Of Us Frank Iero",
 	"My Chemical Romance - Honey This Mirror Isn'T Big Enough For The Two Of Us Ray Toro",
 	"My Chemical Romance - I'M Not Okay (I Promise) Frank Iero",
 	"My Chemical Romance - I'M Not Okay (I Promise) Ray Toro",
