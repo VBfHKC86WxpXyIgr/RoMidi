@@ -356,6 +356,7 @@ return {
 	"Silly Fools -",
 	"Silly Fools - - Silly Fools Lyrics Audio",
 	"Silly Fools - (1)Tired",
+	"Silly Fools - Boreddd",
 	"Silly Fools - Kid Hord(1)",
 	"Silly Fools - Not Afraid",
 	"Silly Fools - Not AfraidFull",
