@@ -158,6 +158,7 @@ return {
 	"HIM - Razorblade Kiss [MIDIfind.Com]",
 	"HIM - Your Sweet 666 [MIDIfind.Com]",
 	"I N R L - Sarcofago",
+	"I'M Broken",
 	"Ilia Burzum",
 	"Inhumane Harvest",
 	"Iron Maiden - Fear Of The Dark",
