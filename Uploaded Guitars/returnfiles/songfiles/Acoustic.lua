@@ -114,6 +114,7 @@ return {
 	"Deftones - My Own Summer Greed Guitar2 15",
 	"Deftones - My Own Summer Shove It",
 	"Dio - Holy Diver",
+	"Dire Straights - Sultans Of Swing",
 	"Dire Straits - Sultans Of Swing",
 	"Djo - End Of Beginning",
 	"Do Re Mi",
