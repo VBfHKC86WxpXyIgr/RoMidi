@@ -133,6 +133,7 @@ return {
 	"Tones And I - Dance Monkey (Midi By Carlo Prato) (Www.Cprato.Com)",
 	"Tony Ann - Now We Are Free - Gladiator Theme",
 	"Tum Hi Ho (Aashiqui 2)",
+	"Tumhare Hi Rahenge Parsed",
 	"Two Birds - Regina Spektor",
 	"Vai Steve - For The Love Of God (5) [MIDIfind.Com]",
 	"Vanessa Carlton - A Thousand Miles - Solo - Ravel Falskhern",
