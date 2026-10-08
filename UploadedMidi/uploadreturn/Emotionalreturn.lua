@@ -315,6 +315,7 @@ return {
 	"Mu - Seapool",
 	"Multo - Cup of Joe RNE",
 	"My Chemical Romance - I Don'T Love You",
+	"My Chemical Romance - Welcome To The Black Parade Piano",
 	"My Heart - Fikram",
 	"My-Love-Mine-All-Mine-Mitski-Arrangement(BEST VERSION)",
 	"Mystique(HUMAN BEST VERSION)",
