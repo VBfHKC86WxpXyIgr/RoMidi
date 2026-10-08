@@ -121,6 +121,7 @@ return {
 	"Foo Fighters - Everlong",
 	"Forever",
 	"Frank Sinatra - My Way",
+	"Frank Sinatra - My Way - Piano Tutorial With Sheet Music",
 	"Frank Sinatra Fly Me To The Moon By Trouble",
 	"Freedom Dive",
 	"Friqtao Huye",
