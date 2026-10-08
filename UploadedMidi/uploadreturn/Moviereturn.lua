@@ -32,6 +32,7 @@ return {
 	"Dạo Bước HongKong 1999",
 	"Davy Jones Theme (Pirates Of The Caribbean)",
 	"Demon Slayer - Nezuko Theme - Solo - Nozomi Tenma",
+	"Demon Slayer- Kamado Tanjiro No Uta - Solo - Zephyr Lathillion",
 	"Doja Cat - Say So Bass [MIDIfind.Com]",
 	"Ed Sheeran - Shape Of You",
 	"Every Breath You Take - The Police (1)",
