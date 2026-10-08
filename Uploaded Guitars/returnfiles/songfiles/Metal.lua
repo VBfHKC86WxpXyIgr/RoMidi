@@ -2,6 +2,7 @@
 return {
 	"06.Metallica-Escape",
 	"10'S",
+	"25 Years - Pantera",
 	"50 AC DC RIFFS",
 	"50 Iron Maiden RIFFS",
 	"50 KISS RIFFS",
