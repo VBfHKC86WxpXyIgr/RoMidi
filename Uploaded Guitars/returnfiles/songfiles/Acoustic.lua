@@ -186,6 +186,7 @@ return {
 	"Jane! - The Long Faces",
 	"Jane! The Long Faces",
 	"Jindie - She Makes Me Wanna Die",
+	"Joe Henderson - Blue Bossa Jazz Guitar",
 	"John Petrucci - Purple Rain Cover",
 	"Joji - SLOW DANCING IN THE DARK",
 	"Jojo - Steel Ball Run Johnny Joestar Theme",
