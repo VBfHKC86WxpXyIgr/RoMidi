@@ -103,6 +103,7 @@ return {
 	"Shakira, Burna Boy - DAI DAI",
 	"Shawn Mendes - Stitches - Solo - Ravel Falskhern",
 	"Sia - Snowman - Octet - SnowTheBard",
+	"Slay The Princess, Brandon Boone - The Princess - Quartet - Sechesin",
 	"Squid Game musique",
 	"Squid Game slow",
 	"succession-piano-version-7",
