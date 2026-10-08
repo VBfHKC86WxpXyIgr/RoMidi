@@ -301,6 +301,7 @@ return {
 	"Sonate-No-14-Moonlight-3rd-Movement",
 	"Sonate30 Opus109",
 	"Soulmate - Kahitna Kvneir",
+	"Soviet-Anthem",
 	"ssstik.io 1777299650774",
 	"Still Life - By Kane Pixels",
 	"Stisnalar Kaideyi Bozmaz( WiqiITXCrTg )",
