@@ -103,6 +103,7 @@ return {
 	"One Direction - What Makes You Beautiful - Solo - Ravel Falskhern",
 	"OneRepublic - Counting Stars - Solo - Ravel Falskhern",
 	"Oppenheimer-Can-You-Hear-The-Music-Music-By-Ludwig-Goransson-Arrangement-By-Akmigone",
+	"Passenger - Let Her Go - Solo - Ravel Falskhern",
 	"Pirates of the Caribbean - He's a Pirate (3)",
 	"Post Malone Ft. Ty Dolla $Ign - Psycho - Solo - Ravel Falskhern",
 	"Ravyn Lenae - Love Me Not",
