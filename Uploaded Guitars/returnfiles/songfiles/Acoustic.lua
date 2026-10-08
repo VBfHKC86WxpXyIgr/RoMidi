@@ -34,6 +34,7 @@ return {
 	"Avenged Sevenfold - Unholy Confessions Greed Guitar1",
 	"Avenged Sevenfold - Unholy Confessions Greed Guitar2",
 	"Avril Lavigne - Skater Boy",
+	"Aya Hirano - God Knows",
 	"Ba - Duvet - Rurouni1928s Instrumental Ver",
 	"Banes World - Drowsy",
 	"Basement - Are You The One",
