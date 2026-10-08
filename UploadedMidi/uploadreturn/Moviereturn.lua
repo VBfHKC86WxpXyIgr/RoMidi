@@ -71,6 +71,7 @@ return {
 	"Looping In The Rooms - Rusino",
 	"Love Is In The Air, Pt. 1 - Rock Burwell",
 	"Love Story",
+	"Love Story - Taylor Swift - Octet - Harmonia Crystal",
 	"Love Story X Golden Brown",
 	"Lukas Graham - 7 Years - Solo - Ravel Falskhern",
 	"Marshmello Ft. Bastille - Happier - Solo - Ravel Falskhern",
