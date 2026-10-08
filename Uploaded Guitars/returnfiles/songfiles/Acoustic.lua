@@ -339,6 +339,7 @@ return {
 	"Ribbon Fix - One Last Cigarette Greed Guitar1",
 	"Ribbon Fix - One Last Cigarette Greed Guitar2 105",
 	"Ring-Around-The-Rosie",
+	"Rock Modern - Rock Modern -Esan",
 	"Ronnie James Dio - Dream OnGuitar1",
 	"Ronnie James Dio - Dream OnGuitar2",
 	"Roundabout- Bass Only",
