@@ -68,6 +68,7 @@ return {
 	"INSIDE OUP 2",
 	"Interestelar (Online-Audio-Converter.Com) Trimmed By Jukeblocks",
 	"Interstellar-Suite - Hans Zimmer",
+	"Jaiye Sajana Dhurandhar The Revenge 320 Kbps",
 	"Jaiye Sajana Dhurandhar The Revenge 320 Kbps Converted By Jukeblocks",
 	"Janam Janam",
 	"Jaws Theme",
