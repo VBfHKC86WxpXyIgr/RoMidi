@@ -266,6 +266,7 @@ return {
 	"Metallica - Enter Sandman",
 	"Metallica - Enter Sandman Greed Guitar1",
 	"Metallica - Enter Sandman Greed Guitar2",
+	"Metallica - One Live Version",
 	"Michael Jackson - Smooth Criminal Acoustic Fingerstyle",
 	"Mika Nakashima - Kiss Of Death Darling In The FranXX OPGreed Guitar1",
 	"Mika Nakashima - Kiss Of Death Darling In The FranXX OPGreed Guitar2",
