@@ -392,6 +392,7 @@ return {
 	"Stephen Sanchez - Until I Found You (1)",
 	"Steve Hansen - Fukashigi No Carte - SeiButa ED",
 	"Stone Metal Fire -",
+	"SuchaitguitarsGmailCom - 12 KILLER BLUES LICKS For Electric Guitar Wwwjazzelinnguitarschoolcom",
 	"Sunroof - Nicky Youre, Dazy",
 	"Sunshine-Of-Your-LoveBassUploadByGreed",
 	"Sunshine-Of-Your-LoveLeadUploadByGreed",
