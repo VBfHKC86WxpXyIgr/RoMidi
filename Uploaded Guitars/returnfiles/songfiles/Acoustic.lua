@@ -369,6 +369,7 @@ return {
 	"Silly Fools -Jeeja",
 	"Silly Fools -JeejaLead Greed",
 	"Silly Fools -JeejaRTM Greed",
+	"Silly Fools -Wat Jai",
 	"Silly Fools -Wat Jai LEAD Greed",
 	"Silly Fools -Wat Jai RTM Greed",
 	"Silly Fools -Ya Bok Wa Rak",
