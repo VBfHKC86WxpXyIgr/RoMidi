@@ -117,6 +117,7 @@ return {
 	"Offspring (The) - Pretty Fly For A White Guy [MIDIfind.Com]",
 	"Offspring (The) - The Kids Aren'T Alright [MIDIfind.Com]",
 	"On A Plain - Nirvana (Piano-Vocal-Guitar) (1)",
+	"Panic! At The Disco - Time To Dance Brendon Urie",
 	"Panic! At The Disco - Time To Dance Ryan Ross",
 	"Paper Cuts - Nirvana (Piano-Vocal-Guitar)",
 	"Pierce The Veil - A Match Into Water [MIDIfind.Com]",
