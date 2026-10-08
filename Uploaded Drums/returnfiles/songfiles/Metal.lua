@@ -406,6 +406,7 @@ return {
 	"System Of A Down - Aerials [MIDIfind.Com]",
 	"System Of A Down - ATWA (Drum)",
 	"System Of A Down - B.Y.O.B. [MIDIfind.Com]",
+	"System Of A Down - Boom!",
 	"System Of A Down - BYOB (Drum)",
 	"System Of A Down - Chic 'N' Stu (Drum)",
 	"System Of A Down - Chop Suey! (Drum)",
