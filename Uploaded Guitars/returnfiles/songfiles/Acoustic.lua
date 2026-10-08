@@ -128,6 +128,7 @@ return {
 	"Dragonforce - Fury Of The StormRTM Greed",
 	"Dragonforce - Heroes Of Our TimeGuitar1 Greed",
 	"Dragonforce - Heroes Of Our TimeGuitar2 Greed",
+	"DragonForce - Through The Fire And Flames Rocksmith",
 	"Dragonforce - Through The Fire And Flames-Bass GuitarGreed",
 	"Dragonforce - Through The Fire And FlamesLead Greed",
 	"Dragonforce - Through The Fire And FlamesRTM Greed",
