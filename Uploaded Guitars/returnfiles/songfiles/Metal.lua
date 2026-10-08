@@ -68,6 +68,7 @@ return {
 	"Burzum - Ea Lord Of The Depths [MIDIfind.Com]",
 	"Burzum - Feeble Screams From Forests Unknown [MIDIfind.Com]",
 	"Burzum - Jesus Tod [MIDIfind.Com]",
+	"By-Demons-Be-Driven",
 	"Cacophony - Concerto (2) [MIDIfind.Com]",
 	"Cacophony - Speed Metal Symphony (2) [MIDIfind.Com]",
 	"Cancertid - Lifelover",
