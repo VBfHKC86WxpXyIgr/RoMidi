@@ -157,6 +157,7 @@ return {
 	"Fullmetal Alchemist - Brotherhood - Opening Again",
 	"Fullmetal Alchemist - Brotherhood - Opening Again Greed Guitar1",
 	"Fullmetal Alchemist - Brotherhood - Opening Again Greed Guitar2",
+	"Gary Moore - Still Got The Blues",
 	"Ginger Root - LorettaBassUploadByGreed",
 	"Ginger Root - LorettaGuitarUploadByGreed",
 	"Gotye - Somebody That I Used To Know (Ft. Kimbra)",
