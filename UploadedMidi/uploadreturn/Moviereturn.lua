@@ -16,6 +16,7 @@ return {
 	"Ariana Grande - 7 Rings - Solo - Klaus Lightsbane",
 	"Bad Style",
 	"Basic Pitch Transcription",
+	"Bazzi - Mine - Solo - Ravel Falskhern",
 	"Billie Eilish - Wildflower - Solo - Skynyrd Fraefolgwyn",
 	"Billie Eilish - WILDFLOWER (In The Key Of A Major).30-Sec-Sample.MIDISTAX.COM",
 	"Black Gryph0n - Upside Down (A Hazbin Hotel Song)",
