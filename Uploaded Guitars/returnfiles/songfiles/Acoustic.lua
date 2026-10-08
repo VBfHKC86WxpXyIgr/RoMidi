@@ -228,6 +228,7 @@ return {
 	"Kurt Cobain - And I Love Her Guitar",
 	"Lama-Lama - Bernadya ｜ Piano",
 	"LArcenCiel - Drivers High",
+	"Led Zeppelin - Since Ive Been Loving You",
 	"Led Zeppelin - Stairway To Heaven - Fingerstyle",
 	"Linked Horizon - Attack On Titan OpShingeki No Kyojin Op",
 	"Linkin Park - Linkin Park - Faint Greed",
