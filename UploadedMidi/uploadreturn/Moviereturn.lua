@@ -14,6 +14,7 @@ return {
 	"APT",
 	"Arabian-Night",
 	"Ariana Grande - 7 Rings - Solo - Klaus Lightsbane",
+	"AUD AP3348H 2",
 	"Bad Style",
 	"Basic Pitch Transcription",
 	"Bazzi - Mine - Solo - Ravel Falskhern",
