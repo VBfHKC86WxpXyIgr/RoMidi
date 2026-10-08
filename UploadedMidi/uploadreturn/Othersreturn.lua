@@ -613,6 +613,7 @@ return {
 	"Never Gonna Give You Up",
 	"Never Gonna Give You Up 1",
 	"Ngã Tư KhôNg đèN",
+	"NgọN đồI Hoa HồNg Anh",
 	"NgườI ấY",
 	"NgườI Im LặNg GặP NgườI Hay NóI",
 	"NgườI Kế NhiệM",
