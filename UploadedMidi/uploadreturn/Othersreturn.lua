@@ -659,6 +659,7 @@ return {
 	"Oyunhavasi2",
 	"P Do Pecado - Ao Vivo - Grupo Menos É Mais (Piano)",
 	"Panic! At The Disco - House Of Memories.Mid",
+	"Panic! At The Disco - Time To Dance Synth",
 	"Paparazzi - Lady Gaga",
 	"Parokya Ni Edgar - Pangarap Lang Kita",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
