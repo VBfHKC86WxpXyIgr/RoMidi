@@ -11,6 +11,7 @@ return {
 	"Animotion Obsession",
 	"Anlatamam - Kara Sevda [Demon]",
 	"APT",
+	"Arabian-Night",
 	"Ariana Grande - 7 Rings - Solo - Klaus Lightsbane",
 	"Bad Style",
 	"Basic Pitch Transcription",
