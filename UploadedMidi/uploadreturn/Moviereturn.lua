@@ -85,6 +85,7 @@ return {
 	"MusicNotes Sheet Music - Doja Cat - Say So - Solo - Shiro Astral 3",
 	"My heartPIANO",
 	"Naruto - Sadness And Sorrow - Duet - SnowTheBard",
+	"Naruto - Sadness And Sorrow - Octet - SnowTheBard",
 	"Next To You",
 	"Not Alone - 1.34",
 	"Not-Tomorrow-1-V3-0-",
