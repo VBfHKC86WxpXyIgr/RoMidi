@@ -562,6 +562,7 @@ return {
 	"Metallica - To Live Is To Die (Songparts.Com)",
 	"Michael Jackson - Dirty Diana",
 	"Michael Jackson - Human Nature WWW.MIDISFREE.COM",
+	"Michel Petrucciani Caravan Solo - Michel Petrucciani Caravan Solo",
 	"Mihriban",
 	"MìNh CướI Nhau đI",
 	"Mini-Loop Silent Night Spokoynaya Noch (Kino); Fall From The Sky Pt.2 (Slowed) (RomancePlanet)",
