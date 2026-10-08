@@ -31,6 +31,7 @@ return {
 	"Sweet Child O' Mine (Solo) - Guns N Roses",
 	"System Of A Down - Aerials [MIDIfind.Com]",
 	"System Of A Down - Boom! Daron Malakian",
+	"System Of A Down - Boom! Shavo Odadjian Bass",
 	"System Of A Down - Sugar [MIDIfind.Com]",
 	"System Of A Down - Suite Pee [MIDIfind.Com]",
 	"System Of A Down - War (4) [MIDIfind.Com]",
