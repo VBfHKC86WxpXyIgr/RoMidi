@@ -25,6 +25,7 @@ return {
 	"Candyman Theme Song - It Was Always You Helen",
 	"Carol Of The Bells With Style",
 	"Carter Burwell - Bella'S Lullaby [MIDIfind.Com] 2",
+	"Celine Dion - My Heart Will Go On - Solo - Ravel Falskhern",
 	"Charlie Clouser - Saw Final Theme WWW.MIDISFREE.COM",
 	"Cigarettes After Sex - Apocalypse (Ending) V2",
 	"Còn gì đẹp hơn impossible",
