@@ -31,6 +31,7 @@ return {
 	"Crayon Shin-Chan OP3「Ora Wa Ninkimono」",
 	"Dạo Bước HongKong 1999",
 	"Davy Jones Theme (Pirates Of The Caribbean)",
+	"Demon Slayer - Nezuko Theme - Solo - Nozomi Tenma",
 	"Doja Cat - Say So Bass [MIDIfind.Com]",
 	"Ed Sheeran - Shape Of You",
 	"Every Breath You Take - The Police (1)",
