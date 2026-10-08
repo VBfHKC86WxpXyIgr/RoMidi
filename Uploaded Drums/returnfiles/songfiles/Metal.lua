@@ -141,6 +141,7 @@ return {
 	"Floyd The Barber - Nirvana",
 	"Frances Farmer Will Have Her Revenge On Seattle",
 	"FreakOnALeash",
+	"Fuck Your Life.",
 	"Gentley",
 	"Girlfriends - New Computers",
 	"Gojira - Flying Whales (Songparts.Com)",
