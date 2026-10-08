@@ -142,6 +142,7 @@ return {
 	"My Chemical Romance - This Is How I Disappear Ray Toro",
 	"My Chemical Romance - This Is How I Disappearr",
 	"My Chemical Romance - Welcome To The Black Parade Frank Iero",
+	"My Chemical Romance - Welcome To The Black Parade Mikey Way Bass",
 	"My Chemical Romance - Welcome To The Black Parade Ray Toro",
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison (2) [MIDIfind.Com]",
 	"My Chemical Romance - You Know What They Do To Guys Like Us In Prison Frank Iero",
