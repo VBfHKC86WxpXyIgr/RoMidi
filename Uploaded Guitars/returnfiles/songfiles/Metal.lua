@@ -385,6 +385,7 @@ return {
 	"Psychonaut 4 - Overdose Was The Best Way To Die [MIDIfind.Com]",
 	"Psychonaut 4 - Serial Lier (2) [MIDIfind.Com]",
 	"Psychonaut 4 - World Of Pain And Hate [MIDIfind.Com]",
+	"Psychosocial (Solo)",
 	"Quiero Sentir Tu ClíToris",
 	"Racer X - Scarified (2) [MIDIfind.Com]",
 	"Racer X - Technical Difficulties (3) [MIDIfind.Com]",
