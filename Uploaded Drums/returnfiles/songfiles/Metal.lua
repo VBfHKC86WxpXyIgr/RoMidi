@@ -131,6 +131,7 @@ return {
 	"Eyeless - Slipknot ( Drums )",
 	"Eyeless -Without Metronome Added",
 	"Eyeless Cadence",
+	"Fade Into Obscurity Drum",
 	"Faget",
 	"Faith No More - A Small Victory [MIDIfind.com]",
 	"Faith No More - Ashes to Ashes [MIDIfind.com]",
