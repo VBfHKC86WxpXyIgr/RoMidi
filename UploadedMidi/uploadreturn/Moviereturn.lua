@@ -39,6 +39,7 @@ return {
 	"Demon Slayer - The Mugen Train - Tanjiro'S Dream - Solo - Nozomi Tenma",
 	"Demon Slayer- Kamado Tanjiro No Uta - Solo - Zephyr Lathillion",
 	"Doja Cat - Say So Bass [MIDIfind.Com]",
+	"Dusk Till Dawn - Zayn Ft. Sia - Solo - Thymm Rayne",
 	"Ed Sheeran - Shape Of You",
 	"Ellie Goulding - Love Me Like You Do - Solo - Ravel Falskhern",
 	"EnterSandman",
