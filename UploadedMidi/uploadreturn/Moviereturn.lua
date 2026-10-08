@@ -22,6 +22,7 @@ return {
 	"Bohemian Rhapsody - Queen",
 	"Bohemian Rhapsody - Queen (Piano Solo)",
 	"Buckethead - Soothsayer [MIDIfind.Com]",
+	"Bullet For My Valentine - Tears Don'T Fall (2) [MIDIfind.Com]",
 	"Candyman Theme Song - It Was Always You Helen",
 	"Carol Of The Bells With Style",
 	"Carter Burwell - Bella'S Lullaby [MIDIfind.Com] 2",
