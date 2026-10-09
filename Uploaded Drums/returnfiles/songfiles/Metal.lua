@@ -178,6 +178,7 @@ return {
 	"Judas Priest - The Sentinel [MIDIfind.Com]",
 	"Judas Priest - Victim Of Changes [MIDIfind.Com]",
 	"Judas Priest - You'Ve Got Another Thing Comin [MIDIfind.Com]",
+	"Killswitch Engage - The End Of Heartache (Songparts.Com)",
 	"Korn - A.D.I.D.A.S (Drum)",
 	"Korn - Ball Tongue (Drum)",
 	"Korn - Ball Tongue [MIDIfind.Com]",
