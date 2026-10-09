@@ -115,6 +115,7 @@ return {
 	"OneRepublic - Counting Stars - Solo - Ravel Falskhern",
 	"Oppenheimer-Can-You-Hear-The-Music-Music-By-Ludwig-Goransson-Arrangement-By-Akmigone",
 	"Passenger - Let Her Go - Solo - Ravel Falskhern",
+	"Phir Mohabbat Mid",
 	"Piano Exact Video Performance",
 	"Piano Transcription",
 	"Pirates of the Caribbean - He's a Pirate (3)",
