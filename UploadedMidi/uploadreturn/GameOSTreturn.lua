@@ -203,6 +203,7 @@ return {
 	"The Battle Cats - Cosmos Battle 3",
 	"The Death Of Gods Will (MIDI)",
 	"The Entertainer - Scott Joplin ",
+	"THE FINAL STRATEGY(MP3 160K)-Edited",
 	"The Fire Is Gone (ULTRAKILL)",
 	"The Green Orbs - At the Fair (Piano Cover)",
 	"The Green Orbs - Claudio The Worm (Duet)",
