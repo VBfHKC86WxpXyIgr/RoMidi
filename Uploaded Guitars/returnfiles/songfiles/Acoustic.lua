@@ -244,6 +244,7 @@ return {
 	"Linkin Park - Lying From You Greed Guitar1",
 	"Linkin Park - Lying From You Greed Vocal",
 	"Linkin Park - Numb Fingerstyle",
+	"Linkin Park - Numb2",
 	"Linkin Park - Somewhere I Belong Greed",
 	"Linkin Park - Somewhere I Belong Greed Bass",
 	"Linkin Park - Somewhere I Belong Greed Guitar1",
