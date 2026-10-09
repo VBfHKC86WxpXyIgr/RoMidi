@@ -81,6 +81,7 @@ return {
 	"Stationsquare-Ts",
 	"SurfinUSA",
 	"The Beatles - A Hard Day'S Night",
+	"The Beatles - While My Guitar Gently Weeps Bass",
 	"THE BEATLES.Blackbird K",
 	"THE BEATLES.Helter Skelter",
 	"THE BEATLES.Michelle K",
