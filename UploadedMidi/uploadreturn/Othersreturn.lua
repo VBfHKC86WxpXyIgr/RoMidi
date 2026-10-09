@@ -663,6 +663,7 @@ return {
 	"Panic! At The Disco - House Of Memories.Mid",
 	"Panic! At The Disco - Time To Dance Synth",
 	"Paparazzi - Lady Gaga",
+	"Paramore - Misery Business Trumpet",
 	"Paramore - Misery Business Violin",
 	"Parokya Ni Edgar - Pangarap Lang Kita",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
