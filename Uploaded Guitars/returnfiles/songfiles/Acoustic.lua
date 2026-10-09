@@ -323,6 +323,7 @@ return {
 	"Paramore - Ignorance Greed",
 	"Paramore - Ignorance Greed Guitar1",
 	"Paramore - Ignorance Greed Guitar2",
+	"Paramore - Misery Business Mariachi Bass",
 	"Penny Royal Tea - Approaching Nirvana (Piano-Vocal-Guitar)",
 	"Pirates Of The Caribbean - He'S A Pirate (3)",
 	"Pitbull-Timber Feat Kesha",
