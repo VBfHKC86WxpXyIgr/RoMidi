@@ -17,6 +17,7 @@ return {
 	"ACDC - Back in Black (3) [MIDIfind.com]",
 	"Animals As Leaders - Cafo [MIDIfind.Com]",
 	"Are You Dead Yet 5",
+	"As I Lay Dying - Nothing Left (Songparts.Com)",
 	"Avenged Sevenfold - A Little Piece Of Heaven (Drum)",
 	"Avenged Sevenfold - Acid Rain [MIDIfind.com]",
 	"Avenged Sevenfold - Almost Easy",
