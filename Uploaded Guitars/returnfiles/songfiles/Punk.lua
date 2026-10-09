@@ -121,6 +121,7 @@ return {
 	"Panic! At The Disco - Time To Dance Brendon Urie",
 	"Panic! At The Disco - Time To Dance Ryan Ross",
 	"Paper Cuts - Nirvana (Piano-Vocal-Guitar)",
+	"Paramore - Misery Business Lead Guitar",
 	"Pierce The Veil - A Match Into Water [MIDIfind.Com]",
 	"Polly",
 	"Polly - Nirvana (Piano-Vocal-Guitar)",
