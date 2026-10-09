@@ -253,6 +253,7 @@ return {
 	"Lost Sky - Dreams.Mid",
 	"Luiz Bonf - The Shade Of The Mango Tree Greed Guitar1",
 	"Luiz Bonf - The Shade Of The Mango Tree Greed Guitar2",
+	"Lying From You - Linkin Park",
 	"Lynyrd Skynyrd - Sweet Home Alabama",
 	"Mac Demarco - Freaking Out The Neighborhood",
 	"Mac Demarco - Freaking Out The Neighborhood (1)",
