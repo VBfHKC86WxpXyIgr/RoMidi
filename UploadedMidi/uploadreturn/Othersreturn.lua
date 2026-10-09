@@ -455,6 +455,7 @@ return {
 	"Irida V2",
 	"Irida V4 Cartoon",
 	"Is It Really You - Loathe",
+	"It'S Me, It'S Verity - Horror Skunx (1)",
 	"It'S Okay Now",
 	"Its Like Im Not Even Here (Unfinished And Very Bad)",
 	"Its Raining Tacos",
