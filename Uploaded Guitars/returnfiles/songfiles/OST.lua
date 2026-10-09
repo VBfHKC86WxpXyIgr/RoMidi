@@ -30,6 +30,7 @@ return {
 	"Seek (Among Us) NEW",
 	"Sonic-Drive (1)",
 	"The Dragon Theme (Original) [Clean Cut]",
+	"THE FINAL STRATEGY(MP3 160K)-Edited",
 	"The Great Strategy By Badliz KSB",
 	"The Legend Of Zelda Great Fairy Fountain (Piano Cover)",
 	"ULTRAKILL - War Without Reason",
