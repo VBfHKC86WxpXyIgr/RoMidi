@@ -282,6 +282,7 @@ return {
 	"Symphony-Of-Destruction",
 	"The Avengers Theme Song (CHECK MY NEW VERSION)",
 	"The Beatles - A Hard Day'S Night",
+	"The Beatles - While My Guitar Gently Weeps Drums",
 	"The Beatles & She Said She Said Drums",
 	"THE BEATLES.All My Loving",
 	"THE BEATLES.Helter Skelter",
