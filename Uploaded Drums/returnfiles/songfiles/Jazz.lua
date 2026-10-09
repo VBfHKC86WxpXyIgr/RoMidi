@@ -7,6 +7,7 @@ return {
 	"Caravan - John Wasson Caravan - As Played In Whiplash",
 	"Caravan (From Whiplash ) For Drums",
 	"Caravan + DRUM SOLO (From The Movie Whiplash)",
+	"Caravan Drums",
 	"Caravan(1)",
 	"Shape Of You",
 	"Vaughan Stevie Ray - Pride And Joy [MIDIfind.Com]",
