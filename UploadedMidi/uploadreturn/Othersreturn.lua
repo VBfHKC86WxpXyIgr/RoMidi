@@ -285,6 +285,7 @@ return {
 	"ĐườNg TôI Chở Em Về",
 	"ĐƯỜNG-TÔI-CHỞ-EM-VỀ",
 	"Earrings - Malcolm Todd (Piano)",
+	"EEEAAAOOO - Patricia Taxxon EEEAAAOOO",
 	"Eek",
 	"Eek!",
 	"Eldoraudio-Irida Opening Cutcene 1",
