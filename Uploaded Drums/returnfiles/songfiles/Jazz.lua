@@ -4,6 +4,7 @@ return {
 	"A.JACKSON.Livin On Love",
 	"AUD RC2002",
 	"B.B King - The Thrill Is Gone [MIDIfind.Com]",
+	"Caravan - John Wasson Caravan - As Played In Whiplash",
 	"Caravan (From Whiplash ) For Drums",
 	"Caravan + DRUM SOLO (From The Movie Whiplash)",
 	"Caravan(1)",
