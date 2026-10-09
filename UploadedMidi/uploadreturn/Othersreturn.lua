@@ -248,6 +248,7 @@ return {
 	"Derbeder - Ferdi Tayfur",
 	"Derinlerde",
 	"Derinlerde Slowed",
+	"Derinlerde Slowed2",
 	"Despacito",
 	"Did I Tell U That I Miss U",
 	"Did I Tell U That I Miss U (Slowed And Reverb)",
