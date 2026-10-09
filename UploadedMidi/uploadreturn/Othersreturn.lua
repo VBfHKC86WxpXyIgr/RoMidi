@@ -246,6 +246,7 @@ return {
 	"Deftones My Own Summer Shove It.Midi",
 	"đếN LúC Em ThứC TỉNh",
 	"Derbeder - Ferdi Tayfur",
+	"Derinlerde",
 	"Derinlerde Slowed",
 	"Despacito",
 	"Did I Tell U That I Miss U",
