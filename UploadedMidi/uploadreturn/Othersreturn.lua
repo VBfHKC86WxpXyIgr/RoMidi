@@ -846,6 +846,7 @@ return {
 	"ThấP ThỏM",
 	"That Girl",
 	"The 16th Night",
+	"The Beatles - While My Guitar Gently Weeps Acoustic Piano",
 	"The Beatles - While My Guitar Gently Weeps Organ",
 	"THE BEATLES.All My Loving",
 	"The Final Strategy Piano",
