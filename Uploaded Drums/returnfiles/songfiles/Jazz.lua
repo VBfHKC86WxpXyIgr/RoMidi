@@ -5,6 +5,7 @@ return {
 	"AUD RC2002",
 	"B.B King - The Thrill Is Gone [MIDIfind.Com]",
 	"Caravan (From Whiplash ) For Drums",
+	"Caravan + DRUM SOLO (From The Movie Whiplash)",
 	"Caravan(1)",
 	"Shape Of You",
 	"Vaughan Stevie Ray - Pride And Joy [MIDIfind.Com]",
