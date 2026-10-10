@@ -226,6 +226,7 @@ return {
 	"Metallica - Damage, Inc. (Songparts.Com)",
 	"Metallica - Disposable Heroes (Songparts.Com)",
 	"Metallica - Disposable Heroes [MIDIfind.Com]",
+	"Metallica - Dyers Eve (Songparts.Com)",
 	"Metallica - Dyers Eve [MIDIfind.Com]",
 	"Metallica - Fade To Black [MIDIfind.Com]",
 	"Metallica - Fade To Black Drums",
