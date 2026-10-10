@@ -321,6 +321,7 @@ return {
 	"Panchiko - Until I Know Greed",
 	"Panchiko - Until I Know Greed Guitar1",
 	"Panchiko - Until I Know Greed Guitar2",
+	"Panos Arvanitis - Speed Guitar Solo Shred In E Minor Pentatonic-Diatonic Scales Heavy Metal Licks",
 	"Paradox - Official MV",
 	"Paradox - Official MV-Drum Kit (1)",
 	"Paramore - Ignorance Greed",
