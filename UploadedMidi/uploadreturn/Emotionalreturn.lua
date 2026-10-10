@@ -484,6 +484,7 @@ return {
 	"V2",
 	"V3",
 	"VALZ DARK",
+	"Valzer D'Amore (Best Version)",
 	"Velune - Santilavadenz(Best Version)",
 	"Velune Santilavadenz",
 	"Victors Solo (HUMAN BEST VERSION)",
