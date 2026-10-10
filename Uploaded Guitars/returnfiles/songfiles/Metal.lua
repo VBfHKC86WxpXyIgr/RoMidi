@@ -399,6 +399,7 @@ return {
 	"Rage Against The Machine - Bulls On Parade (2) [MIDIfind.Com]",
 	"Rage Against The Machine - Killing In The Name (2) [MIDIfind.Com]",
 	"Rage Against The Machine - Killing In The Name [MIDIfind.Com]",
+	"Raining Blood 2",
 	"RainingBlood",
 	"Rammstein - Du Hast [MIDIfind.Com]",
 	"Rammstein - Sonne [MIDIfind.Com]",
