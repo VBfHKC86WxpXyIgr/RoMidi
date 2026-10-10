@@ -146,6 +146,7 @@ return {
 	"Electric Neon Lamp - PAWINEE Greed",
 	"Electric Neon Lamp - PAWINEE Greed Guitar1",
 	"Electric Neon Lamp - PAWINEE Greed Guitar2",
+	"Eric Clapton - Layla Maddison Square Garden 1999",
 	"Eslabon Armado - Jugaste Y Sufri -",
 	"Eslabon Armado Peso Pluma - Ella Baila Sola",
 	"Eslabon Armado Peso Pluma - Ella Baila Sola Greed Guitar1",
