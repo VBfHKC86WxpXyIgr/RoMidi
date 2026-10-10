@@ -376,6 +376,7 @@ return {
 	"Raindance - Dave, Tems (Piano)",
 	"Rebzyyx - I'M So Fucked Up Please Help Me",
 	"Recuerdame - Coco Disney",
+	"Red Swan 2018 Version (MEDIUM BEST VERSION)",
 	"Reflections - Gabriel Albu(BEST VERSION)",
 	"Reminiscence Johannes BornlöF(BEST VERSION)",
 	"Restles By Me",
