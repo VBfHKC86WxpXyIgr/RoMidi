@@ -378,6 +378,7 @@ return {
 	"Recuerdame - Coco Disney",
 	"Red Swan - Yoshiki(BEST VERSION)",
 	"Red Swan 2018 Version (MEDIUM BEST VERSION)",
+	"Red Swan 2023 Version (HARD BEST VERSION)",
 	"Reflections - Gabriel Albu(BEST VERSION)",
 	"Reminiscence Johannes BornlöF(BEST VERSION)",
 	"Restles By Me",
