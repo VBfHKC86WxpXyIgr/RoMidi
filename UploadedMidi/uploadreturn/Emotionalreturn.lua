@@ -95,6 +95,7 @@ return {
 	"Clair-De-Lune-Debussy(BEST VERSION)",
 	"CLOWNOFOBIA V2",
 	"Coldplay - Sparks",
+	"COLOR ME BLUE (BEST VERSION)AKANE",
 	"Composition-Autumn-Memories(HUMAN BEST VERSION)",
 	"Composition-Clown-Chase(HUMAN BEST VERSION)",
 	"Còn gì đẹp hơn impossible",
