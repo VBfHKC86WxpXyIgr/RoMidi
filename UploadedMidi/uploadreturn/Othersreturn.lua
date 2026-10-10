@@ -193,6 +193,7 @@ return {
 	"ChúNg Ta KhôNg ThuộC Về Nhau 2",
 	"ChuyệN ĐôI Ta X VếT MưA",
 	"Claire De Lune",
+	"Classic Horror 1 - Kevin MacLeod",
 	"Clownofobia V2",
 	"CLOWNOFOBIA🤡🔪",
 	"Club Misterio - DEEP WEB",
