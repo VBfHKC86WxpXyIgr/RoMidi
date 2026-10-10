@@ -210,6 +210,7 @@ return {
 	"Jacob And The Stone - Fikram",
 	"Jane",
 	"Janji Suci - Yovie & Nuno - Fikram",
+	"Jason Becker - Altitudes For 2 Guitarists (Songparts.Com)",
 	"Jaymes Young - Infinity - Piano - Tutorial - MEDIUM",
 	"Join Me In Death - HIM (Piano Cover)",
 	"Jowel: fantasmas",
