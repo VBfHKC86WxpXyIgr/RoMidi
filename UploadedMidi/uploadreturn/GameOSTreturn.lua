@@ -79,6 +79,7 @@ return {
 	"Flower Man - DELTARUNE Chapter 5 - Toby Fox",
 	"FNAF",
 	"Gaster's Theme - Toby Fox",
+	"Gathers Under Night - Raito",
 	"Genshin Impact Character Demo - Furina All The World'S A Stage",
 	"Geometry Dash - Thinking Space II Nuke Powder",
 	"Geometry Dash - Time Machine",
