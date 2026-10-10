@@ -909,6 +909,7 @@ return {
 	"Trú MưA",
 	"True LOVE - Glitchtale",
 	"TrướC Khi Em TồN TạI",
+	"Tu Falta De Querer - Mon Laferte",
 	"Tuki",
 	"Tulus-Hati-Hati-Di-Jalan-Lead-Sheet",
 	"U.N Owen War Her",
