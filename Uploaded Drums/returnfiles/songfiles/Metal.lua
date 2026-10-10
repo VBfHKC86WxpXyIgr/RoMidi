@@ -213,6 +213,7 @@ return {
 	"Megadeth - Tornado Of Souls [MIDIfind.Com]",
 	"Megadeth-Rust In Peace Polaris",
 	"Meshuggah - Bleed (Drum)",
+	"Meshuggah - Bleed (Songparts.Com)",
 	"Meshuggah- Bleed.mid",
 	"Metallica - Am I Evil [MIDIfind.Com]",
 	"Metallica - And Justice For All [MIDIfind.Com]",
