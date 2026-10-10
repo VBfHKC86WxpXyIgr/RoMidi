@@ -157,6 +157,7 @@ return {
 	"Etran De LAr - ImouhaGuitar",
 	"Evanescence - Bring Me To Life Live",
 	"Firelake - Dirge For The Planet (S.T.A.L.K.E.R OST) [MIDIfind.Com]",
+	"Foo Fighters - Everlong Standard Tuning",
 	"Forwards",
 	"Forwards.Mp3",
 	"Fullmetal Alchemist - Brotherhood - Opening Again",
