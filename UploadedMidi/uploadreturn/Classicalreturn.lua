@@ -232,6 +232,7 @@ return {
 	"Na Na( H-U7RNPxZUk )",
 	"Nocturne From Unreve(BEST VERSION)",
 	"Nocturne In D Flat Major Un Reve Dernierpianista 1785679637270",
+	"Nocturne Opus 72 No. 1 (BEST VERSION)",
 	"Noir",
 	"Nokia Improvisation(BEST VERSION)",
 	"Norm Ender - Parla - 100. YıL Marşı - Piyano( KZyocbDrL M )",
