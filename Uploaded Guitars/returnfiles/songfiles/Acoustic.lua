@@ -95,6 +95,7 @@ return {
 	"Cinderella - Tattoo Colour",
 	"Clair-De-Lune-Debussy",
 	"CLAIRE - FLY ME TO THE MOON Neon Genesis Evangelion",
+	"Clapton Eric - Tears In Heaven Acoustic [MIDIfind.Com]",
 	"Clarion - Hello Juliet",
 	"Clarion - Hello JulietBassGreed",
 	"Clarion - Hello JulietGuitar1Greed",
