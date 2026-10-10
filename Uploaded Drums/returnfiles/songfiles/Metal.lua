@@ -456,6 +456,7 @@ return {
 	"Tool - Parabol Parabola [MIDIfind.Com]",
 	"Tourettes - Nirvana Tourettes - Nirvana Drum Sheet Music",
 	"Toxicity by System of a Down -- Version 4.2",
+	"Trapped Under Ice - Pleased To Meet You (Songparts.Com)",
 	"Type O Negative - Black No 1 (2) [MIDIfind.Com]",
 	"Type O Negative - Christian Woman [MIDIfind.Com]",
 	"Type O Negative - I Don'T Wanna Be Me [MIDIfind.Com]",
