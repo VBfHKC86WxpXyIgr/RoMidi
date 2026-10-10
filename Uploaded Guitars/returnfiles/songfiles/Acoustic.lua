@@ -84,6 +84,7 @@ return {
 	"Chezile - Beanie",
 	"Chezile - Run Away",
 	"Chezile - Run Awaynobass",
+	"Chocolate - HANGMAN",
 	"Chouchou Merged Syrups - Greed",
 	"Chouchou Merged Syrups - Greed Guitar1",
 	"Chouchou Merged Syrups - Greed Guitar2",
