@@ -330,6 +330,7 @@ return {
 	"The Stranglers - Golden Brown",
 	"The-British-Grenadiers",
 	"The-Flight-Of-The-Bumble-Bee",
+	"Theme-From-'The-Swan-Lake'",
 	"Ticking",
 	"Timbaland - The Way I Are Instrumental (1)",
 	"Timeline-Solo-Piano-Plum-Timeline-Solo-Ver",
