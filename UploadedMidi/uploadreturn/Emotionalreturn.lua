@@ -422,6 +422,7 @@ return {
 	"Sunsezt yt @moongate 1234",
 	"Surat Cinta 4 Starla By Vero",
 	"Sweater Weather- The Neighbourhood-- 2.0",
+	"Sweetly - Lord Kael (BEST V2 VERSION))",
 	"Sweetly-Lord-Kael(BEST VERSION)",
 	"Tai sinh",
 	"Take Five (BEST VERSION HARD)",
