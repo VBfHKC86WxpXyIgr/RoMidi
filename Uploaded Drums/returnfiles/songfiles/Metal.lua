@@ -286,6 +286,7 @@ return {
 	"Metallica - Whiplash [MIDIfind.Com]",
 	"Metallica - Whiskey In The Jar [MIDIfind.Com]",
 	"Metallica-Enter-Sandman midi",
+	"Morbid Angel - At One With Nothing (Songparts.Com)",
 	"Motorhead - Ace Of Spades (Drum)",
 	"Mudvayne - Dig (Drum)",
 	"Mushroomhead - 12 Hundred [MIDIfind.com]",
