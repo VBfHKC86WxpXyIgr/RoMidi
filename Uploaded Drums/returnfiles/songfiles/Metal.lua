@@ -419,6 +419,7 @@ return {
 	"Sugar",
 	"Suicide Silence - You Only Llive Once [MIDIfind.Com]",
 	"Super Speed Drum",
+	"Superjoint Ritual - Waiting For The Turning Point (Songparts.Com)",
 	"System Of A Down - 36 (Drum)",
 	"System Of A Down - Aerials [MIDIfind.Com]",
 	"System Of A Down - ATWA (Drum)",
