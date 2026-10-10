@@ -22,6 +22,7 @@ return {
 	"AOT - Ashes On The Fire Main Theme Mhxa",
 	"AOT - Call Of Silence Ymir'S Theme Mhxa",
 	"Aozora No Rhapsody From Miss Kobayashi'S Maid Dragon (Short Version)",
+	"Asphyxia - Tokyo Ghoul Re; OP",
 	"Asu No Yozora Shoukaihan (1).Mid (2)",
 	"audio2midi",
 	"Bad Apple",
