@@ -336,6 +336,7 @@ return {
 	"Radiohead - Weird Fishes Arpeggi Greed Guitar2",
 	"Rainbow - Catch The Rainbow",
 	"RaunchyGuitar",
+	"Red Hot Chili Peppers - Under The Bridge Live 1992",
 	"Redbone - Come And Get Your Love 2",
 	"Rehash - Back To StrangersGreed Guitar1",
 	"Rehash - Back To StrangersGreed Guitar2",
