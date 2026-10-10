@@ -22,6 +22,7 @@ return {
 	"Billie Eilish - WILDFLOWER (In The Key Of A Major).30-Sec-Sample.MIDISTAX.COM",
 	"Black Gryph0n - Upside Down (A Hazbin Hotel Song)",
 	"Blinding Lights",
+	"Blue Easy",
 	"Bohemian Rhapsody - Queen",
 	"Bohemian Rhapsody - Queen (Piano Solo)",
 	"Buckethead - Soothsayer [MIDIfind.Com]",
