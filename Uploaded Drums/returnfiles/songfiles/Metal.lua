@@ -151,6 +151,7 @@ return {
 	"Gojira - Flying Whales (Songparts.Com)",
 	"Gojira - Stranded (Songparts.Com)",
 	"GoodGod",
+	"Gorguts - Considered Dead (Songparts.Com)",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
 	"Guns N' Roses - Sweet Child O' Mine [MIDIfind.com]",
 	"HARDWIRED",
