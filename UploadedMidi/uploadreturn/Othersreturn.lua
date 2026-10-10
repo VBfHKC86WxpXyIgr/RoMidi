@@ -239,6 +239,7 @@ return {
 	"ĐảO KhôNg NgườI",
 	"ĐảO NghịCh",
 	"đàO NươNg",
+	"Darkest Child - Kevin MacLeod",
 	"đáY BiểN",
 	"Dễ Thay đổI",
 	"Để TôI ÔM Em BằNg Giai ĐIệU NàY X Có HẹN VớI Thanh XuâN",
