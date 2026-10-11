@@ -22,6 +22,7 @@ return {
 	"Celine Dion - My Heart Will Go On - Solo - Ravel Falskhern",
 	"Christina Perri - A Thousand Years - Solo - Debra VanHouten",
 	"Converted Sound Midi",
+	"Crayon Shin-Chan OP3「Ora Wa Ninkimono」",
 	"Cyberpunk Edgerunners - I Really Want To Stay At Your House - Solo - Nozomi Tenma",
 	"Demon Slayer - Nezuko Theme - Solo - Nozomi Tenma",
 	"Demon Slayer - The Mugen Train - Tanjiro'S Dream - Solo - Nozomi Tenma",
