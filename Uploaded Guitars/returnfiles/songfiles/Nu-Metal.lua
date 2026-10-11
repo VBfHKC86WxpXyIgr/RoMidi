@@ -23,6 +23,7 @@ return {
 	"Linkin Park - One Step Closer [MIDIfind.Com]",
 	"Linkin Park - Papercut [MIDIfind.Com]",
 	"Metallica - So What [MIDIfind.Com]",
+	"Nervepitch-Torn Apart-06-09-2026",
 	"One More Light",
 	"Psychosocial - Slipknot",
 	"Slipknot - Eyeless (2) [MIDIfind.Com]",
