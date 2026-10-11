@@ -72,6 +72,7 @@ return {
 	"Silent-Night-Guitar-Arrangement",
 	"Slay The Princess, Brandon Boone - The Princess - Quartet - Sechesin",
 	"Somewhere On Musescore. Dumb Me Didn'T Favorite Which Version. - Naruto - Sadness And Sorrow - Solo - Klaus Lightsbane",
+	"Tera Ban Jaunga Mid",
 	"The Chainsmokers - Closer - Solo - Ravel Falskhern",
 	"The Weeknd Feat. Daft Punk - Starboy - Solo - Ravel Falskhern",
 	"Vanessa Carlton - A Thousand Miles - Solo - Ravel Falskhern",
