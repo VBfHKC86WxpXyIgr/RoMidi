@@ -61,6 +61,7 @@ return {
 	"One Direction - What Makes You Beautiful - Solo - Ravel Falskhern",
 	"OneRepublic - Counting Stars - Solo - Ravel Falskhern",
 	"Passenger - Let Her Go - Solo - Ravel Falskhern",
+	"Phir Mohabbat Acoustic",
 	"Post Malone Ft. Ty Dolla $Ign - Psycho - Solo - Ravel Falskhern",
 	"Ruth B - Dandelions.",
 	"Shawn Mendes - Stitches - Solo - Ravel Falskhern",
