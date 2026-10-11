@@ -142,6 +142,7 @@ return {
 	"Radiohead - No Surprises",
 	"Rascal Does Not Dream Of Bunny Girl Senpai Mhxa",
 	"RE ZERO - STAY ALIVE Mhxa",
+	"Re Zero OP2 Paradisus Paradoxum",
 	"Reinai Circulation Mhxa",
 	"Ripped Pants By Spongebob Squarepants And The Losers",
 	"Rokudenashi - One Voice Mhxa",
