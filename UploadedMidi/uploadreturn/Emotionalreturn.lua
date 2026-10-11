@@ -290,6 +290,7 @@ return {
 	"Meowsic",
 	"Merry Go Round Of Life Howls Moving Castle (MEDIUM VERSION)",
 	"Merry Go Round Of Life Tiktok Version Howls Moving Castle (HUMAN BEST VERSION)",
+	"Metallica - The Day That Never Comes (Songparts.Com)",
 	"Metallica - To Live Is To Die (Songparts.Com)",
 	"Michael Jackson - Earth Song",
 	"Michael Jackson - Love Never Felt So Good",
