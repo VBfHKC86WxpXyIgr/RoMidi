@@ -210,6 +210,7 @@ return {
 	"Come My Way Softer Version",
 	"Come My Way X Intro HãY Trao Cho Anh",
 	"COME MY WAY X MAKING MY WAY",
+	"Come Play With Me - Kevin MacLeod",
 	"CơN MưA BăNg Giá",
 	"CơN MưA CuốI",
 	"CơN MưA Ngang Qua",
