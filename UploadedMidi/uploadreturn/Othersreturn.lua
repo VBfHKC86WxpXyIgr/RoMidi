@@ -246,6 +246,7 @@ return {
 	"Dễ Thay đổI",
 	"Để TôI ÔM Em BằNg Giai ĐIệU NàY X Có HẹN VớI Thanh XuâN",
 	"Dead Silence Theme",
+	"Decline",
 	"Deftones My Own Summer Shove It.Midi",
 	"đếN LúC Em ThứC TỉNh",
 	"Derbeder - Ferdi Tayfur",
