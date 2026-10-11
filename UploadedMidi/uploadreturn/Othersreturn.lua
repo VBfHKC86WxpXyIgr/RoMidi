@@ -397,6 +397,7 @@ return {
 	"Great Fairy Fountain (Piano Etude)",
 	"Great Fairy Fountain But It'S A Little Much.",
 	"Great Fairy Fountain Theme",
+	"Great Little Things",
 	"Grisly Reminder",
 	"GTA San Andreas Theme Song",
 	"Gypsy Woman.Mid",
