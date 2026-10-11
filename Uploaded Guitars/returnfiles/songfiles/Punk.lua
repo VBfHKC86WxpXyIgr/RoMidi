@@ -62,6 +62,7 @@ return {
 	"Misfits - Last Caress [MIDIfind.Com]",
 	"Misfits - Skulls (2) [MIDIfind.Com]",
 	"Misfits - Where Eagles Dare [MIDIfind.Com]",
+	"My Chemical Romance - Cemetery Drive",
 	"My Chemical Romance - Helena [MIDIfind.Com]",
 	"My Chemical Romance - I'M Not Okay I Promise [MIDIfind.Com]",
 	"Negative Creep - Nirvana (Piano-Vocal-Guitar)",
