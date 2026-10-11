@@ -74,6 +74,7 @@ return {
 	"Field Of Memories - Waterflame",
 	"Field Of Memories 2",
 	"Finale - Toby Fox",
+	"Finale But Freedom Motif",
 	"finale-undertale",
 	"Five nights at Freddy's Song",
 	"Flower Man - DELTARUNE Chapter 5 - Toby Fox",
