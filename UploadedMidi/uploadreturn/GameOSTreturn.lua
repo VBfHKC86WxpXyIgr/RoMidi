@@ -206,6 +206,7 @@ return {
 	"The Entertainer - Scott Joplin ",
 	"THE FINAL STRATEGY(MP3 160K)-Edited",
 	"The Fire Is Gone (ULTRAKILL)",
+	"The Great Strategy By Badliz KSB",
 	"The Green Orbs - At the Fair (Piano Cover)",
 	"The Green Orbs - Claudio The Worm (Duet)",
 	"The Green Orbs - Old MacDonald Instrumental (Happy)",
