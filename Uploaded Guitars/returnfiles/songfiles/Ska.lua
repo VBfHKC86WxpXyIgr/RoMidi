@@ -75,6 +75,7 @@ return {
 	"Tera Ban Jaunga Mid",
 	"The Chainsmokers - Closer - Solo - Ravel Falskhern",
 	"The Weeknd Feat. Daft Punk - Starboy - Solo - Ravel Falskhern",
+	"Tones And I - Dance Monkey (Midi By Carlo Prato) (Www.Cprato.Com)",
 	"Vanessa Carlton - A Thousand Miles - Solo - Ravel Falskhern",
 	"Vibe Tracks (LIMO) - Nice To You - Octet - SnowTheBard",
 	"When You Sleep - My Bloody Valentine",
