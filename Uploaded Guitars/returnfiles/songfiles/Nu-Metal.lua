@@ -19,6 +19,7 @@ return {
 	"Korn - Freak On A Leash [MIDIfind.Com]",
 	"La Distancia Para Un Duelo",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
+	"Limp Bizkit - My Way",
 	"Linkin Park - Numb [MIDIfind.Com]",
 	"Linkin Park - One Step Closer [MIDIfind.Com]",
 	"Linkin Park - Papercut [MIDIfind.Com]",
