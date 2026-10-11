@@ -114,6 +114,7 @@ return {
 	"Kyoko Kirigiri - Thick Of HiT Thick Of It X Thomas The Tank Engine",
 	"Last Surprise",
 	"Light'S Theme - Death Note",
+	"Looping The Rooms - Rusino",
 	"Maid In Dragon",
 	"Manazashi Wa Hikari Tatsuya Kitani The Fragrant Flower Blooms With Dignity OP 1784992924078",
 	"Mermaid Rhapsody – v3rmillionkyo",
