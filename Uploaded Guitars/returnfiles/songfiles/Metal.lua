@@ -62,6 +62,7 @@ return {
 	"Blackened Isolated Solo By Chicoplatr",
 	"Blitzkrieg Bop - Ramones",
 	"Buckethead - Soothsayer [MIDIfind.Com]",
+	"Bullet For My Valentine - Hearts Burst Into Fire",
 	"Bullet For My Valentine - Tears Don'T Fall (2) [MIDIfind.Com]",
 	"Bullet For My Valentine - Tears Don'T Fall [MIDIfind.Com]",
 	"Burried Alive",
