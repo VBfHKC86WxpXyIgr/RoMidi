@@ -440,6 +440,7 @@ return {
 	"The Cure - Boys Dont Cry-Electric Guitar",
 	"The Cure - Boys Dont Cry-Electric Guitar (1)",
 	"The Cure - Boys Dont CryF",
+	"The Eagles - Hotel California - Two Guitar Version",
 	"The Jimi Hendrix Experience - Little Wing",
 	"The Jimi Hendrix Experience - Purple Haze",
 	"The Long Faces - Jane Greed Guitar1",
