@@ -355,6 +355,7 @@ return {
 	"Padi Kasih Tak Smp",
 	"Panchiko - D E A T H M E T A L (WIP)",
 	"Panchiko - UNTITLED ACOUSTIC SONG - REMASTER Mp3pm Converted By Jukeblocks",
+	"Pantera - Death Rattle (Songparts.Com)",
 	"Parfum D'Etoiles - Ichika Aoba",
 	"Parfum Dtoiles (BEST VERSION)",
 	"Passion - Gabriel Albu(BEST VERSION)",
