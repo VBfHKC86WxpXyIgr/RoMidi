@@ -769,6 +769,7 @@ return {
 	"Rush E X Interstellar",
 	"RUSH E ZOTMIDIs Ver WIP",
 	"Rush E3nolag",
+	"Rush F On Crack2 Light",
 	"RUSH N",
 	"Rush Piggies 2",
 	"Ryannah J. - 'THIS NA MALAMBING' Ft. Nateman (Lyrics Video)",
