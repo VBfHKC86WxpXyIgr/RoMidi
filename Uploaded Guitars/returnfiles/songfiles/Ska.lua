@@ -83,6 +83,7 @@ return {
 	"Vibe Tracks (LIMO) - Nice To You - Octet - SnowTheBard",
 	"When You Sleep - My Bloody Valentine",
 	"X - Sadame (Guitar Version)",
+	"Your Lie In April - Orange",
 	"Yung Kai - Blue - Solo - Ravel Falskhern",
 	"Zack Tabudlo - Pano - Solo - Ravel Falskhern",
 }
