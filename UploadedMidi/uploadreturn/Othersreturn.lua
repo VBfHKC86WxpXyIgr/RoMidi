@@ -158,6 +158,7 @@ return {
 	"Can You Hear The Music - Ludwig GöRansson (From Oppenheimer)",
 	"Can'T Help Falling In Love.Mid",
 	"Canakkaleicinde",
+	"CANDYMAN Theme(ITownGamePlay - Terror PsicolóGico)",
 	"Carol Of The Bells X Moonlight Sonata 3rd X Golden Hour X Dieu Ne Ment Jamais X Hit The Road Jack X Back To Black X Czardas X Bohemian Rhapsody X River Flow In You X Experience X La Vie Qu’On MèNe X Rush E",
 	"Cats On Mars - The Seatbelts",
 	"Cause I Love You - Noo Phuoc Thinh Piano",
