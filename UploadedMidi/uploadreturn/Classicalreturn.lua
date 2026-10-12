@@ -81,6 +81,7 @@ return {
 	"Chopin Ballade3",
 	"Chopin Waltz Op 64 ImprovisationSECRET(BEST VERSION)",
 	"Chopin Winter Wind Etude",
+	"Chopin-Ballade1",
 	"Chopin-Etude-Op10-No4",
 	"Chpn Op23",
 	"Chpn Op35 1",
