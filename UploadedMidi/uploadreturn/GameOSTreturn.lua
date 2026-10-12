@@ -120,6 +120,7 @@ return {
 	"Korobeiniki Tetris Theme (Piano Tiles Version)",
 	"Lana Del Rey Young And Beautiful Piano Midi",
 	"Last Sahur 😭 - Polyplayer Full Version (Undertale Last Goodbye By Toby Fox X Brainrot)",
+	"Laura Shigihara-Plants Vs Zombies Graze The Roof",
 	"Legend Of Zelda - Saria's Song",
 	"Legendary Belmont - Castlevania Curse Of Darkness",
 	"Lena Raine - Pigstep",
