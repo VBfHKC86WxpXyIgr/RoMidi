@@ -34,6 +34,7 @@ return {
 	"Guitar Rtm Surf Curse Freaks",
 	"Guitar Tom TR LIVE RW 2026",
 	"Guitar Tr 1",
+	"Guitar Tr 2",
 	"Guitar1 2 Motifs For Now Not Ever Live Baybeats",
 	"Guitar1 2 THY-Teen Rebel LIVE V2",
 	"Guitar1 Alv Bye Melted Ice Cream",
