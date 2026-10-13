@@ -32,6 +32,7 @@ return {
 	"Children",
 	"Come As You Are - Nirvana (Guitar Tab)",
 	"Ctgther",
+	"Dire Straits - Money For Nothing [MIDIfind.Com]",
 	"Do You Wanna Know A Secret",
 	"Down In A Hole",
 	"DrMetal",
