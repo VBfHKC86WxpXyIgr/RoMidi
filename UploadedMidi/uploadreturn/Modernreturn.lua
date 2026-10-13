@@ -203,6 +203,7 @@ return {
 	"Mora X Jhay Cortez - 512 Instrumental Piano Tutorial Partitura Karaoke MIDI",
 	"Mr Sandman.Mid",
 	"mrs magic",
+	"Mrs Magic - Strawberry Guy",
 	"Mundo By IV Of Spades",
 	"NắNg Có Mang Em Về - Shartnuss, Tr. D, Phankeo (Piano)",
 	"New Computers",
