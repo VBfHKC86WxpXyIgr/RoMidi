@@ -165,6 +165,7 @@ return {
 	"My Chemical Romance - Give Em Hell Kid [MIDIfind.Com]",
 	"My Chemical Romance - Helena",
 	"My Chemical Romance - Honey, This Mirror Isn'T Big Enough For The Two Of Us",
+	"My Chemical Romance - I Don'T Love You (Drum)",
 	"My Chemical Romance - I'M Not Okay (I Promise)",
 	"My Chemical Romance - I'M Not Okay I Promise [MIDIfind.Com]",
 	"My Chemical Romance - Na Na Na [MIDIfind.Com]",
