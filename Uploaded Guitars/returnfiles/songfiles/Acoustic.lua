@@ -398,6 +398,7 @@ return {
 	"Siraph -Greed Guitar2",
 	"Siraph -Greed Vocal",
 	"Slash Ft Beth Hart - Stormy Monday",
+	"Slayer - War Ensemble",
 	"Sleeping Sheep -Payu",
 	"Slot Machine -",
 	"Smash Mouth - All Star",
