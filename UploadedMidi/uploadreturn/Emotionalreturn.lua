@@ -170,6 +170,7 @@ return {
 	"Her JVKE (BEST HUMAN VERSION)",
 	"Hibou-Eidolon-07-26-2026",
 	"High Above Austin Farwell(BEST VERSION)",
+	"HIM - Join Me Pianohekill [MIDIfind.Com]",
 	"Himno Nacional Argentino 🇦🇷",
 	"Honeymoon Un Deux Trois (BEST HUMAN VERSION)",
 	"Hope - XXXTENTACION",
