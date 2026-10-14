@@ -168,6 +168,7 @@ return {
 	"HIM - Your Sweet 666 [MIDIfind.Com]",
 	"I Hate Myself And Want To Die (Drums + Guitar)",
 	"I Won't See You Tonight - Avenged Sevenfold",
+	"Iron Maiden - Fear Of The Dark (Drum)",
 	"Iron Maiden - The Trooper (Drum 162 Bpm)",
 	"Iron Maiden - The Trooper (Drum)",
 	"Judas Priest - Breaking The Law [MIDIfind.Com]",
