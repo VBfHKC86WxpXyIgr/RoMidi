@@ -144,6 +144,7 @@ return {
 	"My Chemical Romance - This Is How I Disappear Mikey Way Bass",
 	"My Chemical Romance - This Is How I Disappear Ray Toro",
 	"My Chemical Romance - This Is How I Disappearr",
+	"My Chemical Romance - To The End Ray Toro",
 	"My Chemical Romance - Welcome To The Black Parade Frank Iero",
 	"My Chemical Romance - Welcome To The Black Parade Mikey Way Bass",
 	"My Chemical Romance - Welcome To The Black Parade Ray Toro",
