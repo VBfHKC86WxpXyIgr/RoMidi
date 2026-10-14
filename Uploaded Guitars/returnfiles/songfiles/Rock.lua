@@ -118,6 +118,7 @@ return {
 	"My Chemical Romance - Dead! Mikey Way Bass",
 	"My Chemical Romance - Dead! Ray Toro",
 	"My Chemical Romance - Demolition Lovers (Songparts.Com)",
+	"My Chemical Romance - Demolition Lovers Frank Iero",
 	"My Chemical Romance - Demolition Lovers Ray Toro",
 	"My Chemical Romance - Drowning Lessons Frank Iero",
 	"My Chemical Romance - Drowning Lessons Mikey Way Bass",
