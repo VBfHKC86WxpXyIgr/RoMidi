@@ -240,6 +240,7 @@ return {
 	"Kimagure-Romantic(HUMAN BEST VERSION)",
 	"Kimi-No-Na-Wa-Junno-Mingha-Sparkle-Theishter-Full-Sheets(BEST VERSION)",
 	"King Von1",
+	"Kino Calm Night Piano (Instrumental Onlyhekill)",
 	"Kira - Drunk Text",
 	"KISS — I Was Made For Loving You",
 	"Kosma Joseph - Autumn Leaves [MIDIfind.Com]",
