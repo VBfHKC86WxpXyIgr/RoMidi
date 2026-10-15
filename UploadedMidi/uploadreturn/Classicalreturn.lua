@@ -129,6 +129,7 @@ return {
 	"Frank Sinatra - My Way",
 	"Frank Sinatra - My Way - Piano Tutorial With Sheet Music",
 	"Frank Sinatra Fly Me To The Moon By Trouble",
+	"Free Fire Battlegrounds OST - Fikram",
 	"Freedom Dive",
 	"Friqtao Huye",
 	"Full - Comptine D'Un Autre Ete; L'Apres Midi",
