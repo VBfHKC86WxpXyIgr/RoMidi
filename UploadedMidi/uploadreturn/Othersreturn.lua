@@ -975,6 +975,7 @@ return {
 	"YêU,TồN TạI",
 	"Yin Luxi",
 	"Yoasobi - Yoru Ni Kakeru Mhxa",
+	"Yomi Yori Kikoyu, Koukoku No Hi To Honoo No Shoujo",
 	"Yot Club - YKWIM (Piano Tutorial)",
 	"You'Re Mine (Instrumental Solo) (Baldi'S Basics) - DAGames (Will Ryan)",
 	"Your New Home (Episode 9 End)",
