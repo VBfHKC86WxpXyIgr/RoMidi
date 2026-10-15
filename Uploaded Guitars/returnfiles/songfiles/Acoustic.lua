@@ -465,6 +465,7 @@ return {
 	"Title Fight - Where Am I",
 	"Toe - Goodbye Rasgueo",
 	"Ton - Through The Fire And Flames",
+	"Too Good-SmileBuf",
 	"Torete - Moira Dela Torre Love You To The Stars And Back (Lyrics) 1786923671826",
 	"Toshiki Soejima Tomo Fujita - Just The Two Of Us",
 	"Trap MetalDragonForce - Through The Fire And Flames",
