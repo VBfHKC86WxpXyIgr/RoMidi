@@ -135,6 +135,7 @@ return {
 	"Green Day - Whatsername [MIDIfind.Com]",
 	"Green Day - When I Come Around [MIDIfind.Com]",
 	"Green Dayst Jimmy",
+	"Guns N' Roses - Welcome To The Jungle",
 	"Heroes Main",
 	"Hkmori - Anybody Can Find Love",
 	"Hkmori - Anybody Can Find Love (Except You.) [UNFINISHED] (Breakcore Drill 'N' Bass)",
