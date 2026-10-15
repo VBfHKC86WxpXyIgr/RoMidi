@@ -75,6 +75,7 @@ return {
 	"Celestial Opus (BEST VERSION)",
 	"Celestial Opus By Ace",
 	"Chopin - Ballade No. 1 In G Minor Op 23 MIDI",
+	"Chopin - Spring Waltz (Mariage D'Amour) - Fikram",
 	"Chopin - Waltz In A Minor By Trouble",
 	"Chopin – Nocturne Op.9 No.2",
 	"chopin ballade 4 (c)lubetsky",
