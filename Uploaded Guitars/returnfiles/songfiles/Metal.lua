@@ -102,6 +102,7 @@ return {
 	"Death Pierce Me (Guitar)",
 	"Decalius Lonliness Solo",
 	"Decease The Police(Full Version)",
+	"Deftones - Entombed",
 	"Deftones - Entombed Bass",
 	"Deftones - Entombed Lead Guitar",
 	"Deftones - Entombed Rhythm Guitar",
