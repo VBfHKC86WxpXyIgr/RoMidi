@@ -99,6 +99,7 @@ return {
 	"Decease The Police(Full Version)",
 	"Deftones - 7 Words [MIDIfind.com]",
 	"Deftones - Around the Fur [MIDIfind.com]",
+	"Deftones - Entombed",
 	"Deftones - Knife Party (2) [MIDIfind.Com]",
 	"Deftones - My Own Summer Shove It [MIDIfind.Com]",
 	"Deftones - One Weak [MIDIfind.com]",
