@@ -102,6 +102,7 @@ return {
 	"Death Pierce Me (Guitar)",
 	"Decalius Lonliness Solo",
 	"Decease The Police(Full Version)",
+	"Deftones - Entombed Lead Guitar",
 	"Delusions-Of-Saviour",
 	"Dethklok - Thunderhorse [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
