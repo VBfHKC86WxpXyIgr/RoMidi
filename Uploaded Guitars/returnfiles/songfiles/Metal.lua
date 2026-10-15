@@ -103,6 +103,7 @@ return {
 	"Decalius Lonliness Solo",
 	"Decease The Police(Full Version)",
 	"Deftones - Entombed Lead Guitar",
+	"Deftones - Entombed Rhythm Guitar",
 	"Delusions-Of-Saviour",
 	"Dethklok - Thunderhorse [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
