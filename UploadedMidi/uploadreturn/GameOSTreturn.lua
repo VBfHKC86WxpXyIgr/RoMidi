@@ -99,6 +99,7 @@ return {
 	"Hammer Of Justice - Deltarune Chapter 3+4 - Toby Fox",
 	"Hatsune Miku - Senbonzakura",
 	"Hatsune Miku - Tell Your World",
+	"Heartbeat Heartbreak (Persona 4)",
 	"Heroes Main",
 	"Home - Were Finally Landing 65702210",
 	"Hyperfun.mp3",
