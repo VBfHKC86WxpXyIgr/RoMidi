@@ -132,6 +132,7 @@ return {
 	"MEGALOVANIA - Toby Fox",
 	"MeGaLoVania Piano",
 	"Memories Of Kindness - Mitsukiyo",
+	"Memories Of You - Persona 3 Reload (1)",
 	"Metal Crusher",
 	"Metro Exodus - Race Against Fate (Fingerstyle) [MIDIfind.Com]",
 	"Mice on Venus (Minecraft)",
