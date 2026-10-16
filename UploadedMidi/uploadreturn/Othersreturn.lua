@@ -625,6 +625,7 @@ return {
 	"NắNg ấM Xa DầN - As One",
 	"NắNg ấM Xa DầN 2",
 	"NắNg Có Mang Em Về - Shartnuss, Tr. D, Phankeo (Piano)",
+	"Napoleon (There'S Nothing We Can Do)",
 	"Natori - OVERDOSE Mhxa",
 	"Neon Genesis Evangelion Extra Short Mhxa",
 	"NếU NgàY ẤY [Neu Ngay Ay] - SOOBIN (Piano)",
