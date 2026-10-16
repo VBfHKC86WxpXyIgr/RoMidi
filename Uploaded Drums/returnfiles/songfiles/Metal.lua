@@ -348,6 +348,7 @@ return {
 	"Pantera - Shedding Skin [MIDIfind.Com]",
 	"Pantera - Slaughtered [MIDIfind.Com]",
 	"Pantera - Strenght Beyond Strenght [MIDIfind.Com]",
+	"Pantera - This Love [MIDIfind.Com]",
 	"Pantera - Throes Of Rejection (Drum)",
 	"Pantera - Walk (Drum Updated)",
 	"Pantera - Walk (Drum)",
