@@ -20,6 +20,7 @@ return {
 	"A Skull Full Of Maggots",
 	"ACDC - Back In Black (3) [MIDIfind.Com]",
 	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
+	"Alice In Chains - Shame In You Bass",
 	"Alice In Chains - Shame In You Lead Guitar",
 	"Alone-And-Cold.Mid",
 	"Angel Of Death - Slayer (Corrected To E Standard)",
