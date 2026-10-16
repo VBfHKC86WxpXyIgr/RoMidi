@@ -189,6 +189,7 @@ return {
 	"Korn - Ball Tongue (Drum)",
 	"Korn - Ball Tongue [MIDIfind.Com]",
 	"Korn - Blind (Drum)",
+	"Korn - Chi",
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
 	"Korn - Falling Away From Me [MIDIfind.Com]",
 	"Korn - Freak On A Leash [MIDIfind.Com]",
