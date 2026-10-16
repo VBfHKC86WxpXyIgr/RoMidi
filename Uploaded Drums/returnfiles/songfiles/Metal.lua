@@ -338,6 +338,7 @@ return {
 	"Pantera - Cowboys From Hell [MIDIfind.Com]",
 	"Pantera - Domination (2) [MIDIfind.Com]",
 	"Pantera - Domination [MIDIfind.Com]",
+	"Pantera - Floods [MIDIfind.Com]",
 	"Pantera - Fucking Hostile [MIDIfind.Com]",
 	"Pantera - Good Friends And A Bottle Of Pills",
 	"Pantera - Heresy [MIDIfind.Com]",
