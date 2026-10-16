@@ -80,6 +80,7 @@ return {
 	"Flower Man - DELTARUNE Chapter 5 - Toby Fox",
 	"FNAF",
 	"Fpd Ff7 Botsu 8 MIDI (WIP)",
+	"Full Moon Full Life (Persona 3 Reload)",
 	"Gaster's Theme - Toby Fox",
 	"Gathers Under Night - Raito",
 	"Genshin Impact Character Demo - Furina All The World'S A Stage",
