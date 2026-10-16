@@ -15,6 +15,7 @@ return {
 	"About A Girl - Nirvana",
 	"AC DC - Back in Black.mid",
 	"ACDC - Back in Black (3) [MIDIfind.com]",
+	"Alice In Chains - Shame In You",
 	"Animals As Leaders - Cafo [MIDIfind.Com]",
 	"Are You Dead Yet 5",
 	"As I Lay Dying - Nothing Left (Songparts.Com)",
