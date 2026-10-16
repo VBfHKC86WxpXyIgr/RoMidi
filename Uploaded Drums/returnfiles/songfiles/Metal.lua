@@ -192,6 +192,7 @@ return {
 	"Korn - Chi",
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
 	"Korn - Divine",
+	"Korn - Fake [MIDIfind.Com]",
 	"Korn - Falling Away From Me [MIDIfind.Com]",
 	"Korn - Freak On A Leash [MIDIfind.Com]",
 	"Korn - Good God (Drum)",
