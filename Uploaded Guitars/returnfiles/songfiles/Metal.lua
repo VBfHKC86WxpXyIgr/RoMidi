@@ -22,6 +22,7 @@ return {
 	"ÁGua De Beber (Tom Jobim), Apenas Solo.Mid",
 	"Alice In Chains - Shame In You Bass",
 	"Alice In Chains - Shame In You Lead Guitar",
+	"Alice In Chains - Shame In You Rhythm Guitar",
 	"Alone-And-Cold.Mid",
 	"Angel Of Death - Slayer (Corrected To E Standard)",
 	"AngelOfDeath",
