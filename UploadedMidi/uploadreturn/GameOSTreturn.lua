@@ -45,6 +45,7 @@ return {
 	"Cascade2",
 	"Casey Edwards - Devil Trigger",
 	"Castle Vein - Ultrakill (1)",
+	"Color Your Night (Persona 3 Reload)",
 	"Cornfield Chase",
 	"Creo - Flow",
 	"Daisy Bell (1892)",
