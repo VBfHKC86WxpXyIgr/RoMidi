@@ -186,6 +186,7 @@ return {
 	"Judas Priest - You'Ve Got Another Thing Comin [MIDIfind.Com]",
 	"Killswitch Engage - The End Of Heartache (Songparts.Com)",
 	"Korn - A.D.I.D.A.S (Drum)",
+	"Korn - B B K [MIDIfind.Com]",
 	"Korn - Ball Tongue (Drum)",
 	"Korn - Ball Tongue [MIDIfind.Com]",
 	"Korn - Blind (Drum)",
