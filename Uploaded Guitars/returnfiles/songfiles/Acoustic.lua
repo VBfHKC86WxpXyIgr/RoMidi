@@ -392,6 +392,7 @@ return {
 	"Silly Fools -Ya Bok Wa Rak Guitar1 Greed",
 	"Silly Fools -Ya Bok Wa Rak Guitar2 Greed",
 	"Silly Fools JeeJa2",
+	"Silly Fools Not A Shame - -",
 	"Sillyfools Not Shame - -Silly Fools",
 	"Siraph -Greed",
 	"Siraph -Greed Bass",
