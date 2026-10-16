@@ -199,6 +199,7 @@ return {
 	"Korn - Good God (Drum)",
 	"Korn - Got The Life (Drum)",
 	"Korn - Twist",
+	"KORN.Trash",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
 	"Limp Bizkit - Break Stuff (Drum)",
 	"Limp Bizkit - Just Like This (Drum)",
