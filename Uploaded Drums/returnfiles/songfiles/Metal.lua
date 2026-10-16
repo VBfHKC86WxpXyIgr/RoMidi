@@ -189,6 +189,7 @@ return {
 	"Korn - B B K [MIDIfind.Com]",
 	"Korn - Ball Tongue (Drum)",
 	"Korn - Ball Tongue [MIDIfind.Com]",
+	"Korn - Blind (Better)",
 	"Korn - Blind (Drum)",
 	"Korn - Chi",
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
