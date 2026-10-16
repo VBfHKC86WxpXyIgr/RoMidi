@@ -478,6 +478,7 @@ return {
 	"Two Door Cinema Club - Undercover Martyn",
 	"Unknown - Redbone - Come And Get Your Love Fingerstyle",
 	"Unknown Artist - 2020 Sleeping Sheep",
+	"Unknown Artist - Steve Vai Vs Ralph Macchio Epic Guitar Battle",
 	"UnravelGreedGuitar1",
 	"UnravelGreedGuitar2",
 	"Untungnya, Hidup Harus Tetap Berjalan",
