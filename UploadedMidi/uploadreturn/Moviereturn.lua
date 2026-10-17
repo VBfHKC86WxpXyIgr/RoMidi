@@ -126,6 +126,7 @@ return {
 	"Ravyn Lenae - Love Me Not",
 	"Red Hot Chili Peppers - Snow Hey Oh [MIDIfind.Com]",
 	"Requiem For A Dream - Main Theme - EASY",
+	"Rick And Morty (Piano Cover) - MIDI.Mid",
 	"ScreenRecording 10-09-2026 04-53-41 1",
 	"ScreenRecording 10-09-2026 05-01-42 1",
 	"ScreenRecording 10-09-2026 05-16-54 1",
