@@ -198,6 +198,7 @@ return {
 	"Claire De Lune",
 	"Classic Horror 1 - Kevin MacLeod",
 	"Clownofobia V2",
+	"CLOWNOFOBIA V3",
 	"CLOWNOFOBIA🤡🔪",
 	"Club Misterio - DEEP WEB",
 	"Club Misterio -BACKROOMS",
