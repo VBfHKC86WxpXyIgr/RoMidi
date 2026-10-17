@@ -91,6 +91,7 @@ return {
 	"Like A Dog Chasing Car",
 	"Lily",
 	"Linkin Park - Numb (Tim Dawes Remix) 2",
+	"Live Forever",
 	"Looping In The Rooms",
 	"Looping In The Rooms - Rusino",
 	"Love Is In The Air, Pt. 1 - Rock Burwell",
