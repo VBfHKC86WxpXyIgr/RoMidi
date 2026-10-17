@@ -415,6 +415,7 @@ return {
 	"Somsarn LOSO KEYG Greed",
 	"Somsarn LOSO KEYG Greed Guitar1",
 	"Somsarn LOSO KEYG Greed Guitar2",
+	"Somsran LOSO Greed",
 	"Somsran LOSO Greed Guitar1",
 	"Somsran LOSO Greed Guitar2",
 	"Soundgarden - Black Hole Sun",
