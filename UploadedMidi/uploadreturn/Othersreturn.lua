@@ -531,6 +531,7 @@ return {
 	"Lemon Tree Piano Lemon Tree Ok 1789901703567",
 	"Les Choristes- Vois Sur Ton Chemin",
 	"Let The World Burn (Piano Version)",
+	"Lets Groove - Earth, Wind & Fire",
 	"Liana Flores - Rises The Moon",
 	"Libet'S Delay",
 	"Liebesleid (Love'S Sorrow) - Kreisler",
