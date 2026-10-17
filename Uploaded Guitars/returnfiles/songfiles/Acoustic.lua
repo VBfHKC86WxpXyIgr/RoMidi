@@ -257,6 +257,7 @@ return {
 	"Linkin Park - Somewhere I Belong Greed Guitar2",
 	"Loso -",
 	"Loso - (1)",
+	"Loso - Original Key Ab",
 	"Lost Sky - Dreams.Mid",
 	"Luiz Bonf - The Shade Of The Mango Tree Greed Guitar1",
 	"Luiz Bonf - The Shade Of The Mango Tree Greed Guitar2",
