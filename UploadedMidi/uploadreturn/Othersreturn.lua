@@ -239,6 +239,7 @@ return {
 	"D4vd Here With Me Piano Midi.Mid",
 	"đã QuêN Hay ChưA",
 	"Đã-Lỡ-YêU-Em-NhiềU",
+	"Dancing Polish Cow Piano",
 	"Daniel.Mp3 Childhood Piano",
 	"DạO BướC HongKong 1999",
 	"ĐảO KhôNg NgườI",
