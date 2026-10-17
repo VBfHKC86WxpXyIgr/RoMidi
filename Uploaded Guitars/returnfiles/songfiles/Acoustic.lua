@@ -348,6 +348,7 @@ return {
 	"Redbone - Come And Get Your Love 2",
 	"Rehash - Back To StrangersGreed Guitar1",
 	"Rehash - Back To StrangersGreed Guitar2",
+	"Retrospect -Mai Me Ter Greed",
 	"Ribbon Fix - One Last Cigarette Greed",
 	"Ribbon Fix - One Last Cigarette Greed Guitar1",
 	"Ribbon Fix - One Last Cigarette Greed Guitar2 105",
