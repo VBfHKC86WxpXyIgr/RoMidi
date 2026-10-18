@@ -244,6 +244,7 @@ return {
 	"Pierce The Veil - Bulls In The Bronx Lead",
 	"Pierce The Veil - Bulls In The Bronx Rhythm",
 	"Pierce The Veil - King For A Day Lead Guitar",
+	"Pierce The Veil - King For A Day Rhythm Guitar",
 	"Queen - Bohemian Rhapsody (Guitar Solo) [MIDIfind.Com]",
 	"Rachmaninoff - Piano Concerto No. 2 Op. 18 - 2nd Mvmt - Piano Solo",
 	"Radiohead - 15 Step [MIDIfind.Com]",
