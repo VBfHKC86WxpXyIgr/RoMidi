@@ -243,6 +243,7 @@ return {
 	"Pierce The Veil - Bulls In The Bronx Bass",
 	"Pierce The Veil - Bulls In The Bronx Lead",
 	"Pierce The Veil - Bulls In The Bronx Rhythm",
+	"Pierce The Veil - King For A Day Bass",
 	"Pierce The Veil - King For A Day Lead Guitar",
 	"Pierce The Veil - King For A Day Rhythm Guitar",
 	"Queen - Bohemian Rhapsody (Guitar Solo) [MIDIfind.Com]",
