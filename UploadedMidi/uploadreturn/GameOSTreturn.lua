@@ -84,6 +84,7 @@ return {
 	"Five nights at Freddy's Song",
 	"Flamewall - Camellia (Piano Cover)",
 	"Flower Man - DELTARUNE Chapter 5 - Toby Fox",
+	"Flower Man (PIANO COVER)",
 	"FNAF",
 	"Fpd Ff7 Botsu 8 MIDI (WIP)",
 	"Full Moon Full Life (Persona 3 Reload)",
