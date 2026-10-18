@@ -359,6 +359,7 @@ return {
 	"Ronnie James Dio - Dream OnGuitar2",
 	"Roundabout- Bass Only",
 	"S.T.A.L.K.E.R - Guitar Music From Stalker (3) [MIDIfind.Com]",
+	"Sahas- LOSOOFFICIAL MV",
 	"Sailor (1)",
 	"Samurai - Never Fade Away",
 	"Say It Aint So Weezer Greed Guitar1",
