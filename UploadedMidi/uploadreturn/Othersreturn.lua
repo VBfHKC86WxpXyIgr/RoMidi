@@ -78,6 +78,7 @@ return {
 	"Alt-J Breezeblocks",
 	"âM ThầM BêN Em 2",
 	"âM ThầM BêN Em X NơI NàY Có Anh",
+	"Amour Plastique",
 	"Amour Plastique (Napoleon Meme Song)",
 	"Amy Winehouse Back To Black Piano Cover 1790005418803",
 	"An Italian Magician Be Like",
