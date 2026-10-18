@@ -247,6 +247,7 @@ return {
 	"Undertale - Ruins [Piano]",
 	"Undertale - SAVE the World",
 	"Undertale - Toby Fox",
+	"Undertale Hopes And Dreams 【Piano Cover】",
 	"Undertale To The Bone",
 	"Undertale~PFFinale~123,000",
 	"Universal Collapse - Dm Dokuro",
