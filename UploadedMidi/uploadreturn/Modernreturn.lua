@@ -243,6 +243,7 @@ return {
 	"Roommates - Malcolm Todd",
 	"Rush E – lyre only",
 	"Rush E Mobile",
+	"Rusino - Looping The Rooms (Piano Cover)",
 	"Sempurna By Andra And The Backbone",
 	"Shooting Stars - Piano Solo Arrangement",
 	"Should I Add More Instruments To This (MS - Prolly Fixed)",
