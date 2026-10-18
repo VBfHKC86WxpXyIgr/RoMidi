@@ -176,6 +176,7 @@ return {
 	"Like Him - Tyler, The Creator (FULL BEST VERSION DONE)",
 	"Long Time - Playboi Carti",
 	"Look At What You'Ve Done - Drake",
+	"Looping The Rooms (Piano Version)",
 	"Love Is In The Air, Pt. 1",
 	"Love Story X Golden Brown",
 	"Love Story X Golden Brown (1)",
