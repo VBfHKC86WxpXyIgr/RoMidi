@@ -115,6 +115,7 @@ return {
 	"Girlfriends - New Computers",
 	"God Is - Kanye West WIP",
 	"Golden Brown Arragement By natsu",
+	"Golden Hour - JVKE",
 	"Gotye - Somebody That I Used To Know (Ft. Kimbra)",
 	"Grenade By Bruno Mars",
 	"Guns N Roses - Sweet Child O' Mine (1)",
