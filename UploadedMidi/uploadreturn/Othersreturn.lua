@@ -531,6 +531,7 @@ return {
 	"LàM NgườI LuôN YêU Em",
 	"LàM Vợ Anh Nhé",
 	"Laufey - Let You Break My Heart Again (WIP)",
+	"Lavender Town - The Most HAUNTED GAME MUSIC Of All Time!",
 	"Lệ Anh VẫN RơI",
 	"Le Temps De L Amour 1789889895436",
 	"Le Temps De L Amour Complet 1789978120222",
