@@ -422,6 +422,7 @@ return {
 	"Hasan Ozsut - Night Sky Piano Cover By Sanzhar Smagulov",
 	"Hasretinle Yandı GöNlüM",
 	"Hatsune Miku - Senbonzakura Mhxa",
+	"Hava Nagila",
 	"Hava-Nagilah-Hava",
 	"HãY Trao Cho Anh",
 	"HãY Trao Cho Anh 2",
