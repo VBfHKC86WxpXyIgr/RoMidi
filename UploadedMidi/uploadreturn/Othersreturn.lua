@@ -62,6 +62,7 @@ return {
 	"ABBA - The Winner Takes It All",
 	"Ablankurban",
 	"Abm-Yararara-Piano-Ver 2",
+	"Absurdism",
 	"Adopt Me - Day Theme",
 	"AEROSMITH.Sweet Emotions",
 	"Afterparty",
