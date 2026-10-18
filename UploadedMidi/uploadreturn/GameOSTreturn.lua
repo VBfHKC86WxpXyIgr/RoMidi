@@ -34,6 +34,7 @@ return {
 	"Battlefield Theme - Misc Computer Games (Piano Solo)",
 	"Bee - Groovydominoes52",
 	"Bendy And The Ink Machine - Build Our Machine",
+	"BIG SHOT (PIANO COVER)",
 	"Blind Spots. C418",
 	"BLINDSPOTS (1)",
 	"Blue Skies - Silent Partner (Guitar remix)",
