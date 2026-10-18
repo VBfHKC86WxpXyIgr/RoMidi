@@ -35,6 +35,7 @@ return {
 	"Bee - Groovydominoes52",
 	"Bendy And The Ink Machine - Build Our Machine",
 	"Blind Spots. C418",
+	"BLINDSPOTS (1)",
 	"Blue Skies - Silent Partner (Guitar remix)",
 	"C418 - Blind Spots (From Minecraft Volume Beta) - Piano Tutorial",
 	"C418 - Mice on Venus",
