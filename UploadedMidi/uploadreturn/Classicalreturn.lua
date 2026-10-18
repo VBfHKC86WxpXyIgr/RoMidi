@@ -371,6 +371,7 @@ return {
 	"Whenjohnnycomesmarchinghome",
 	"William Tell Overture - Finale - Gioachino Rossini",
 	"Winter Wind",
+	"Winter Wind ÉTude In A Minor, Op. 25, No. 11 - FréDéRic Chopin (Fixed)",
 	"Woke Up In Japan By Friqtao",
 	"Yankeedoodle",
 	"Yeni-Qukeru-Yoru-Ni-Kakeru-Racing-Into-The-Night(BEST VERSION)",
