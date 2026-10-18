@@ -32,6 +32,7 @@ return {
 	"Afgan-Bukan Cinta Biasa",
 	"Ajor- The Man Who Can'T Be Moved",
 	"Alexander Rybak - Fairytale.Mid",
+	"Alla-Turca",
 	"Angel-Nidji",
 	"Appass 3",
 	"Arabesque-in-E-Nr-1",
