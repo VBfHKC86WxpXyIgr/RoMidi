@@ -61,6 +61,7 @@ return {
 	"DJ Nate Theory Of Everything 3.Mid",
 	"DJVI - Base After Base (Geometry Dash)",
 	"Doki Doki Literature Club - Main Theme - ShinkoNetCavy",
+	"Dracula-Theme",
 	"Dry out Geometry Dash",
 	"Eldoraudio-Hyperfun-by-Kevin-Macleod",
 	"Eldoraudio-Jingle-Punks-Good-Starts",
