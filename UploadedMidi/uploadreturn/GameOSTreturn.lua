@@ -40,6 +40,7 @@ return {
 	"C418 - Mice on Venus",
 	"C418 - Subwoofer Lullaby",
 	"C418 Blind Spots",
+	"C418 Blind Spots- Mabye",
 	"Caffeine Rush - Boksed",
 	"Calamity Mod OST DM DOKURO - UNIVERSAL COLLAPSE Piano Solo",
 	"Call Of Duty Black Ops Zombies",
