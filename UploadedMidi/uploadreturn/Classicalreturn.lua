@@ -369,6 +369,7 @@ return {
 	"Wedding-Day-at-Troldhaugen",
 	"Whenjohnnycomesmarchinghome",
 	"William Tell Overture - Finale - Gioachino Rossini",
+	"Winter Wind",
 	"Woke Up In Japan By Friqtao",
 	"Yankeedoodle",
 	"Yeni-Qukeru-Yoru-Ni-Kakeru-Racing-Into-The-Night(BEST VERSION)",
