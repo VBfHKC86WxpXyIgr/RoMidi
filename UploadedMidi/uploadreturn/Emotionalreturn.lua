@@ -528,6 +528,7 @@ return {
 	"Your Love",
 	"Zach Templar - Missin Something Mp3pm Converted By Jukeblocks",
 	"ZAYN - Dusk Till Dawn Ft. Sia",
+	"Zelda - Ocarina Of Time - Great Fairy'S Fountain",
 	"Кино - Спокойная ночь [Midistock.Ru] (1).Mid",
 	"Лана Дель Рей - White Mustang",
 }
