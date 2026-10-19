@@ -541,6 +541,7 @@ return {
 	"Le Temps De L Amour Complet 1789978120222",
 	"Lemon",
 	"Lemon Tree Piano Lemon Tree Ok 1789901703567",
+	"LES Childish Gambino",
 	"Les Choristes- Vois Sur Ton Chemin",
 	"Let The World Burn (Piano Version)",
 	"Lets Groove - Earth, Wind & Fire",
