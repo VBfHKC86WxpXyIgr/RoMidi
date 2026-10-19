@@ -230,6 +230,7 @@ return {
 	"Metallica - Am I Evil [MIDIfind.Com]",
 	"Metallica - And Justice For All [MIDIfind.Com]",
 	"Metallica - Battery (2) [MIDIfind.com]",
+	"Metallica - Battery (Songparts.Com)",
 	"Metallica - Battery [MIDIfind.Com]",
 	"Metallica - Blackened",
 	"Metallica - Blackened (Songparts.Com)",
