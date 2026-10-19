@@ -342,6 +342,7 @@ return {
 	"Pantera - By Demons Be Driven [MIDIfind.Com]",
 	"Pantera - Cemetery Gates [MIDIfind.com]",
 	"Pantera - Cowboys From Hell [MIDIfind.Com]",
+	"Pantera - Death Rattle (Songparts.Com) (1)",
 	"Pantera - Domination (2) [MIDIfind.Com]",
 	"Pantera - Domination [MIDIfind.Com]",
 	"Pantera - Floods [MIDIfind.Com]",
