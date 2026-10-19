@@ -244,6 +244,7 @@ return {
 	"Pierce The Veil - Bulls In The Bronx Lead",
 	"Pierce The Veil - Bulls In The Bronx Rhythm",
 	"Pierce The Veil - Caraphernelia Lead Guitar",
+	"Pierce The Veil - Caraphernelia Rhythm Guitar",
 	"Pierce The Veil - King For A Day Bass",
 	"Pierce The Veil - King For A Day Lead Guitar",
 	"Pierce The Veil - King For A Day Rhythm Guitar",
