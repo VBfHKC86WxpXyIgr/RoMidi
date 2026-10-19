@@ -962,6 +962,7 @@ return {
 	"Vangelis - La Petite Fille De La Mere [MIDIfind.Com]",
 	"VâY Giữ",
 	"VâY HãM",
+	"Vendredi-Sur-Mer - Les Filles DéSir (Bad Cover)",
 	"VếT MưA",
 	"VếT ThươNg [Vet Thuong] - Fishy (Piano)",
 	"Vì Sao TôI Là Gay",
