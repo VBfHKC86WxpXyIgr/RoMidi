@@ -283,6 +283,7 @@ return {
 	"Metallica - The Call Of Ktulu [MIDIfind.Com]",
 	"Metallica - The Four Horseman [MIDIfind.Com]",
 	"Metallica - The Frayed Ends Of Sanity (Songparts.Com)",
+	"Metallica - The New Song (Death Is Not The End)",
 	"Metallica - The Shortest Straw (Songparts.Com)",
 	"Metallica - The Struggle Within (Songparts.Com)",
 	"Metallica - The Struggle Within [MIDIfind.Com]",
