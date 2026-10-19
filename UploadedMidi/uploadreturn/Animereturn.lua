@@ -180,6 +180,7 @@ return {
 	"Waterdrop",
 	"Wild Side - ALI (Beastars OP 1)",
 	"Wish Olivia Lufkin Inspi Reira Trapnest Piano Sheet Music",
+	"Yoasobi-Idol-20805-Nonstop2k.Com",
 	"Yoshimasa Terui - IF I AM WITH YOU",
 	"You Can Become A Hero",
 	"You Say Run - My Hero Academia OST",
