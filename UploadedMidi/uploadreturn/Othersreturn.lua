@@ -927,6 +927,7 @@ return {
 	"Toby Fox - It-S-Tv-Time - Pianotify",
 	"Toccata And Fugue In D Minor, BWV 565. (Busoni Piano Arr",
 	"Todo Mundo Odeia O Neko (Zoeira)",
+	"Tokio Hotel - Scream [MIDIfind.Com]",
 	"Tokio Hotelschrei",
 	"Tokyo Ghoul - Unravel (Fingerstyle) [MIDIfind.Com]",
 	"Ton 618",
