@@ -898,6 +898,7 @@ return {
 	"The Beatles - While My Guitar Gently Weeps Organ",
 	"THE BEATLES.All My Loving",
 	"The Big Black - The Quick Brown Fox",
+	"THE CURE.Boys Dont Cry K",
 	"The Final Strategy Piano",
 	"The Girl From Ipanema (Garota De Ipanema) - Antonio Carlos Jobim, Vinicius De Moraes (Piano Solo)",
 	"The Grand Finale - Piano Solo - Mario And Luigi Bowser039s Inside Story",
