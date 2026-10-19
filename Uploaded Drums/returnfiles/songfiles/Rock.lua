@@ -246,6 +246,7 @@ return {
 	"PEARL JAM.Even Flow",
 	"Phyllomedusa-Pulverize That Hoe-07-27-2026",
 	"Pierce The Veil - Bulls In The Bronx (Songparts.Com)",
+	"Pierce The Veil - Caraphernelia",
 	"Pierce The Veil - King For A Day",
 	"Pink Floyd - Comfortably Numb [MIDIfind.Com]",
 	"Pixies - Where Is My Mind (Drum)",
