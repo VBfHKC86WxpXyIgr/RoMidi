@@ -1016,6 +1016,7 @@ return {
 	"Zedd-Clarity-20231118170709-Nonstop2k.Com",
 	"Zimmer Hans - Interstellar (3) [MIDIfind.Com]",
 	"Zvb",
+	"Буерак - Спортивные очки",
 	"Весёлая мелодия (Лунтик и его друзья)",
 	"Военные песни - Катюша (3) [MIDIfind.Com]",
 	"Военные песни - Темная ночь [MIDIfind.Com]",
