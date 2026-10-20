@@ -230,6 +230,7 @@ return {
 	"Pasilyo - Sunkissed Lola (Piano)",
 	"Perfect - Ed Sheeran",
 	"Phonecert (폰서트) - 10CM",
+	"Piano Eightysix-One (Voices Of The Chord Avid) - EIGHTY-SIX OST",
 	"Plage Coquillage (MS)",
 	"Pnl - La Misere Est Si Belle.Mid",
 	"PNL Au DD",
