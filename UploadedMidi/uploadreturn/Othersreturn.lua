@@ -870,6 +870,7 @@ return {
 	"Sword Art Online Gun Gale",
 	"Sword Art Online II Opening 1 - IGNITE",
 	"Syko - BrooklynBloodPop (Simplified)",
+	"Sylvie Vartan La Maritza",
 	"TáI Sinh",
 	"Take Me Hand",
 	"Take Me Hand Easy",
