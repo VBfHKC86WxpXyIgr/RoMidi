@@ -599,6 +599,7 @@ return {
 	"Michael Jackson - Dirty Diana",
 	"Michael Jackson - Human Nature WWW.MIDISFREE.COM",
 	"Michel Petrucciani Caravan Solo - Michel Petrucciani Caravan Solo",
+	"Miguel Miguel Phonk",
 	"Mihriban",
 	"MìNh CướI Nhau đI",
 	"MìNh YêU Nhau đI",
