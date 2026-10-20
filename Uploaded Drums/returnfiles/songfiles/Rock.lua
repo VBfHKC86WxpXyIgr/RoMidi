@@ -224,6 +224,7 @@ return {
 	"Nirvana - Smells Like Teen Spirit Live At Reading 1992 Drums",
 	"Nirvana - Territorial Pissings",
 	"Nirvana - The Man Who Sold The World",
+	"Nirvana - The Man Who Sold The World (Drum) 2",
 	"Nirvana - Verse Chorus Verse (2) [MIDIfind.Com]",
 	"NIRVANA.Smells Like Teen Spirit K",
 	"No Name 2",
