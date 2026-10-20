@@ -31,6 +31,7 @@ return {
 	"Asleep Tomorrow - Scream Aim FireGreed",
 	"Asleep Tomorrow - Scream Aim FireGreed Guitar1",
 	"Asleep Tomorrow - Scream Aim FireGreed Guitar2",
+	"Avenged Sevenfold - Unholy Confessions Greed",
 	"Avenged Sevenfold - Unholy Confessions Greed Guitar1",
 	"Avenged Sevenfold - Unholy Confessions Greed Guitar2",
 	"Avril Lavigne - Skater Boy",
