@@ -897,6 +897,7 @@ return {
 	"TếT NàY Con Sẽ Về",
 	"Tetris MUSIC A",
 	"TháI BìNh Mồ HôI RơI",
+	"TháI BìNh Mồ HôI RơI Mv",
 	"TháNg 4 Là LờI NóI DốI CủA Em",
 	"ThằNg đIêN",
 	"TháP RơI Tự Do",
