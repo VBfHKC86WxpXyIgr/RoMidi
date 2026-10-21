@@ -851,6 +851,7 @@ return {
 	"Sounds - Viber",
 	"Sounds - WhatsApp",
 	"Soy MáS Fuerte Que Tu (Fnafhs)",
+	"Sparta Remix",
 	"Speed Of Link",
 	"Stalemate (Grief) Piano Arr.",
 	"Stay With Me Exo",
