@@ -226,6 +226,7 @@ return {
 	"Output",
 	"Pachelbel Canon In D (Fast Easy Piano Version)",
 	"Palagi-Tj-Monterde-Palagi",
+	"PANAGINIP - NICOLE (Senti Piano Cover) Clyde Pianist Trimmed 0.00s-300",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
 	"Pasilyo - Sunkissed Lola (Piano)",
 	"Perfect - Ed Sheeran",
