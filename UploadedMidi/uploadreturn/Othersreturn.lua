@@ -393,6 +393,7 @@ return {
 	"Giá Như",
 	"GiấC Mơ TrưA",
 	"Gigi D'Agostino - L 'Amour Toujours WWW.MIDISFREE.COM",
+	"Gigi D'Agostino - L'Amour Toujours",
 	"Gitara - Parokya Ni Edgar Fingerstyle Guitar Lyrics",
 	"Glorious Crown - Xi",
 	"God Of War Ragnarok",
