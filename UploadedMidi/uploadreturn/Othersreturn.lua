@@ -741,6 +741,7 @@ return {
 	"Prayer - Kendrick Lamar WIP",
 	"Promise (Reprise) - Silent Hill 2 (Piano Cover)",
 	"Pumped Up Kicks 1789901520399",
+	"Pupsies - Misery Full Song",
 	"PvZ-Loonboon.Mid 1612468846906.Mid",
 	"Queen - Bohemian Rhapsody",
 	"Queen - We Are The Champions",
