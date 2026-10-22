@@ -109,6 +109,7 @@ return {
 	"Deftones - Entombed Bass",
 	"Deftones - Entombed Lead Guitar",
 	"Deftones - Entombed Rhythm Guitar",
+	"Deftones - Knife Prty Bass",
 	"Deftones - Knife Prty Lead Guitar",
 	"Deftones - Knife Prty Rhythm Guitar",
 	"Delusions-Of-Saviour",
