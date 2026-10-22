@@ -249,6 +249,7 @@ return {
 	"Pierce The Veil - Bulls In The Bronx (Songparts.Com)",
 	"Pierce The Veil - Caraphernelia",
 	"Pierce The Veil - King For A Day",
+	"Pink Floyd - Another Brick In The Wall, Part 2",
 	"Pink Floyd - Comfortably Numb [MIDIfind.Com]",
 	"Pixies - Where Is My Mind (Drum)",
 	"Queens Of The Stone Age - First It Giveth (3) [MIDIfind.Com]",
