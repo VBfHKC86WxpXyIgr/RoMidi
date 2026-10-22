@@ -134,6 +134,7 @@ return {
 	"EnterSandman",
 	"Eruption - Van Halen",
 	"Eyes Of A Homeless Dog - Psychonaut 4",
+	"F.C.P.R.E.M.I.X. The Fall Of Troy [Uploaded By ZFOPLJ](Original File)",
 	"Fade-Into-Obscurity",
 	"Fade-Into-Obscurity-Solo",
 	"Fire Force Main Theme",
