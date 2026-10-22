@@ -244,6 +244,7 @@ return {
 	"Risk It All - Bruno Mars",
 	"Robert-Miles-Children-20240118103815-Nonstop2k.Com",
 	"Roommates - Malcolm Todd",
+	"Rush AREA 51 + Drums",
 	"Rush E – lyre only",
 	"Rush E Mobile",
 	"Rusino - Looping The Rooms (Piano Cover)",
