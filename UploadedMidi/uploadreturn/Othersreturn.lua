@@ -154,6 +154,7 @@ return {
 	"Buong Doi Tay Nhau Ra",
 	"BuôNg đôI Tay Nhau Ra 2",
 	"BuôNg ĐôI Tay Nhau Ra 3",
+	"BuôNg đôI Tay Nhau Ra Mv",
 	"BuôNg đôI Tay Nhau Ra X NắNg ấM Xa DầN",
 	"BuôNg đôI Tay X TháNg 4",
 	"C Kawaikute Gomen",
