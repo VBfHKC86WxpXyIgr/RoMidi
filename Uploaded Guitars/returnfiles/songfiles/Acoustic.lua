@@ -466,6 +466,7 @@ return {
 	"The Pillows - Beautiful Morning With YouRTM Greed",
 	"The Police - Every Breath You Take",
 	"The Sun -Hell Demo",
+	"The Sun -Tiger Lion",
 	"The Trooper Greed Guitar1",
 	"The Trooper Greed Guitar2",
 	"The Walters - I Love You So",
