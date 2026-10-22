@@ -877,6 +877,7 @@ return {
 	"Sword Art Online II Opening 1 - IGNITE",
 	"Syko - BrooklynBloodPop (Simplified)",
 	"Sylvie Vartan La Maritza",
+	"System Of A Down - Radio Video Violin Or Organ",
 	"TáI Sinh",
 	"Take Me Hand",
 	"Take Me Hand Easy",
