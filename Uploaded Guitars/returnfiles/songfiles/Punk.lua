@@ -3,6 +3,7 @@ return {
 	"50 Nirvana RIFFS",
 	"50 Riffs - Nirvana (Pro)",
 	"About A Girl - Nirvana",
+	"Aleksandrlaret",
 	"Avenged Sevenfold - Bat Country [MIDIfind.Com]",
 	"Avenged Sevenfold - Dear God [MIDIfind.Com]",
 	"Borstal Breakout",
