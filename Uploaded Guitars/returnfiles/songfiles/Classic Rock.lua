@@ -70,6 +70,7 @@ return {
 	"Paperback Writer",
 	"Paradise City WIP FL Studio",
 	"PAUSE",
+	"Pink Floyd - Another Brick In The Wall, Part 2 Lead Guitar",
 	"Pink Floyd - Comfortably Numb [MIDIfind.Com]",
 	"Playing God - Polyphia Playing God Tab",
 	"Queen - Bohemian Rhapsody",
