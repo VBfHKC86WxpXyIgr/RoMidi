@@ -446,6 +446,7 @@ return {
 	"Tame Impala - The Less I Know The Better",
 	"Tarot Feast 1780242551896",
 	"Tattoo Color - Guitar Cover Skill Zource",
+	"Tattoo Colour -Lie2",
 	"The Animals - The House Of The Rising Sun",
 	"The Beatles - Dont Let Me Down",
 	"The Beatles - Here Comes The Sun",
