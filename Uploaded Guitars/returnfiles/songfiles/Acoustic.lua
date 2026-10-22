@@ -42,6 +42,7 @@ return {
 	"Basic Pitch Transcription",
 	"Bass Guitar Lessons - Guns N Roses - Sweet Child O Mine Greed",
 	"Basshunter - Dota (Full)",
+	"Batareyka",
 	"Batta - Chase",
 	"Batta - Chase ByGreed Guitar1",
 	"Batta - Chase ByGreed Guitar2",
