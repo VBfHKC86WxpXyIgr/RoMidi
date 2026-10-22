@@ -102,6 +102,7 @@ return {
 	"Deftones - Around the Fur [MIDIfind.com]",
 	"Deftones - Entombed",
 	"Deftones - Knife Party (2) [MIDIfind.Com]",
+	"Deftones - Knife Prty",
 	"Deftones - My Own Summer Shove It [MIDIfind.Com]",
 	"Deftones - One Weak [MIDIfind.com]",
 	"Dethklok - Thunderhorse [MIDIfind.Com]",
