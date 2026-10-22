@@ -134,6 +134,7 @@ return {
 	"Free Fire Battlegrounds OST - Fikram",
 	"Freedom Dive",
 	"Friqtao Huye",
+	"From-Ryuichi-Sakamoto-Playing-The-Piano-2022",
 	"Full - Comptine D'Un Autre Ete; L'Apres Midi",
 	"Funiculi Funicula Mb",
 	"Fur Elise",
