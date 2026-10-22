@@ -147,6 +147,7 @@ return {
 	"Reinai Circulation Mhxa",
 	"Ripped Pants By Spongebob Squarepants And The Losers",
 	"Rokudenashi - One Voice Mhxa",
+	"RUSH AREA 51 - Sheet Music Boss",
 	"RUSH E",
 	"Rush E Normal",
 	"Sae Vs Everyone Blue Lock (BEST VERSION)",
