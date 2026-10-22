@@ -380,6 +380,7 @@ return {
 	"Silly Fools - - Silly Fools Lyrics Audio NamLie",
 	"Silly Fools - (1)Tired",
 	"Silly Fools - Boreddd",
+	"Silly Fools - Jealous",
 	"Silly Fools - Kid Hord(1)",
 	"Silly Fools - Not Afraid",
 	"Silly Fools - Not AfraidFull",
