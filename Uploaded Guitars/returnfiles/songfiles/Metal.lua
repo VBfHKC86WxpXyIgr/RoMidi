@@ -446,6 +446,7 @@ return {
 	"Symphony X - Sea Of Lies First Part",
 	"System Of A Down - B.Y.O.B. [MIDIfind.Com]",
 	"System Of A Down - Lonely Day [MIDIfind.Com]",
+	"System Of A Down - Radio Video Clean Guitar",
 	"System Of A Down - Radio Video Daron Malakian",
 	"System Of A Down - Radio Video Distorted",
 	"System Of A Down - Radio Video Shavo Odadjian Bass",
