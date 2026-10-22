@@ -17,6 +17,7 @@ return {
 	"Gohan Fights Frieza [Clean Cut]",
 	"Gotenks Is Born - [Faulconer Productions]",
 	"Grand Theft Auto San Andreas - Intro [MIDIfind.Com]",
+	"Hopes And Dreams",
 	"It039s Raining Somewhere Else IYK",
 	"Josh Hawke - Seisyun Complex",
 	"Metro Exodus - A New Home (Guitar Cover) [MIDIfind.Com]",
