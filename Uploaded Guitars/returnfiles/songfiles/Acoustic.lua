@@ -260,6 +260,7 @@ return {
 	"Loso -",
 	"Loso - (1)",
 	"Loso - Original Key Ab",
+	"Loso Give Moon-",
 	"Lost Sky - Dreams.Mid",
 	"Luiz Bonf - The Shade Of The Mango Tree Greed Guitar1",
 	"Luiz Bonf - The Shade Of The Mango Tree Greed Guitar2",
