@@ -109,6 +109,7 @@ return {
 	"Deftones - Entombed Bass",
 	"Deftones - Entombed Lead Guitar",
 	"Deftones - Entombed Rhythm Guitar",
+	"Deftones - Knife Prty Lead Guitar",
 	"Delusions-Of-Saviour",
 	"Dethklok - Thunderhorse [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
