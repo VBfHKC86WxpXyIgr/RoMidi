@@ -55,6 +55,7 @@ return {
 	"Jesus Doesn'T Want Me For A Sunbeam - Nirvana (Piano-Vocal-Guitar)",
 	"Joy Division - Love Will Tear Us Apart [MIDIfind.Com]",
 	"Kapital1",
+	"Kapital2",
 	"Lake Of Fire - Nirvana (Piano-Vocal-Guitar)",
 	"Marigold - Nirvana",
 	"Mexican Seafood - Nirvana Mexican Seafood",
