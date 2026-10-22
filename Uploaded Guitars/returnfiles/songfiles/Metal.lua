@@ -228,6 +228,7 @@ return {
 	"Megadeth - In My Darkest Hour [MIDIfind.Com]",
 	"Megadeth - Mechanix (3) [MIDIfind.Com]",
 	"Megadeth - Peace Sells [MIDIfind.Com]",
+	"Megadeth - Poison Was The Cure [Uploaded By ZFOPLJ](Original File)",
 	"Megadeth - Symphony Of Destruction [MIDIfind.Com]",
 	"Megadeth - The Conjuring [MIDIfind.Com]",
 	"Megadeth - Tornado Of Souls (2) [MIDIfind.Com]",
