@@ -307,6 +307,7 @@ return {
 	"MUSKTEERS -Tale Guitar1 Greed",
 	"MUSKTEERS -Tale Guitar2 Greed",
 	"My Chemical Romance - The Ghost Of You",
+	"My Dead Girlfriend - Hades In The Dead Of Winter More Accurate",
 	"Nammon -NenE",
 	"Never Shout Never - Your Biggest Fan Live KLICKAUD 1-AudioTrimmercom 1 Converted By Jukeblocks",
 	"Nirvana - Come As You Are Greed Guitar1",
