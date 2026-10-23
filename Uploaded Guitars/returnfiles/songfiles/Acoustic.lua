@@ -510,6 +510,7 @@ return {
 	"Winter Rain - Yented",
 	"Wisp - Once Then Well Be Free",
 	"Wisp - Tangled Dreams",
+	"Wisp - Your Face",
 	"Without You Retrospect BASS Greed",
 	"Without You Retrospect Guitar Greed",
 	"Wonder If You Care",
