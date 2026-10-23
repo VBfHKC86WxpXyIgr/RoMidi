@@ -4,4 +4,5 @@ return {
 	"81620 Guitar-Loneliness-and-Blue-Planet",
 	"Bocchi the Rock! Kessoku Band 結束バンド - Ano Band あのバンド",
 	"Hkmori - Anybody Can Find Love",
+	"Rush AREA 51 + Drums",
 }
