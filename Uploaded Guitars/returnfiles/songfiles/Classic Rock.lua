@@ -85,6 +85,7 @@ return {
 	"Stationsquare-Ts",
 	"SurfinUSA",
 	"The Beatles - A Hard Day'S Night",
+	"The Beatles - Michelle Bass",
 	"The Beatles - Michelle Guitar Solo",
 	"The Beatles - While My Guitar Gently Weeps Bass",
 	"The Beatles - While My Guitar Gently Weeps Eric Clapton",
