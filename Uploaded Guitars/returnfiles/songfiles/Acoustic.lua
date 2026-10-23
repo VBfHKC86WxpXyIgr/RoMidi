@@ -453,6 +453,7 @@ return {
 	"The Beatles - Dont Let Me Down",
 	"The Beatles - Here Comes The Sun",
 	"The Beatles - Let It Be",
+	"The Beatles - Michelle Lead Acoustic Guitar",
 	"The Cranberries - Zombie",
 	"The Cranberries - ZombieGreed Guitar1",
 	"The Cranberries - ZombieGreed Guitar2",
