@@ -56,6 +56,7 @@ return {
 	"Guitars 1 2 Teen Rebel THY LIVE ROCK",
 	"Guns N' Roses - November Rain [MIDIfind.Com]",
 	"HOME - Resonance",
+	"Joachim Tr1",
 	"Key Test",
 	"Keys Test V2",
 	"Keys Test V3",
