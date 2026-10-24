@@ -7,6 +7,7 @@ return {
 	"(˃⤙˂˶ )Hmph It's Not Like I Like You or anything mhxa",
 	"(˶ ｰ̀ ⤙ｰ́ ˶) It'SNot Like I Like You Or Anything Mhxa",
 	"(Anybody Can Find Love Except You) Need Drums Mhxa",
+	"(WARNING!!!!!) [Black MIDI] Haha Song DEATH SUSCHI MODE 79,323 NOTES !!!!!",
 	"[Audio] Sashley - XD MEME ~ Collab - Danidanijr & Orangepaprika 67",
 	"[Black MIDI] Haha Song DEATH SUSCHI MODE (2)",
 	"[Black MIDI] RUSH E CURSED REMIX",
