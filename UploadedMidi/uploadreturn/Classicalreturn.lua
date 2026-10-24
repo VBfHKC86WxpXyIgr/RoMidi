@@ -164,6 +164,7 @@ return {
 	"Hino Nacional Brasileiro Em F Maior(BEST VERSION)",
 	"Hit The Road Jack - Fikram",
 	"Human-Nature (1)",
+	"Hungarian-Rhapsody-Nr-2",
 	"I Think I Had The Wrong Audience 😭🙏 - WzlfsKeys (192k)",
 	"I Thought I Saw Your Face Today - She & Him (Piano Tutorial)",
 	"Idgitaf Sedia Aku Sebelum Hujan Piano Kvneir",
