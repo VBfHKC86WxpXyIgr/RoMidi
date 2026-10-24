@@ -8,6 +8,7 @@ return {
 	"(˶ ｰ̀ ⤙ｰ́ ˶) It'SNot Like I Like You Or Anything Mhxa",
 	"(Anybody Can Find Love Except You) Need Drums Mhxa",
 	"[Audio] Sashley - XD MEME ~ Collab - Danidanijr & Orangepaprika 67",
+	"[Black MIDI] Haha Song DEATH SUSCHI MODE (2)",
 	"[Black MIDI] RUSH E CURSED REMIX",
 	"[DPSP] Aragami - Xi",
 	"[TwTwTw]Blue Zenith",
