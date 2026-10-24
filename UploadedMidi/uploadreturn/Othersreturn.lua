@@ -783,6 +783,7 @@ return {
 	"Rude Buster - Deltarune (PIANO SOLO)",
 	"Rush A 2",
 	"RUSH B (1)",
+	"Rush B But It'S Playable",
 	"Rush C IMPOSSIBLE",
 	"Rush C ZOTMIDI",
 	"Rush D HSR!",
